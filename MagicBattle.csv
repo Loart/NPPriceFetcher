@@ -22,16 +22,16 @@ Superior Reflection Shield,25000000,99
 Flame Reflectozap,20000000,99
 Mega U-Bend,20000000,99
 Ubikiberry Bag,20000000,180
-Ultra Dual Shovel,20000000,99
 Maractite Dimensional Trap,18000000,99
 Ultimate Dark Reflectorb,18000000,99
 Fan of Swords,16000000,200
 Sword of Lameness,16000000,200
 Acara Transmogrification Potion,15000000,101
 Desert Lutari Morphing Potion,15000000,99
-Extra Loud Techo Fanatic Megaphone,14000000,101
+Extra Loud Techo Fanatic Megaphone,15000000,101
 Gemmed Sword of Light,14000000,200
 Royal Wedding Ring,14000000,180
+Ultra Dual Shovel,14000000,99
 Pirate Captains Cutlass,13000000,200
 A Shovel,12000000,101
 Lutari Transmogrification Potion,12000000,101
@@ -40,6 +40,7 @@ Maraquan Kacheek Morphing Potion,11000000,99
 Sword of Ari,11000000,200
 Air Faerie Crown,10000000,101
 Faerie Ixi Morphing Potion,10000000,99
+Faerie Lutari Morphing Potion,10000000,98
 Grey Draik Morphing Potion,10000000,98
 Hubrids Puzzle Box,10000000,200
 Plushie Aisha Morphing Potion,10000000,99
@@ -61,7 +62,6 @@ Kelpbeards Trident,8000000,200
 Maraquan Cybunny Morphing Potion,8000000,98
 Pink Lutari Morphing Potion,8000000,98
 Slumberberry Potion,8000000,200
-Faerie Lutari Morphing Potion,7500000,98
 Hubrid Nox Memorial Shield,7500000,200
 Island Lutari Morphing Potion,7500000,98
 Maraquan Gelert Morphing Potion,7500000,99
@@ -85,8 +85,6 @@ Faerie Cybunny Morphing Potion,6000000,98
 Faerie Draik Morphing Potion,6000000,98
 Faerie Poogle Morphing Potion,6000000,99
 Halloween Cybunny Morphing Potion,6000000,99
-Ixi Transmogrification Potion,6000000,101
-Maraquan Acara Morphing Potion,6000000,99
 Plushie Grundo Morphing Potion,6000000,99
 Stealthy Krawk Morphing Potion,6000000,99
 Wraith Draik Morphing Potion,6000000,99
@@ -107,14 +105,15 @@ Poogle Transmogrification Potion,5000000,101
 Red Cybunny Morphing Potion,5000000,99
 Royal Girl Kyrii Morphing Potion,5000000,99
 Shadow Cybunny Morphing Potion,5000000,99
+Speckled Cybunny Morphing Potion,5000000,99
 Spyder Potion,5000000,101
 Stealthy Blumaroo Morphing Potion,5000000,99
 Vandagyre Transmogrification Potion,5000000,101
 Faerie Ruki Morphing Potion,4800000,99
-Icy Chia Goggles,4600000,99
 Battle Dung,4500000,200
 Glowing Battle Dung,4500000,200
 Halloween Hissi Morphing Potion,4500000,99
+Icy Chia Goggles,4500000,99
 Kauvaras Potion,4500000,99
 Plushie Bori Morphing Potion,4500000,99
 Plushie Grarrl Morphing Potion,4500000,99
@@ -137,6 +136,7 @@ Faerie Xweetok Morphing Potion,4000000,98
 Ghost Gelert Morphing Potion,4000000,99
 Golden Peophin Harp,4000000,99
 Island Quiggle Morphing Potion,4000000,99
+Ixi Transmogrification Potion,4000000,101
 Lenny Transmogrification Potion,4000000,101
 Magical Marbles of Mystery,4000000,200
 Maraquan Grarrl Morphing Potion,4000000,99
@@ -150,22 +150,19 @@ Ring of the Lost,4000000,180
 Woodland Cybunny Morphing Potion,4000000,98
 Wraith Krawk Morphing Potion,4000000,99
 Xweetok Transmogrification Potion,3600000,101
-Bag of Lenny Healing Seeds,3500000,99
 Desert Aisha Morphing Potion,3500000,99
 Desert Krawk Morphing Potion,3500000,98
 Faerie Hissi Morphing Potion,3500000,97
 Grey Yurble Morphing Potion,3500000,99
 Korbat Transmogrification Potion,3500000,101
 Maractite Hissi Morphing Potion,3500000,99
+Maraquan Acara Morphing Potion,3500000,99
 Maraquan Korbat Morphing Potion,3500000,99
 Maraquan Mynci Morphing Potion,3500000,99
-Pirate Cybunny Morphing Potion,3500000,99
 Rainbow Cybunny Morphing Potion,3500000,98
 Spotted Kau Morphing Potion,3500000,99
-Squishy Shoyru Healing Stone,3500000,99
 Yellow Kacheek Morphing Potion,3500000,99
 Halloween Uni Morphing Potion,3400000,99
-Mask of Coltzan,3300000,200
 Wocky Transmogrification Potion,3300000,101
 Baby Aisha Morphing Potion,3200000,99
 Christmas Cybunny Morphing Potion,3200000,98
@@ -193,18 +190,15 @@ Halloween Aisha Morphing Potion,3000000,99
 Halloween Grarrl Morphing Potion,3000000,99
 Halloween Grundo Morphing Potion,3000000,98
 Halloween Kau Morphing Potion,3000000,99
-Lucky Uni Charm,3000000,99
 Maractite Draik Morphing Potion,3000000,99
 Maractite Krawk Morphing Potion,3000000,99
 Maraquan Techo Morphing Potion,3000000,99
 Plushie Ixi Morphing Potion,3000000,98
 Plushie Yurble Morphing Potion,3000000,99
-Portable Kiln,3000000,200
 Rainbow Swirly Potion,3000000,99
 Red Kacheek Morphing Potion,3000000,99
 Short Sleeved Yellow Tunic,3000000,99
 Skeith Transmogrification Potion,3000000,101
-Speckled Cybunny Morphing Potion,3000000,99
 Spotted Jetsam Morphing Potion,3000000,99
 Starry Cybunny Morphing Potion,3000000,99
 Starry Kacheek Morphing Potion,3000000,99
@@ -226,6 +220,7 @@ Spotted Gelert Morphing Potion,2700000,99
 Desert Kacheek Morphing Potion,2600000,98
 Fire Kacheek Morphing Potion,2600000,99
 Pirate Kacheek Morphing Potion,2600000,99
+Portable Kiln,2600000,200
 Shield of Faerieland,2600000,200
 Apple Chia Morphing Potion,2500000,98
 Apple Jelly Club,2500000,99
@@ -240,7 +235,6 @@ Green Draik Morphing Potion,2500000,99
 Grey JubJub Morphing Potion,2500000,99
 Island Gelert Morphing Potion,2500000,99
 Island Kacheek Morphing Potion,2500000,98
-Plushie Ogrin Morphing Potion,2500000,99
 Purple Chia Morphing Potion,2500000,98
 Speckled Kau Morphing Potion,2500000,97
 Spotted Lupe Morphing Potion,2500000,98
@@ -260,6 +254,7 @@ Baby Koi Morphing Potion,2000000,99
 Baby Korbat Morphing Potion,2000000,99
 Baby Meerca Morphing Potion,2000000,99
 Baby Uni Morphing Potion,2000000,99
+Bag of Lenny Healing Seeds,2000000,99
 Blue Chia Morphing Potion,2000000,99
 Blue Gelert Morphing Potion,2000000,99
 Blue Jetsam Morphing Potion,2000000,98
@@ -270,6 +265,7 @@ Blue Zafara Morphing Potion,2000000,99
 Brown Ixi Morphing Potion,2000000,99
 Camouflage Chia Morphing Potion,2000000,98
 Camouflage Krawk Morphing Potion,2000000,98
+Checkered Kiko Morphing Potion,2000000,99
 Christmas Chia Morphing Potion,2000000,98
 Christmas Gelert Morphing Potion,2000000,99
 Christmas Kacheek Morphing Potion,2000000,98
@@ -317,10 +313,12 @@ Island JubJub Morphing Potion,2000000,99
 Island Krawk Morphing Potion,2000000,99
 Island Lupe Morphing Potion,2000000,99
 Island Uni Morphing Potion,2000000,99
+Lucky Uni Charm,2000000,99
 Malediction for Beginners,2000000,99
 Maractite Peophin Morphing Potion,2000000,99
 Maraquan Hissi Morphing Potion,2000000,98
 Pink Lenny Morphing Potion,2000000,99
+Plushie Ogrin Morphing Potion,2000000,99
 Plushie Scorchio Morphing Potion,2000000,99
 Plushie Tuskaninny Morphing Potion,2000000,99
 Plushie Wocky Morphing Potion,2000000,98
@@ -388,6 +386,7 @@ Palace Guard Sword,1700000,99
 Pastel Gnorbu Morphing Potion,1700000,98
 Pink Draik Morphing Potion,1700000,98
 Rainbow Lupe Morphing Potion,1700000,99
+Shuriken,1700000,99
 Transparent Lenny Morphing Potion,1700000,99
 Island Zafara Morphing Potion,1625000,99
 Ghost Draik Morphing Potion,1600000,99
@@ -410,6 +409,7 @@ Darigan Eyrie Morphing Potion,1500000,99
 Darigan Kyrii Morphing Potion,1500000,99
 Dimensional Aisha Morphing Potion,1500000,98
 Dr. Sloths Personal Bath Buddy,1500000,200
+Elixir of the Pirate,1500000,99
 Eventide Draik Morphing Potion,1500000,98
 Faerie Quiggle Morphing Potion,1500000,99
 Gnorbu Transmogrification Potion,1500000,101
@@ -419,6 +419,7 @@ Green Ixi Morphing Potion,1500000,98
 Green Zafara Morphing Potion,1500000,99
 Halloween Nimmo Morphing Potion,1500000,99
 Island Bori Morphing Potion,1500000,99
+Island Ixi Morphing Potion,1500000,99
 Maractite Aisha Morphing Potion,1500000,99
 Maraquan Buzz Morphing Potion,1500000,98
 Plushie Flotsam Morphing Potion,1500000,99
@@ -435,6 +436,7 @@ Skunk Eyrie Morphing Potion,1500000,99
 Skunk Lupe Morphing Potion,1500000,98
 Snow Peophin Morphing Potion,1500000,99
 Spotted Hissi Morphing Potion,1500000,98
+Squishy Shoyru Healing Stone,1500000,99
 Tuskaninny Transmogrification Potion,1500000,101
 White Xweetok Morphing Potion,1500000,98
 Wraith Korbat Morphing Potion,1500000,99
@@ -460,7 +462,6 @@ Woodland Draik Morphing Potion,1400000,98
 Desert Hissi Morphing Potion,1350000,98
 Baby Usul Morphing Potion,1300000,98
 Blade of Supernova,1300000,99
-Checkered Kiko Morphing Potion,1300000,99
 Disco Chomby Morphing Potion,1300000,98
 Eventide Aisha Morphing Potion,1300000,98
 Faerie Aisha Morphing Potion,1300000,98
@@ -494,7 +495,6 @@ Dusty Harmless Looking Scroll,1100000,99
 Potion of Dexterity,1100000,101
 Quiggle Transmogrification Potion,1100000,101
 Tyrannian Ixi Morphing Potion,1100000,98
-Void Blade,1100000,101
 Red Kiko Morphing Potion,1000000,99
 Altador Cup Throwing Star,999999,101
 Billion Degree Sword,999999,99
@@ -502,6 +502,7 @@ Blumaroo Transmogrification Potion,999999,101
 Bone Sword,999999,99
 Bow of Destiny,999999,101
 Christmas Acara Morphing Potion,999999,98
+Cloud Ruki Morphing Potion,999999,99
 Darigan Quiggle Morphing Potion,999999,99
 Disco Acara Morphing Potion,999999,98
 Faerie Tuskaninny Morphing Potion,999999,99
@@ -517,12 +518,14 @@ Sinister Scythe,999999,101
 Starry Usul Morphing Potion,999999,97
 Storm Amulet,999999,99
 Tonu Transmogrification Potion,999999,101
+Void Blade,999999,101
 Yellow Hissi Morphing Potion,999999,98
 Yellow Ixi Morphing Potion,999999,98
 You Will Get Verrucas!,999999,99
 BattleGlowJewel,995000,101
 Faerie JubJub Morphing Potion,995000,99
-Sunshine Shield,990000,200
+Brown Ruki Morphing Potion,990000,97
+Shadow Korbat Morphing Potion,990000,98
 Uni Charm,990000,99
 Blue Acara Morphing Potion,985000,99
 Bubbling Lupe Potion,985000,99
@@ -535,7 +538,6 @@ Plushie Pteri Morphing Potion,975000,98
 Tech Bow,975000,101
 Island Wocky Morphing Potion,970000,99
 Mynci Transmogrification Potion,970000,101
-Plushie JubJub Morphing Potion,970000,98
 Strength Serum,970000,95
 Island Techo Morphing Potion,965000,99
 Starry Shoyru Morphing Potion,960000,98
@@ -551,9 +553,12 @@ Checkered Acara Morphing Potion,925000,99
 Disco Korbat Morphing Potion,925000,99
 Shadow Ruki Morphing Potion,925000,99
 Woodland Peophin Morphing Potion,925000,98
+Blue Ruki Morphing Potion,920000,98
+Green Ruki Morphing Potion,920000,98
 White Peophin Morphing Potion,920000,98
 Tyrannian Peophin Morphing Potion,915000,98
 Cloud Bori Morphing Potion,910000,99
+Rainbow Grundo Morphing Potion,910000,98
 Blue Hissi Morphing Potion,905000,96
 Cloud Acara Morphing Potion,900000,98
 Curved Wocky Sabre,900000,99
@@ -562,37 +567,36 @@ Vile Curse of Pestilence,900000,99
 Water Sceptre,900000,101
 Green Acara Morphing Potion,895000,99
 Red Peophin Morphing Potion,895000,99
+Sunshine Shield,895000,200
 Brown Uni Morphing Potion,890000,98
 Fire Bori Morphing Potion,890000,99
 Snowflake Pendant,890000,99
 Yellow Acara Morphing Potion,890000,99
 Jhudoras Potion,885000,130
 Woodland Grundo Morphing Potion,885000,98
-Buzz Transmogrification Potion,875000,101
+Christmas Grundo Morphing Potion,875000,99
 Zombie Squirt Gun,875000,101
 Woodland Acara Morphing Potion,870000,98
 Woodland Pteri Morphing Potion,870000,99
+Buzz Transmogrification Potion,850000,101
 Earth Faerie Token,850000,99
 Koi Transmogrification Potion,850000,101
-Scorchio Transmogrification Potion,850000,101
 Pink Uni Morphing Potion,840000,98
 Blue Grundo Morphing Potion,835000,98
 Christmas Kougra Morphing Potion,835000,99
-Green Lenny Morphing Potion,835000,99
 Pirate Spear,830000,99
 Faerie Skeith Morphing Potion,825000,98
 Desert Scorchio Morphing Potion,820000,99
+Red Ruki Morphing Potion,820000,98
 Aisha Totem,815000,180
 Ghost Peophin Morphing Potion,815000,99
 Neutralising Ray,815000,99
 Baby Grundo Morphing Potion,810000,98
-Red Ruki Morphing Potion,810000,98
 Starry Ruki Morphing Potion,810000,98
 Salve for the Bruised Petpet,805000,101
-Blue Ruki Morphing Potion,800000,98
-Brown Ruki Morphing Potion,800000,97
 Desert Grundo Morphing Potion,800000,98
 Greater Earthen Potion,800000,98
+Scorchio Transmogrification Potion,800000,101
 Swamp Gas Techo Morphing Potion,800000,98
 Yellow Ruki Morphing Potion,800000,98
 Earth Sceptre,795000,101
@@ -605,18 +609,14 @@ Silver Peophin Morphing Potion,790000,98
 Baby Poogle Morphing Potion,785000,98
 Chen-Ras Official Records,785000,101
 Fire Skeith Morphing Potion,785000,99
-Flaming Torch,785000,99
 Island Aisha Morphing Potion,780000,97
 Lutari Battle Torch,780000,101
-Pirate Krawk Morphing Potion,780000,98
 Yellow Kougra Morphing Potion,780000,98
 Red Acara Morphing Potion,775000,99
-Green Ruki Morphing Potion,770000,98
 Fire Sceptre,765000,101
 Starry Skeith Morphing Potion,765000,99
 Skarl Royal Flag,760000,101
 Faerie Nimmo Morphing Potion,755000,99
-Pteri Dagger,755000,99
 Rainbow Wocky Morphing Potion,755000,99
 Brown Grundo Morphing Potion,750000,98
 Desert Yurble Morphing Potion,750000,99
@@ -628,10 +628,7 @@ Fire Xweetok Morphing Potion,740000,99
 Island Blumaroo Morphing Potion,740000,99
 Padded Cybunny Sword,735000,180
 Yellow Skeith Morphing Potion,735000,99
-Blue Skeith Morphing Potion,730000,99
-Kiko Throwing Plasters,730000,99
 Wraith Bruce Morphing Potion,730000,98
-Cloud Ruki Morphing Potion,725000,99
 Desert Flotsam Morphing Potion,725000,99
 Dimensional Kougra Morphing Potion,725000,98
 Disco Shoyru Morphing Potion,725000,99
@@ -649,7 +646,6 @@ Baby Blumaroo Morphing Potion,690000,98
 Dimensional Shoyru Morphing Potion,690000,98
 Icy Bruce Boomerang Of Doom,690000,99
 Skarl Royal Crown,690000,101
-Cloud Eyrie Morphing Potion,685000,99
 Ghost Grarrl Morphing Potion,685000,99
 Purple Grundo Morphing Potion,685000,99
 Yellow Peophin Morphing Potion,675000,98
@@ -661,6 +657,7 @@ Pteri Throwing Feathers,660000,99
 Yellow Grundo Morphing Potion,660000,99
 Boots of Jumping,655000,101
 Coltzans Battle Sceptre,655000,99
+Green Shoyru Morphing Potion,655000,98
 Blue Bori Morphing Potion,650000,99
 Green Skeith Morphing Potion,650000,99
 Sketch Peophin Morphing Potion,650000,98
@@ -682,9 +679,7 @@ Purple Shoyru Morphing Potion,620000,99
 Shadow Uni Morphing Potion,620000,98
 Claw of the Ancient Bori,615000,99
 Fire Wocky Morphing Potion,615000,99
-Highland Chia Battle Shield,615000,99
 Island Koi Morphing Potion,615000,99
-Shadow Korbat Morphing Potion,615000,98
 Energising Elixir,610000,93
 Fire Shoyru Morphing Potion,605000,99
 Downsize Power Plus,600000,180
@@ -693,13 +688,16 @@ Elephante Transmogrification Potion,600000,101
 Eventide Tonu Morphing Potion,600000,99
 Plushie Mynci Morphing Potion,600000,98
 Swamp Gas Ogrin Morphing Potion,600000,98
+Techo Transmogrification Potion,600000,101
 Wooden Krawk Staff,600000,99
 Zombie Aisha Morphing Potion,600000,98
 Leather Xweetok Helmet,590000,99
 Water Flotsam Morphing Potion,590000,99
-Blue Kougra Morphing Potion,580000,99
+Pirate Krawk Morphing Potion,580000,98
 White Skeith Morphing Potion,575000,99
 Xweetok Battle Batons,575000,99
+Fire Stone Gem,570000,180
+Flaming Torch,565000,99
 Potion of Doldrums,565000,96
 Yellow Poogle Morphing Potion,565000,99
 Brown Aisha Morphing Potion,560000,98
@@ -722,18 +720,15 @@ Bag of Sand,525000,99
 Full Korbat Armour,525000,99
 JubJub Foot Hardening Lotion,525000,99
 Striped Skeith Morphing Potion,520000,99
-Zombie Korbat Morphing Potion,515000,99
-Shadow Shoyru Morphing Potion,505000,97
 Silver Korbat Amulet,505000,99
-Christmas Grundo Morphing Potion,500000,99
 Disco Moehog Morphing Potion,500000,99
 Faerie Uni Morphing Potion,500000,98
 Fire Aisha Morphing Potion,500000,98
 Full Bori Armour,500000,99
 Full Pteri Armour,500000,99
 Galems Cloak,500000,101
+Yellow Shoyru Morphing Potion,500000,98
 Fearsome Gladius,495000,99
-Fire Stone Gem,495000,180
 Kaylas Magic Cloak,495000,99
 Moehog Slingshot,495000,99
 Pink Peophin Morphing Potion,495000,98
@@ -741,9 +736,12 @@ White Shoyru Morphing Potion,495000,98
 Island Tuskaninny Morphing Potion,490000,99
 Lenny Ray Gun of Freezing,485000,98
 Super Sand Grain,485000,99
+Christmas Uni Morphing Potion,480000,99
 Island Shoyru Morphing Potion,480000,99
+Rainbow Bori Morphing Potion,475000,96
 Zombie Eyrie Morphing Potion,475000,99
 Warriors Might,470000,99
+Zombie Korbat Morphing Potion,470000,99
 Lightweight Bori Sword,465000,99
 Blue Lenny Morphing Potion,460000,99
 Red Shoyru Morphing Potion,460000,99
@@ -752,14 +750,10 @@ Greater Air Potion,455000,101
 Purple Poogle Morphing Potion,455000,98
 Spotted Korbat Morphing Potion,455000,98
 Cursed Elixir,450000,99
-Faerie Buzz Morphing Potion,450000,98
-Feel Better Soup,450000,101
 Illusens Hip Blade,450000,99
-Techo Transmogrification Potion,450000,101
 Tyrannian Gnorbu Morphing Potion,450000,99
 Full Scorchio Armour,445000,99
 Maraquan Draik Dagger,445000,99
-Rainbow Grundo Morphing Potion,445000,98
 Blue Shoyru Morphing Potion,440000,99
 Water Gnorbu Morphing Potion,440000,99
 JubJub Flame Ball,435000,99
@@ -770,34 +764,34 @@ Ruby Encrusted Sceptre,430000,99
 Blue Clockwork Kiko,425000,99
 Christmas Pteri Morphing Potion,425000,99
 Roxtons Trusty Bowie Knife,425000,101
-Snow Flame,425000,99
+Spotted Shoyru Morphing Potion,425000,98
 Toast Shield,425000,99
 Cloud Peophin Morphing Potion,420000,97
-Full Kau Armour,420000,99
 Full Lupe Armour,420000,99
+Highland Chia Battle Shield,420000,99
 Moehog Crossbow,420000,99
 Pirate Lenny Morphing Potion,420000,99
 Scroll of the Ancients,420000,98
 Healing Ankh of the Nimmo,415000,99
 Scarblades Pirate Hat,415000,101
-Full Hissi Armour,410000,99
 Ornate Buzz Stinger,410000,99
 Yurble Forest Blade,410000,99
+Snow Flame,405000,99
 Striped Korbat Morphing Potion,405000,98
 Disco Mynci Morphing Potion,400000,99
 Fiery Throwing Marble,400000,99
-Full Kougra Armour,400000,99
 Island Nimmo Morphing Potion,400000,99
 Rainbow Korbat Morphing Potion,400000,98
 Red Skeith Morphing Potion,400000,99
 Starry Korbat Morphing Potion,400000,98
 Poogle Fang Amulet,395000,99
+Pteri Dagger,395000,99
 Ruby Krawk Stun Ray,395000,99
-Triple Slushie Mix,395000,101
 Tyrannian JubJub Morphing Potion,395000,99
 Christmas Bruce Morphing Potion,390000,99
 Enchanted Kougra Pendant,390000,99
 Ethereal Sword,390000,99
+Feel Better Soup,390000,101
 Fire Poogle Morphing Potion,390000,98
 Island Lenny Morphing Potion,390000,99
 Moehog Bristle Dagger,390000,99
@@ -809,21 +803,18 @@ Blank Sorcerers Scroll,380000,101
 Coral Koi Slingshot,380000,99
 Dimensional Poogle Morphing Potion,380000,98
 Full JubJub Armour,380000,99
-Ixi Hoof Blade,380000,99
-Moehog Transmogrification Potion,380000,101
 Pirate Bori Morphing Potion,380000,99
 Rainbow Shoyru Morphing Potion,380000,98
 Ultra Eyrie Eye Mask,380000,99
 Blue Uni Morphing Potion,375000,99
 Hand Carved Blumaroo Bow,375000,99
 Illusens Really Sharp Stick,375000,99
-Kyrii Swordhammer,375000,99
 Pirate Pteri Morphing Potion,375000,98
 Potion of Good Dreams,375000,101
 Red Yurble Ear Guards,375000,99
 Cloud Bruce Morphing Potion,370000,99
+Cloud Eyrie Morphing Potion,370000,99
 Pretty Negg Shield,370000,101
-Yellow Shoyru Morphing Potion,370000,98
 Glowing Tuskaninny Wand,365000,99
 Highland Chia War Paint,365000,99
 Honey Goo Blaster,365000,99
@@ -831,15 +822,19 @@ Oasis Tonic,365000,101
 Rainbow Poogle Morphing Potion,365000,98
 Red Wocky Morphing Potion,365000,99
 Sack Of Kougranip,365000,99
+Faerie Buzz Morphing Potion,360000,98
 Pirate Wocky Morphing Potion,360000,99
+Shadow Shoyru Morphing Potion,360000,97
+Triple Slushie Mix,360000,101
 Fire Pteri Morphing Potion,355000,99
+Blue Skeith Morphing Potion,350000,99
 Blue Tonu Morphing Potion,350000,99
 Brynns Legendary Sword of Wraith Smiting,350000,101
 Chomby Lucky Charm Bracelet,350000,99
 Ghost Lenny Morphing Potion,350000,99
+Green Lenny Morphing Potion,350000,99
 Plushie Poogle Morphing Potion,350000,99
 Snow Aisha Morphing Potion,350000,99
-Spotted Shoyru Morphing Potion,350000,98
 Wocky Battle Mallet,350000,99
 Fiery Spine of Death,345000,99
 Fiery Wand,345000,99
@@ -861,11 +856,8 @@ Glowing Korbat Morphing Potion,330000,99
 Gold Tonu Morphing Potion,330000,99
 Blood Grub,325000,101
 Blue Korbat Morphing Potion,325000,99
-Purple Aisha Morphing Potion,325000,98
+Cracked Negg,325000,101
 Twisted Potion of Strength,325000,97
-Camouflage Lenny Morphing Potion,320000,98
-Cracked Negg,320000,101
-Fire Quiggle Morphing Potion,320000,99
 Full Techo Armour,320000,99
 Green Bruce Morphing Potion,320000,98
 Island Korbat Morphing Potion,320000,99
@@ -877,9 +869,9 @@ Full Jetsam Armour,315000,99
 Hand Carved Draik Slingshot,315000,99
 Rejuvenating Jar of Brains,315000,101
 Spotted Kau Sword,315000,99
+Yellow Korbat Morphing Potion,315000,99
 Bouncy Kiko Ball of Doom,310000,99
 Full Acara Armour,310000,99
-Yellow Korbat Morphing Potion,310000,99
 Full Elephante Armour,305000,99
 Gold Shoyru Morphing Potion,305000,98
 Wooden Krawk Bow,305000,99
@@ -889,12 +881,12 @@ Bow of the Light Faerie,300000,99
 Dacardian Swords of Valor,300000,101
 Faerie Mynci Morphing Potion,300000,98
 Fire Yurble Morphing Potion,300000,99
-Gelert Transmogrification Potion,300000,101
 Green Kougra Morphing Potion,300000,99
 Green Tonu Morphing Potion,300000,99
 Kaylas Hat,300000,99
 Master Wizards Cape,300000,99
 Pink Koi Morphing Potion,300000,98
+Plushie JubJub Morphing Potion,300000,98
 Red Yurble Morphing Potion,300000,99
 Staff of Righteous Fury,300000,101
 Blue Acara Bow,295000,99
@@ -902,12 +894,10 @@ Blue Koi Morphing Potion,295000,99
 Full Skeith Armour,295000,99
 Full Uni Armour,295000,99
 Qasalan Throwing Axe,295000,99
-Snow Ogrin Morphing Potion,295000,99
 Yellow Bruce Morphing Potion,295000,98
 Blue Quiggle Morphing Potion,290000,99
 Electric Grarrl Morphing Potion,290000,99
 Full Krawk Armour,290000,99
-Full Poogle Armour,290000,99
 Full Zafara Armour,290000,99
 Red Nimmo Morphing Potion,290000,99
 Striped Blumaroo Morphing Potion,290000,98
@@ -916,7 +906,6 @@ Wooden Krawk Shield,290000,99
 Yurble Blocking Shield,290000,99
 Full Meerca Armour,285000,99
 Island Buzz Morphing Potion,285000,99
-Island Ogrin Morphing Potion,285000,99
 Purple Uni Morphing Potion,285000,98
 Snow Bruce Morphing Potion,285000,99
 Water Faerie Bubbles,285000,99
@@ -928,32 +917,31 @@ Parachuting First Aid kit,280000,101
 Purple Eyrie Morphing Potion,280000,99
 Skunk Flotsam Morphing Potion,280000,99
 Blue Wocky Morphing Potion,275000,99
-Full Chomby Armour,275000,99
-Green Shoyru Morphing Potion,275000,98
 Lag-B-Gone Serum,275000,101
 Snow Techo Morphing Potion,275000,99
 Brilliant Poogle Wand,270000,99
+Camouflage Lenny Morphing Potion,270000,98
 Mistletoe Potion,270000,99
 Ornate Jetsam Battle Helmet,270000,99
 Pink Pteri Morphing Potion,270000,98
 Shadow Tonu Morphing Potion,270000,98
 Strawberry Pteri Morphing Potion,270000,98
-Full Peophin Armour,265000,99
+Island Ogrin Morphing Potion,265000,99
 Rainbow Kyrii Morphing Potion,265000,99
+Snow Ogrin Morphing Potion,265000,99
 Swirling Seaweed Orb,265000,99
-White Kyrii Morphing Potion,265000,98
 Chia Apple Bomb,260000,99
 Strawberry Bruce Morphing Potion,260000,98
 White Flotsam Morphing Potion,260000,99
-Rainbow Bori Morphing Potion,255000,96
+Purple Aisha Morphing Potion,255000,98
 Rainbow Uni Morphing Potion,255000,98
 Starry Bruce Morphing Potion,255000,99
-Tangle Net Gun,255000,99
 Cloud Elephante Morphing Potion,250000,99
 Cloud Poogle Morphing Potion,250000,98
 Entangling Lenny Lasso,250000,97
 Flying Fireball,250000,99
 Golden Scarab Shield,250000,99
+Moehog Transmogrification Potion,250000,101
 Pirate Draik Morphing Potion,250000,98
 Split Lenny Morphing Potion,250000,98
 Faerie Eyrie Morphing Potion,249000,99
@@ -971,9 +959,11 @@ Full Bruce Armour,245000,99
 Full Grarrl Armour,245000,99
 Scary Spider,245000,99
 Blue Pteri Morphing Potion,244000,98
+Potion of Purest Red,243000,180
 Tyrannian Sceptre,242000,101
 Eventide Korbat Morphing Potion,241000,98
 Enchanted Kiko Squeeze Toy,240000,180
+Gelert Transmogrification Potion,240000,101
 Green Quiggle Morphing Potion,240000,99
 Green Yurble Morphing Potion,239000,97
 Skeith Destructo Horn,239000,99
@@ -983,6 +973,7 @@ Rusty Lamppost,238000,101
 Mummified Scroll,237000,97
 Pink Eyrie Morphing Potion,237000,98
 Speckled Bori Morphing Potion,237000,98
+Kiko Throwing Plasters,236000,99
 Blue Scorchio Morphing Potion,235000,98
 Starry Yurble Morphing Potion,235000,99
 Faerie Flotsam Morphing Potion,234000,98
@@ -1002,7 +993,6 @@ Shoyru Sword,228000,99
 Leaded Water Vial,227000,99
 Split Flotsam Morphing Potion,227000,99
 Christmas Koi Morphing Potion,225000,99
-Koi Full Armour,225000,99
 Lightweight Xweetok Spear,225000,99
 Rainbow Frost Cannon,225000,99
 Unlockable Ice Treasure,225000,99
@@ -1025,14 +1015,15 @@ Bullseye Potion,216000,95
 Lightweight Buzz Axe,215000,99
 Red Lenny Morphing Potion,215000,99
 Tyrannian Flotsam Morphing Potion,215000,99
-Emerald Krawk Jacket,214000,99
 Mystical Health Potion,214000,101
 Snow Wocky Morphing Potion,212000,99
+Exceptionally Tiny Laser Cannon,210000,101
 Wooden Kau Wand,210000,99
 Golden Candy Cane Sword,209000,99
+Golden Lupe Bone Sword,209000,99
 Wax Covered Candlestick,209000,101
-Jar of Forest Earth,207000,83
 Christmas Magic Hat,206000,99
+Kyrii Swordhammer,206000,99
 Helm of Recovery,205000,95
 Maraquan Draik Cloak,205000,99
 Purple Tonu Morphing Potion,205000,99
@@ -1043,13 +1034,12 @@ Tuskaninny Raiders Helm,202000,99
 Sakhmetian Dagger,201000,99
 Brown Lenny Morphing Potion,200000,98
 Bubbling Ruki Elixir,200000,99
+Dehydration Potion,200000,99
 Last Avocado Bomb,200000,99
-Mystical Nimmo Amulet,200000,99
 Poogle Liquid Freeze Potion,200000,99
 Potion of Night,200000,99
 Pteri Egg Shot,200000,99
 Scroll of the Warrior,200000,97
-Silver Draik Chestplate,200000,99
 Snowy Flotsam Morphing Potion,200000,98
 Spellseeker Vial of Power,200000,101
 Yellow Pteri Morphing Potion,200000,98
@@ -1059,17 +1049,18 @@ Fire Kyrii Morphing Potion,198000,99
 Pink Ogrin Morphing Potion,197000,98
 Scarab Medallion,197000,99
 Yellow Yurble Morphing Potion,197000,98
+Cursed Elixir of Neovia,195000,101
 JubJub Tickler,195000,99
 Acara Twin Blade,194000,99
 Garins Sword,194000,101
 Fire Nimmo Morphing Potion,193000,99
 Light Faerie Dust,193000,99
+Fire Quiggle Morphing Potion,192000,99
 Ghost Elephante Morphing Potion,192000,99
 Red Elephante Morphing Potion,192000,99
 Skeith Inferno Spell,192000,99
 Cobrall Utility Blade,191000,101
 Kitchen Quest Chopping Board,191000,101
-Dehydration Potion,190000,99
 Full Draik Armour,190000,99
 Poisonous Flower,190000,101
 Ylanas Blaster,190000,101
@@ -1082,19 +1073,15 @@ Fire Bruce Morphing Potion,185000,99
 Icy Blade of Terror Mountain,185000,99
 Sinsis Sword,185000,101
 Starry Nimmo Morphing Potion,185000,99
-Exceptionally Tiny Laser Cannon,184000,101
 Feathered Pteri Cloak,184000,99
 Lupe Grabber Jaw,184000,99
 Christmas Scorchio Morphing Potion,183000,99
-Pearl Koi Slingshot,183000,99
 Striped Aisha Morphing Potion,183000,98
 Spotted Kau Shield,182000,99
-Full Tuskaninny Armour,180000,99
 Highland Chia War Hammer,180000,99
 Purple Pteri Morphing Potion,180000,99
 Snot Spear,180000,99
 Spotted Scorchio Morphing Potion,180000,98
-Blue Grarrl Morphing Potion,179000,99
 Full Mynci Armour,179000,99
 Team Faerieland Altador Cup Shield,179000,101
 Full Ogrin Armour,178000,99
@@ -1104,7 +1091,6 @@ Full Shoyru Armour,177000,99
 Green Grarrl Morphing Potion,177000,99
 Mighty Techo Hammer,176000,99
 Rings of Fire,175000,99
-Sonic Melter,175000,99
 Starry Scorchio Morphing Potion,175000,99
 Wocky Slingshot,175000,99
 Yellow Quiggle Morphing Potion,175000,97
@@ -1117,7 +1103,6 @@ Golden Qasalan Chestpiece,170000,99
 Green Pteri Morphing Potion,170000,99
 Cloud Pteri Morphing Potion,169000,98
 Full Flotsam Armour,169000,99
-Golden Lupe Bone Sword,169000,99
 Palace Guard Tunic,167000,99
 Red Kyrii Morphing Potion,167000,99
 Green Aisha Morphing Potion,166000,98
@@ -1129,19 +1114,18 @@ Makeshift Ships Hammer,165000,101
 Silver Draik Bow,165000,99
 Striped Nimmo Morphing Potion,165000,99
 Emerald Krawk Sword,164000,99
-Korbat Wing Blade,164000,99
 Rainbow Gnorbu Morphing Potion,164000,98
 Tuskaninny Personal Cannon,164000,99
 Tyrannian Nimmo Morphing Potion,164000,98
 Blue Yurble Morphing Potion,163000,98
-Fire Flail,163000,99
 Hand Carved Shoyru Wand,162000,99
 Striped Flotsam Morphing Potion,162000,99
+Blue Kougra Morphing Potion,160000,99
+Bubbling Fungus,160000,81
 Desert Kyrii Morphing Potion,160000,98
 Mirror Mote,160000,101
 Quiggle Sword of Terror,160000,99
 Red Clockwork Grundo,160000,99
-Split Bruce Morphing Potion,160000,99
 Christmas Gnorbu Morphing Potion,159000,98
 Forest Sling,159000,180
 Magic Potion,159000,105
@@ -1150,6 +1134,7 @@ Sakhmetian Axe,158000,99
 Thistleberry Pingrenade,157000,101
 Floud Bomb,156000,99
 Full Aisha Armour,156000,99
+Regal Draik Wand,156000,99
 Starry Uni Morphing Potion,156000,98
 Yellow Nimmo Morphing Potion,156000,99
 Forgotten Tome,155000,98
@@ -1163,8 +1148,8 @@ Molten Boulder,153000,101
 Striped Grarrl Morphing Potion,153000,99
 Island Pteri Morphing Potion,152000,98
 Green Flotsam Morphing Potion,150000,99
-Green JubJub Morphing Potion,150000,99
 Heavy Robe of Thievery,150000,95
+Plush Gelert Collar,150000,99
 Portable Cloud,150000,130
 Silver Kacheek Armour,150000,99
 Starry Pteri Morphing Potion,150000,98
@@ -1173,17 +1158,19 @@ Yellow Clockwork Lupe,150000,99
 Checkered Koi Morphing Potion,149000,98
 Fire Gnorbu Morphing Potion,149000,98
 Horned Grarrl Slingshot,149000,99
-Hydro Hammer,149000,99
 Ixi Elixir of the Woods,149000,99
 Korbat Power Blaster,149000,99
+White Kyrii Morphing Potion,149000,98
 Yellow Aisha Morphing Potion,149000,98
-Gilded Kougra Chestplate,148000,99
 Green Nimmo Morphing Potion,148000,99
 Blue Tuskaninny Morphing Potion,147000,99
 Decorating With Sand - Winter Quarterly,147000,101
 Dung Catapult,147000,180
+Full Chomby Armour,147000,99
 Full Moehog Armour,147000,99
-Regal Draik Wand,147000,99
+Full Poogle Armour,147000,99
+Hydro Hammer,147000,99
+Ixi Hoof Blade,147000,99
 Bow of the Air Faerie,146000,99
 Desert Gnorbu Morphing Potion,146000,98
 Skunk Buzz Morphing Potion,146000,99
@@ -1193,7 +1180,6 @@ Padded Cybunny Claw,145000,99
 Poogle Lightning Boots,145000,99
 Sharpened Hook,145000,99
 Silver Draik Wing Guards,145000,99
-Yellow Grarrl Morphing Potion,145000,99
 Shimmering Acara Breastplate,144000,99
 Blumaroo Pepper Shaker,143000,99
 Padded Cybunny Gloves,142000,99
@@ -1211,18 +1197,18 @@ Mysterious Red Potion,139000,101
 Ornate Buzz Chestplate,139000,99
 Painted Techo Club,139000,99
 Sticky Quiggle Flicky Thing,139000,99
-Fire Tuskaninny Morphing Potion,138000,99
+Blue Buzz Morphing Potion,137000,99
 Blumaroo Battle Staff,137000,99
+Emerald Krawk Jacket,137000,99
 Golden Bori Staff,137000,99
 Golden Full Kacheek Armour,137000,99
 Red Aisha Morphing Potion,137000,98
 Snotty Hammer,137000,99
+Koi Full Armour,136000,99
 Snot Helmet,136000,99
-Bubbling Fungus,135000,81
 Handy Office WeaPen,135000,101
 Illusens Forest Essence,135000,95
 Stone Snowflake,135000,99
-Techo Dagger Of Speed,135000,99
 Blue Nimmo Morphing Potion,134000,99
 Dark Faerie Bow,134000,99
 Icy Glove,134000,99
@@ -1234,17 +1220,22 @@ Ornate Jetsam Hammer,133000,99
 Yellow Moehog Morphing Potion,132000,99
 Yurble Forest Cloak,132000,99
 Full Kiko Armour,131000,99
+Full Peophin Armour,131000,99
 Golden Bori Bow,130000,99
+Mystical Nimmo Amulet,130000,99
 Rainbow Grarrl Morphing Potion,130000,98
 Red Yurble Breast Plate,130000,99
 Wooden Meerca Mallet,130000,99
 Aisha Acorn Darts,129000,99
+Full Hissi Armour,129000,99
+Gilded Kougra Chestplate,129000,99
 Purple Techo Morphing Potion,129000,99
 Brass Bruce Horn Of Deafening,127000,99
 Brilliant Sun and Moon Potion,127000,101
 Meerca Tail Shield,127000,99
 Sparkling Acara Shield,127000,99
 Yellow Koi Morphing Potion,127000,99
+Full Kau Armour,126000,99
 Honeycomb Buzz Shield,126000,99
 Flaming Toaster,125000,101
 Red Flotsam Morphing Potion,125000,99
@@ -1256,12 +1247,12 @@ Hand Stitched Usul Dagger,124000,99
 Mystical Ixi Hooded Cape,123000,99
 Red Kougra Morphing Potion,123000,99
 Spiked Eyrie Band,123000,99
+Edible Desert Foliage Vol. 9,122000,101
 Eyrie Pocket Catapult,122000,99
 Gelert Healing Remedy,122000,96
 Red Eyrie Morphing Potion,122000,99
 Yurble Forest Shield,122000,99
 Frozen Scroll,121000,99
-Potion of Purest Red,120000,180
 Potion of Skeith Scales,120000,99
 Full Gnorbu Armour,119000,99
 Ruki Population Survey Vol. 5,118000,101
@@ -1273,6 +1264,7 @@ Black Frost Cannon,116000,99
 Zombie JubJub Morphing Potion,116000,97
 Camouflage Meerca Morphing Potion,115000,98
 Jam Filled Battle Biscuit,115000,99
+Jar of Forest Earth,115000,83
 Buzz Hive Bomb,113000,99
 Camouflage JubJub Morphing Potion,113000,98
 Fire Buzz Morphing Potion,113000,99
@@ -1280,80 +1272,91 @@ Starry Xweetok Morphing Potion,113000,98
 Full Ruki Armour,112000,99
 Icy Battle Duck,112000,98
 Peophin Emblazoned Maractite Shield,112000,99
+Sand Cuisine for Elephantes,112000,101
 Striped Tuskaninny Morphing Potion,111000,99
 Fire Hammer,110000,99
 Hardened Ruki Claws,110000,99
 Spotted Flotsam Morphing Potion,110000,99
 Blue Gnorbu Morphing Potion,109000,97
+Techo Dagger Of Speed,108000,99
 Exploding Blumaroo Dice,107000,99
 Maractite Mace,107000,99
 Shoyru Totem,107000,180
 Studded Bruce Bow Of Protection,107000,99
 Emerald Hissi Breastplate,105000,99
+Full Kougra Armour,105000,99
+Full Tuskaninny Armour,105000,99
 Green Techo Bow,105000,99
 Halloween Tonu Morphing Potion,105000,98
 Faerie Totem,104000,180
 Green Techo Morphing Potion,104000,99
+Desert Survival Skills for the Dim-Witted,103000,101
 Desert Tuskaninny Morphing Potion,103000,98
 Golden Kougra Slingshot,103000,99
 Blue Scorchstone,100000,94
 Desert Buzz Morphing Potion,100000,98
-Grarrl Claw,100000,99
 Green Moehog Morphing Potion,100000,99
 Mango Jelly Club,100000,99
 Ornate Jetsam Bow,100000,99
-Plush Gelert Collar,100000,99
 Pumpkin Club,100000,99
 Rejuvenating Negg Serum,100000,98
 Rustic Aisha Blade,100000,99
-Sand Cuisine for Elephantes,100000,101
 Scorchio Molten Battle Shield,100000,99
-Strawberry Meerca Morphing Potion,100000,98
 Team Maraqua Altador Cup Shield,100000,101
 Winged Scarab,100000,96
 Red Gnorbu Morphing Potion,99500,97
 Dark Battle Duck,99000,97
-Iscas Wand,99000,101
+Golden Scorchstone,98500,98
 Stealthy Nimmo Boots,98500,99
 Green Gnorbu Morphing Potion,98000,97
 Maractite Acara Shield,98000,99
 Desert Ogrin Morphing Potion,97500,98
 Thumburts Cane,97500,101
-Golden Scorchstone,97000,98
 Orange Kougra Morphing Potion,97000,95
+Silver Draik Chestplate,97000,99
 Advanced Curses,96500,98
 Fire Flotsam Morphing Potion,96500,98
+Pearl Koi Slingshot,96500,99
 Ultra Supreme Kiko Walker,96500,99
 Yellow Gnorbu Morphing Potion,96000,97
 Control Rod Apparatus,95500,101
 Eyrie Tail Guard,95500,99
 Full Nimmo Armour,95500,99
+Iscas Wand,95000,101
 Kougra Power Sword,95000,99
 Starry Koi Morphing Potion,95000,98
 Emerald Hissi Shield,94000,99
 Speckled Xweetok Morphing Potion,94000,98
 Dazzling Steel Lenny Wings,93500,99
+Green Meerca Morphing Potion,93500,99
 Team Terror Mountain Altador Cup Shield,93500,101
 Pirate Meerca Morphing Potion,93000,98
 Randomly Firing Freeze Ray,93000,101
 Yellow Tuskaninny Morphing Potion,93000,98
 Hissing Techo Staff,92500,99
+Tangle Net Gun,92000,99
 Ticking Eyrie Bomb,92000,99
 Desert Tent Zoning Regulations,91500,101
 Sun and Moon Chakram,91500,101
 Enchanted Robe,91000,98
 Tuskaninny Battle Trumpet,91000,99
+Christmas Elephante Morphing Potion,90500,98
 Starry Wocky Morphing Potion,90500,98
 Chomby Staff,90000,99
 Creeping Shadow Hammer,90000,101
+Fire Tuskaninny Morphing Potion,90000,99
+Korbat Wing Blade,90000,99
 The Chemical Properties of Sand,90000,101
 Blue Meerca Morphing Potion,89500,98
+Blue Grarrl Morphing Potion,89000,99
 Golden Korbat Charm,89000,99
+Yellow Grarrl Morphing Potion,89000,99
 Camouflage Tuskaninny Morphing Potion,88500,98
 Electric Tuskaninny Morphing Potion,88000,98
-Blue Buzz Morphing Potion,87500,99
+Rainbow Tuskaninny Morphing Potion,88000,98
 Orange Tuskaninny Morphing Potion,87500,98
 Sharp Fire Disc,87500,99
+Green JubJub Morphing Potion,86500,99
 Jagged Krawk Blade,86000,99
 Acara Ear Guards,85000,99
 Brilliant Poogle Buckler,85000,99
@@ -1364,13 +1367,15 @@ Meerca Gloves of Agility,84000,99
 Red Yurble Boots,84000,99
 Cloud Grarrl Morphing Potion,83500,99
 Desert Petpets: A Cautionary Tale,83500,101
+E-Z Brand My First Death Axe,83500,101
 Maractite Shell Shield,83000,99
 Padded Mynci Gloves,83000,99
 Palace Guard Helmet,83000,99
 Red Buzz Morphing Potion,82500,99
+Sword of Fallen Twigs,82500,96
 Blue Flotsam Morphing Potion,82000,98
 Camouflage Mynci Morphing Potion,82000,98
-Rainbow Tuskaninny Morphing Potion,82000,98
+Grarrl Claw,82000,99
 Shadow Armour,82000,99
 Villager Pitchfork,82000,101
 Accursed Mittens,81500,101
@@ -1388,7 +1393,6 @@ Frost Bow,79500,107
 Sophies Elixir,79500,95
 Wand of the Moon,79000,98
 Yellow Mynci Morphing Potion,79000,99
-Greater Water Potion,78500,101
 Light Faerie Staff,78500,98
 Negg Plasma Bottle,78500,101
 Professional Curses,78500,99
@@ -1399,43 +1403,39 @@ Noil Gem,77000,180
 White Grarrl Morphing Potion,77000,98
 Aisha Feathered Charm,76000,99
 Frozen Water Daggers,76000,97
+Meowclops Claws,75500,97
 Superior Shield of Lightning,75500,98
 Christmas Ogrin Morphing Potion,75000,98
 Cooling Balm of the Warrior,75000,80
-Red Techo Morphing Potion,75000,99
 Team Meridell Altador Cup Shield,75000,101
-Christmas Elephante Morphing Potion,74000,98
 Glowing Koi Morphing Potion,74000,98
 Blue Eyrie Morphing Potion,73500,98
 Starry Flotsam Morphing Potion,72500,98
 Amulet of Inevitable Betrayal,72000,96
+Balteus of the Sun,72000,98
 Nightsteed Mace,72000,96
 Red Meerca Morphing Potion,72000,98
 Regulation Chainmail,72000,99
-Cybunny Sword,71000,99
 Blue Mynci Morphing Potion,70000,99
-Edible Desert Foliage Vol. 9,70000,101
 Elephante Unguent,70000,96
 Essence of Drackonack,70000,85
+Fire Flail,70000,99
 Grape Jelly Shield,70000,98
 Kougra Wing Collar,70000,99
 Rainbow Ogrin Morphing Potion,70000,98
 Desert Crossbow,69000,101
-Green Meerca Morphing Potion,68000,99
+Ice Hissi Morphing Potion,68000,99
 Pteri Precision Helmet,68000,99
-Red Poogle Morphing Potion,68000,98
 Red Uni Morphing Potion,68000,97
 Ghost Ogrin Morphing Potion,67000,98
 Green Buzz Morphing Potion,67000,99
-Meowclops Claws,66500,97
+Sonic Melter,66500,99
 Yellow Flotsam Morphing Potion,65500,98
 Golden Ruki Brooch,65000,99
-Ice Hissi Morphing Potion,65000,99
 Yellow JubJub Morphing Potion,65000,98
 Ornate Jetsam Shield,64500,99
 Battle Duck,64000,96
 Ancient Eyrie Battle Mask,63500,95
-Blue Clockwork Grundo,63500,99
 Full Quiggle Armour,63500,99
 Shadowy Cloak of Darkness,63500,98
 Cloud Charm,63000,99
@@ -1443,19 +1443,20 @@ Jhudoras Dark Collar,62000,130
 Platinum Tech Bow,62000,110
 Silver Spectre Battlecard,62000,126
 Nimmo Totem,61000,180
-Pocket Satellite,61000,99
 Steel Chomby Sword,61000,99
 Team Kiko Lake Altador Cup Shield,61000,101
+Tyrannian Ogrin Morphing Potion,61000,98
 Sword of Trumpeting,60500,99
+Decorative Maractite Battleaxe,60000,90
 Fire Grarrl Morphing Potion,60000,97
 Pirate Ogrin Morphing Potion,60000,98
 Team Moltara Altador Cup Shield,60000,101
 Christmas Ixi Morphing Potion,59500,99
 Strawberry Mynci Morphing Potion,59500,98
+Cybunny Sword,59000,99
 Fire Extinguisher of Diversion,59000,101
 Quiggle Leaping Boots,59000,99
 Reinforced Maractite Shield,59000,99
-Sword of Fallen Twigs,58500,96
 Eleskeleton 3000,58000,99
 Golden Kougra Chest Plate,58000,98
 Palace Guard Bracers,58000,99
@@ -1477,6 +1478,8 @@ Dark Scroll,55000,101
 Enchanted Kiko Shield,55000,99
 Ice Cream Potion,55000,101
 Mighty Techo Chest Plate,55000,99
+Negg of Everlasting Fire,55000,101
+Red Poogle Morphing Potion,55000,98
 Poisonous Mushroom Tea,54500,89
 Decorative Maractite Sword,53500,90
 Ghostly Jetsam Sword,53500,98
@@ -1492,7 +1495,6 @@ Seti Hilt Sword,51000,97
 Potion of Meridell Castle,50500,97
 Bomberry Elixir,50000,84
 Frosty Maractite Bow,50000,97
-Negg of Everlasting Fire,50000,101
 Rusty Pitchfork,50000,94
 Yellow Elephante Morphing Potion,50000,99
 Mega Fire Shield,49900,99
@@ -1500,12 +1502,11 @@ Team Brightvale Altador Cup Shield,49900,101
 Twisted Dark Dagger,49500,96
 Sceptre of the Winged Sun,49000,98
 Ultimate Negg Hammer,49000,101
-Mystical Bomb,48000,101
+Tales of the Desert Draik,48600,96
 Team Mystery Island Altador Cup Shield,48000,101
 Spiked Negg Mace,47700,101
 Team Altador Altador Cup Shield,46400,101
 Shoyru Battle Shield,46000,99
-Tyrannian Ogrin Morphing Potion,46000,98
 Cooling Ointment,45000,98
 Jagged Stone Spear,45000,95
 Jhudoras Cursed Sword,45000,97
@@ -1514,6 +1515,7 @@ Staff of Dark Nova,45000,98
 Team Virtupets Altador Cup Shield,45000,101
 Warm Amber Ointment,45000,97
 Poison Muffin,43900,99
+Red Techo Morphing Potion,43800,99
 Altadorian Body Armour,43700,96
 Fire Spell,43700,101
 Team Haunted Woods Altador Cup Shield,43700,101
@@ -1530,7 +1532,6 @@ Dagger of the Lost Sands,41500,96
 Zombie Blumaroo Morphing Potion,41500,92
 Emerald Krawk Boots,41400,99
 Maractite Battle Hammer,41300,98
-E-Z Brand My First Death Axe,41200,101
 Blue Kyrii Morphing Potion,41000,97
 Bow of Earth,41000,107
 Golden Lupe Mask,41000,98
@@ -1538,6 +1539,7 @@ Lutari Lance,41000,93
 Devious Top Hat and Cane,40400,95
 Team Roo Island Altador Cup Shield,40000,101
 Padded Cybunny Shield,39800,97
+Yellow Uni Morphing Potion,39700,97
 Blue Elephante Morphing Potion,39500,98
 Geraptiku Attack Leaf,39500,95
 Scroll of Knowledge,39500,94
@@ -1578,7 +1580,6 @@ Fur Boots,34700,97
 Golden Aisha Helmet,34700,96
 Ancient Lupe Wand,34500,113
 Cherry Jelly Shield,34500,94
-Christmas Aisha Morphing Potion,34500,98
 Ominous Clockwork Negg,34500,101
 Snot Bomb,34500,98
 Elephante Totem,34400,180
@@ -1590,7 +1591,6 @@ Curved Golden Staff,33500,97
 Enchanted Draik Cape,33500,96
 Stocking Full of Coal,33500,98
 Warriors Spatha,33300,99
-Axe of Guilt,33000,101
 Destruct-O Shield,33000,91
 Team Lost Desert Altador Cup Shield,33000,101
 Mighty Cobrall Mace,32900,86
@@ -1599,7 +1599,6 @@ Ixi Wooden Blocking Shield,32800,98
 Checkered Techo Morphing Potion,32500,98
 Maractite Acara Battle Mask,32500,98
 Split Grarrl Morphing Potion,32500,98
-Yellow Uni Morphing Potion,32500,97
 Engraved Chakram,32400,94
 Jhudoras Vile Vial,32100,97
 Red Xweetok Morphing Potion,32000,96
@@ -1611,25 +1610,26 @@ Red Scorchstone,31200,92
 Evil Bow,31000,107
 Fancy Desert Headdress,31000,86
 Shield of Coltzan,30700,95
+100 Mummy Dance Moves,30000,101
 Antennae Ring,30000,97
+Easter Concoction,30000,101
 Lesser Healing Scroll,30000,97
 Oaken Kacheek Sword,30000,99
-Purple Hooded Robe,30000,98
+Scarab Ring,30000,101
 Scroll of Freezing,30000,99
+Scroll of Friendship,30000,91
 Shining Celesta Sword,30000,101
 Telescope Lens,30000,90
-Balteus of the Sun,29900,98
 Green Shoyru Chest Protector,29900,98
-100 Mummy Dance Moves,29800,101
-Desert Survival Skills for the Dim-Witted,29700,101
 Blackened Hand Painted Scimitar,29500,98
 Camouflage Techo Morphing Potion,29500,97
 Enchanted Koi Shield,29500,95
 Qasalan Double Bladed Staff,29400,98
 Swift Maractite Boomerang,29400,98
-Decorative Maractite Battleaxe,29300,90
 Amulet of Lost Souls,29000,98
 Green Mynci Morphing Potion,29000,99
+Pocket Satellite,29000,99
+Purple Hooded Robe,29000,98
 Crescent Moon Axe,28800,98
 Elegant Qasalan Falchion,28800,92
 Almost-Real Aisha Totem,28600,180
@@ -1647,6 +1647,7 @@ Supple Moehog Sandals,28000,96
 Yellow Eyrie Morphing Potion,28000,98
 Spectral Forest Bow,27900,94
 Ixi Slingshot,27500,98
+Ornate Regal Robes,27500,98
 Selket Shield,27500,92
 Egg Slingshot,27400,89
 Padded Cybunny Boots,27400,98
@@ -1681,7 +1682,6 @@ Dark Nimmo Shield,25200,96
 Minty Snowball,25200,96
 Blanking Ray,25000,98
 Bruce Icicle Spear,25000,99
-Easter Concoction,25000,101
 Golden Aisha Shield,25000,97
 Golden Compass,25000,85
 Green Elephante Morphing Potion,25000,98
@@ -1709,7 +1709,6 @@ Gold Handled Katana,23800,86
 Koi Battle Net,23800,98
 Maractite Water Cannon,23700,96
 Air Faerie Shield,23500,97
-Cloak of the Deep Forest,23500,98
 Hardened Tonu Boots,23500,98
 Ice Grundo Totem,23500,180
 Regal Black Robe,23500,93
@@ -1717,7 +1716,6 @@ Snot JubJub Snowball,23500,91
 Forest Hat,23400,180
 Flaming Scorchio Battle Helm,23300,94
 Glowing Book,23300,97
-Ornate Regal Robes,23000,98
 Patched Magic Hat,23000,92
 Worn Tuskaninny Shoulder Guard,23000,98
 Leaded Darkness Vial,22800,98
@@ -1736,6 +1734,7 @@ Radiant Illusen Shield,21700,90
 Ornate Maractite Sword,21500,98
 Whirling Mopper,21500,101
 Golden Cobrall Shield,21400,88
+Cloak of the Deep Forest,21300,98
 Chainmail Mote,21000,88
 Frozen Scarf Whip,21000,98
 Grasped Claw Ring,21000,98
@@ -1762,19 +1761,20 @@ Prickly Potion,20000,91
 Rugged Zafara Shield,20000,93
 Seasonal Battle Duck,20000,180
 Sir Cheekalot Ultimate Battle Shield,20000,104
-Scroll of Friendship,19800,91
 Sturdy Bori Hammer,19800,98
 Lair Beast Claw,19700,95
 Sword of Elements,19700,101
 Ice Cybunny Totem,19500,180
-Snotty Bow,19500,98
 Water Whip,19500,101
 Golden Cobrall Spear,19300,92
 Potion of Telepathy,19200,101
 Ancient Gnarled Wand,19000,96
 Brain Tree Mace,19000,110
+Christmas Aisha Morphing Potion,19000,98
 Dung Snowflake,19000,99
+Math Slingshot,19000,101
 Mighty Peophin Flute,19000,96
+Mystical Tea Caddy,19000,101
 Scroll of Curses,19000,101
 Winged Spear,19000,97
 Golden Draik Boomerang,18900,93
@@ -1794,11 +1794,9 @@ Shining Armour,18000,97
 Super Poison Dart,18000,102
 Mynci Banana Blade,17900,98
 Mipsys Charm Bracelet,17800,101
-Mystical Tea Caddy,17800,101
 Frozen Ogrin Tail Flail,17700,97
 Bottle of Wraiths Breath,17500,101
 Powder of Everlasting Wit,17500,96
-Scarab Ring,17500,101
 Staff of Nova,17500,98
 Turtum Shell Quiggle Chestplate,17500,98
 Yellow Clockwork Grundo,17500,99
@@ -1813,7 +1811,6 @@ JubJub Helmet of Doom,17000,94
 JubJub Speed Boots,17000,98
 Rugged Zafara Helmet,17000,98
 Usul Lemon Bomb,17000,98
-Water Faerie Shield,16900,97
 Green Uni Morphing Potion,16700,94
 Fiery Dream Catcher,16500,101
 Kacheek Totem,16500,180
@@ -1832,6 +1829,7 @@ Chia Crayon Sword,15800,98
 Kazeriu Whip,15800,98
 Orange Flavoured Tea,15800,101
 Ancient Eyrie Crest Shield,15500,92
+Blue Clockwork Grundo,15500,99
 Gelert Ear Guards,15500,96
 Leftover Fridge Food,15400,101
 Throwing Cupcakes,15300,96
@@ -1848,9 +1846,11 @@ K-BOMB,15000,98
 Leather Chia Gloves,15000,98
 Pencil Crossbow,15000,101
 Pyon Stinger Mace,15000,96
+Splendid Buzz Helmet,15000,93
 Starry Grarrl Morphing Potion,15000,96
 Twisted Tonu Tail Guard,15000,98
 Warriors Cloak of Wit,15000,96
+Water Faerie Shield,15000,97
 Blueberry Jelly Sword,14900,98
 Nimmo Throwing Star,14900,99
 Phial of the Dreamer,14900,97
@@ -1869,7 +1869,6 @@ Purple Plasma Sword,14000,92
 Rugged Zafara Short Sword,14000,98
 Staff of Brain,14000,110
 Tyrannian Fangs,14000,87
-Tales of the Desert Draik,13900,96
 Ivy Laced Cloak,13800,95
 Acara Shield,13700,95
 Earth Faerie Shield,13700,94
@@ -1927,11 +1926,13 @@ Shining Sabatons,11800,96
 Blurgah Shield,11700,92
 Dark Winged Axe,11700,97
 Gelert Helmet,11500,95
+Halo of Devilpuss,11500,101
 Light Faerie Sword,11500,86
 Shining Shoulderpiece,11500,92
 Sturdy Blow Gun,11500,101
 Sturdy Qasalan Sword,11500,88
 Vial of Vile,11500,98
+Ghosts of the Desert,11400,95
 Shiny Shoal Shell Shield,11400,101
 Fire Faerie Sword,11300,90
 Rotten Egg Stink Bomb,11300,93
@@ -1946,9 +1947,9 @@ Grarrl Shield Of Terror,11000,96
 Life Giver,11000,97
 Regal Mynci Stars,11000,95
 Rusty Cleaver,11000,96
+Secret of the Hidden Oasis,11000,92
 Dual Batons of Katsuo,10800,96
 Falcata Replica Sword,10800,92
-Ghosts of the Desert,10800,95
 Jade Elixir,10800,101
 Kacheek Ice Cannon,10800,95
 Golden Rimmed Grarrl Shield,10700,96
@@ -1956,7 +1957,6 @@ Amazing Mesas of the Lost Desert,10600,92
 Amulet of Pie,10500,96
 Negg Shield,10500,101
 Scuzzys Comb,10500,101
-Secret of the Hidden Oasis,10500,92
 Tunic of Warding,10500,96
 Ultrasteel Attack Tusks,10500,97
 Lupe Moon Charm,10300,96
@@ -2000,7 +2000,6 @@ Sturdy Steel Pudao,9700,84
 Tyrannian Back Claws,9700,87
 Zombie Fist on a Stick,9700,96
 Shenkuu Spikes,9650,97
-Halo of Devilpuss,9600,101
 Star Balls,9600,86
 Thunderbolt,9600,87
 Blizzard Ring,9550,112
@@ -2016,12 +2015,10 @@ Meerca Battle Fangs,9400,97
 Curious Sticks of Lethal Wax,9300,92
 Battle Faerie Dual Swords,9250,96
 Elegant Desert Sword,9250,84
-Swift Darkfire Negg Bomb,9250,101
 Uni Attack Pods,9250,96
 Water Bazooka,9200,101
 Solar Burrito,9150,98
 Nuranna with Laserbeams,9100,88
-Spooky Slime,9050,180
 Blumaroo Face Mask,9000,98
 Bruce Shield of Resistance,9000,95
 Carved Qasalan Blowgun,9000,89
@@ -2047,7 +2044,7 @@ Meerca Battle Helmet,8900,97
 Moon Staff,8900,112
 Silver Draik Helmet,8900,96
 Space Faeries Shield,8900,101
-Splendid Buzz Helmet,8850,93
+Mystical Bomb,8850,101
 Flotsam Ice Shell,8800,92
 Scroll of Broken Seals,8800,91
 Wand of Supernova,8800,96
@@ -2090,6 +2087,7 @@ Worn Leather Shield,8250,97
 Faerie Kougra Totem,8200,95
 Moehog Battle Cape,8200,95
 Skeith Freeze Mask,8200,95
+Axe of Guilt,8150,101
 Kau Knight Shield,8150,93
 Spicy Snowball,8150,98
 Flaming Blooble Potion,8100,93
@@ -2100,6 +2098,7 @@ Darksplash Negg Bomb,8000,101
 Elementalists Robes,8000,94
 Grarrl Boot,8000,98
 Jetsam Maractite Armoured Trousers,8000,93
+Kyrii Slingshot,8000,96
 Maractite Throwing Shells,8000,89
 Marrowblade,8000,101
 Mighty JubJub Sword,8000,95
@@ -2108,6 +2107,7 @@ Orange Koi Morphing Potion,8000,94
 Scroll of Forgotten Promises,8000,96
 Seaweed Necklace,8000,101
 Sticky Quiggle Shield,8000,97
+Swift Darkfire Negg Bomb,8000,101
 Velms Healing Potion,8000,101
 Grarrl Helmet,7900,95
 Turnip Tonic,7900,90
@@ -2144,6 +2144,7 @@ Ham Helm,7000,96
 Jetsam Maractite Armoured Helmet,7000,93
 Moehog Armour,7000,96
 Silver Butter Knife,7000,98
+Snotty Bow,7000,98
 Wooden Shield,7000,103
 Gold Brucey B Battlecard,6950,115
 Lucky Robots Foot,6950,120
@@ -2217,6 +2218,7 @@ Scrams Yoyo,5500,91
 Sroom Fruit Potion,5500,89
 Vial of Fragrant Oil,5500,94
 Flotsam Body Armour,5400,95
+Mysterious Wadjet Scroll,5400,87
 Pirate Aisha Morphing Potion,5400,98
 Meerca Mesh Net,5350,96
 Beginners Curses,5250,96
@@ -2226,9 +2228,9 @@ Ancient Chia Helm,5200,93
 Pteri Battle Goggles,5200,97
 Uni Spying Wand,5200,95
 Downsize!,5150,68
-Essence of Symol,5150,89
 Scroll of the More Ancient Ancients,5150,93
 Tyrannian Lupe Tooth,5100,92
+Elephante Stunray,5050,95
 Quiggle Battle Armour,5050,94
 Bloodberry Elixir,5000,99
 Blumaroo Bouncing Boots,5000,95
@@ -2244,13 +2246,15 @@ Hawk Wand,5000,116
 Kacheek Inviso-Cloth,5000,94
 Negg Helmet,5000,101
 Oaken Kacheek Wand,5000,93
+Orb of the Dark Faerie,5000,95
 Sceptre of Lost Time,5000,89
 Searing Scroll of Light,5000,87
+Secrets of the Desert PaintBrush,5000,92
 Spiked Chomby Helmet,5000,94
 Split Mynci Morphing Potion,5000,91
+Spooky Slime,5000,180
 Tomb Tales,5000,93
 Bone Mace,4975,88
-JubJub Battle Shield,4975,92
 Kiko Sludge Bomb,4975,96
 Scroll of Sadness,4975,95
 Ceremonial Qasalan Dagger,4950,82
@@ -2259,7 +2263,6 @@ Flotsam Seaweed Lasso,4950,97
 Grarrl Tailspike,4950,96
 Popcorn Bomb,4950,97
 Quiggle Boomerang,4950,95
-Secrets of the Desert PaintBrush,4950,92
 Silver Scorchstone,4950,94
 Grey Lance,4900,96
 Iced Wand,4900,112
@@ -2267,14 +2270,12 @@ Icy Nimmo Battle Helmet,4900,93
 Ruki Battle Staff,4900,85
 Scorchio Wing Shields,4900,92
 Buzz Bomb Bag,4875,96
-Maraquan Commanders Helm,4875,101
 Lenny Cape,4850,98
 Regal Skeith Shield,4850,91
 Speed Beads,4850,83
+Essence of Symol,4800,89
 Elixir of Happiness,4750,91
-Pumpkin Launcher,4750,86
 Koi Battle Helmet,4725,95
-Mysterious Wadjet Scroll,4675,87
 Kyrii Tank Top,4650,97
 Sturdy Chomby Helmet,4650,98
 Chain Spear,4625,78
@@ -2300,10 +2301,10 @@ Wocky Wand of Darkness,4400,94
 Tyrannian Snowball,4375,101
 Silver Uni Helm,4350,92
 Maractite Pauldrons,4300,91
-History of the Desert Draik,4275,89
 Grey Shield,4250,97
 Kiko Sword,4250,92
 Korbat Tail Spike,4250,95
+Pumpkin Launcher,4250,86
 Uni Elixir,4250,94
 Usul Axe,4250,97
 Bow of the Hegelob,4200,89
@@ -2313,7 +2314,9 @@ Chomby Boots of Might,4175,95
 Splendid Buzz Sword,4150,95
 Bruce Fish Slingshot,4125,94
 Ice Sword,4125,87
+History of the Desert Draik,4100,89
 Lutari Battle Shield,4100,89
+Sands of Qasala,4100,88
 Wood Sap Potion,4100,88
 Reinforced Ruki Shield,4050,94
 Ancient Cursed Mirror,4000,98
@@ -2338,6 +2341,7 @@ Bound Darkness Scroll,3925,92
 Basic Dryer,3900,40
 Dark Nimmo Sword,3900,98
 Elephante Battle Drums,3900,91
+JubJub Battle Shield,3900,92
 Usul Helmet,3900,95
 Green Kyrii Morphing Potion,3875,95
 Chia Belt,3850,96
@@ -2350,15 +2354,12 @@ Gelert Battle Paw,3800,96
 Metallic Kougra Shield,3800,98
 Regal Skeith Helmet,3800,93
 Wood Axe,3800,97
-Orb of the Dark Faerie,3750,95
 Ornate Usul Shield,3725,97
 Potion of Corruption,3700,94
 Jetsam Helmet,3675,92
 Lightweight Maractite Spear,3650,86
-Sands of Qasala,3650,88
 Space Fungus Healing Potion,3650,101
 Dazzling Steel Lenny Sword,3600,96
-Red Ogrin Morphing Potion,3600,95
 Kacheek Fire Cannon,3575,95
 Blumaroo Mask,3550,93
 Peophin Lightning Hooves,3550,94
@@ -2370,7 +2371,6 @@ Fire Faerie Shield,3450,87
 Blackened Ancient Scimitar,3425,92
 Rejuvenating Skeith Sack Lunch,3425,93
 Jetsam Sword,3400,98
-Rainbow Aisha Morphing Potion,3400,98
 Uni Body Armour,3400,92
 Wocky Shield of Truth,3400,92
 Sparkle Potion,3375,84
@@ -2386,16 +2386,13 @@ Dual Battle Mirror,3200,86
 Jade Shield of the Ogrin,3200,75
 Jagged Chia Sword,3200,97
 Jewelled Peophin Face Mask,3200,95
-Kyrii Slingshot,3200,96
 Light Faerie Shield,3200,89
 Negg Shooter,3200,101
 Regal Skeith Staff,3200,93
 Ancient Chomby Shield,3175,96
 Gelert Lightning Speed Boots,3175,90
-Skull Scroll,3150,86
 Usul Water Balloon Attack,3150,97
 Ancient Negg Amulet,3125,101
-Elephante Stunray,3125,95
 Gold Blade of the Peophin,3100,92
 Lupe Reflector Shield,3100,92
 Nimmo Power Staff,3100,94
@@ -2412,11 +2409,13 @@ Jar of Symol Fur,3000,88
 Million Degree Sword,3000,85
 Moehog Battle Mask,3000,93
 Negg Scroll,3000,89
+Red Neocola Token,3000,70
 Rotten Jack-O-Lantern Bomb,3000,86
 Sinsis Grail,3000,97
 Spearmint,3000,92
 Usul Cookie Dough Bomb,3000,93
 Wand of the Light Faerie,3000,96
+Nune,2975,86
 Scarab Stone Slingshot,2975,85
 Deadly Snail Brooch,2950,84
 Jetsam Fin of Terror,2925,98
@@ -2424,7 +2423,6 @@ Chained Scroll,2900,81
 Coral Orb,2900,80
 Enamel Elephante Sword,2900,92
 Lost Desert Home Decorating Guide,2900,86
-Nune,2900,86
 Silver Draik Shield,2900,92
 Golden Buzz Helmet,2875,92
 Grarrl Gauntlet,2875,96
@@ -2433,9 +2431,7 @@ Mummy Bone Scroll,2875,97
 Silver Uni Wing Guards,2850,94
 Scroll of the Scholar,2825,95
 Trishulatops,2825,84
-Red Neocola Token,2800,70
 Scythe of Eternal Darkness,2800,87
-Sand Drawings,2775,80
 Illusens Bottled Magic,2700,80
 Meerca Squirt Bottle,2700,92
 Insanely Huge Scroll,2675,87
@@ -2447,23 +2443,27 @@ Chia Defence Cloak,2600,92
 Our Neighbor Qasala,2600,86
 Silver Elephante Boot,2600,95
 Altadorian Battle Helmet,2550,82
+Skull Scroll,2525,86
 Dangling Potion Bottle,2500,84
 Guide to Better Thieving,2500,78
 Krawk Battle Claw,2500,92
 Pyramid Dagger,2500,86
+Sand Drawings,2500,80
 Sand Dune Sunsets,2500,87
 Soul Stone,2500,101
 Super Luperus Tooth,2500,102
 Wocky Hair Grenade,2500,92
+Yellow Ogrin Morphing Potion,2500,95
 How to Carve Sandstone,2475,81
 How To Tie A Scroll Using Some Rope And Other Handy Tips,2450,81
+Kyrii Shocker,2450,92
 Shield of Reflection,2450,90
 Orb of the Light Faerie,2425,96
 Festive Holiday Scroll,2400,101
 Gelert Tail Armour,2400,92
+Jewelled Battle Collar,2400,77
 Scroll of The Dark Star,2400,93
 Silver Arm Plate,2400,93
-Steam Jug,2400,53
 Steel Kiko Helmet,2400,92
 Meerca Healing Potion,2375,80
 Ancient Scimitar,2350,92
@@ -2471,10 +2471,10 @@ Gelert Helm,2350,93
 Ornate Maractite Dagger,2350,89
 Crooked Quiggle Sword,2325,97
 Gelert Battle Blade,2325,92
+Rainbow Aisha Morphing Potion,2325,98
 Rukis in History,2325,86
 Guide to Ancient Structures,2300,83
 Homing Mine,2300,101
-Negg Smoke Bomb,2300,101
 Mighty Techo Gloves,2275,92
 Blue Fur Lined Cloak,2250,95
 Chia Bubble Gun,2250,92
@@ -2486,7 +2486,6 @@ Buzz Antennae,2200,92
 Curved Ruki Dagger,2200,97
 King Hagan Cloud Potion,2200,101
 Korbat Chestplate,2200,98
-Rotten Negg Soup,2200,101
 Virtupets Megacon Helmet,2200,87
 Zeenana Potion,2200,87
 Alchemy Experimenter,2175,85
@@ -2494,6 +2493,7 @@ Icy Magic Hat,2175,97
 Peophin Ultra Battle Mask,2175,92
 Ruki Sand Sculpture,2150,78
 Ornate Fur Trimmed Robe,2125,97
+Steam Jug,2125,53
 Velvet Eyrie Cloak,2125,95
 Earth Faerie Darts,2100,90
 Green Neocola Token,2100,70
@@ -2506,7 +2506,6 @@ Burnt Desert Recipes,2075,77
 Altadorian Throwing Axe,2050,94
 Kau Knight Helmet,2050,90
 Scroll of Flame Strike,2050,99
-Blue Neocola Token,2000,70
 Bruce Body Armour,2000,93
 Chomby Slingshot,2000,95
 Chomby Thunder Boot,2000,96
@@ -2526,14 +2525,13 @@ JubJub Shoes of Flight,2000,93
 Kiko Water Cannon,2000,92
 Koi Tail Armour,2000,94
 Negg Chucks,2000,101
+Negg Smoke Bomb,2000,101
 Negg Sword,2000,101
 Pink Gormball Snowball,2000,93
 Pottery Invoice,2000,69
 Pteri Combat Jacket,2000,75
-Red Moehog Morphing Potion,2000,99
 Rusty Garden Hoe,2000,92
 Scorchio Wand,2000,96
-Scroll of the Lost King,2000,67
 Scroll of the Wise,2000,96
 Shovel Plus,2000,87
 Silver Draik Armour,2000,93
@@ -2545,14 +2543,14 @@ Ya Tchea Fruit Bomb,2000,80
 Battle Mirror,1975,43
 Heavyweight Boxing Gloves,1975,94
 Ixi Indestructible Helmet,1975,93
-Kyrii Shocker,1975,92
 Tears of the Water Faerie,1975,68
 Corn Sword,1950,101
+Cursed Scroll,1950,62
 Cybunny Rotten Carrot Attack,1950,92
 Eight Point Paper Star,1950,84
 Four Point Paper Star,1950,82
+King Skarl Cloud Potion,1950,101
 Padded Acara Gloves,1950,94
-Pirate Eyrie Morphing Potion,1950,99
 Royal To-Do List Scroll,1950,57
 Scorchio Fire Marble,1950,97
 Serpent Scroll,1950,63
@@ -2568,10 +2566,13 @@ Hypnotic Scroll,1900,96
 Lightning Gun,1900,24
 Lost Desert Weather Guide,1900,60
 Lost Desert Wrist Plate,1900,64
+Maraquan Commanders Helm,1900,101
 Poogle Battle Helmet,1900,93
+Red Moehog Morphing Potion,1900,99
 Rugged Zafara Staff,1900,96
 Sands of the Dark Faerie,1900,101
 Scroll of the Battlefield,1900,98
+Scroll of the Lost King,1900,67
 Snappy Poogle Keyring Thingy,1900,97
 Starlight Potion,1900,57
 Super Sharp Korbat Boots,1900,95
@@ -2581,6 +2582,7 @@ Spiked Skeith Boomerang,1875,94
 Xweetok Acorn Helmet,1875,97
 Hard Leather Bracers,1850,90
 Kau Hoof Guards,1850,92
+Minor Defence Scroll,1850,99
 Mynci Nana-Chucks,1850,93
 Super Ice Sword,1850,97
 Wood Scimitar,1850,97
@@ -2594,6 +2596,7 @@ Scorchio Slingshot,1800,94
 Spiked Shoe Flail,1800,101
 Tuskaninny Power Paw,1800,96
 Uni Gem,1800,90
+Blue Neocola Token,1775,70
 Cybunny Battle Pen,1775,92
 Fierce Hissi Blade,1775,90
 Tuskaninny Battle Mask,1775,95
@@ -2617,6 +2620,7 @@ Wakey Wakey Juice,1700,101
 Clockwork Quiggle,1650,180
 Elegant Jewelled Robe,1650,92
 Enchanted Peophin Blinkers,1650,92
+Fire Snow,1650,56
 Krawk Tail Armour,1650,98
 Kyrii Cork Gun,1650,94
 Light Footed Lenny Boot,1650,94
@@ -2642,21 +2646,19 @@ Gold 00 Hog Battlecard,1500,124
 Kaylas Home Remedy,1500,88
 Korbat Sword,1500,98
 Lost Scroll of Lost Scrolls,1500,84
-Quintilc Throwing Star,1500,86
 Red Bomb,1500,101
 Scroll of Benevolence,1500,94
 Tuskaninny Slingshot,1500,92
 Delicate Papyrus,1475,64
 Faerie Portrait,1475,180
 Iron Lupe Helm,1475,90
-Pazo the Lonely Aisha,1475,24
 Bleached Bone Staff,1450,92
-Deteriorating Scroll,1450,79
 Furry Chia Shield,1450,90
 Gelert Boots,1450,90
 Grenegg,1450,82
 Kau Battle Horns,1450,98
 Mynci Slip Na-Na,1450,95
+Rotten Negg Soup,1425,101
 Tuskaninny Eye Goggles,1425,92
 U-Bend,1425,42
 Cybunny X Ray Glasses,1400,90
@@ -2684,7 +2686,6 @@ Cape of the Sun,1300,90
 Curling Blade,1300,89
 Dirty Snow,1300,55
 Fire Rock Torso Shield,1300,85
-Fire Snow,1300,56
 Flaming Bronze Helm,1300,85
 Gilded Elephante Claw,1300,92
 How to Make Papyrus,1300,69
@@ -2698,7 +2699,6 @@ Gold Kalora Battlecard,1275,118
 Desert Headdress,1250,65
 Exploding Powder,1250,55
 Fire Sword,1250,90
-Jar of Meepit Eyes,1250,82
 Spiked Poogle Helmet,1250,93
 Superior Elephante Shield,1250,90
 Christmas JubJub Morphing Potion,1225,99
@@ -2706,6 +2706,7 @@ Red Suede Boots,1225,90
 Boomerang Sword,1200,90
 Buckled Leather Tunic,1200,84
 Cybunny Helmet,1200,90
+Deteriorating Scroll,1200,79
 Flaming Rock of Fire,1200,89
 Grudge Keeper,1200,82
 Kau Mouth Blade,1200,92
@@ -2713,12 +2714,12 @@ Kyrii Power Puncher,1200,97
 Lightweight Nimmo Boxing Gloves,1200,92
 Ornate Usul Collar,1200,97
 Purple Invisihat,1200,60
+Quintilc Throwing Star,1200,86
 Shimmering Chomby Shield,1200,92
 Stream of Light,1200,53
 Studded Tonu Belt,1200,92
 Utensil of Deadly Utensils,1200,85
 Coconut Flake Snowball,1175,94
-Coltzans Ring,1175,105
 Fire Jug,1175,46
 Gelert Body Armour,1175,90
 Golden Mage Robe,1175,67
@@ -2727,17 +2728,16 @@ Look A Hasee!,1175,101
 Maractite Scroll,1175,96
 Minty Snowflake,1175,98
 Scroll of the Earth,1175,90
-Shooting Star Muffin,1175,180
 Aisha Chucks,1150,96
 Jade Staff,1150,80
 Maractite Cord,1150,85
 Mortog Serum,1150,89
 Elephante Sword,1125,90
-Kaylas Potion Of Freezing,1125,89
 Manual for Raiding Tombs,1125,73
-Yellow Ogrin Morphing Potion,1125,95
 Green Rocket,1100,101
 Mynci Tail Guard,1100,92
+Pazo the Lonely Aisha,1100,24
+Red Ogrin Morphing Potion,1100,95
 Regal Mynci Boots,1100,94
 Sapphire Ring of the Xendriks,1100,101
 Shoyru Shield,1100,90
@@ -2753,35 +2753,40 @@ Golden Grarrl Shield,1025,87
 Green Potion,1025,70
 Koi Defensive Goggles,1025,180
 Lenny Grenade,1025,92
+Roo Island Crystal,1025,102
 17-Pound Trout,1000,101
 Advanced Papyrus Making,1000,59
-Air Mote,1000,76
 Battered Grundo Battle Helmet,1000,80
 Battle Ready Pencil Box,1000,90
 Blue Sticky Hand,1000,85
 Blumaroo Ear Guards,1000,90
+Broken Mirror Shield,1000,180
 Caustic Potion,1000,130
-Cursed Scroll,1000,62
 Enchanted Cobweb,1000,89
+Fire Ball,1000,83
 Flotsam Battle Horn,1000,93
+Glowing Snow Wurm,1000,101
 Gnorbu Battle Helm,1000,80
+Gold Trimmed Tunic,1000,96
 Golden Sun Chalice,1000,58
 Greater Defence Scroll,1000,99
 Hawk Bracelet,1000,180
 Ice Mote,1000,80
-Jewelled Battle Collar,1000,77
+Kaylas Potion Of Freezing,1000,89
 Lenny Paper Mask,1000,90
 Lupe Battle Claw,1000,90
 Mighty Peophin Blade,1000,89
 Mighty Peophin Shield,1000,90
 Neopian Mote,1000,80
 Orange Invisihat,1000,70
+Pirate Eyrie Morphing Potion,1000,99
 Pirate Techo Morphing Potion,1000,99
 Pumpkin Shield,1000,120
 Quiggle Brass Knuckles,1000,93
 QX-92 Neutrino Blaster,1000,87
 Scroll of The Clouds,1000,95
 Scroll of the Depths,1000,96
+Shooting Star Muffin,1000,180
 Silver Little Timmy Battlecard,1000,105
 Spider on a String,1000,86
 Staff of Impenetrable Gloom,1000,89
@@ -2799,10 +2804,8 @@ Sakhmet Petpets,980,40
 Fire Gem,970,180
 Chomby Rocket Belt,960,94
 Shard of The Obelisk,960,101
-Golden Wocky Shield,950,89
 Kyrii Leather Helmet,950,90
 Large Flaming Log,950,88
-Ragged Desert Cape,950,91
 Rancid Faerie Potion,950,98
 Silver Capara Battlecard,950,102
 Wooden Scythe,950,93
@@ -2826,20 +2829,23 @@ Hail Mote,900,66
 Red Sticky Hand,900,88
 Scroll of Three Curses,900,91
 Starry Eyrie Morphing Potion,900,99
+Strawberry Tuskaninny Morphing Potion,900,99
 Supersize Ultimate,900,87
 Brain Of Mirgle,890,99
-Ee Mote,890,76
-King Skarl Cloud Potion,890,101
 Molten Rock,890,101
 Faerie Crash Helmet,880,101
+Jar of Meepit Eyes,880,82
 Level 2 Bubble Beam,880,180
 Silver Helmet,880,89
 Spiky Snowball,870,90
 Foil Wrapped Mystery Food Ball,860,86
+Malice Potion,860,130
 Metallic Sun Staff,860,90
+Golden Wocky Shield,850,89
 Ice Crystal Ball,850,87
 Maractite Sling,850,93
 Scroll of the Fool,850,93
+Tome of Selket,850,23
 Dee Mote,840,77
 Hand Painted Scarab,840,79
 Ornate Pteri Sash,840,90
@@ -2855,12 +2861,10 @@ Jagged Ice Ring,800,84
 Scorchio Helmet,800,90
 Stone Draik Shield,800,89
 Tuskaninny Tail Guard,800,92
-Yellow Frost Cannon,800,37
+Air Mote,790,76
 Scroll of Disorientation,790,81
 Elephante Peanut Shield,780,88
 Garlic Shield,780,120
-Tome of Selket,780,23
-Mud Mote,770,64
 Snowball Club,770,93
 Fiery Snowball,750,92
 Ice Scimitar,750,87
@@ -2871,39 +2875,36 @@ Lost Desert Dagger,740,75
 Attack Fork,730,120
 Howling Axe,720,88
 00 Hog Battlecard,700,122
+Feather Tickler,700,120
 Liquid Goo,700,90
-Menacing Grarrl Gauntlet,700,88
 Scroll of Flight,700,85
 Silver Kalora Battlecard,700,117
 Snow Mudball,700,105
-Stink Bomb,700,81
 Stone Snowball,700,110
 Superior Shovel,700,91
 Wooden Practice Staff,700,65
 Air Faerie Sceptre,680,92
-Eye Of Mortog,680,99
 Amiras Staff,660,101
 Scamander Blade,660,90
 Fire Walking Boots,650,65
 Golden Cobrall Glove,650,89
 Nimmo Helmet,650,90
-Supersize!,650,50
 Wooden Grarrl Club,650,90
+Furry Gnorbu Hammer,640,89
 Double Dryer,630,84
 Festive Cutlass,630,101
-Fire Ball,630,83
 Ghostkerchief Bracers,630,92
-Glowing Snow Wurm,630,101
 Hair Mote,630,79
 Branston Battlecard,600,107
 Fire Potion,600,101
 Firestorm Bottle,600,73
 Oaken Kacheek Helm,600,90
 Silver Brucey B Battlecard,600,114
-Strawberry Tuskaninny Morphing Potion,600,99
 Gold Mote,590,68
 Scroll of Trickery,590,97
+Fiery Hissi Amulet,580,85
 Web Claw,580,120
+Mud Mote,560,64
 Silver Fernypoo Battlecard,560,120
 Tomato Spitter,560,89
 Frozen Snowball,550,94
@@ -2919,15 +2920,14 @@ Mallow Launcher,520,87
 Moehog Sword,520,86
 Regal Mynci Cloak,520,90
 Bat Pack,500,120
-Blue Ruki Spear,500,88
 Chuffer Bob Battlecard,500,110
 Desert Arrow Launcher,500,69
 Dinner Table Cutlery,500,101
 Dung Shield,500,64
 Earthen Scorchstone,500,90
+Ee Mote,500,76
 Fading Bottled Earth Faerie,500,180
 Fernypoo Battlecard,500,119
-Fiery Hissi Amulet,500,85
 Fire Tipped Spear,500,89
 Fragrant Battle Charm,500,97
 Golden Kougra Earmuffs,500,90
@@ -2935,8 +2935,10 @@ Grarrl Terror Blade,500,94
 Kalora Battlecard,500,116
 Levatato Ray,500,83
 Magical Battle Paste,500,80
+Manacle Mace,500,96
 Maractite Throwing Net,500,90
 Meerca Negg Bomb,500,75
+Menacing Grarrl Gauntlet,500,88
 Rule with Wisdom,500,101
 Scroll of Radiance,500,98
 Silver Branston Battlecard,500,108
@@ -2950,11 +2952,12 @@ Parasol of Unfortunate Demise,490,98
 Fading Bottled Fire Faerie,480,180
 Flask of Liquid Fire,470,94
 Jhudoras Cursed Coin,470,95
-Roo Island Crystal,470,102
-Broken Mirror Shield,460,180
+Paper Helmet,470,85
 Blue Ruki Dagger,450,86
+Bubbling Healing Goo,450,101
 Desert Robe,450,75
 Fading Bottled Dark Faerie,450,180
+Hanso Charisma Charm,450,101
 Brain Tree Root,430,120
 Brucey B Battlecard,430,113
 Fading Bottled Air Faerie,430,180
@@ -2964,7 +2967,6 @@ Pressurised Water,430,72
 Bottled Volcano Steam,420,96
 Brain Tree Splinters,420,120
 Molten Branch Sword,420,101
-Tooled Leather Boots,410,79
 Artisans Lens,400,105
 Chocolate Battle Biscuit,400,80
 Coltzans Burning Gem,400,103
@@ -2980,6 +2982,7 @@ Magical Wheel Potion,400,96
 Maractite Gauntlets,400,94
 Poogle Sword,400,87
 Slime Potion,400,120
+Stink Bomb,400,81
 Sword of Domar,400,50
 Meerca Tail Whip,390,90
 Night Mote,390,69
@@ -2989,28 +2992,25 @@ Simple Techo Slingshot,380,97
 Snidberry Dew,380,89
 Von Roo Dice,380,88
 Flaming Oven Gloves,370,180
-Paper Helmet,370,85
+Tooled Leather Boots,370,79
+Yellow Frost Cannon,370,37
 Bottled Holiday Spirit,360,94
 Asparagus Powered Ray Gun,350,90
 Fire Faerie Darts,350,90
-Jelly Mote,350,66
-Malice Potion,350,130
 Rustic Wooden Sword,350,88
 Downpour Bottle,340,74
 Expert Lens,340,103
 Simple Wooden Fighting Staff,340,88
 Jetsam Fish Bone Saw,330,86
-Ultra Dark Reflectorb,330,87
 Balsa Wood Shield,320,55
-Basic Lightning Beam,320,50
 Fruit Cake Brick,320,101
 Moehog Tusk,320,98
 Purple Blob Potion,320,130
+Silver Leg Armour,310,89
 Stone Arm Shield,310,82
 Battle Biscuit,300,85
 Brain Tree Branch,300,120
 Bronze Shield,300,83
-Candy Cane Sword,300,101
 Cherry Tomato Darts,300,88
 Demonic Bow,300,92
 Earthen Wand of Stone,300,89
@@ -3022,22 +3022,22 @@ Radioactive Muffin,300,180
 Radioactive Snow,300,88
 Steel Chomby Chestplate,300,88
 Zap Bottle,300,76
+Coltzans Ring,290,105
 Emerald Chomby Axe,290,88
-Furry Gnorbu Hammer,290,89
 Lutari Healing Potion,290,80
 Scroll of Dark Nova,290,99
-Silver Leg Armour,290,89
 Small Metal Shield,290,30
 Special Snowflake,290,89
 Day Mote,280,72
 Noxious Nectar,280,130
 Sinsis Crown,280,180
 Stale Candy Blade,280,84
+Eye Of Mortog,260,99
 Fish Scale Breastplate,260,101
+Blue Ruki Spear,250,88
 Bone Sceptre,250,101
 Evil Snowball Wand,250,93
 Fiery Bone Bow,250,86
-Hanso Charisma Charm,250,101
 Lair Beast Tooth Shield,250,101
 Leaded Fire Vial,250,98
 Mighty Vegan Cheese Log,250,101
@@ -3050,14 +3050,12 @@ Tinsel Trident,250,101
 Dark Fire Potion,240,85
 Grey Faerie Shield,240,97
 Inflated Hammer,240,88
-Bubbling Healing Goo,230,101
 Essence of Everlasting Apple,230,101
 Hardened Leather Kau Helm,230,89
 Puppyblew Ice Shield,230,94
 Tornado in a Bottle,230,93
-Trumpet Of Deafening,220,55
 Dewberry Reviver,210,101
-Cheap Earth Ring,200,58
+Candy Cane Sword,200,101
 Cheap Fire Ring,200,60
 Cork Gun,200,86
 Dust Mote,200,76
@@ -3066,24 +3064,23 @@ Golden Coin Amulet,200,101
 Jetsam Fin Guard,200,85
 Little Timmy Battlecard,200,104
 Meerca Water Mine,200,85
-Minor Defence Scroll,200,99
 Moehog Mud Bomb,200,98
 Plastic Butter Knife,200,180
 Striped Gnorbu Lance,200,87
 Sturdy Blue Sword,200,92
 Top of the Mountain Crystal,200,101
+Ultra Dark Reflectorb,200,87
 Volcanic Blow Gun,200,93
 Bony Bracers,190,90
 Laced Wooden Staff,190,86
 Luperus Tooth,190,101
-Cheap Air Ring,180,62
 Double Pointed Spear,180,74
 Enchanted Maraquan Necklace,180,85
 Spinning Snow Mound,180,101
 Sweet Nightmares Curse,180,101
+Thermal Explosive Device,180,89
 Yurble Battle Yoyo,180,89
 Elephante Peanut Bomb,170,76
-Obsidian Dagger,170,101
 Rotten Onion,170,76
 Chucklass,160,101
 Interstellar Spring Shoes,160,101
@@ -3097,6 +3094,7 @@ Ice Shard,150,73
 Puce Elixir,150,91
 Ridiculously Heavy Battle Hammer,150,87
 Salt Mote,150,52
+Scorchio Battle Wand,150,99
 Silver Mote,150,67
 Studded Ixi Battle Boots,150,88
 Trapped Snow Wurm,150,82
@@ -3116,7 +3114,6 @@ Jade Helmet of the Ogrin,130,72
 Sir Cheekalot Training Shield,130,101
 Bronze Mote,120,66
 Daemon Goggles,120,101
-Feather Tickler,120,120
 Spyder Web Gun,120,101
 Jade Sword of the Ogrin,110,74
 Bone Breastplate,100,79
@@ -3129,16 +3126,18 @@ Inflatable Kyrii Bat,100,78
 Itsy Bitsy Tiny Snowball,100,98
 Magic Wand,100,96
 Peanut Butter and Jam Shield,100,68
-Snow Mote,100,75
 Sparkshooter,100,50
 Starburst Bottle,100,75
 Stone Fire Body Basher,95,70
 Green Sticky Hand,90,96
+Jelly Mote,90,66
 Large Metal Shield,90,80
 Techo Boomerang,90,79
 Bubble Beam,85,180
+Cheap Earth Ring,85,58
 Lump Of Wood,85,75
 Blue Frost Cannon,80,40
+Ragged Desert Cape,80,91
 Weewoo Mote,80,72
 Grenanna Potion,75,101
 Illusens Earth Potion,75,101
@@ -3147,6 +3146,7 @@ Ree Mote,75,74
 Snowball Slingshot,75,91
 Exploding Potion,70,96
 Golden Laurel Circlet,65,83
+Palace Guard Sandals,65,99
 Wet Snowball Wand,65,91
 Capara Battlecard,60,101
 Jittery Jipple Pear Potion,60,88
@@ -3156,7 +3156,6 @@ Seedless Skeem Potion,60,101
 Asparatwigs,55,71
 Freaky Factory Slingshot,55,101
 Auto Targeting Telescope,50,70
-Bucket Of Mud,50,70
 Carved Carrot Helmet,50,70
 Clay Sword,50,84
 Enhanced Solar Gauntlet,50,77
@@ -3174,16 +3173,12 @@ Earth Stone Gem,40,180
 Golden Geraptiku Talisman,40,101
 Moehog Battle Goggles,40,97
 Robot Muffin,40,85
-Scorchio Battle Wand,40,99
 Amulet of Fire,35,80
-Amulet of Reflection,35,85
 Bag of Infinite Neggs,35,94
 Icy Snowball,35,95
 Bombaberry Elixir,30,89
 Ice Mirror,30,97
 Jelly Muffin,30,73
-Laughing Potion,30,101
-Palace Guard Sandals,30,99
 Poison Snowball Wand,30,92
 Smelly Dung Muffin,30,83
 Supersize Gargantuplex,30,97
@@ -3200,19 +3195,22 @@ Brain Muffin,20,84
 Dry Ice Snowball,20,78
 Gelert Wand,20,60
 Really Big Chunk of Ice,20,101
-Sturdy Blue Shield,20,97
 Weak Bottled Dark Faerie,20,88
 Battle Faerie Dagger,19,96
 Yoyo Bomb,19,70
 Red Frost Cannon,18,60
 Weak Bottled Water Faerie,18,88
+Basic Lightning Beam,17,50
 Necklace of the Water Faerie,17,96
 Soggy Scroll,17,85
 Grape Snowflake,15,95
 Intricate Qasalan Dagger,15,80
+Supersize!,15,50
 Virtupets Energy Sabre,15,89
 Ice Dagger,14,95
 Leaded Earth Vial,14,98
+Evil Muffin,13,75
+Laughing Potion,13,101
 Scroll of Ultranova,13,96
 Weak Bottled Earth Faerie,13,88
 Chocolate Chip Battle Biscuit,12,70
@@ -3221,9 +3219,9 @@ Forgotten Ice Sword,12,101
 Frozen Snow Shovel,12,101
 Jade Slingshot of the Ogrin,12,70
 Spooky Ring,12,88
-Failed Snowball,11,68
+Amulet of Reflection,11,85
 Sand Snowball,11,101
-Sticky Snowflake,11,180
+Snow Mote,11,75
 Amber Sword,10,93
 Amulet of Darkness,10,94
 Boots of Leaping,10,90
@@ -3232,19 +3230,21 @@ Dark Nova,10,90
 Electro Sword,10,91
 Heavy Round Shield,10,97
 Moehog Hoof Pad,10,68
-Molasses Snowball,10,86
 Nurias Battle Shield,10,89
-Ring of the Sway,10,101
 Robot Mote,10,72
 Rotten Radish,10,70
 Space Faerie Sword,10,94
+Trumpet Of Deafening,10,55
 A History of the Lost Desert,9,68
 Basic Rubber Axe,9,60
 Cursed Wand of Shadow,9,90
 Mud Mixture,9,101
+Obsidian Dagger,9,101
 Tomato Bomb,9,91
 Green Frost Cannon,8,85
 Pink Faerie Snowball,8,89
+Ring of the Sway,8,101
+Sturdy Blue Shield,8,97
 Clay Shield,7,82
 Deserted Desert Scroll,7,92
 Lightning Wand,7,60
@@ -3253,10 +3253,10 @@ Meteor Bomb,7,97
 Nova,7,65
 Rubber Power Axe,7,70
 Spooky Looking Dark Potion,7,88
-Void Snowball,7,88
 Yellow Snowball,7,80
 Blueberry Snowflake,6,85
 Deadly Attack Spork,6,96
+Exploding Snowball,6,90
 Flask of Liquid Light,6,97
 Golden Muffin,6,87
 Illusens Potion,6,101
@@ -3264,26 +3264,24 @@ Rotten Artichoke,6,69
 Scroll of Supernova,6,95
 Scroll of the Sea,6,93
 Ultranova,6,80
-Yellow Sticky Hand,6,94
 Battle Muffin,5,70
+Cheap Air Ring,5,62
 Dark Vine Potion,5,83
-Elephante Peanut Launcher,5,70
-Evil Muffin,5,75
-Frost Glove,5,101
 Scamander Shield,5,92
 Wooden Practice Shield,5,64
 Basic Shield of Flight,4,69
 Frost Bite Egg,4,73
+Frost Glove,4,101
 Glowing Snowflake,4,87
 Helm-mounted Laser Beam,4,90
 Jhudoras Snowball,4,101
 Lost Desert Architecture,4,75
 Peach Snowflake,4,80
-Pottery Shard Dagger,4,89
 Rainbow Gun,4,180
 Ringed Scroll,4,84
 Rustic Wooden Shield,4,88
 Shield of the North Wind,4,88
+Void Snowball,4,88
 Warriors Round Shield,4,69
 Wet Snowflake,4,60
 Ancient Scarab Scroll,3,54
@@ -3294,13 +3292,13 @@ Diamond Snowball,3,84
 Elephante Attack Peanut,3,95
 Exploding Snowflake,3,87
 Extra Evil Snowball,3,101
+Failed Snowball,3,68
 Fire Muffin,3,83
 Frozen Scarf,3,101
-Gold Trimmed Tunic,3,96
 Heavy Blocking Shield,3,101
 Icy Eye Snowball,3,101
-Manacle Mace,3,96
 Mega Force Ice Glove,3,80
+Molasses Snowball,3,86
 Pale Elixir,3,87
 Paper Dagger,3,83
 Peach Snowball,3,85
@@ -3309,7 +3307,6 @@ Remote Control Virtupets Snowball,3,92
 Rotten Carrot,3,75
 Sticky Snowball,3,100
 Stone Muffin,3,96
-Thermal Explosive Device,3,89
 Tortured Snowball,3,101
 Ugly Snowball,3,101
 Warriors Rectangular Shield,3,89
@@ -3318,6 +3315,7 @@ Water Faerie Water Blaster,3,86
 Altadorian Initiate Sword,2,65
 Brown Snowball,2,101
 Bubble Mote,2,58
+Elephante Peanut Launcher,2,70
 Evil Snowball,2,75
 Evil Snowflake,2,70
 Glowing Meteor Rock,2,101
@@ -3329,6 +3327,7 @@ MechaBerry Bomb,2,48
 Meteor Rock,2,101
 Space Fungus Spore,2,101
 Steel Snowball,2,85
+Sticky Snowflake,2,180
 Ubikiberry Elixir,2,75
 Ultra Bubble Beam,2,80
 Water Mote,2,62
@@ -3337,14 +3336,15 @@ Yellow Snowflake,2,76
 Altadorian Practice Helmet,1,65
 Ancient Shenkuu Cannon,1,72
 Black Velvet Cloak,1,96
+Bucket Of Mud,1,70
 Cheap Water Ring,1,55
 Coltzans Gem,1,101
-Exploding Snowball,1,90
 Gilded War Hammer,1,84
 Lime Elixir,1,65
 Omelette Shield,1,81
 Poison Snowball,1,70
 Poisonous Snowflake,1,70
+Pottery Shard Dagger,1,89
 Rotten Beetroot,1,77
 Serf Lens,1,101
 Smoke Mote,1,55
@@ -3353,6 +3353,7 @@ Supernova,1,75
 Unnerving Hat,1,101
 Wet Snowball,1,60
 Wooden Blocking Shield,1,101
+Yellow Sticky Hand,1,94
 9 Pound Coconut,(r101),101
 Air Faeries Fan,(r180),180
 Aisha Myriad,(r180),180
@@ -3539,6 +3540,7 @@ Make Some Noise Noisemaker,(r180),180
 Maractite Battle Duck,(r200),200
 Maractite Warriors Shield,(r101),101
 Masilas Brooch,(r101),101
+Mask of Coltzan,(r200),200
 Meepapault,(r101),101
 Meerca Brothers Glue,(r101),101
 Mega Cabbage,(r101),101
@@ -3687,6 +3689,7 @@ Rod of Ummagine,Inflation Notice,105
 Stealthy Lutari Morphing Potion,Inflation Notice,99
 Kacheek Flour,Inflation Notice,99
 Pumpkin Stick,Inflation Notice,101
+Pirate Cybunny Morphing Potion,Inflation Notice,99
 Heavy Blue Tunic,Inflation Notice,99
 Royal Boy Kyrii Morphing Potion,Inflation Notice,99
 Cloud Cybunny Morphing Potion,Inflation Notice,99
@@ -3697,7 +3700,6 @@ Kau Transmogrification Potion,Inflation Notice,101
 Glowing Cauldron,Inflation Notice,99
 Kougra Transmogrification Potion,Inflation Notice,101
 Pteri Transmogrification Potion,Inflation Notice,101
-Shuriken,Inflation Notice,99
 Eyrie Transmogrification Potion,Inflation Notice,101
 Plushie Bruce Morphing Potion,Inflation Notice,99
 Plushie Chomby Morphing Potion,Inflation Notice,99
@@ -3725,7 +3727,6 @@ Grundo Transmogrification Potion,Inflation Notice,101
 Blue Ixi Morphing Potion,Inflation Notice,98
 Fire Chomby Morphing Potion,Inflation Notice,99
 Golden Scamander Scroll,Inflation Notice,99
-Island Ixi Morphing Potion,Inflation Notice,99
 Nova Blade,Inflation Notice,99
 Winged Shoyru Amulet,Inflation Notice,99
 Woodland Tonu Morphing Potion,Inflation Notice,99
@@ -3744,7 +3745,6 @@ Pirate Chomby Morphing Potion,Inflation Notice,98
 Shadow Blumaroo Morphing Potion,Inflation Notice,99
 Desert Ixi Morphing Potion,Inflation Notice,99
 Uni Transmogrification Potion,Inflation Notice,101
-Elixir of the Pirate,Inflation Notice,99
 Woodland Skeith Morphing Potion,Inflation Notice,99
 Ghost Kiko Morphing Potion,Inflation Notice,99
 Rainbow Flotsam Morphing Potion,Inflation Notice,99
@@ -3773,7 +3773,6 @@ Sword of Apocalypse,Inflation Notice,101
 Green Poogle Morphing Potion,Inflation Notice,99
 Fire Moehog Morphing Potion,Inflation Notice,99
 Christmas Bori Morphing Potion,Inflation Notice,99
-Cursed Elixir of Neovia,Inflation Notice,101
 Green Bori Morphing Potion,Inflation Notice,99
 Tears of Caylis,Inflation Notice,101
 Red Bori Morphing Potion,Inflation Notice,99
@@ -3784,13 +3783,13 @@ Pirate Yurble Morphing Potion,Inflation Notice,98
 Camouflage Shoyru Morphing Potion,Inflation Notice,98
 Kougra Wool Bomb,Inflation Notice,99
 Ruby Krawk Shield,Inflation Notice,99
-Christmas Uni Morphing Potion,Inflation Notice,99
 Icy Snowflake,Inflation Notice,97
 Silver Shoyru Morphing Potion,Inflation Notice,97
 Yellow Blumaroo Morphing Potion,Inflation Notice,99
 Kiko Helm of Intellect,Inflation Notice,99
 Cloak of Night,Inflation Notice,99
 Pink Korbat Morphing Potion,Inflation Notice,98
+Split Bruce Morphing Potion,Inflation Notice,99
 Virtublaster 5000,Inflation Notice,99
 Clockwork Nimmo,Inflation Notice,99
 Green Blumaroo Morphing Potion,Inflation Notice,99
@@ -3807,6 +3806,7 @@ Speckled Bruce Morphing Potion,Inflation Notice,98
 Woodland Brew,Inflation Notice,99
 Chia Totem,Inflation Notice,180
 Melting Mirror,Inflation Notice,101
+Strawberry Meerca Morphing Potion,Inflation Notice,98
 Famous Sand Collections,Inflation Notice,101
 Ornate Violet Cloak,Inflation Notice,99
 Sakhmetian Shield,Inflation Notice,99
@@ -3823,6 +3823,7 @@ Princely Lens,Inflation Notice,117
 Sakhmetian Spear,Inflation Notice,99
 Green Vandagyre Morphing Potion,Inflation Notice,97
 Red Quiggle Morphing Potion,Inflation Notice,97
+Greater Water Potion,Inflation Notice,101
 Seeking Arrow,Inflation Notice,101
 Striped Scorchio Morphing Potion,Inflation Notice,98
 Yellow Meerca Morphing Potion,Inflation Notice,98
@@ -3852,4 +3853,3 @@ Dangerous Dodgeball,Inflation Notice,101
 Staff of the Bewed,Inflation Notice,101
 Krawk Battle Shield,Inflation Notice,180
 Kiko Shield,Inflation Notice,180
-Math Slingshot,Inflation Notice,101
