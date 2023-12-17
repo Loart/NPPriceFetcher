@@ -27,6 +27,7 @@ Bargella Root,5500000,180
 Chocolate Heart Usuki,5500000,101
 Happy Anniversary Negg,5500000,95
 Bushel of Illusen Apples,5000000,101
+Cool Negg,5000000,101
 Fall Sprinkle Cupcake,5000000,101
 Fresh Fruit Goblet,5000000,99
 Illusen Bento Box Lunch,5000000,101
@@ -73,7 +74,6 @@ Pyramid Purpple,2300000,99
 Tiger Orange Slushie,2300000,99
 Halloween Candy Cane,2200000,99
 Punk Rocker Hot Dog,2100000,99
-Apple Lantern,2000000,99
 Artichoke Cupcake,2000000,99
 Asparagus Balls,2000000,99
 Black Hole Slushie,2000000,101
@@ -129,6 +129,7 @@ Burning Hot Dog,1900000,99
 Rare Cyber Negg 2.0,1900000,101
 Tchea Toffee Apple,1900000,93
 Yellow Doughnutfruit,1900000,99
+Apple Lantern,1800000,99
 Bread Wreath,1800000,99
 Faerie Chocodrop,1800000,99
 Invisible Cookie,1800000,98
@@ -139,11 +140,11 @@ Magical Peach Chia Pop,1800000,99
 Raspberry Toffee Apple,1800000,94
 Upside Down Ice Cream,1800000,94
 Upside-down Slushie,1800000,101
-Well-Aged Hot Dog,1800000,99
 Wing of Korbat,1800000,99
 Cheesy Carrot Chunks,1700000,98
 Grey Toast,1700000,94
 Loretta Fontaines Perfect Pizza,1700000,100
+Well-Aged Hot Dog,1700000,99
 Headless Horsefish,1600000,100
 Island Draik Egg,1600000,98
 Magical Lime Chia Pop,1600000,99
@@ -197,6 +198,7 @@ Gummy Apple Mootix,999999,101
 Honey and Bacon Burger,999999,94
 Illusens Family Recipe Cake,999999,93
 Island Bruce Hot Tea,999999,101
+King Altador Sack Lunch,999999,101
 Lime Berry Kiko Lake Altador Cup Slushie,999999,101
 Mocha Joy Fun Pop,999999,100
 Our Famous Krawk Pie,999999,100
@@ -210,20 +212,22 @@ Strawberry Poogle Tea,999999,101
 Yellow Usul Baby Carrots,999999,101
 Yooyuball Coffee,999999,101
 Zeenana Ice Lolly,999999,180
-Rainbow Vanilla Negg,995000,101
 Succulent Cheese Dip,995000,101
 Disco Chomby Pie,990000,101
 Dr. Sloth Summer Fruit Salad,990000,101
 Island Meatloaf,990000,97
 Lolly Snot,990000,101
+Rainbow Vanilla Negg,990000,101
 Cheesy Chocoshake,985000,98
 Orange Meerca Tea,985000,101
+Purple Kau Yogurt,985000,101
 Robot JubJub Nut Loaf,985000,101
 Cheesy Strawberry Slice,980000,98
 Negg Sundae,980000,101
 Slithering Squid Surprise,980000,100
 Spotted Aisha Ice Cream Cone,980000,101
 Strawberry JubJub Tea,980000,101
+Camouflage Wocky Iced Cake,970000,101
 Raspberry Pop,970000,100
 Striped Xweetok Milkshake,965000,101
 Ice Apple,960000,96
@@ -235,36 +239,38 @@ Island Kacheek Fruit Drink,945000,101
 Murky Green,945000,99
 Camouflage Poogle Crisps,935000,101
 Speckled Uni Milkshake,935000,101
+Witchy Negg,930000,101
 Lenny Salad,920000,97
 Blue Elephante Sundae,910000,101
-Cauliflower Shake,910000,99
 Spotted Mynci Chai Tea,910000,101
 Botago Plant,900000,180
 Fancy Petpet Food,900000,101
-Purple Scorchio Tea,900000,101
 Sloth Halloween Cupcake,900000,101
 Strong Berry,900000,99
 Yellow Xweetok Fizzy Drink,900000,101
-Camouflage Wocky Iced Cake,895000,101
+Cauliflower Shake,895000,99
 Cloud Uni Latte,895000,101
 Honey Tea (Vocal Soother),895000,101
-Light Faerie Mushroom,895000,98
 Bangers and Mash,885000,97
 Boiled Striped Xweetok Negg,885000,101
 Island Bruce Mashed Potatoes,885000,101
-Soup Faerie Mushroom,885000,98
 Usul Halloween Beverage,885000,101
 Halloween JubJub Candies,875000,101
 Roo Roo Grub,875000,101
-Witchy Negg,875000,101
+Tchea Grog,875000,100
+Light Faerie Mushroom,865000,98
 Super Veggie Baguette,855000,101
+Forbidden Plunder,850000,100
+Man O War,850000,100
+Purple Scorchio Tea,850000,101
 Red Picnic Hamper,850000,96
+Soup Faerie Mushroom,845000,98
 Faerie Aisha Tea,840000,101
 Faerie Acara Tea,835000,101
 Robot Mynci Energy Drink,835000,101
 Yellow Kougra Squash Soup,835000,101
 Lever of Doom Halloween Negg,830000,101
-Banana Split Chia Pop,825000,98
+Speckled Bruce Fizzy Drink,825000,101
 King Altador Hallowen Juice,820000,101
 Yellow Draik Egg,820000,97
 Pink Quiggle Ice Cream Float,815000,101
@@ -274,42 +280,44 @@ Cream Pie,800000,101
 Green Draik Egg,800000,96
 Negg of Marble,800000,101
 Pinanna Paradise,800000,100
-Puntec Parcel,800000,94
-Roasted Negg Soup,800000,101
 Sloth Wrap,800000,99
 Cybunny Day Canape,795000,97
+Roasted Negg Soup,795000,101
+Berry Joy Fun Pop,790000,100
 Chocolate Coated Tangy Cheese,790000,97
-Brainburger,785000,101
 Golden Carrot,775000,180
 Pirate Negg,770000,96
 Pootato,770000,99
-Strange Pinanna,765000,99
+Strange Pinanna,770000,99
 Zeenana Toffee Apple,765000,96
 Usuki Rarebit,755000,101
 Blueberry and Oyster Ice Cream,750000,100
 Chocolate Coated Holey Cheese,750000,98
-Keel Haul,750000,100
 Thornberry Brew,750000,101
-Berry Joy Fun Pop,745000,100
 Carrot Crown,745000,97
-Cheeseburger Slushie,745000,99
 Container of Purple Liquid,745000,94
+Squid on a Stick,745000,100
 Faerie Queen Smoothie Bowl,735000,96
 Vegetarian Sausage Roll,735000,180
+Banana Split Chia Pop,730000,98
 Paper Clip Candy,730000,101
+Lemon Pop,725000,100
 Blue Draik Egg,720000,95
+Cheeseburger Slushie,720000,99
+Puntec Parcel,715000,94
 Pinanna Plus,710000,99
 Princess Amira Halloween Negg,705000,101
 Super Chunky Superhero Applesauce,705000,101
+ErgyFruit Grog,700000,100
+Faerie Block Mallows,700000,98
+Keel Haul,700000,100
 Ranegg,700000,101
-Crystal Pop,695000,180
+Crystal Pop,690000,180
 Ylana Skyfire Ice Cream Sundae,690000,101
 Fire Apple,685000,97
-Squid on a Stick,685000,100
+Lawyerbot Degreaser,680000,96
 Krakuberry Grog,675000,100
 Radioactive Negg,675000,109
-Bomberry Grog,670000,100
-Speckled Bruce Fizzy Drink,670000,101
 Elegant Tea Service,665000,98
 Yellow Kougra Tea,665000,101
 Minty Shrimp,660000,180
@@ -318,23 +326,20 @@ Cheesy Krawk Dip,655000,97
 Cornupepper,655000,99
 Assorted Vandagyre Approved Nuts,645000,96
 Electric Lupe Treats,640000,101
+Brainburger,630000,101
 Black Caviar,625000,97
 Yellow Xweetok Cookies,625000,101
 Cherry Pop,620000,100
 Fancy Rack of Lamb with Fruit,620000,96
-Chocolate Joy Fun Pop,605000,100
 Cho Sticks,600000,101
 Doughnutfruit,600000,99
-ErgyFruit Grog,600000,100
 Green Kacheek Tea,600000,101
 Grog Light,600000,100
-Tchea Grog,600000,100
-Lawyerbot Degreaser,595000,96
+Island Mystic Halloween Negg,600000,101
 Wocky Steak,595000,97
 Krakuberry Juice,585000,101
 Altador Cup Chili Chips,580000,101
-Island Mystic Halloween Negg,580000,101
-Lemon Pop,575000,100
+Fresh Lobster Tail,580000,99
 Steak Surprise,575000,97
 Vein Cabbage,575000,99
 Cheat Day Milkshake,570000,101
@@ -345,49 +350,49 @@ Lavaberry,540000,99
 Rotating Neopia Slushie,540000,101
 Jelly Float,530000,101
 Land Lubber,530000,100
+Cog Halloween Negg,525000,101
 Mega Pipper Sandwich,525000,95
 Negg Brownie Pops,525000,101
 Usuki Ears Pudding,520000,101
 Walk The Plank,520000,100
-Cog Halloween Negg,515000,101
 Krakuberry Cove,510000,100
 Sweet Ham and Fruit,510000,101
 Grape Pop,500000,100
 Island JubJub Drink,500000,101
+Phear,500000,99
 Plum Crunch Cereal,500000,101
 Tigersquash Spectacular,495000,99
 Vortex Negg,495000,113
+Donut Burger,490000,93
 Faerie Floss Cocktail,490000,101
-Purple Scorchio Beet Soup,490000,101
-King Altador Sack Lunch,485000,101
 Speckled Uni Cheese,485000,101
 Le Sausage,480000,94
-Man O War,480000,100
 Unguberry Kiko Candy Floss,475000,98
 Christmas Quiggle Avocado Ice Cream,470000,101
+Leftover Shortcrust Pastry,470000,96
 Purple Sardplant,470000,180
 Staring Negg,470000,101
+Ugly Pinanna,470000,99
 Yooyu Waffle,470000,101
+Heart Shaped Negg,465000,92
 Uni Salad,465000,97
 Fire Faerie Red Pepper,455000,98
 Marrow Sandals,455000,102
 Pheppacorn,455000,180
-Donut Burger,450000,93
-Ugly Pinanna,445000,99
+Purple Scorchio Beet Soup,455000,101
 Chilli Salmon Souffle,440000,94
-Confusionegg,440000,101
-Leftover Shortcrust Pastry,440000,96
 Negg Cream Cookie,435000,105
-Hot Dog with Everything,425000,98
+Berry Blend Slushie,430000,98
 Sardplant Easter Negg,425000,101
+Confusionegg,410000,101
 Rainbow Sherbert Ice Cream,410000,101
 Strawberry Usul Fizzy Drink,410000,101
 Green Ham,405000,96
 Muntando Fruit,405000,110
 Sparkling Bog Water,405000,101
-Fresh Lobster Tail,400000,99
+Bomberry Grog,400000,100
 Stealthy Hot Dog,400000,98
-Faerie Block Mallows,395000,98
+Hot Dog with Everything,395000,98
 Illusen Chilled Summer Soup,395000,101
 Stramberry,395000,180
 Pirate Draik Egg,390000,97
@@ -397,18 +402,18 @@ Bagel with Scream Cheese,380000,101
 BBQ Porkwich,380000,101
 Cornupepper Easter Negg,380000,101
 Fizzy Koi Seapop,380000,180
-Heart Shaped Negg,380000,92
 Radish and Cheese,375000,98
 Spoc Spoc II,375000,101
+Snowberries,370000,180
 Capn Threelegs Halloween Negg,360000,101
 Phear Easter Negg,360000,101
 RainbowBerry,360000,180
-Phear,355000,99
 Seaweed Flotsam Burger,355000,96
+Chocolate Joy Fun Pop,350000,100
 Illusen Negg,350000,97
+Candy Cane Negg,345000,89
 Chyrsaberry Surprise Easter Negg,345000,101
 Crystal Turkey,340000,98
-Basic Power Negg,330000,101
 Broccoli and Mustard Sandwich,330000,98
 Negg Rolls,330000,101
 Orange Kougra Fruit Juice,330000,101
@@ -416,16 +421,19 @@ Tigersquash,325000,99
 Purple Cybunny Negg,320000,89
 Yenegg,320000,101
 Hungry Skeith Jelly,310000,101
+Cone-Shaped Lemon,305000,98
 Earth Faerie Mushroom,300000,97
 Faerie Sparklecake,300000,99
 Frozen Faerie Ixi Coconut Smoothie,300000,101
 Frozen Negg,300000,95
 Cheesy Choco Cookie,295000,92
-Orange Yooyuball,295000,101
 Usuki Cheeseburger,295000,101
 Usuki Veggie Plate,295000,101
+ErgyFruit,285000,99
 Krakuberries,280000,99
+Orange Yooyuball,280000,101
 Frozen Veggie Delight,275000,96
+Basic Power Negg,270000,101
 Confetti Ice Cream Pops,270000,101
 Fruity Seafood Delight,265000,101
 Heart Fruit,265000,101
@@ -433,10 +441,12 @@ Battle Duck Negg,255000,90
 Kau Waffles,255000,92
 Aquaberry,250000,160
 Deep Fried Negg,250000,101
-Berry Blend Slushie,249000,98
+Natural Hot Dog,250000,98
+Kreludan Grunpop,249000,98
 Rosemary Mushroom Tea,249000,97
 Pumpkin Negg,248000,101
 Isca Summer Dumplings,247000,101
+Speckled Negg,246000,89
 Punegg,243000,101
 Spoooky Muffin,243000,99
 Starry Elephante Drink,242000,101
@@ -444,7 +454,6 @@ Armoured Negg,240000,101
 Tigerfruit,237000,98
 Primordial Stew,230000,98
 Milkyway Shake,228000,98
-Natural Hot Dog,227000,98
 Tartan Chia Pop,225000,99
 Funnydew Neggnog,222000,93
 Scrambled Rainbow Negg,217000,101
@@ -462,36 +471,30 @@ Yellow Negg,200000,80
 Maple Syrup Negg,197000,90
 Square Meat,195000,93
 Pink Spooky Popcorn,194000,96
-Snowberries,191000,180
+Blairnut,192000,180
 Celebratory Cup of Cocoa,190000,101
 Rainwater Negg,188000,105
 Little Bag of Bulgur,185000,101
-Pink Negg,183000,85
-Candy Cane Negg,175000,89
-Christmas Pattern Negg,174000,97
+Sugar Coated Leaf,176000,98
+Elderly Apple,175000,97
+Pyramid Banana,175000,98
 Grey Waffles,173000,92
 Apple Juice Carton,170000,101
 Decorative Negg,170000,89
 Purple Juppie Slurpbowl,170000,98
 Welsh Rarebit,170000,92
-Speckled Negg,169000,89
 Snow Faerie Puffs,168000,101
 French Toast PB&J Sandwich,167000,92
-Partitioned Negg,166000,78
 Rainbow Neggnog,166000,96
-Sweet and Sour Negg,166000,88
 Blue Negg,165000,86
 Royal Scorchio Chalice,165000,101
-Sugar Coated Leaf,161000,98
-Pyramid Banana,160000,98
-Elderly Apple,159000,97
-Kreludan Grunpop,159000,98
-Bacon Belly Buster,157000,99
+Pink Negg,162000,85
+Ruki Salad,161000,92
 The Tiny Omelette,157000,101
 Fyora Lollipop,155000,101
-Glass Negg,154000,87
+Bacon Belly Buster,153000,99
 Hot Dog of Justice,153000,101
-Blairnut,150000,180
+Christmas Pattern Negg,150000,97
 Raspberry Jam,150000,92
 Deluxe Fyora Day Cake,149000,98
 Ultimate Icy Negg,147000,98
@@ -504,109 +507,108 @@ Steak Negg,140000,92
 Rock Negg,138000,90
 Green Chyrsaberry,137000,98
 Canned Ham,134000,101
-Ruki Salad,132000,92
+Partitioned Negg,130000,78
+Purple Negg,130000,65
 Ornate Purple Negg,129000,89
+Fire Carrot,128000,92
 Birthday Banana Split,127000,101
 Fall Leaf Salad,127000,92
 Starry Elephante Ice Lolly,127000,101
+Sweet and Sour Negg,127000,88
 Tigerbuggles,124000,98
+Tigermelon,124000,98
+Kreludan Candy Floss,122000,98
 Uni Ice Cream,120000,91
 Assorted Brightvale Fruit Basket,117000,98
 Peach Jelly,117000,92
-Kreludan Candy Floss,114000,98
+Apple Juice Sippy Cup,114000,91
+Watermelon Maraquan Shoyru,114000,91
 Extra Fancy Crackers,112000,92
-Festival Negg,112000,101
 Quiggle Pie,112000,99
 Tigersquash Mega,112000,180
-Evil Popcorn,111000,92
-ErgyFruit,110000,99
-Purple Negg,110000,65
-Super Icy Negg,110000,78
-Jalapeno Kacheek Cheese,109000,93
+Strawberry Taco,110000,92
+Evil Popcorn,109000,92
+Grey Eggs and Bacon,109000,95
 Ultra Icy Negg,109000,88
+Glass Negg,107000,87
+Shishka Juice,107000,101
+Asparagus Borovan Lasagne,106000,91
 Negg Lasagna,106000,101
 Acnefruit,105000,97
+Gwontek Melon,105000,98
 Lemon Swirly Negg,102000,82
-Angel Hair Salad,100000,101
-Apple Juice Sippy Cup,100000,91
 Cheese Fondue,100000,101
 Deluxe Peophin Burger,100000,92
 Lava Burger,100000,101
+Neopets 18th Birthday Cake,100000,93
 Orange Negg,100000,85
 Relaxation Tea,100000,96
 Sparkling Drink,100000,101
-Strawberry Taco,100000,92
-Cone-Shaped Lemon,99000,98
 Triple Chocolate Shell,99000,101
+Jalapeno Kacheek Cheese,98500,93
+Peanut Dash Stir Fry,96500,92
 14 Karat Baked Potato,95000,95
 Iced Hamwich,95000,101
 Carnivorous Carved Pumpkin,94500,89
+Angel Hair Salad,93500,101
 Strawberry Ice Cream Apple Lantern,93000,88
 Green Festival Negg,91500,101
 Hotfish,91500,101
-Grey Eggs and Bacon,90000,95
 Negg Stew,90000,101
 Royal Blue Cheeseburger,90000,101
 Taelia Negg,90000,101
 Gaming Fuel,89500,101
 Thistleberry,89000,180
 Paint Blob Slushie,88500,101
-Fried Negg Sandwich,88000,91
-Peachpa and Stramberry Shell,87500,101
+Chokato Neggnog,87500,92
 Disturbing Gelatin,87000,89
 Golden Winged Apple,87000,101
-Tigermelon,87000,98
 Negg Doughnut,86500,101
 Peppered Salmon Dish,86500,92
-BluePepper,86000,180
+Festival Negg,84500,101
 Honey Blossom Stone Doughnuts,83500,97
 Bacon Taco,83000,91
 Bottle of Negg Juice,83000,101
 Carnapepper,83000,180
-Sugar Negg Cereal,82000,101
+Super Icy Negg,82500,78
 Mint and Chocolate Ice Cream,81500,101
 Wanderer Tea,81500,101
 Frosted Uni Cookies,81000,101
-Chokato Neggnog,80000,92
 Coconut Macaroons,80000,101
 Pumpkin Ice Cream,80000,89
 Tyrannian Water Negg,80000,97
 Glass of Jelly,79000,101
 Jelly Negg,79000,99
-Peanut Dash Stir Fry,79000,92
 Dark Tea,78000,96
 Fresh Sushi Roll,78000,97
-Gwontek Melon,78000,98
-Ghost Negg,77500,101
-Asparagus Borovan Lasagne,77000,91
-Cawl,76500,92
-Neopets 18th Birthday Cake,76000,93
+Cawl,75500,92
 Petpet Crackers,75500,92
 Flower Nectar,75000,92
+Negg of Purity +1,75000,101
 Pirate Ship Deviled Eggs,75000,101
+Fried Negg Sandwich,74500,91
 Gum Balls,74500,101
-Book Sandwiches,74000,101
 Kyrii Agueena Milkshake,74000,91
 Thorn Cream Cone,74000,101
-Thorn on the Cob,74000,92
 Baby Elephante Milk Bottle,73500,93
 Fresh Bogberries,73000,101
-Tar Slushie,73000,99
-Fire Carrot,72000,92
 JubJub Coconut Juice,71000,92
-Pizza Sandwich,70500,98
 Official Altador Cup Energy Drink,70000,101
+Sweet Heart Negg,70000,101
 Gemstone Negg,69500,101
 Igloo Cupcakes,69500,101
+Pizza Sandwich,69500,98
 Worm Stew,69500,88
 Coral Cake,69000,101
+Ghost Negg,69000,101
 Magical Blue Grundo Blueberry Icecream,69000,101
 Tasty Guacamole,69000,92
 Bits of a Candy Feast,68000,101
+BluePepper,68000,180
 Jalapeno Cheese Nightmare,68000,88
-Negg of Purity +1,66000,101
-Watermelon Maraquan Shoyru,65000,91
+Tar Slushie,65500,99
 Double Hot Dog,64500,180
+Thorn on the Cob,64500,92
 Chomby Sushi,64000,98
 This Isnt Chili Cheese Fries,64000,87
 Voidberry Moon Cakes,63500,101
@@ -625,15 +627,13 @@ Wocky Plum Pudding,60000,91
 Lime Swirly Negg,59500,84
 Blue Flower Easter Negg,58500,101
 Charming Negg,58500,101
-Sweet Heart Negg,57500,101
+Bag of Space Dust,58000,97
 Governor Gavril McGills Famous Fried Fish Gills,57000,101
 Elephante Trunk Stew,55000,88
 Sliced Neggs,55000,101
 Rose Swirl Easter Negg,54500,101
-Escargot,54000,180
 Lime Juice Carton,54000,101
 Lutari Fizz,54000,91
-BLT sandwich,53500,180
 Deluxe Elephante Cake,53000,92
 Cookie Negg,52500,90
 Yooyu Ice Cream,52000,101
@@ -645,41 +645,44 @@ Asparagus Pie,50000,99
 Baked Apple with Snowberries,50000,96
 Fireball Negg,50000,101
 Octopi Souffle,50000,101
+Peachpa and Stramberry Shell,50000,101
 Brains and Dumplings,49000,89
 Hypnotic Eye Milkshake,49000,101
 Minaes Minis Cereal,48000,101
 Orange Jetsam Cupcake,47300,80
-Bloody Ghost Toast,47200,87
 Lime Berry Meridell Altador Cup Slushie,46700,101
 Flotsam Fin Soup,46000,91
 The Island Mystics Diet,45700,101
-Broccoli Kebab,45000,97
+Ogrin Master Fortune Cookie,45000,101
 Starberry,45000,180
 Ombus Fruit,44800,180
+BLT sandwich,44500,180
 Diet Big Gulp Neocola,44500,99
+Broccoli Kebab,44300,97
+Crystal Taco,43800,97
 Pumpkin Scoopings,43800,99
 Brown Broadberry,43700,160
 Baked Avocado with Curried Sauce,43500,91
 Chocolate Fondue,43200,101
-Bag of Space Dust,43000,97
 Worm and Leech Pizza,42900,101
 Fruity Swirl Souffle,42600,97
 Grape Juice Carton,42000,101
 Noil Candy Floss,41800,91
-Barreled Pirate Drink,41700,101
 Brain Ice Cream,41500,89
 Grunion,41500,180
 Moulded Jelly Dessert,40800,97
 Royal Ice Lolly,40500,97
 Banana,40000,180
+Barreled Pirate Drink,40000,101
 Bogie Berry,40000,88
 Holiday Milk and Cookies,40000,101
 Ice Chocolate Cake,40000,101
 Meridell Darigan Collab Cake,40000,90
 Neopets 24th Birthday Cake,40000,101
 Red Sardplant,40000,180
+Watermelon Jetsam,40000,93
 Yooyu Sopapillas,40000,101
-Purple Carrot,39900,91
+Purple Carrot,39500,91
 Red Juppie,39300,180
 Blackened Hot Pepper,39000,180
 Stuffed Chokatos,39000,91
@@ -701,13 +704,12 @@ Fresh Shark Fin,34000,180
 Chokato Omurice,33800,76
 Techo Jelly Surprise,33800,91
 Underwater Pizza,33800,101
-Purple Felberry Kiko Candy Floss,33700,97
 2/3 Chocberry Pizza,33400,101
+Purple Felberry Kiko Candy Floss,33200,97
 Marrow Pie,33000,101
 Scabu,33000,180
 Sparkleberry Pie,32700,96
-Twin Salad,32700,92
-Crystal Taco,32500,97
+Cheese Plate Slushie,32600,96
 Gooseberries,32500,180
 Poison Apples,32500,96
 Peabone,32400,101
@@ -723,7 +725,6 @@ Chocolate Shoyru Meatball,30900,91
 Magma Blaster Cereal,30400,101
 Deviled Negg,30300,101
 Bunwich,30000,101
-Cheese Plate Slushie,30000,96
 Dried Blusops,30000,97
 Purplum,30000,180
 Rainbow Lutari Cone,30000,101
@@ -731,11 +732,11 @@ Roast Worm with Cranberries,30000,86
 Secret Sloth Slushie,30000,97
 Tangram Bento Bowl,30000,101
 Turkey Drumstick Dinner,30000,91
+Bloody Ghost Toast,29800,87
 Nova Meteor Drink,29300,101
 Cheesy Pineapple Sticks,29000,101
 Chocolate Roll,29000,180
 Double Stuffed Guppy,29000,100
-Maggoty Spud,29000,107
 Strawberry Flavoured Hot Dog,29000,97
 Thistleberry Shake,29000,180
 Haunted Salad,28900,88
@@ -745,28 +746,28 @@ Shenkuu Pumpkin Cake,28000,97
 Stone Hot Dog,28000,97
 Autumnberry,27900,101
 Mynci Surprise Ice Cream,27800,92
+Dorkleberry,27500,160
 Frosted Doughnut,27500,101
 Peach,27500,180
 Iced Borovan Cake,27300,180
 Cheesy Kois,27000,90
 Coral Sponge Cake,26400,180
-Roasted Turnips,26300,101
 Gwermal,26000,180
 Honey Coated Hot Dog,26000,97
-Fruit Krawk Pot,25800,76
 Small Fizzy Drink,25700,80
 Chocolate Ice Cream,25500,80
 Flied Rice,25400,91
+Watermelon Roll,25300,92
 1/3 Slightly Trampled Omelette,25000,101
 1/3 Turkey and Cranberry Omelette,25000,101
 2/3 Turkey and Cranberry Omelette,25000,101
-Blackened Watermelon,25000,180
 Golden Juppie,25000,99
 Neopets 22nd Birthday Cake,25000,101
-Oyster Obsession,25000,100
 Postula,25000,180
-Watermelon Roll,25000,92
+Sparkleberry and Cream,25000,95
 Breakfast Cake,24900,90
+Twin Salad,24800,92
+Altadorian Pastitsio,24700,94
 Blurf,24500,95
 Candy Skull,24500,89
 Liver Poogle Pate,24500,78
@@ -777,10 +778,11 @@ Miners Lunch,24300,101
 Tropical Pudding,24300,101
 Buzz Honey Pot,24200,78
 Buzz Sandwich,24000,91
-Watermelon Jetsam,24000,93
+Blackened Watermelon,23800,180
 King Coltzans Poisoned Meal,23500,101
+Squibble Berry Sandwich,23500,91
 Chocolate Coated Eye,23400,97
-Squibble Berry Sandwich,23400,91
+Glamour Negg,23300,101
 Blackened Strawberries,23000,180
 Buzz Mashed Potato,23000,90
 Candy Feast,23000,101
@@ -810,9 +812,8 @@ Chocolate Nimmo Dessert,20300,80
 Apple Rigamaroll,20000,90
 Birthday Fruit Arrangement,20000,101
 Coral Salad,20000,180
-Dorkleberry,20000,160
+Escargot,20000,180
 Exotic Sliced Truffles,20000,78
-Glamour Negg,20000,101
 Patrapiller and Honey,20000,97
 Seven Layer Mousse,20000,96
 Skarl Fruit,20000,101
@@ -820,6 +821,8 @@ Spiced Melon,20000,101
 Sprinkling of Black Pepper,20000,78
 Tropical Breeze,20000,100
 Turkey Curry,20000,80
+Tyrannian Everything Omelette,20000,94
+Ultra Slushie,20000,101
 Yurble Pot Pie,20000,78
 3/5 Candy Feast,19900,101
 Blueberry Jelly Twirl,19900,79
@@ -827,42 +830,42 @@ Jinjah Ale,19900,80
 Meat Stars,19900,101
 Odorra Pod,19900,97
 Turnip Eyrie Souffle,19900,90
+Grape Blobcicle,19800,97
 Sloth Day Soup,19800,79
 Cinnamon Toasties,19700,80
-Fig,19700,95
 Lavender Mint Tea,19700,95
-Beef Wellington,19500,90
+Dessert Hot Dog,19500,96
+Blackberry Sorbet,19400,80
 Whole Roast Pheasant,19400,101
 Fungi Fruit,19300,180
 2/3 Apple and Brie Omelette,19200,101
-Sparkleberry and Cream,19100,95
-2/3 Bacon Omelette,19000,112
-Ogrin Master Fortune Cookie,19000,101
 Turkey Dinner,19000,90
 Ghost of Cream Pie,18900,101
 Sausage Wrap,18900,101
-Grape Blobcicle,18800,97
+Squid Sauce,18900,90
+Giant Tub of Ice Cream,18700,101
 Peachpa,18600,180
-Apple Walnut Tea Sandwiches,18500,80
 Shrimp Salad Hot Dog,18500,96
 Spaghetti Hot Dog,18500,78
 Taco Salad,18500,80
 Void Negg,18500,101
 Brightvale Celebratory Fruit Basket,18400,97
+Negg,18400,45
 Spoc Spoc Grub,18400,101
 Toffee Chocolate Aisha Sundae,18300,80
 Radish Meringue,18100,96
 1/3 Chocberry Pizza,18000,101
+Apple Walnut Tea Sandwiches,18000,80
 Bloopcream,18000,100
 Goparokko Fish Surprise,18000,97
 Korbat Veggie Plate,18000,79
 Raspberry Birthday Nova,18000,101
+Seaweed Sandwich,18000,180
 Black Mushroom,17900,95
 Congratulations Negg,17800,90
 Embalming Fluid Cocktail,17800,101
 Ghost Techo Lolly,17800,101
 Wasabi,17800,96
-Blackberry Sorbet,17700,80
 Caramel Oil Latte,17700,101
 Elephante Ice Cream,17700,80
 Ghost Bopper Cake,17700,101
@@ -876,16 +879,14 @@ Gnorbu Wool and Jelly Sandwich,17300,78
 Pumpkin Pot Pie,17300,88
 Lutango,17200,101
 Doglefox Cookies,17000,80
-Negg,17000,45
 Spaghetti Steak Burger,17000,101
 Sparkle Berry Kiko Candy Floss,17000,96
+Dust Covered Salad,16900,79
 Meerca Bolognese,16900,91
 Symol Cheddar Cheese Ball,16900,80
-White Chocolate Covered Toffee,16900,90
 Pickled Peppers,16800,79
 Tangleberry,16800,180
 Tomato Baby Food,16800,90
-Dessert Hot Dog,16600,96
 Chocolate Elephante Doughnut,16500,80
 Daily Dare Slushie,16500,101
 Extra Large Fizzy Drink,16500,80
@@ -894,11 +895,12 @@ Pineapple and Broccoli Pie,16500,80
 Spooky Ghostbeef,16500,99
 Terry Berry,16500,95
 Kadoatie Puffs,16400,80
+Fig,16300,95
 A Hearty Meal,16200,101
 Gnorbu Chocolate Pudding,16200,80
 Pumpkin Spice Coffee,16100,93
+Asparagus,16000,101
 Gummy Star,16000,180
-Halloween Skull Cake,16000,101
 Jug of Fresh Lemoranade,16000,96
 Kelp,16000,180
 Kiko Christmas Hot Chocolate Mug,16000,90
@@ -915,41 +917,41 @@ Luxurious Vegetarian Star Pie,15800,101
 Roast Chestnut Neggnog,15800,91
 Sour Cream Chomby Crisps,15800,78
 Koyle,15700,180
-Seaweed Sandwich,15700,180
+Lava Latte,15700,91
 Thistleberry Sandwich,15700,91
 Flowers and Coffee,15600,76
 Pyramid Pear,15600,97
 Bone-Chilling Bacon,15500,88
 Nature Negg,15500,101
 Number Jelly Parfait,15500,79
-Peanut Butter & Jelly Waffle Sandwich,15500,78
 Jetsam Jam,15400,82
+Mosaic Negg,15400,90
 Stripey Urchin,15400,180
-Agueena,15300,92
 Lobster Berry Surprise,15300,96
-Altadorian Pastitsio,15200,94
 Disco Toast,15200,80
-Purple Spotted Cheese,15200,106
+Bowl Hominy,15100,78
 Gingerbread Cookie Box,15100,77
 Asteroid Zeenana Split,15000,96
 Benyeroberry,15000,101
 Chocolate Gnome Crunch,15000,80
 Cinnamon Apple Chips,15000,79
+Coconut Juice Bowl,15000,96
 Curried Chicken Tea Sandwiches,15000,78
 Custard,15000,78
 Gurney Fruit,15000,180
 Half Eaten Hot Dog,15000,101
+Ice Ice Cream,15000,96
 Jelly Guacamole,15000,92
+Jewelled Goblet of Berry Squash,15000,101
 Peach and Berries Flambe,15000,96
-Pickled Onion,15000,90
 Pipper,15000,180
 Prime Veggie Burger,15000,180
 Psimouse Cake,15000,100
 Stuffed Fish Head,15000,180
-Army of Undead Cupcakes,14900,92
 Big Beefy Cheese,14900,105
 Frozen fish Gel,14900,180
 Honey Pastry,14900,95
+Hot and Sour Soup,14900,97
 Jubble Bubble Tea,14900,101
 Origami Rice Balls,14900,94
 Wild Negg,14900,101
@@ -958,54 +960,53 @@ Dorkleshroom,14800,79
 Kiko Drink,14800,101
 Raspberry Scones,14800,77
 Deep-Fried Galactic... Food Mass,14700,93
+Doglefox Jelly,14600,96
 Mynci Mushroom Soup,14600,80
 4/5 Candy Feast,14500,101
+Agueena,14500,92
 Fizzy Quiggle Drink,14500,180
 Gourmet Grilled Steak Salad,14500,77
+Grape Slurpship,14500,95
 Salmon Cream Cheese Dip,14500,77
 Scaled Negg,14500,80
-Tyrannian Everything Omelette,14500,94
-Coconut Juice Bowl,14400,96
 Jhudora Eyeball Pasta,14400,80
-Mosaic Negg,14400,90
 Pastrami Gormball Sandwich,14400,76
 Chocolate Covered Carrot,14200,79
 Orange Baby Aisha Lollypop,14200,80
 Aisha Winter Roll,14100,92
 Forgotten Apple,14100,95
 Artichoke and Feta Pie,14000,91
-Asparagus,14000,101
 Beef and Veggie Soup,14000,77
 Cinnamon Neocola,14000,80
 Galactic Water,14000,94
 Pizapple Surprise,14000,101
 Sketch Sandwich,14000,77
-Snot Kiko Taffy,14000,93
+Steaming Root Salad,14000,96
 Techo Garden Salad,14000,80
 Ugga Loaf of Meat,14000,101
 Water Faerie Blueberries,14000,94
-Crusty Clam Surprise,13900,100
 Cupid Negg,13900,88
 Ice Cream Flambe,13900,101
+Book Sandwiches,13800,101
 Jelly Neocola,13800,78
 Mad Meepit Mocha,13800,97
 Music Negg,13800,101
 Aisha Spring Roll,13700,94
 Dried Prunes,13700,101
 Steak Platter,13700,80
+Army of Undead Cupcakes,13600,92
 Fish Filet Sandwich,13600,77
-Lava Latte,13500,91
+Deep-Fried Vegetables,13500,79
 Simple Fyora Cake,13500,94
 Strebbleberry,13500,101
 Vinarok,13500,95
-1/3 Bacon Omelette,13400,112
 Butter Gears,13400,92
+Kacheek Meatball,13400,78
 Pteri Soup,13400,92
 Cole Slaw,13300,79
-Ice Ice Cream,13200,96
+Ixi-like Potato Pile,13300,93
 Sloth Day Nachos,13200,80
 Strawberry Ixi Fizzy Drink,13200,78
-Deep-Fried Vegetables,13100,79
 Ham Casserole,13100,80
 Queela Torte,13100,93
 Anchovy Casserole,13000,101
@@ -1014,48 +1015,49 @@ Chia Cereal,13000,80
 Chocolate Asparagus,13000,101
 Dragon Roll,13000,94
 Gooey Snot Cheese,13000,114
-Honey Cheese,13000,104
 Menacing Brew,13000,87
 Neocola Slushie,13000,96
 Number Pasta,13000,78
+Peanut Butter & Jelly Waffle Sandwich,13000,78
 Planetary Pizza Ring,13000,92
 Red Bruce Juice,13000,78
 Sea Pineapple,13000,180
 Seawich,13000,101
+Snot Kiko Taffy,13000,93
 Steamed Ectoplasm,13000,86
-Strawberry and Orange Blend,13000,90
+Teasicle,13000,79
 Doglefox Candy Floss,12900,78
 Giant Kiko Cookies OF DOOM,12900,101
 Hutcakes,12900,91
+Pirate Bento,12900,101
 Shebberries,12900,96
 Chicken Dumpling Soup,12800,78
 Ham and Turkey Feast,12700,90
+Watercress Tea Sandwiches,12700,77
 Deluxe Jacket Potato,12600,94
 Molten Candy Apple,12600,93
 Drink of Good and Evil,12500,101
 Electric Nachos,12500,94
 Heartatoe,12500,180
 Hieroglyphic Cake,12500,90
-Hot and Sour Soup,12500,97
 Lawyerbot Bento Box,12500,95
+Quadruple Scoop of Sorbet,12500,90
 Sparkling Neopie Cider,12500,101
 Breakfast Hot Dog,12400,91
 Snot Dog,12400,94
 Blue Toobers,12300,93
 Foozette,12300,180
+Red Buzz Energy Drink,12300,80
 Grilled Veggie Platter,12200,92
 Freeze Dried Meat,12100,80
-Ixi-like Potato Pile,12100,93
 Soup Pops,12100,101
 1/3 Plain Fruitcake,12000,101
-Borovan in a Cone,12000,94
+Cabbage Momo,12000,90
 Coconut Fruit Cup,12000,94
 Cog Stew,12000,92
 Conical Hot Dog,12000,101
-Cybunny Carrot Stew,12000,93
 Droolik Surprise,12000,96
 Edamame,12000,92
-French Toast,12000,76
 Grapeade,12000,90
 Greengage Breeze,12000,97
 Grilled Cheese Soup Dippers,12000,78
@@ -1064,7 +1066,6 @@ Jelly Banana,12000,92
 Koi Seaweed Sundae,12000,80
 Korbat Pasta and Meatballs,12000,80
 Magical Hair Usuki Slushie,12000,82
-Mayonnaise Chilli and Cheese covered Corn on the Cob,12000,76
 Mini Koi Cereal,12000,79
 Mound of Grulb,12000,101
 Negg Noodle Soup,12000,79
@@ -1082,69 +1083,66 @@ Origami Sushi,11900,93
 Snow Faerie Borovan,11900,101
 Altador Sunny Eggs,11800,90
 Mustard and Tofu Hot Dog,11800,96
+Purple Hamburger,11800,79
 Raspberry Aisha Waffle,11800,80
 1/3 Tomato and Pepper Omelette,11700,124
 BBQ Onion Hot Dog,11700,92
 Electric Taco,11700,94
 Slorg Biscuits,11700,90
-Teasicle,11700,79
+Stone Veggie Gormball Sandwich,11700,76
 Blue Goo Techo Cake,11600,80
+Cybunny Carrot Stew,11600,93
 Vanilla Yurblecone,11600,78
-Biscuit Kiko Taffy,11500,91
 Christmas Slushie,11500,101
 Gelupepper Kiko Drink,11500,95
 Mint Kyrii Ice Cream,11500,95
-Purple Hamburger,11500,79
 Snot Fries,11500,90
 Turkey Packed Lunch,11500,180
 Turtum Shell Salad,11500,96
 Tuskaninny Ice Cream,11500,80
 Belonthiss Roll,11400,90
-Potato Salad,11400,78
 Sliced Turkey Dinner,11400,89
 Platinum Silver Hot Dog,11300,96
 Scorched Kabob,11300,79
 Squid,11300,180
 Aisha Tomato and Potato Soup,11200,79
-Fancy Altadorian Mustard,11200,92
+Butter with Roll,11200,92
 Fried Suwek,11200,96
 Peanut Butter and Jelly Gormball Sandwich,11200,77
 Sketch Sundae,11200,78
 Swirl-It-On,11200,88
 Aubergine Salad,11100,90
 Mynci Fruit Kebab,11100,92
-Pine Needle Ice Lolly,11100,90
 Aubergine Casserole,11000,90
 Blue Bomberry Kiko Candy Floss,11000,94
 Grilled Islandberry Slices,11000,80
 Hibiscus Tea,11000,92
 Icy Hot Berry,11000,180
-Kacheek Meatball,11000,78
+Pine Needle Ice Lolly,11000,90
 Pirate Shipmelon,11000,101
 Qanfire Fruit,11000,96
 Qasalan Falafel,11000,91
 Tentacle Burger,11000,95
 Vanilla Aisha Pudding,11000,78
 Beans on Toast,10900,78
-Bowl Hominy,10900,78
+Chocolate Kau Milk,10900,90
 Earth Faerie Cupcake,10900,92
+Grape Juice Sippy Cup,10900,90
 Ixi Acorn Meatball,10900,78
 Veggie Burger,10900,90
 Egg Roll,10800,77
 Garlic Mashed Potatoes,10800,80
+Moussaka,10800,91
 Rahketmelon,10800,180
 Snot Sandwich,10800,78
-Chocolate Kau Milk,10700,90
 Appriberry Brucicle,10600,92
 Bat Kebab,10600,96
+Cheese Momo,10600,90
 Dubloon Nuggets,10600,78
-Grape Slurpship,10600,95
-Purple Grundo Lunar Plum,10600,90
 The Stuff,10600,95
 Air Faerie Mug,10500,92
 Autumn Herbal Tea,10500,94
 Beans and Tuna Jacket Potato,10500,92
-Doglefox Jelly,10500,96
 Fern Salad,10500,91
 Fiery Faerie Chicken Nuggets,10500,180
 Grundo Goo Sundae,10500,95
@@ -1153,52 +1151,56 @@ Hearty Pie,10500,79
 Hut of Mashed Potatoes,10500,92
 Knowledge Hungry Burger,10500,90
 Sausage and Chips,10500,76
-Seared Turnip Steak,10500,95
 Super Frosty Ice Shake,10500,90
 CPMPB Salad,10400,80
 Mutant Kau Milkshake,10400,79
+Biscuit Kiko Taffy,10300,91
 Crunchy Tooth Surprise,10300,88
 Dehydrated Spaghetti,10300,92
-Freeze Dried Ice Cream Sandwich,10300,91
 Gamaberries,10300,101
 Eye of Mortog Soup,10200,88
 Loaf of Tablet Bread,10200,92
 Orange Grundo Sherbet,10200,92
 Strawberry Oatmeal,10200,78
+Fancy Altadorian Mustard,10100,92
 1/3 Apple and Brie Omelette,10000,101
-1/3 BBQ Sauce Omelette,10000,115
 Acara Rainbow Lollypop,10000,78
 Banango Toffee Apple,10000,91
 Blurf Mince Pie,10000,92
+Borovan in a Cone,10000,94
 Bowl of Mushy Peas,10000,78
-Buzz Sushi,10000,92
 Cheesy Onion Noodle Soup,10000,77
 Chilled Borovan with Frozen Asparagus,10000,91
 Coral Beef,10000,180
-Crunchy Buzz Honey Delight,10000,80
 Cube-Shaped Cherry,10000,95
 Dark Faerie Mushroom,10000,97
+Deadly Apple Pie,10000,93
 Egg and Carrots,10000,79
 Escape to Kreludor Cereal,10000,101
+Franks and Cheesy Pasta,10000,91
 Fyora Day Cupcakes,10000,93
 Gruish Melon,10000,180
 Happy Negg,10000,101
+Honey Cheese,10000,104
 Jelly Corn,10000,91
 Jelly Tomato,10000,92
 Lime Berry Terror Mountain Altador Cup Slushie,10000,101
 Lunch Hot Dog,10000,90
 Meepit Juice Jar,10000,101
+Mild Burnumup,10000,94
 Minty Aisha Sundae,10000,79
 Moehog Milkshake,10000,80
 Peachpa Stuffed Potato,10000,95
 Phear Flavoured Milk,10000,80
 Pumpcorn,10000,92
 Raspberry Baby JubJub Lollypop,10000,80
+Regulation Meridellian Rations,10000,101
 Rotting Veggies Salad,10000,96
 Sausage Stocking,10000,101
 Seasoned Curly Chips,10000,90
 Slorg Meatloaf,10000,90
 Slorg Potatoes,10000,90
+Sloth Pudding Cup,10000,91
 Spooky Pumpkin Gateau,10000,101
 Spotted Cheese,10000,101
 Spyven Leg Soup,10000,94
@@ -1206,25 +1208,18 @@ Stuffed Penupe,10000,96
 Sweet and Sour Soup,10000,78
 Twice-Baked Spiked Potato,10000,90
 Ultra Strong Coffee,10000,91
-Watercress Tea Sandwiches,10000,77
+Valentines Negg,10000,87
 Wicked Negg,10000,101
 Apple Hot Dog,9950,91
-Fluffy Faerie Hot Cakes,9950,92
-Steaming Root Salad,9950,96
-Butter with Roll,9900,92
-Cheese Momo,9900,90
 Conkerberry Negg,9900,101
-Cyodrake Roll,9900,90
 Honey Toast,9900,94
 Ice Cream Cone Mug of Cocoa,9900,101
 Pompomberry,9900,93
-Raspberry Sundae,9900,90
-Sloth Pudding Cup,9900,91
+Pumpkin Bread,9900,90
+Smiley Negg,9900,101
 Toast on Toast,9900,80
-Triple Mustard Cheese,9900,103
 Vegetarian Usul Wrap,9900,76
 Caviar Hot Dog,9850,91
-Franks and Cheesy Pasta,9850,91
 Grapes,9850,180
 Lime Berry Kreludor Altador Cup Slushie,9850,101
 Pluburb Pie,9850,91
@@ -1232,27 +1227,30 @@ Space Quesadilla,9850,91
 Spotkato,9850,95
 Tyrannian Rock Salad,9850,92
 Box of Wheat Flakes,9800,101
-Cabbage Momo,9800,90
+Fluffy Faerie Hot Cakes,9800,92
 Gold Koi Crackers,9800,78
 Savoury Cubes,9800,101
 Zero Gravity Cheese Poofs,9750,90
 Faerie Flotsam Fricassee,9700,91
+Fruit Punch Roll,9700,77
 Prickapome,9700,94
 Pumpkin Soup,9700,96
 Scoop Chops,9700,180
 White Cheddar Jetsam Fin Crackers,9700,78
 Cursed Qasalan Pancakes,9650,92
 Egg Stew,9600,78
-Grobleen Sandwich,9600,90
+French Toast,9600,76
 Reject Marshmallow Grundo,9600,92
 Skeith Ice Cream Cake,9600,92
+Blooppop,9500,90
 Buzz Dung Cone,9500,90
 Chestnut Shortcake,9500,76
-Chocolate Chomby Ice Cream Sandwich,9500,77
 Frootafruit,9500,94
+Grobleen Sandwich,9500,90
 Kougra Sushi,9500,92
 Lenny Tea Set,9500,94
 Pomegranate,9500,78
+Roasted Turnips,9500,101
 Waffle Burger,9500,90
 Wocky Spaghetti Ball,9500,78
 Honey Basted Turkey Leg,9450,91
@@ -1269,10 +1267,9 @@ Earth Faerie Mug,9300,92
 Jolly Green Jiggling Jelly,9300,96
 Lava Chilaquiles,9300,90
 Nettle Tea,9300,92
-Smiley Negg,9300,101
 Depressed Potato,9250,90
 Huberts Special Hot Dog,9250,95
-Pumpkin Bread,9200,90
+Seared Turnip Steak,9250,95
 Quiggle Veggie Soup,9200,80
 Rambus Hot Dog,9200,95
 Strawnella Shake,9150,101
@@ -1286,67 +1283,67 @@ Knuckle Sandwich,9050,101
 Sketch Pie,9050,79
 Blueberry and Orange Blend,9000,79
 Cheesy Cod and Tofu Burger,9000,180
+Chocolate Chomby Ice Cream Sandwich,9000,77
 Clam Chowder Ice Lolly,9000,91
-Double Fruit Kebab,9000,79
 Gorgroggle Soup,9000,90
+Jelly Bean Flower Cookie,9000,101
 Jelly Oyster,9000,95
 Kou-Jong Tiles Pizza,9000,101
 Lava Lasagna,9000,101
+Moltaran Bak Lava,9000,91
 Mutated Cheese,9000,109
 Pango Chute,9000,180
-Red Buzz Energy Drink,9000,80
 Scrampi,9000,180
 Sweet Potato Fizzy Drink,9000,90
 Vinberry,9000,180
 Xweetok Sugar Cookies,9000,76
 5/6 Chocberry Pizza,8950,101
 Chocolate Lupe Ice Cream,8950,76
+Cyodrake Roll,8950,90
 Deep-Fried Mac-n-Cheese Loaf,8950,77
-Symol Mouldy Cheese Ball,8950,78
-Cheesykraut Hot Dog,8900,77
+White Chocolate Covered Toffee,8950,90
 Glowing Pre-Sliced Mushrooms,8900,92
 Harffel Fruit Oatmeal,8900,93
 Honeyed Horn Of Plenty,8900,101
 Iced Caramel Coffee,8900,90
 Lunar Grunpop,8900,95
-Mild Burnumup,8900,94
 Orange Yurblecone,8900,79
-Perimontwist,8900,92
 Raspberry Basket,8900,79
 Sentient Stew,8900,92
 Strawberry Doughnutfruit,8900,90
-Cinnamon Oatmeal,8850,92
 Half Chocberry Pizza,8850,101
-Moltaran Bak Lava,8850,91
 Red Scorchipepper,8850,80
 Strawberry Parfait,8850,78
-Zafara Breakfast,8850,76
 Cake in a Cauldron,8800,101
 Exquisite Cup of Tea,8800,93
-Faerieland Borovan,8800,90
 Giant Shish Kabob,8800,92
-Iced Illusen Tea,8800,91
 Lime Berry Tyrannia Altador Cup Slushie,8800,101
 Prickly Doughnutfruit,8800,90
 Dried Apricots,8750,101
 Fish Eggs,8750,180
+Frozen Soup,8750,80
 Icy Jelly Steak,8750,96
 Noil Mashed Potatoes,8750,79
+Raspberry Sundae,8750,90
 Slightly Trampled Omelette,8750,101
 Kreludan Borovan,8700,92
 Meat and Fruit Kebab,8700,92
 Strawberry Kiko Taffy,8700,90
 Tonu Cheeseburger,8700,77
+Buzz Sushi,8650,92
 Space Floss,8650,91
-Valentines Negg,8650,87
+Mayonnaise Chilli and Cheese covered Corn on the Cob,8600,76
+Nabiles Qasalan Delight,8600,78
 Ticklegum,8600,180
-1/3 Tomato Omelette,8500,122
+Iced Illusen Tea,8550,91
 Blue Acara Cake,8500,80
+Cheesykraut Hot Dog,8500,77
+Faerieland Borovan,8500,90
 Gnorbu Wool Candy Floss,8500,80
 Healthy Grass Hot Dog,8500,95
+Perimontwist,8500,92
 Seaweed Bacon,8500,78
 Spicy Purblare Juice,8500,90
-Cucumber Tea Sandwiches,8450,79
 Hair Stuffed Maggot,8450,96
 Ice Cream Dumplings,8450,96
 Jelly Taco,8450,90
@@ -1355,15 +1352,15 @@ Raspberry Iced Tea,8450,90
 Braised Turkey Cutlet,8400,101
 Deliwich,8400,101
 Freeze Dried Sausage,8400,80
-Lemon and Orange Blend,8400,79
 Mutant Doughnut,8400,76
 Seasonal Pudding,8400,180
+Sketch Eggs,8400,76
 Sloth Cone,8400,90
 Smiley Pancakes,8400,77
 Wertholoupe,8400,94
 Bacon Tape,8350,78
-Earth Faerie Breath Mints,8350,90
-Veggie Poogle Pate,8350,76
+Purple Grundo Lunar Plum,8350,90
+Beef Wellington,8300,90
 Cramjar,8300,96
 FruitMallow,8300,180
 Aqua Negg,8250,101
@@ -1375,19 +1372,19 @@ Faerie Bubbles Brew,8200,101
 Freeze Dried Fruit Platter,8200,90
 Frozen Blackberries and Cream,8200,91
 Horror Doeuvres,8200,90
-Sardplant,8200,180
 Sausage Gravy,8200,78
 Sparkling Ice Lolly,8200,92
 Veggie Chicken,8200,101
+Air Faerie Mushroom,8150,96
 Blueberry Flavoured Ice Cube,8150,94
-Raspberry Yurblecone,8150,80
+Fire Tonic,8150,76
 Dark Faerie Plums,8100,91
-Fruit Punch Roll,8100,77
 Molten Root Casserole,8100,92
 Strawberry Scorchio Treat,8100,79
+Turmac Fruit Snacks,8100,101
 Doglefox Ice Cream Scoops,8050,79
+Missing King Milk Carton,8050,101
 Baked Fish,8000,101
-Blooppop,8000,90
 Blue Moon Sundae,8000,92
 Blue Tongue Slushie,8000,90
 Blueberry Jelly Doughnut,8000,80
@@ -1409,6 +1406,7 @@ Snotty Vira Onion,8000,92
 Spyder Cupcakes,8000,101
 Sticky Stack,8000,101
 Swirly Chocolate Milk,8000,90
+Water Faerie Cupcake,8000,91
 Galactic Protein Shake,7950,90
 Gooey Green Shake,7950,90
 Chicken Taquitos,7900,79
@@ -1418,37 +1416,31 @@ Hasee Cake,7900,101
 I Love Potatoes Shirt,7900,87
 Leafy Noodle Soup,7900,92
 Plain Crackers,7900,78
+Sardplant,7900,180
 Strawberry Cybunny Ice Cream,7900,79
 Teacup Negg,7900,101
-Bombshroom,7850,79
 Fried Altadorian Cheese Plate,7850,91
 Lupe Burger,7850,79
 Onion Rings,7850,180
-Sketch Eggs,7850,76
 Sporkle Leg,7850,94
 A Smatter of Ketchup,7800,78
 Beetroot Soup,7800,80
-Bubbling Blueberry Cheese,7800,110
 Green Scorchipepper,7800,90
 Lime Berry Brightvale Altador Cup Slushie,7800,101
-Mini Swiss Kau Cheese Wheel,7800,78
 Moehog Rice Cakes,7800,92
 Dung Slushie,7750,98
 Fried Potato Balls,7750,80
 Gnome Crunch,7750,80
 Grundo Space Grub Platter,7750,94
-Moussaka,7750,91
-Peanut Butter Smores,7750,76
 Salted Kiko Popcorn Ball,7750,94
-Bubbly Harffel Fruit Juice,7700,76
 Cake Batter Ice Lolly,7700,90
 Clam and Meatball Pizza,7700,90
 Creamy Jello Jigglers,7700,76
 Crystal Crunch,7700,94
 Halloween Eyeball Rice,7700,101
 Tetraberry Chia Pop,7700,92
-Water Faerie Cupcake,7700,91
 Sophies Stew Gummies,7650,101
+Lemon and Orange Blend,7600,79
 Gargaraptor Arm,7550,94
 Blueberry Nova Pop,7500,90
 Brown Sauce,7500,101
@@ -1457,11 +1449,11 @@ Grenanna Jam,7500,78
 Grilled Ummagine Slushie,7500,95
 Lime Berry Faerieland Altador Cup Slushie,7500,101
 Mild Cheddar Jetsam Fin Crackers,7500,79
+Organic Walnut,7500,92
 Poogle Pot Pie,7500,77
-Turkey Enchilada,7500,76
+Raspberry Yurblecone,7500,80
 Turkey Monster,7500,92
 Usuki Green Salad,7500,101
-Veggie Faerie Burger,7500,94
 Altador Cup Hot Dog,7450,101
 Buzz Sandwich With Honey,7450,77
 Dressing and Cranberry Sandwich,7450,79
@@ -1470,11 +1462,13 @@ Lime Nova Pop,7450,92
 Tea Waffles,7450,80
 Tigerfruit Toffee Apple,7450,90
 Birthday Brigadeiros,7400,101
+Bubbly Harffel Fruit Juice,7400,76
 Christmas Wocky Cranberry Meatloaf,7400,77
 Holiday Spoiled Neggnog,7400,88
 Meat and Potatoes Krawk Pot,7350,78
 Brown Sugar Oatmeal,7300,77
 Galaxy Cupcake,7250,92
+Mini Kau Cheese Wheel,7250,77
 Protein on the Go,7250,90
 Rest in Peace of Chicken,7250,94
 Scoop of Meteor Ice Cream,7250,90
@@ -1489,9 +1483,8 @@ Lizarkagna,7100,90
 Neopets 23rd Birthday Cake,7100,101
 Tasty Tiki Trees,7100,73
 Brie Cheese Platter,7050,92
-Mini Kau Cheese Wheel,7050,77
-Alkenore Cheese,7000,108
 Altadorian Ambrosia,7000,101
+Bombshroom,7000,79
 Brain Cheese,7000,107
 Caramel Chia Parfait,7000,90
 Coffee of the Dead,7000,97
@@ -1505,31 +1498,32 @@ Ogrin Peanut Butter and Jelly Sandwich,7000,78
 Pineapple Rice Bowl,7000,90
 Seaweed Tentacle Kimchee,7000,91
 Spooky Handwich,7000,94
+Strawberry and Orange Blend,7000,90
 Strawberry Chia Pop,7000,91
 Strawberry Kiwi Tea,7000,94
 Stuffed Olive Salad,7000,91
 Vegan Cheese,7000,180
 Water Faerie Mushroom,7000,97
-Deep Fried Ghosts,6950,92
 Ghost Mashed Potato,6950,84
-Ye Olde Mug of Borovan,6950,80
+Goparokko Fruit Punch,6950,88
+Earth Faerie Breath Mints,6900,90
 Green Tea Spaghetti,6900,93
 Honey Vandagyre,6900,93
 Pink Triple Decker Sandwich,6900,78
 Veggie Deluxe Stuffed Pepper,6900,94
 Fizzy Apple Juice,6850,80
+Cinnamon Oatmeal,6800,92
 Clam Chops,6800,180
 Coffee Beans Mug,6800,78
+Deep Fried Ghosts,6800,92
 Flotato-Stuffed Turkey,6800,76
 Orange and Grape Cone,6800,92
+Peanut Butter Smores,6800,76
 Chrysanberry,6750,89
 Grundo Orange,6750,91
-Scrampi Salad,6750,82
 Cookies and Milk,6700,180
 Draik Wrap,6700,78
-Iced Clover Cream Coffee,6700,90
 Octle Salad,6700,101
-Steamed Fish,6700,93
 Bubbly Twirly Fruit Juice,6650,79
 Chocolate Jack-O-Lantern Chip Cookie,6650,85
 Rainy Day Coffee,6650,79
@@ -1539,10 +1533,10 @@ Trapango,6600,89
 Chicken,6550,180
 Cone-Shaped Watermelon,6550,95
 Fancy Rack of Lamb,6550,90
-1/3 Cheese and Onion Omelette,6500,118
 Buried Burger,6500,106
 Calamari Pita Wrap,6500,91
 Dark Nova Pop,6500,98
+Dried Ummagine,6500,90
 Figcorn,6500,90
 Ham and Hair Sandwich,6500,101
 Harffel Fruit,6500,180
@@ -1553,9 +1547,11 @@ Rock Rampage Moon Drink,6500,101
 Saus-Rage,6500,83
 Vanilla Tea,6500,73
 Blended Merryberry,6450,180
+Cybunny Carrot Burger,6450,90
 Draik Soup,6450,77
 Hot Fruit Soup,6450,79
 Potato Snack,6450,87
+Spicy Kau Burger,6450,91
 Tomato Omurice,6450,78
 Cube-Shaped Lemon,6400,94
 Faerie Festival Cake,6400,90
@@ -1566,70 +1562,76 @@ Marinas Cherry Pie,6400,101
 Mushroom Hotdog,6400,101
 Number Crackers and Cheese,6400,76
 Rest in Pea Soup,6400,92
+Steamed Fish,6400,93
 Tonu Sorbet,6400,78
 Unguberry,6400,160
 Kreludan Ice Cream Sundae,6350,93
 Crying Corn,6300,90
 Ixi Double Veggie Burger,6300,77
-Spicy Queela Dip,6300,78
 Cheddar Kacheek Cheese,6250,90
 Deluxe Burger Dog,6250,90
 Festive Faerie Fizz,6250,90
 Meatier Asparagus Dish,6250,90
 Morel Mushroom Dip,6250,76
 Shell Lollypop,6250,90
-Cheops Soup,6200,92
 Extra Cheesy Cheddar Crisps,6200,93
+Holiday Ghostpuff,6200,86
 Meaty Gnorbu Pie,6200,78
-Vanilla Orange Biscuits,6200,92
+Turkey Enchilada,6200,76
 Eggy Weggs,6150,78
 A Smatter of Mayo,6100,77
-Air Faerie Mushroom,6100,96
 Black Cherry Ice Lolly,6100,79
 Left-Over Sliced Turkey Sandwich,6100,76
 Sesame Pistachio Cake,6100,91
 Weeping Broccoli,6100,90
+Xrepefruit,6100,92
+Alkenore Cheese,6050,108
+Baked Avocado Crisps,6050,92
 Fishy Nibbles,6050,180
 Altalaphus Negg,6000,101
 Berry and Marrow Casserole,6000,101
 Blumaroo Tail Salad Extravaganza,6000,94
+Bubbling Blueberry Cheese,6000,110
 Chalkboard Negg,6000,101
 Cole Slaughter,6000,91
 Cosmic Broccoli,6000,75
-Deadly Apple Pie,6000,93
 Fright Pop,6000,99
+Guacamole Injected Hot Dog,6000,93
 Ice Cream Hot Dog,6000,76
+Iced Clover Cream Coffee,6000,90
 Lemon Faerie Mousse,6000,90
 Pandaphant Sushi,6000,78
 Paper-Wrapped Veggies,6000,78
 Snow Kabob,6000,94
 Spaghetti Soup,6000,180
 Veal Parmesan Gormball Sandwich,6000,78
-Xrepefruit,6000,92
 Chunky Mushroom Soup,5950,76
 Cocoalatte Fruit Leather Socks,5950,89
 Deluxe Ham Sub,5950,76
+Lemon Squash,5950,80
 Raspberry Lemonade Pie Jelly,5950,84
 Valentines Day Strawberry Bouquet,5950,85
 Chocolate Starfish,5900,93
 Freeze Dried Bacon,5900,80
 Intesteen Casserole,5900,90
-Intestines and Marinara,5900,92
 Jelly Jelly Jar,5900,90
-Sloth Spaghetti,5900,93
 Steamed Noodle Cake,5900,78
+Strawberry Jetsam Ice Cream,5900,78
 Wedding Cake,5900,101
 Black Currant Jelly Hot Dog,5850,92
 Crypt Crisps,5850,92
+Fish and Rhubarb Burgers,5850,94
 Uni Corn,5850,76
 A Smatter of Mustard,5800,76
 Refreshing Barrel Water,5800,70
+Cheops Soup,5750,92
 Lentil Cake,5750,90
 Mouldy Bomberry,5750,101
 Nutty Spaghetti,5750,77
 Skull-n-Bones Pasta,5750,77
 Blue Rambus,5700,90
 Egg Pate,5700,77
+Intestines and Marinara,5700,92
 Lime Berry Mystery Island Altador Cup Slushie,5700,101
 Mint Jelly Sandwich,5700,93
 Mouldy Gruncheese,5700,94
@@ -1641,6 +1643,7 @@ Fruit Juice Sack,5650,90
 Orange Snow Puff,5650,180
 Special Breakfast,5650,78
 Chocolate Covered Toffee,5600,90
+Faerie Bread,5600,79
 Mozzarella Basil Hot Dog,5600,90
 Tall Stack of Mutant Pancakes,5600,90
 Chew-A-Cup,5550,88
@@ -1650,11 +1653,13 @@ Bran Boulders,5500,70
 Bubbly Rhuby Fruit Juice,5500,77
 Carrot Cupcake,5500,76
 Crystal Burger,5500,92
+Freeze Dried Ice Cream Sandwich,5500,91
 Jelly Wingafruit,5500,94
 Maractite Hot Dog,5500,92
 Poached Pearange,5500,84
 Purpanna,5500,83
 Vegetable Tempura,5500,90
+Veggie Faerie Burger,5500,94
 Baby Cabbage with Gravy,5450,93
 Cheese and Onion Crisps,5450,180
 Cosmic Stars Sandwich,5450,90
@@ -1668,15 +1673,20 @@ Anemoneberry,5400,88
 Cheese Slushie,5400,90
 Draik Salad,5400,76
 Galaxy in a Glass,5400,79
+Nutritional Block,5400,96
+Crunchy Buzz Honey Delight,5350,80
 Golden Tangerines,5350,78
 Grobleen Salad,5350,90
+Mini Swiss Kau Cheese Wheel,5350,78
 Spaghetti and Brains,5350,93
 Tongue Wrap,5350,70
 Zalacca Fruit,5350,90
 Acara Cabbage Cake,5300,90
 Chokato Brucicle,5300,77
+Faerie Apple Pie,5300,92
 Grootafruit Punch,5300,77
 Molten Fries,5300,92
+Neggdrop Soup,5300,76
 Sandan Bite,5300,73
 Star Fish Sundae,5300,73
 Ginger Green Tea,5250,90
@@ -1691,6 +1701,8 @@ Fyora Day Fizz,5200,91
 Medicinal Plant,5200,180
 Meriberry Dressing,5200,90
 Neggnog Cheesecake,5200,88
+Triple Mustard Cheese,5200,103
+Zafara Breakfast,5200,76
 Bubbly Roseatte Juice,5150,78
 Double Scoop of Sorbet,5150,80
 Gourmet Fried Chicken and Waffles,5150,76
@@ -1699,20 +1711,18 @@ Paper-Wrapped Chicken,5150,76
 Vanilla Poogle Cupcake,5150,79
 Whole Wheat Jetsam Fin Crackers,5150,77
 Chocolate Murex Shell,5100,92
-Fire Tonic,5100,76
+Cucumber Tea Sandwiches,5100,79
 Ghostly Apple,5100,101
 Monster Cake,5100,101
 Raspberry Jelly Muffin,5100,94
+Sloth Spaghetti,5100,93
 Toxic Sloth Slushie,5100,90
-Veggie Crisps,5100,68
 Half Jelly Doughnut Jelly,5050,101
 Millipede Lollypop,5050,92
-Strawberry Jetsam Ice Cream,5050,78
+Storm Roll,5050,101
 A Tray of Carrots,5000,101
 Baked Potato Shoes,5000,87
-Blue Bomberry Slushie,5000,90
 Boiled Lizard Stew,5000,95
-Cake Batter Slushie,5000,90
 Candy Fyora Staff,5000,90
 Cheese and Pickle Packed Lunch,5000,90
 Cherry Mynci Burger,5000,76
@@ -1720,7 +1730,6 @@ Crystal Cookies,5000,93
 Cube-Shaped Orange,5000,92
 Double Chocolate Surprise,5000,91
 Eyeball Stew Cake,5000,93
-Faerie Apple Pie,5000,92
 Faerie Tomato,5000,89
 Fanged Figgy Pudding,5000,101
 Freshwater Kelp Burger,5000,83
@@ -1733,23 +1742,19 @@ Just Plain Ol Porridge,5000,73
 Kale Chips,5000,78
 Lady Blurg Negg,5000,101
 Lava Toast,5000,101
-Lemon Squash,5000,80
-Lime Snot Kiko Lolly,5000,75
 Organic Spinach Salad,5000,94
 Pineapple Breeze,5000,90
 Polar Lights Negg,5000,101
 Polka Dot Hot Dog,5000,91
-Potato Ice Cream,5000,90
 Purple Swirly Easter Negg,5000,101
 Sand Pancakes,5000,76
 Snow Bagel,5000,91
 Snowberry Slushie,5000,180
-Sobbing Onion,5000,90
 Splaash,5000,89
 Tonguebeans,5000,80
 Ultra Deluxe Faeriepop,5000,92
 Vanilla Ice Cream Apple Lantern,5000,70
-Baked Avocado Crisps,4975,92
+Vanilla Orange Biscuits,5000,92
 Cackleberry Jelly,4975,87
 Chomby Dog,4950,75
 Cookie Hats,4950,87
@@ -1763,12 +1768,11 @@ Snow Burrito,4950,93
 Continuous Meat,4925,90
 Bag of Dried Mushrooms,4900,75
 Cog Crunchies,4900,90
-Faerie Bread,4900,79
-Guacamole Injected Hot Dog,4900,93
+Flatfruit Tuskaninny Ice Cream,4900,90
 Jelly Ultranova,4900,90
 Munuberry Fruit Pudding,4900,80
 Pickled Apples,4900,76
-Quadruple Scoop of Sorbet,4900,90
+Pickled Onion,4900,90
 Radish Pie,4900,95
 Tail Bone,4900,101
 Water Foam Hot Dog,4900,75
@@ -1783,27 +1787,27 @@ Slice of Zafara Pizza,4875,80
 Snow Broccoli,4875,92
 Sushi Platter,4875,92
 Cryogenically Frozen Negg,4850,93
-Flatfruit Tuskaninny Ice Cream,4850,90
 Shrimp on Ice,4850,92
 Sloth Broccoli,4825,76
-2/3 Bacon and Broccoli Omelette,4800,109
 Bomatoge,4800,101
 Braku Berry Juice,4800,90
 Cheeseless Lasagna,4800,79
 Chocolate Stuffed Orange,4800,90
 Cloned Corn,4800,93
-Forbidden Forever Fruit,4800,83
 Harffel Fruit Smoothie Bowl,4800,101
 Ornate Bowl of Oranges,4800,91
 Raspberry Kiko Swirl,4800,79
 Soup Faerie Soup,4800,90
+Symol Mouldy Cheese Ball,4800,78
 Tray of Hot Cocoa,4800,101
 Berried in Bread,4775,78
 Megachilli Hot Dog,4775,92
 Bottled Beans,4750,76
-Squid Sauce,4750,90
+Double Fruit Kebab,4750,79
 Turkey Wing Dinner,4750,87
+Ye Olde Mug of Borovan,4750,80
 Mango Crab Salad,4725,90
+Nimmo Glass of Juice,4725,101
 Faerie Kale,4700,92
 Honey Yurble,4700,90
 Hummus,4700,93
@@ -1811,22 +1815,21 @@ Jhudora Fries,4700,78
 Jhudoras Toffee Rolls,4700,90
 Qasalan Rice Bowl,4700,86
 Rainbow Ice Cream Sandwich,4700,101
-Spicy Kau Burger,4700,91
 Sushi Hot Dog,4700,91
 Wicker Fruit Cornucopia,4700,91
 Yamboberries,4700,101
 Flying Space Ship Burger,4675,80
 Blueberry Krawksicle,4650,91
 Fruit Basket,4650,79
-Kreludan Cake Pops,4650,86
 Blue Raspberry Slushie,4625,76
 Blunella Brucicle,4600,72
 Jelly Ham,4600,90
-Nova Dip,4600,78
 Vegan Grenanna Mousse Cake,4600,92
+Blue Bomberry Slushie,4575,90
 Buzz Bread Salad,4550,90
 Cheese Negg,4550,76
 Fruity Brucicle,4550,90
+Mashed Potato Hat,4550,87
 Steamed Vegetable Dumplings,4550,94
 Traditional Altadorian Gyro,4550,92
 Kyrii Dewy Apple Milkshake,4525,76
@@ -1835,6 +1838,7 @@ Wild Print Hot Dog,4525,77
 Barga Burger,4500,101
 Bruce Holiday Drink,4500,101
 Cream Cheese Pretzel Bites,4500,76
+Crusty Clam Surprise,4500,100
 Desert Kau Honey,4500,90
 Galaxia Berries,4500,85
 Halloween Tapira Cake,4500,80
@@ -1846,12 +1850,15 @@ Strawberry Skeith Cone,4500,77
 Taco Hot Dog,4500,90
 Evil Coconut Brucicle,4475,76
 Flatfruit Bubble Tea,4475,90
+Fried Fish,4475,75
 Strawberry Blend Slushie,4475,25
 Bananarific Ice Lolly,4450,78
 Cackleberry Jam,4450,80
 Faerie Orange,4450,93
+Forbidden Forever Fruit,4450,83
 Lime Starfish,4450,180
 Snow Lemon,4450,76
+Spicy Queela Dip,4450,78
 Ant Eaten Corn Dog,4425,80
 Healthy Apple Cake,4425,80
 Jhudoras Swirling Cocktail,4425,95
@@ -1887,6 +1894,7 @@ Danish Bacon,4300,180
 Frosted Moon Cookie,4300,87
 Gooseberry Jam Packed Lunch,4300,90
 Hand Pulled Noodle Soup,4300,92
+Nova Dip,4300,78
 Orange Grape Kiko Taffy,4300,88
 Pickled Pears,4300,78
 Thornata,4300,92
@@ -1894,26 +1902,28 @@ Intergalactic Orange Sorbet,4275,90
 Pink Lemonade Slushie,4275,81
 Chocolate Chip Gelert Ice Cream Sandwich,4250,76
 Cup of Coffee Fruit,4250,79
+Day and Night Cake,4250,101
 Dried Lupe Snack,4250,79
 Leafy Krawk Pot,4250,77
 Scalemelon,4250,87
 Secret Dressing,4250,101
 Gnorbu Wool Burger,4225,79
-A Second Piece of Omelette,4200,101
 BLT Sandwich with Cheese,4200,78
 Cream of Tchea Soup,4200,78
 Fyora Day Muffin,4200,92
 Giblets Gravy,4200,76
-Grape Juice Sippy Cup,4200,90
 Sliced and Pickled Pimplepepper,4200,79
+Kreludan Cake Pops,4175,86
 Mummified Ettaphant Loaf,4175,92
 Nebula Ice Cream,4175,86
+Cake Batter Slushie,4150,90
 Faerie Kougra Ice Lolly,4150,80
 Fuzzinberry,4150,85
 Juicy Steen,4150,72
 Plasma Negg,4150,101
 Corndog in a Hot dog,4125,73
 Eyrie Eggnog,4125,83
+A Second Piece of Omelette,4100,101
 Frozen Prawn Delight,4100,91
 Jelly Fruit Ring,4100,90
 Kyrii Florange Milkshake,4100,77
@@ -1924,13 +1934,12 @@ Peaches and Cream Slushie,4100,81
 Pineapple Jelly,4100,90
 Rippling Colours Negg,4100,101
 Slime Cream,4100,87
-Tchea Fruit Bowl,4100,90
 Creamed Corn,4075,76
 Coffee in a Cone,4050,75
 Disco Ice Cream,4050,79
 Grundo Stick Sub,4050,101
-Haunted Pumpkin Bar,4050,85
 Metalicious Ice Lolly,4050,79
+Sobbing Onion,4050,90
 Starflower Patterned Easter Negg,4050,88
 Bell Apple,4000,86
 Blueberry Achyfi,4000,85
@@ -1941,6 +1950,7 @@ Cheese and Raspberry Plate,4000,85
 Cherry Puff,4000,79
 Crescent Moonfruit,4000,88
 Fresh Borovan and Asparagus Tart,4000,77
+Frozen Fruit Popsicle,4000,90
 Fruity Aisha Sundae,4000,78
 Grundos House Special,4000,90
 Grunion Fruit Grog,4000,89
@@ -1949,8 +1959,8 @@ Lemon Kiko Drink,4000,69
 Neopian Jambalaya,4000,76
 Orange Enchiladas,4000,101
 Orange Jelly Ice Cream,4000,90
+Oyster Obsession,4000,100
 Raindorf Krispies,4000,74
-Sauteed Space Rock,4000,77
 Snow Candy Cane,4000,101
 White Chocolate Asparagus Souffle,4000,90
 Wriggling Grub,4000,180
@@ -1969,8 +1979,8 @@ Goparokko Mug,3950,101
 Kau Kau Farm Soy Milk,3950,85
 Loaf of Sand,3950,92
 Streaky Bacon,3950,180
-Tchea Marshmallow Grundo,3950,88
-Fried Fish,3925,75
+Zonutuk Fruit,3950,95
+Garlicy Mushrooms,3925,90
 Gold Leaf Creambowl,3925,71
 Illusen Flask,3925,101
 Yellocious Berry,3925,73
@@ -1983,7 +1993,6 @@ Korbat Cheese and Crackers,3900,78
 Lemint Green Salad,3900,85
 Parsnip Pie,3900,90
 Spinach Eyrie Souffle,3900,84
-Spyder Eggs,3900,92
 Cheery Tomato Soup Bowl,3875,86
 Mummified Cheese,3850,101
 Mummy Tamales,3850,78
@@ -1991,16 +2000,16 @@ Plate of Wintery Caramel Apples,3850,101
 Red Berry Rock Stick,3850,87
 Tea Jelly,3850,77
 Zafara Veggie Stew,3850,78
-Goparokko Fruit Punch,3825,88
+Desert Blumaroo Honey,3825,92
 Caramel Kiko Popcorn Ball,3800,77
 Chocolate Kyrii Ice Cream,3800,90
 Explodamelon,3800,85
 Grootafruit,3800,78
-Impermeable Cheese Log,3800,79
 Magma Slushie,3800,85
+Metal Ice Cream Sundae,3800,79
 Mint Chip Skeith Cone,3800,76
-Organic Walnut,3800,92
 Overripe Cheese,3800,101
+Tchea Fruit Bowl,3800,90
 Turmeric Latte,3800,73
 Very Berry Brucicle,3800,79
 Sour Apple Ixi Fizzy Drink,3775,77
@@ -2009,6 +2018,7 @@ Borovan Asparagus Mug,3750,76
 Faerie Hot Dog,3750,92
 Heart Shaped Fruit Cake,3750,75
 Illusen Slushie,3750,78
+Jug of Fresh Juppieade,3750,80
 Rainbow Snow Puff,3750,80
 Tchea JubJub Mini Burger,3750,85
 Mummified Negg,3725,101
@@ -2022,12 +2032,8 @@ Pizza Protein Block,3700,89
 Rainbow Artichoke,3700,85
 Roburg Burger,3700,101
 Uni Frappe,3700,80
-Frozen Fruit Popsicle,3675,90
 Sakhmet Palace Cake,3675,92
 Cube-Shaped Strawberry,3650,90
-Desert Blumaroo Honey,3650,92
-Doglefox Popcorn,3650,81
-Dried Ummagine,3650,90
 Lemon Butter and Sweet Corn Scallops,3650,89
 Tentacle Rice,3650,84
 Yamless Candied Yams,3650,85
@@ -2036,14 +2042,12 @@ Altador Omelette,3600,83
 Egg Salad Packed Lunch,3600,90
 Jhudora Day Pastry,3600,87
 Lemon Omelette,3600,101
-Neggdrop Soup,3600,76
 Peanut Butter Brucicle,3600,78
 Pork Sausage,3600,180
 Refried Beans and Rice,3600,65
 Spooky Donuts,3600,80
 Tomato Basil Salad,3600,93
 Apple Achyfi,3575,85
-Edible Argyle Socks,3575,76
 Elppa,3575,180
 Fruit Beans,3575,101
 Peppermint Rock Slices,3575,82
@@ -2051,16 +2055,19 @@ Cheesy Baked Apple Core,3550,80
 Coral Delight,3550,85
 Fresh Durian,3550,85
 Kacheek Pancake,3550,101
+1/3 Bacon Omelette,3500,112
 Air Faerie Munparaberries,3500,92
+Altador Cup Cupcake,3500,101
 Banana Grub,3500,100
 Banana Yogurt Hot Dog,3500,88
+Borovan Punch,3500,73
 Chiazilla Quesadilla,3500,70
 Duoroot,3500,77
 Felberry Brucicle,3500,87
 Ghost Puff,3500,98
 Grape and Lime Rock Slices,3500,80
 Holiday Eye Candy,3500,87
-Jug of Fresh Juppieade,3500,80
+Jelly Green Tea,3500,80
 Koi Flakes,3500,69
 Marrow,3500,101
 Moehog Grilled Peanut Butter Sandwich,3500,85
@@ -2068,12 +2075,14 @@ Mutant Cheese Pizza Slice,3500,84
 Organic Pecan,3500,91
 Rahkleaf Melon,3500,101
 Shenkuu Faerie Cookie Sandwich,3500,101
+Snow Covered Nachos,3500,80
 Stapler in Jelly,3500,101
+Strong Berry Java,3500,40
 Terror Mountain Chocolate Milk Glass,3500,74
 Undead Apple,3500,101
 Chilled Kelp Cone,3475,88
 Snow Loaf,3475,78
-Sparkling Blue New Year Juice,3475,84
+Apple Soup,3450,77
 Bowl of Yooyuball Cereal,3450,101
 Cherry Kiko Lolly,3450,88
 Chia Chai Latte,3450,80
@@ -2085,11 +2094,14 @@ Stone Fruit,3450,89
 Well Decorated Meat,3450,87
 Blueberry Kiko Lolly,3425,88
 Broken Skeleton Slushie,3425,74
+Cupcake with Rainbow Frosting,3425,83
 A Slice of Ancient Omelette,3400,101
 Air Faerie Cookie Sandwich,3400,80
 Cheesy Pizza Slushie,3400,80
+Cream Roll,3400,101
 Cup of Pustulence,3400,85
 Dried Fruit Roll,3400,78
+Faerie Fondant,3400,80
 Faeriemoya,3400,91
 Gleenut,3400,80
 Holiday Yule Log,3400,86
@@ -2099,15 +2111,14 @@ Orange Rambus Burger,3400,88
 Peach Milkshake,3400,88
 Skeith Crisps,3400,66
 Slimy Pumpkin Soup,3400,70
-Snow Covered Nachos,3400,80
+Yellow Rock Slices,3400,72
 Almond Pudding,3375,77
 Benyeroberry Tea,3375,80
-Cupcake with Rainbow Frosting,3375,83
+Edible Argyle Socks,3375,76
 Meteor Meat Pie,3375,84
 Yooyu Popcorn,3375,76
 Faerie Jelly in a Jar,3350,85
 Froozle,3350,80
-Jelly Green Tea,3350,80
 Moehog Lollypop,3350,90
 Sparkling Mint Dessert,3350,80
 Berry Fizzers,3325,71
@@ -2116,9 +2127,9 @@ Exquisite Crunchy Wrap,3325,72
 Fruity Faerie Lolly,3325,90
 Maghmour,3325,87
 Mint Ice Cubes,3325,71
+Yellow Growth,3325,101
 Cold Raspberry Tea,3300,76
 Desert Sun Dried Tomatoes,3300,89
-Fig Ice Cream,3300,89
 Frozen Fishy Sandwich,3300,78
 Frubix Cube,3300,71
 Halloween Oranges,3300,90
@@ -2126,11 +2137,13 @@ Jelly Covered Greycorn,3300,90
 Jelly Orange,3300,78
 Just Broccoli Sandwich,3300,76
 Lussion Fruit,3300,82
+Parsnips and Cream,3300,80
 Pyramid Pizza,3300,101
 Sesame Sticks,3300,66
 Shelled Rice,3300,77
 Sprinkling of Salt,3300,68
 Chocolate Green Tea Parfait,3275,77
+Sand Witch,3275,78
 Aisha Mega Burger,3250,85
 Chestnut Soup,3250,76
 Chocolate Poogle Cupcake,3250,78
@@ -2146,32 +2159,32 @@ Mixed Veggie Kebab,3225,66
 Altadorian Lentil Soup,3200,84
 Assorted Coconut Balls,3200,180
 Cheese Puff Fingers,3200,81
-Garlicy Mushrooms,3200,90
 Gummi Worms,3200,83
 Lemon Meringue Tea,3200,78
 Mashed Mud with Gravy,3200,30
 Pickled Cucumbers,3200,77
 Purplum Iced Tea,3200,70
+Veggie Poogle Pate,3200,76
 Watermelon Shaved Ice,3200,80
 Durian Brucicle,3175,89
 Lutango Brucicle,3175,85
 Organic Leek,3175,20
 Tigersquash Ice Cream,3175,40
+Fig Ice Cream,3150,89
 Green Apple Watermelon Slushie,3150,82
 Mint Kiko Swirl,3150,79
 Pea and Carrot-Stuffed Turkey,3150,75
 Rainbow Coffee,3150,79
 Turkey Casserole,3150,85
-Dust Covered Salad,3125,79
 Fruit Leather,3125,89
 Caramel Kiko Apple,3100,72
 Cheese and Tonu Crackers,3100,79
 Eyeball Slushie,3100,85
 Flying Faerie Veggie Platter,3100,80
 Green Octopepper,3100,80
-Kreludan Rock Punch,3100,88
 Kyrii Jumbleberry Milkshake,3100,78
 Natural Springabee Honey,3100,91
+Nimmo Meatloaf,3100,85
 Pepper Lupe Treat,3100,85
 Puchini,3100,180
 Techo Foot Sandwich,3100,75
@@ -2180,7 +2193,7 @@ Jhudora Jelly,3075,94
 Borovan Chicken,3050,70
 Mixed Berries Pancake,3050,87
 Pyrapple,3050,79
-Sand Aubergine,3050,65
+Garlic Kebab,3025,70
 Glass of Water,3025,82
 Spicy Herbal Tea,3025,80
 Abominable Fruitcake,3000,101
@@ -2191,9 +2204,9 @@ Beef Brucicle,3000,76
 Beetroot,3000,180
 Berry Delight,3000,85
 Black Cherry Jelly Omelette,3000,85
+Brightly Coloured Easter Negg,3000,86
 Burnt Jelly,3000,80
 Caviar Sandwich,3000,76
-Celery Root Grits,3000,77
 Cheese Sticks,3000,85
 Chickayo,3000,101
 Chips and Egg,3000,89
@@ -2203,7 +2216,6 @@ Christmas Quiggle Lettuce and Tomato Wrap,3000,73
 Coconut Shell Slushie,3000,76
 Corn Pyramid,3000,94
 Cosmic Ring Cereal,3000,75
-Frozen Soup,3000,80
 Full Moon Cheese,3000,85
 Fyora Day Bento Box,3000,89
 Gruel Sandwich,3000,70
@@ -2215,11 +2227,12 @@ Jelly Ketchup,3000,89
 JubJub Strawberry Juice,3000,85
 Kiko Coffee,3000,80
 Lime Berry Altador Altador Cup Slushie,3000,101
+Maggoty Spud,3000,107
 Marshmallow on Skewers,3000,101
-Nimmo Meatloaf,3000,85
 Orange and Black Currant Brucicle,3000,89
 Papaya with Seaweed,3000,76
 Pea Chia Wings,3000,89
+Purple Spotted Cheese,3000,106
 Qasalan Flatbread Delight,3000,75
 Rice Sushi,3000,89
 Roast Lizard Eggs,3000,90
@@ -2257,10 +2270,10 @@ Lenny Lime Lutari Pop,2975,80
 Mighty Grarrl Burger,2975,85
 Snorange,2975,61
 Snow Toast,2975,62
-Stone Veggie Gormball Sandwich,2975,76
 Strawberry-Kiwi Fruit Cup,2975,79
 Altador Meatloaf,2950,88
 Broccololly,2950,75
+Cheese Manicotti,2950,20
 Cheesy Mashed Potato,2950,70
 Chocolate Coin Wishing Well,2950,101
 Chocolate Techo Foot,2950,75
@@ -2277,19 +2290,19 @@ Chocolate Graveyard Cake,2925,75
 Frozen Jam Sandwich,2925,78
 Fruit Suprise Rock Stick,2925,89
 Zero Gravity Parfait,2925,89
-Blackcherry Chia Pop,2900,76
 Bluchard Root Stuffed Dumpling,2900,73
 Borovan Cookies,2900,70
 Chocolate Coated Hot Dog,2900,87
 Chocolate Corn Dog,2900,86
 Coffee Waffle Bowl,2900,86
 Elegant Cup of Tea,2900,93
-Faerie Fondant,2900,80
+Galactic Chicken Soup,2900,89
 Grarrl Macaroni,2900,68
 Haystack Potato Chips,2900,74
 Illusen Day Hot Dog,2900,89
 Kau Kau Farm Organic Bottled Milk,2900,86
 Marrow Cream Pie,2900,101
+Molten Hot Chocolate,2900,76
 Mynci Veggie Plate,2900,63
 Negg Faerie Mushroom,2900,87
 Nox-ious Milkshake,2900,101
@@ -2315,6 +2328,7 @@ Chip Corn Dog,2825,86
 Raisin Twist Loaf,2825,73
 Apple Flavoured Borovan,2800,88
 Berry Sloth Ice Cream,2800,88
+Cog Hot Dog,2800,70
 Florange Slushie,2800,85
 Frothy Fruit Juice,2800,70
 Gloof Stick,2800,76
@@ -2324,6 +2338,7 @@ Oatmeal Bar,2800,78
 Pumpkin Sushi Balls,2800,87
 Sloth Brucicle,2800,78
 Stinky Zebie Cheese,2800,101
+Vegetable Deluxe,2800,20
 Waterberry Pie,2800,86
 Yooyuball Gummies,2800,101
 Granola Parfait,2775,76
@@ -2336,13 +2351,12 @@ Fyora Spritzer,2750,85
 Hash Browns,2750,76
 Lime Slushie,2750,57
 Macawormi and Cheese,2750,84
-Metal Ice Cream Sundae,2750,79
 Ant Eaten Hot Dog,2725,89
-Cybunny Carrot Burger,2725,90
 Gormball Bubble Tea,2725,70
 Half Grundo Sandwich,2725,88
+Happiness Faerie Dog,2725,96
 Kiko Swirl Lolly,2725,75
-Baby Skeith Tea Infuser,2700,87
+Upside Down Smiley Cone,2725,80
 Brain Tree Muffin,2700,101
 Bubblegum Kiko Taffy,2700,78
 Butterscotch Latte,2700,72
@@ -2358,7 +2372,6 @@ Korbat Wing Soup,2700,91
 Orapple Fizz,2700,72
 Organic Spring Onion,2700,65
 Rangamelon,2700,75
-Starry Hot Dog,2700,89
 Stramberry Slushie,2700,79
 Sugar-Free Tooth Faerie Cake,2700,86
 Tigerbuggle Jacket Potato,2700,70
@@ -2366,7 +2379,7 @@ Yolk Beans,2700,180
 Choco Mint Rock Slices,2675,88
 Organic Beetroot,2675,65
 Pastrami Milkshake,2675,68
-A Sprig of Leaf,2650,79
+Sand Aubergine,2675,65
 Blackberry Chia Pop,2650,75
 Buttery Pecan Kiko Fudge,2650,87
 Chilled Seaweed Cone,2650,89
@@ -2377,7 +2390,7 @@ Hot Snow Soup,2650,79
 Invisible Negg,2650,85
 Orange Moon Rock Pie,2650,88
 Seven Course Meal Plate,2650,101
-Spicey Ice Soup,2650,87
+Tomato Stuffed Doughnut,2650,91
 Black Currant Chia Pop,2625,85
 Cheese Noodle Sandwich,2625,87
 Aqueena Tea,2600,75
@@ -2390,9 +2403,8 @@ Hairy Fungus Salad,2600,70
 Jelly Bread,2600,80
 Jelly Mushroom,2600,89
 Jummie Roll,2600,80
-Molten Hot Chocolate,2600,76
 Ogrin Orange Lutari Pop,2600,79
-Scrumptious Borovan Cookie,2600,68
+Pearange,2600,76
 Snowy Negg,2600,87
 Sugar Coated Jacket Potato,2600,83
 Tchea Brucicle,2600,68
@@ -2411,21 +2423,18 @@ Ice Blended Mocha Coffee,2550,77
 Lime Wiggle Cake,2550,89
 Phear Coffee,2550,70
 Super Sour Melon Tea,2550,75
-Upside Down Smiley Cone,2550,80
 Wiggly Hot Dog,2550,85
-Pearange,2525,76
 Tigerbuggle Ice Lolly,2525,78
 Tomato Striped Hot Dog,2525,88
 Altadorian Olive Salad,2500,76
 Aubergine and Olive Skewer,2500,78
 Baked Apple with Cream and Jam,2500,75
-Bottle of Water,2500,10
 Casera Slushie,2500,71
+Celery Root Grits,2500,77
 Checkered Carrot,2500,62
+Cherry Carrot Ice Cream,2500,74
 Chocalotta Ice Lolly,2500,71
 Chococherry Surprise,2500,101
-Chomby Leafy Crunch,2500,80
-Cog Hot Dog,2500,70
 Decorated Fruit Basket,2500,89
 Decorated Negg,2500,101
 Dried Tigerbuggles,2500,80
@@ -2437,6 +2446,7 @@ Grundo Hot Dog,2500,75
 Gummy Dice Salad,2500,89
 Healthy Apple Pretzel,2500,78
 Holiday Vandagyre Cookie,2500,101
+Impermeable Cheese Log,2500,79
 Jelly Cabbage,2500,87
 Jug of Fresh Lemonade,2500,70
 Landfish,2500,101
@@ -2459,26 +2469,26 @@ Skeith Quesadilla,2500,65
 Skullberry Brucicle,2500,69
 Snowman Slushie,2500,88
 Sour Lemon Slushie,2500,32
-Strong Berry Java,2500,40
-Sunflower Pattern Easter Negg,2500,88
 Tchea Tea,2500,78
 Turihar Berry Coconut Milk,2500,68
 Vitamin B Tablets,2500,180
+Whole Wheat Sun Pancakes,2500,80
 Aubergine Surprise,2475,75
 Eyrie Meatloaf,2475,62
+Haunted Pumpkin Bar,2475,85
 Kelp Covered Hot Dog,2475,80
 Maraquan Gumbo,2475,70
 Orange Pixxi Squash,2475,89
 Orange Space Drink,2475,76
 Seaweed Rock Stick,2475,75
 Starry Taco,2475,82
-Yellow Growth,2475,101
 Zafara Face Coffee,2475,87
 Baklava,2450,85
 Borovan Brownies,2450,87
 Butter Toffee Popcorn,2450,86
 Egg Hot Dog,2450,66
 Fried Tofu,2450,86
+Hot Tyrannian Pepper,2450,92
 Maple Walnut Kiko Fudge,2450,84
 Meridellian Chocolate Milk Glass,2450,70
 Moon Soup,2450,87
@@ -2486,11 +2496,12 @@ Organic Peach,2450,10
 Pickled Qasalan Pickles,2450,88
 Plum Pudding,2450,76
 Razul Muffin,2450,89
+Sand Fruit Salad,2450,75
+Snow Apple,2450,75
+Starry Hot Dog,2450,89
 Thistleberry Slushie,2450,85
 Tigersquash Rock Stick,2450,85
-Blue Ice Apple,2425,87
 Fungi Fruit Scone,2425,73
-Happiness Faerie Dog,2425,96
 Meatball Broth,2425,101
 Milk Bubble Tea,2425,88
 Orange Cloud Cookie,2425,79
@@ -2500,6 +2511,7 @@ Almond Cranberry Trail Mix,2400,75
 Altador Cup Sundae,2400,101
 Asparagus and Hollandaise Sauce,2400,88
 Chalk Brucicle,2400,74
+Chocolate Dipped Marshmallow Grundo,2400,75
 Chocolate Momo,2400,87
 Coconut Cocktail,2400,80
 Coffin Cake,2400,75
@@ -2515,14 +2527,12 @@ Frozen Meaty Sandwich,2400,79
 Fudge Kiko Lolly,2400,75
 Garthroxian Goo,2400,85
 Ghostmallow Smore,2400,73
-Hamburger Dog,2400,88
 Harvest Soup Bowl,2400,88
 Ice Blended Mint Coffee,2400,78
 Islandberry Coffee,2400,78
 Koyle Fruit Grog,2400,84
 Lemon Slushie,2400,68
 Lotus Rice,2400,68
-Marble Cake,2400,73
 Meaty Cheese,2400,101
 Minty Iced Tea,2400,75
 Orange Jelly Fish,2400,80
@@ -2533,16 +2543,16 @@ Pyramid Potato Skins,2400,92
 Sroom Fruit Jam,2400,78
 Two Garlic Bulbs,2400,69
 Water Faerie Sandwich,2400,74
-Whole Wheat Sun Pancakes,2400,80
 Banango Brucicle,2375,88
 Freeze Dried Sprout Soup,2375,79
-Fungi Fruit Slorg Slime,2375,66
 Lemon Chia Wings,2375,89
+Marble Cake,2375,73
 Pineapple Sorbet,2375,72
 Red Hot Molten Sauce,2375,87
 Sand Tofu,2375,68
 Soldier Seaweed Spaghetti,2375,101
 Altador Style Bratwurst,2350,79
+Baby Skeith Tea Infuser,2350,87
 Baked Quince,2350,66
 Blue Bomberry Hot Dog,2350,89
 Blumaroo Coffee,2350,79
@@ -2562,22 +2572,20 @@ Taelia Gateaux,2350,89
 Wasabi Crackers,2350,78
 X-29 Sub-Orbital Cupcake,2350,87
 Yummy Gummy Chews,2350,81
-Apple Soup,2325,77
 Cheese Bowl,2325,87
 Cup of Ghostly Borovan,2325,101
 Flotsam Flakes,2325,70
 Frozen Veggie Sandwich,2325,78
-Parsnips and Cream,2325,80
 Sandy Geb Cakes,2325,90
 Stake Sandwich,2325,76
 Striped Gelert Ham and Cheese Sandwich,2325,72
-Ugnot,2325,68
 Aisha Riceball with Meat,2300,68
 Brick Cheese,2300,116
-Brightly Coloured Easter Negg,2300,86
 Burger Dog,2300,87
+Cheddar Fries,2300,87
 Chocolate Dipped Strawberry Carrots,2300,101
 Chocolate Slushie,2300,89
+Chomby Leafy Crunch,2300,80
 Cinnamon Honey Sticks,2300,68
 Crunch Chocolate Scoaches,2300,82
 Fyora Day Sandwich,2300,89
@@ -2585,20 +2593,19 @@ Glorious Fyora Sundae,2300,87
 Glowleaf Melon,2300,85
 Gravy Nightmare,2300,71
 Gummy Sand Anubis,2300,68
-Hot Tyrannian Pepper,2300,92
 Illusen Lunch Box,2300,89
 Jelly Roll-Ups,2300,86
 Kiko Cookie,2300,101
 Moonfruit,2300,84
 Olive and Feta Pie,2300,80
 Orange Drink Powder,2300,88
-Organic Oatmeal Cookie,2300,77
 Organic Red Apple,2300,15
 Purplum Buns,2300,77
 Qasalan Cone,2300,75
 Sausage Jacket Potato,2300,75
 Snowy Carrot Hot Dog,2300,86
 Splibean,2300,78
+Spyder Eggs,2300,92
 Strawberry Ice Cream Sandwich,2300,85
 Tea Infuser,2300,71
 Toroidoughnut,2300,77
@@ -2609,6 +2616,7 @@ Curry Hot Dog,2275,88
 Flatfruit Brucicle,2275,66
 Gobi Fruit Tea,2275,88
 Gooey Kreluberry Pie,2275,87
+Organic Oatmeal Cookie,2275,77
 Snorkle in a Blanket,2275,76
 Snow Burger,2275,71
 Sparkling Faerie Porridge,2275,86
@@ -2633,6 +2641,8 @@ Roasted Chestnut Ice Lolly,2250,85
 Sausage and Chips Hot Dog,2250,80
 Settra,2250,72
 Shoyru Cereal,2250,85
+Special Sakhmet Dinner,2250,76
+Spicy Fruit Punch,2250,68
 Sprout Wrap,2250,64
 Squeezable Tigersquash,2250,88
 Squirming Salad,2250,72
@@ -2656,6 +2666,7 @@ Tomato Momo,2225,87
 Asteroid Crunch Cereal,2200,85
 Aubergine Chia Wings,2200,89
 Blazing Stone Mug of Borovan,2200,82
+Candy Juice Straw,2200,87
 Cheddar and Screlon Plate,2200,84
 Chokato Honey Sticks,2200,66
 Count Cross Buns,2200,74
@@ -2671,9 +2682,9 @@ Galatic Cherry Pie,2200,87
 Hot Lime Jelly,2200,66
 Intergalactic Chewy Stuff,2200,78
 Islandberry Ice Cream,2200,85
-Jug Juice,2200,86
 Kougra Blurf Shake,2200,86
 Kougra Owabit Shake,2200,88
+Lemon Jelly Pizza,2200,89
 Lotus Artichoke,2200,75
 Lutical Berries,2200,76
 Milk Shaved Ice,2200,77
@@ -2685,7 +2696,6 @@ Peanut Kiko Apple,2200,70
 Roast Gargamon,2200,101
 Skeith Sundae,2200,66
 Solar Flare Negg,2200,101
-Special Sakhmet Dinner,2200,76
 Strawberry Waffle Cone,2200,72
 Strongberry Tea,2200,55
 Tonu Tonic Water,2200,72
@@ -2696,21 +2706,22 @@ Azzle Sauce,2175,64
 Coffee Beans,2175,87
 Dewy Apple,2175,79
 Jelly Milk,2175,88
-Lemon Jelly Pizza,2175,89
 Smoked Seasoned Sausage,2175,80
 Spiked Dariberry Tea,2175,88
 Taokicarrot,2175,72
 White Chocolate Rice,2175,68
+A Sprig of Leaf,2150,79
 Beefy Cheesy Hot Dog,2150,65
 Berry Smore,2150,88
 Chocolate Orange Kiko Fudge,2150,88
 Cranberry Sauce,2150,180
 Faerie Flotsam Pudding,2150,88
-Fruity Star Juice,2150,86
 Gargarox Special Lunch Dish,2150,84
 Grey Hot Dog,2150,86
 Gumball Negg Machine,2150,101
+Jelly Cherries,2150,75
 Kougra Nolafruit Shake,2150,86
+Kreludan Rock Punch,2150,88
 Lemoran,2150,80
 Lime Berry Shenkuu Altador Cup Slushie,2150,101
 Qasala Fountain Soda,2150,88
@@ -2731,8 +2742,9 @@ Whomp Berry Noodles,2125,87
 Zeevine,2125,87
 Altadorian Melitinias,2100,82
 Beast Burger,2100,68
+Blackcherry Chia Pop,2100,76
 Brogleberry Porridge,2100,85
-Chocolate Dipped Marshmallow Grundo,2100,75
+Cheese Kiko Popcorn Ball,2100,74
 Chocolate Drizzled Popcorn,2100,85
 Chocolate Rose Petal Ice Cream,2100,88
 Chocolate Star Decoration,2100,101
@@ -2745,12 +2757,14 @@ Eggy Jacket Potato,2100,78
 Extra Creamy Soup,2100,80
 Gebwich,2100,101
 Grenanna Iced Tea,2100,65
+Hamburger Dog,2100,88
 Honeyplume Pie,2100,85
 Hot Magma,2100,88
 Icy Mint Slushie,2100,77
-Jelly Cherries,2100,75
 Jelly Sushi,2100,67
+Kacheek Marshmallows on a Stick,2100,67
 Kreludan Jelly Pyramids,2100,70
+Lemberryade,2100,101
 Loveberrisicle,2100,70
 Owabit,2100,65
 Parsnip Sandwich,2100,74
@@ -2763,8 +2777,8 @@ Scalefruit,2100,68
 Shenkuu Souffle Pancakes,2100,83
 Skull Stew,2100,89
 Sticky Glob Sticks,2100,87
+Strawberry Wiggle Cake,2100,88
 Wheatgrass Juice,2100,101
-Cheese Kiko Popcorn Ball,2075,74
 Curried Fish,2075,76
 Dung Ice Cream,2075,88
 Gooey Kreludan Cookie,2075,88
@@ -2779,9 +2793,8 @@ Enchanted Popcorn,2050,83
 Flatfruit Tea,2050,87
 Gulg Coffee,2050,89
 Jhudoras Achyfi,2050,89
-Lemberryade,2050,101
-Lime and Orange Sherbert Package,2050,88
 Smoked Snorkle Cheese,2050,102
+Spicey Ice Soup,2050,87
 Steampunk Negg,2050,101
 Stramberry Juice,2050,80
 Turkey Pie,2050,83
@@ -2794,8 +2807,6 @@ Hot Doughnutfruit Juice,2025,72
 Ice Blended Caramel Coffee,2025,78
 Potato-Stuffed Turkey,2025,73
 Purplum Mocha,2025,55
-2/3 Sausage Omelette,2000,104
-Altador Cup Cupcake,2000,101
 Altador Dog,2000,86
 Avocado Deviled Eggs,2000,101
 Baked Apple with Tigerbuggle sauce,2000,70
@@ -2803,10 +2814,10 @@ Baked Faerie Corn,2000,87
 Baked Intesteen,2000,61
 Baklava Tangram,2000,101
 Black Cherry Sundae,2000,71
+Blue Ice Apple,2000,87
 Blueberry Jelly Hot Dog,2000,87
 Blueberry Jetsam Jelly,2000,89
 Bori Bowl of Fruit,2000,67
-Borovan Punch,2000,73
 Bowl of Yuck,2000,101
 Brain Slushie,2000,85
 Braised Lotus Root,2000,81
@@ -2818,6 +2829,7 @@ Caramel Iced Coffee with Extra Caramel,2000,86
 Cherry Sloth Yogurt,2000,87
 Chicken Leg Wing,2000,101
 Chicken Roll,2000,101
+Chickentastic Ice Lolly,2000,82
 Chill Pill,2000,67
 Chocolate Milk,2000,10
 Chocolate Wing Cakes,2000,89
@@ -2843,24 +2855,25 @@ Fiery Flames Ice Lolly,2000,78
 Fresh Faerie Fruit,2000,88
 Fried Worm Stew,2000,65
 Fruit Cornucopia,2000,88
-Fyora Gum,2000,89
-Garlic Kebab,2000,70
 Gebmid Jellies,2000,73
 Ginseng Popsicle,2000,73
 Glaring Cheesecake,2000,68
 Green Rock Stick,2000,80
+Halloween Skull Cake,2000,101
 Happy Slorg Mug,2000,82
 Haunted Coffee,2000,101
 Hot Chocolate Dip,2000,68
 Hot Dog Split,2000,67
 Iced Kougra Coffee,2000,89
 Ichor Ghost Toast,2000,70
+Illusen Acorn,2000,79
 Illusen Day Doughnut,2000,89
 Illusen Day Pizza,2000,87
 Jelly Kabob,2000,86
 Jelly Shaped Blumaroo,2000,90
 Jhudora Day Burger,2000,88
 Jhudora Gum,2000,88
+Jhudora Parfait,2000,87
 Jhuidahs Tangy Fruit Juice,2000,87
 Jinjah Maple Mocktail,2000,85
 JubJub Orange Juice,2000,86
@@ -2897,6 +2910,7 @@ Queela Quench,2000,80
 Radish Sprouts,2000,76
 Red Juppie Burger,2000,78
 Root Pancakes,2000,87
+Sack Plant,2000,15
 Seaweed Salad,2000,86
 Smooshed Tomato,2000,70
 Sniddberry Slushie,2000,71
@@ -2914,14 +2928,12 @@ Starry Waffle Cone,2000,85
 Strawbericious Ice Lolly,2000,71
 Strawberry Kiko Fudge,2000,86
 Strawberry Snow Puff,2000,20
-Strawberry Wiggle Cake,2000,88
 Super Spice Jalapeno Hot Dog,2000,75
 Suti Jam Triple Decker,2000,87
 Tangerine Tea,2000,78
 Turnla Pie,2000,87
 Vegan Turkey Dinner,2000,74
 Vitamin A Tablets,2000,180
-Watermelon,2000,68
 Yooyu Mug,2000,101
 Black Currant Jelly Pop,1975,65
 Black Currant Milkshake,1975,89
@@ -2943,12 +2955,14 @@ Achyfi Ice,1950,89
 Aggressive Casserole,1950,65
 Balsamic Dressing,1950,80
 Blurf Brucicle,1950,83
+Broccoli,1950,15
 Cheese Stuffed Olives,1950,75
 Cheesy Courgette Slice,1950,80
 Cheesy Popcorn,1950,75
 Chocolate Coffee Waffle Cone,1950,83
 Chokito Wrap,1950,101
 Corn Chowder Soup Bowl,1950,87
+Doglefox Popcorn,1950,81
 Fancy Waffles,1950,66
 Figs With Honey Sauce,1950,76
 Frozen Cucumber Slices,1950,77
@@ -2965,11 +2979,10 @@ Pineapple Ham,1950,88
 Pizza Kiko Taffy,1950,89
 Red Goparokko Fruit,1950,85
 Sand Wich,1950,76
-Space Station Chocolate Milk Glass,1950,71
 Stuffed Mallows,1950,82
+Tchea Marshmallow Grundo,1950,88
 Tetraberry Pie,1950,67
 Watercress,1950,64
-Cheesato,1925,101
 Herbal Coffee,1925,88
 Jhudora Sour Candy,1925,78
 Lava Bread,1925,89
@@ -2982,6 +2995,7 @@ Angel Hair Jacket Potato,1900,68
 Apple Cinnamon Slushie,1900,75
 Baked Apple with Custard,1900,67
 Bluchard Root,1900,76
+Brightvale Rigamaroll,1900,89
 Brilliant Bubble Cream,1900,89
 Bubble Gum Slushie,1900,54
 Calamari Jacket Potato,1900,70
@@ -2992,8 +3006,6 @@ Chocolate Mint Slushie,1900,80
 Cookie Hot Dog,1900,80
 Dandelion Tea,1900,87
 Deluxe Chocolate Chia,1900,101
-Earth Faerie Apple,1900,77
-Easter Negg Crispy Rice Treat,1900,101
 Fermented Tea,1900,89
 Finger Sandwiches,1900,76
 Fountain Faerie Fruit Punch,1900,72
@@ -3001,28 +3013,26 @@ Four Alarm Hot Dog,1900,89
 Fruity Shaved Ice,1900,66
 Gelert Sticky Rice Cake,1900,68
 Gnocchi Beef Stew,1900,72
-Grape Jam Hot Dog,1900,65
 Grape Sugar Coral,1900,87
 Gummy Sand Horus,1900,72
 Hotdog with Custard,1900,86
 Iced Coconut Coffee,1900,87
 Jelly Sponge Cake,1900,80
-Jhudora Parfait,1900,87
 Kacheek Pretzels,1900,65
 Kelpcakes with Green Sauce,1900,70
 Korbat Wings and Fr-eyes,1900,101
 Lenny Vegetable Soup,1900,66
 Light Faerie Sandwich,1900,76
+Lime and Orange Sherbert Package,1900,88
 Mano Root,1900,80
 Marrow and Rice Sundae,1900,101
+Milky Moo Ice Lolly,1900,75
 Mixed Fruit Kebab,1900,68
 Moltato,1900,79
 Molten Meatballs,1900,88
-Mynci Vegetable Burger,1900,75
 Neopia Negg,1900,101
 Omelette Of The Faeries,1900,77
 Peanut Butter Kiko Fudge,1900,85
-Peanut Butter Pizza,1900,25
 Peppermint Rock Stick,1900,84
 Planetary Onion Rings,1900,89
 Pure Ice Tea,1900,87
@@ -3030,15 +3040,15 @@ Qando Fruit,1900,74
 Rainbow Roll,1900,88
 Shenkuu Eel Rice Bowl,1900,77
 Shoyru Spaghetti,1900,67
-Slice of Space Cake,1900,101
 Smoked Meridellian Fish,1900,79
 Snow Faerie Cupcake,1900,77
-Spicy Fruit Punch,1900,68
 Spinach Hummus,1900,77
+Spooky Lime Pudding,1900,70
 Squibble Berry Slushie,1900,83
 Strange Stew,1900,78
 Strawberry Faerie Sundae,1900,76
 Thing Rolls,1900,68
+Ugnot,1900,68
 Ultra Cheesy Hot Dog,1900,76
 Undead Cheese Wedge,1900,101
 Unis Clothing Shopkeeper Cupcake,1900,101
@@ -3047,11 +3057,9 @@ Wheat Bread Hot Dog,1900,65
 Altadorian Sun Cheese,1875,77
 Azzle Tea,1875,86
 Black Cherry Ixi Drink,1875,87
-Checkered Cake,1875,64
 Grilled Enoki,1875,74
 Jug of Fresh Tigerade,1875,75
 Meerca Fruit Burger,1875,69
-Neopia Central Chocolate Milk Glass,1875,69
 Rice Dice,1875,86
 Steel Negg,1875,87
 Tetraberry,1875,88
@@ -3064,7 +3072,6 @@ Basket of Berries,1850,82
 Black Currant Slushie,1850,73
 Candy Corn Classic,1850,64
 Cashew Milk,1850,75
-Chocolate Hot Dog,1850,80
 Chokato Dumplings,1850,75
 Clam Chowder in a Bread Bowl,1850,63
 Creamy Chicken Dish,1850,82
@@ -3074,6 +3081,7 @@ Dolmade,1850,82
 Dulaberry Kiko Candy Floss,1850,78
 Dung Negg,1850,83
 Earth Faerie Broccoli,1850,88
+Fyora Gum,1850,89
 Gherkin Hot Dog,1850,70
 Haaaarrd Boiled Egg,1850,87
 Honey Nut Pebbles,1850,65
@@ -3086,7 +3094,6 @@ Origami Ice Cream,1850,101
 Pyraberry,1850,76
 Quiggle Grilled Cheese Sandwich,1850,82
 Raspberry Faerie Crepe,1850,75
-Ripe Bomberry,1850,86
 Rock Fruit,1850,79
 Shadowy Swiss Roll,1850,101
 Spaceship Negg,1850,101
@@ -3102,23 +3109,22 @@ Fancy Seafood,1825,67
 Hannah Lunch Box,1825,88
 Hot Apple Oatmeal,1825,88
 Jellyfish Sundae,1825,96
-Mashed Potato Hat,1825,87
 Pirate Lupe Pasta,1825,88
 Sand Hot Dog,1825,72
 Skrazapod,1825,89
 Sludgy Slushie,1825,45
 Snow Slushie,1825,56
+Sunflower Pattern Easter Negg,1825,88
 Sunflower Seeds,1825,180
 Tangy Cheesicle,1825,85
 Almond Slushie,1800,84
 Almost Gummy Rat (Lime),1800,65
-Angelpuss Cheese,1800,101
 Autumnberry Slushie,1800,83
 Azzle Onigiri,1800,88
 Banango Punch,1800,86
 Blumaroo Gummy Vitamins,1800,78
 Cake of the Lost,1800,84
-Cheddar Fries,1800,87
+Cheesato,1800,101
 Cheese,1800,10
 Chocolate Jhudora,1800,180
 Chokato JubJub Mini Burger,1800,88
@@ -3133,13 +3139,11 @@ Fluffy Faerie Pancakes,1800,72
 Foil-Wrapped Hot Dog,1800,78
 Fried Salmon,1800,82
 Fruit Tuskabob,1800,85
-Galactic Chicken Soup,1800,89
 Green Tea Slushie,1800,80
 Halloween Jinjah Platter,1800,76
 Hannah Flask,1800,101
 Hot Munuberry Juice,1800,74
 Ice Lolly,1800,65
-Illusen Acorn,1800,79
 Ixi Bagel,1800,84
 Jelly Coffee,1800,85
 Jelly Pretzel,1800,79
@@ -3149,17 +3153,21 @@ King Hagan’s Holiday Cake,1800,101
 Large Tonu Day Burger,1800,86
 Lemon Lime Neocola,1800,82
 Lenny Strawberry Ice Cream,1800,66
+Light Faerie Cupcake,1800,76
 Lime Berry Roo Island Altador Cup Slushie,1800,101
-Melted Sugar Vaeolus,1800,66
 Mint Ice Cream Apple Lantern,1800,76
 Minty Vanilla Ice Lolly,1800,74
 Mixed Rock Stick,1800,86
 Mouldy Mini Kau Cheese Wheel,1800,76
+Mynci Vegetable Burger,1800,75
 Neatly Stacked Ice Cubes,1800,65
+Neopia Central Chocolate Milk Glass,1800,69
 Noil Cracker,1800,75
 Organic Cherries,1800,10
 Paper-Wrapped Salmon,1800,77
 Peanut Butter and Pickles,1800,97
+Peanut Butter Pizza,1800,25
+Pineapple Juice,1800,70
 Plain Oatmeal,1800,72
 Pot Of Peanuts,1800,180
 Purple Peophin Lutari Pop,1800,78
@@ -3171,7 +3179,6 @@ Snowflake Slushie,1800,72
 Soba Noodles,1800,68
 Spherical Hot Dog,1800,88
 Spiced Gingerbread Latte,1800,73
-Spooky Lime Pudding,1800,70
 Steamed Potato Salad,1800,86
 Steaming Hot Udon Noodles,1800,86
 Suteks Revenge,1800,70
@@ -3188,7 +3195,6 @@ Eggs Benedict,1775,75
 Everlasting Mug of Borovan,1775,101
 Faerie Beetroot,1775,79
 Fruity Cereal Slushie,1775,71
-Hegelob Peanut Cookies,1775,86
 Leafy Slorgwich,1775,88
 Lenny Cream of Onion Soup,1775,65
 Number Fruit Leather,1775,77
@@ -3198,7 +3204,6 @@ Space-Fungused Cheese Cracker,1775,67
 Superpower Drink,1775,101
 Tabouleaf,1775,64
 Tweezleberry Slushie,1775,85
-2/3 BBQ Sauce Omelette,1750,115
 Candy Cane Hot Dog,1750,72
 Carrot and Strawberry Blend,1750,78
 Chocolate Coated Pear,1750,67
@@ -3214,10 +3219,11 @@ Marshmallow Roast Coffee,1750,76
 Munuberry Coconut Milk,1750,67
 Mystery Meat Sandwich,1750,80
 Potato Omelette Sandwich,1750,72
+Robo Crunch,1750,101
 Roseatte,1750,86
+Space Station Chocolate Milk Glass,1750,71
 Speckled Ice Cream,1750,88
 Squibble Berry Jam,1750,79
-Steamed Dumplings,1750,89
 Stuffed Grape Leaves,1750,76
 Tofu Satay,1750,82
 Twirly Fruit Tea,1750,76
@@ -3238,6 +3244,7 @@ Aubergine Slushie,1700,79
 Azzle,1700,75
 Black Cherry Slushie,1700,46
 Bludberry Kikotube,1700,77
+Carrots in Salad,1700,76
 Checkered Burger,1700,68
 Cheesy Baby Cabbage,1700,180
 Cheesy Coffee,1700,65
@@ -3247,10 +3254,10 @@ Chocolate Parsnip,1700,70
 Crab Spaghetti,1700,67
 Dirt Cheese,1700,75
 Double Green Pumpkin,1700,89
+Earth Faerie Apple,1700,77
 Faerie Carrot,1700,86
 Fancy Cheese Platter,1700,84
 Fancy Faerie Float,1700,89
-Fancy Sundae,1700,65
 Fire Faerie Straw,1700,75
 Fishy Cheese,1700,101
 Flan,1700,70
@@ -3266,11 +3273,9 @@ Lime Berry Krawk Island Altador Cup Slushie,1700,101
 Lost Desert Stew,1700,70
 Mayonnaise Artichoke,1700,74
 Minestrone Soup,1700,79
-Mini Cheddar Kau Cheese Wheel,1700,75
 Mint Explosion Ice Lolly,1700,73
 Moehog Face Coffee,1700,86
 Molabean,1700,84
-Mop n Slop,1700,101
 Munuberry,1700,78
 Orange Uni Sherbert Sundae,1700,89
 Peanut Butter Crackers,1700,71
@@ -3281,6 +3286,7 @@ Roseatte Ice Cream,1700,66
 Seared Salmon Sandwich,1700,65
 Seasoning Sand,1700,79
 Seaweed Wrapped Dumplings,1700,78
+Slice of Space Cake,1700,101
 Sliced and Pickled Duoroot,1700,73
 Sliced Strawberries,1700,77
 Snow Cookie,1700,86
@@ -3303,9 +3309,11 @@ Baked Apple Jacket Potato,1650,86
 Battle Faerie Mushroom,1650,76
 Boiling Hot Lava Soup,1650,88
 Buttered Popcorn,1650,65
+Chocolate Hot Dog,1650,80
 Ergy Fruit Cupcake,1650,72
 Holiday Borovan Service,1650,92
 Hot Meerca Tea,1650,71
+Hot Mustard Sauce,1650,65
 Innocuous Cup of Hot Chocolate,1650,101
 Jelly Celery,1650,76
 Juicy Warterberry,1650,75
@@ -3323,14 +3331,14 @@ Sausage Link Hot Dog,1650,78
 Smore Hot Dog,1650,77
 Sprinkling of Oregano,1650,72
 Twirly-Fruit Fruit Leather Socks,1650,68
-Air Faerie Gum,1625,85
 Chocolate Xweetok Ice Cream Sandwich,1625,88
 Chomby Day Potato Soup,1625,87
 Figgy Jacket Potato,1625,66
 Glacial Sundae,1625,87
 Mood o Meter Berries,1625,65
-Pineapple Juice,1625,70
+Organic Pineapple,1625,70
 Qando Fruit Tea,1625,64
+Scrumptious Borovan Cookie,1625,68
 Single Scoop of Sorbet,1625,75
 Tigersquash Chia Pop,1625,62
 Wormy Slushie,1625,95
@@ -3345,11 +3353,13 @@ First Date Cake,1600,70
 Flaming Hot Corndog,1600,85
 Flatfruit Shake,1600,65
 Floating Peanut Butter Cube,1600,86
+Glowing Pretzel,1600,73
 Grape and Orange Candy Stick,1600,73
 Grape Kiko Taffy,1600,89
 Holiday Potato,1600,101
 Kiko Lake Cookie,1600,70
 Light Faerie Sorbet,1600,86
+Mini Cheddar Kau Cheese Wheel,1600,75
 Moon Sandwich,1600,82
 Orange Flavored Ribs,1600,67
 Plain ol Rice Bowl,1600,68
@@ -3359,7 +3369,6 @@ Potato Shake,1600,86
 Qando Bread,1600,66
 Raspberry Tuskaninny Pop,1600,78
 Seared Lava Fish,1600,88
-Sourmelon Brew,1600,68
 Spaghetti with Altadorian Sauce,1600,84
 Spicy Cabbage Pancakes,1600,76
 Spicy Tofu Satay,1600,84
@@ -3381,13 +3390,13 @@ Fresh Basil Soup,1575,74
 Grey Scorchipepper,1575,89
 Kelp Slushie,1575,84
 Lemon And Guacamole Hot Dog,1575,85
+Melted Sugar Vaeolus,1575,66
 Mug of Borovan with Asparagus,1575,101
 Pineapple Snowball,1575,101
 Blueberry and Chokato Achyfi,1550,87
-Brightvale Rigamaroll,1550,89
+Carrot On A Stick,1550,85
 Completely Non-lethal Sandwich,1550,90
 Cream Cheese Dip,1550,75
-Creamy Cloud Ice Cream,1550,78
 Cucumber Hot Dog,1550,65
 Cucumber Salad,1550,90
 Extra Sour Seedless Skeem Jam,1550,81
@@ -3399,7 +3408,6 @@ Illusen Tea,1550,87
 Jhudora Day Soup,1550,84
 Krawk Brand Crisps,1550,75
 Lemon and Thornberry Jelly,1550,65
-Marshmallows with Gravy,1550,91
 Orange and Lime Rock Stick,1550,73
 Partially Eaten Chocolate Buzz Dessert Platter,1550,67
 Pickled Onions,1550,75
@@ -3421,7 +3429,6 @@ Seafood Twist,1525,80
 2/3 Tomato Omelette,1500,122
 Aisha Hot Chocolate,1500,70
 Ants on Ants,1500,94
-Banan,1500,180
 Berry Onigiri,1500,86
 Bloody Slushie,1500,72
 Blue Cheese and Tchea Plate,1500,86
@@ -3430,16 +3437,15 @@ Caesar Salad,1500,100
 Carrot Wrap,1500,75
 Cheesy Onion Sticks,1500,70
 Chia Shaped Aubergine,1500,89
-Chickentastic Ice Lolly,1500,82
 Chocolate Covered Kiko Popcornball,1500,74
 Chocolate Dipped Hot Dog,1500,89
 Chocolate JubJub Sundae,1500,87
 Chocolate Smore,1500,180
 Chokato Chia Wings,1500,89
+Chokato Slushie,1500,75
 Cinnamon and Sugar Scone,1500,101
 Cobrall drink,1500,101
 Corn Puffs,1500,86
-Cream Roll,1500,101
 Cress Ghostkersandwich,1500,64
 Deep-Fried Candy Floss,1500,76
 Dropped Snowcone,1500,73
@@ -3448,30 +3454,34 @@ Earth Faerie Gum,1500,86
 Enchanted Book Cake,1500,101
 Extra Cheesy Jacket Potato,1500,62
 Eyrie Gumbo,1500,64
+Fancy Sundae,1500,65
 Fire Faerie Apple,1500,76
 Fizzy Faerie Jelly,1500,88
 Flaming Hot Meat Taco,1500,82
+Franks and Beans,1500,66
 Freezer Burnt Leftovers,1500,72
 Fresh Turnip Sandwich,1500,64
 Frosted Cake Hot Dog,1500,88
-Glowing Pretzel,1500,73
+Fruit Krawk Pot,1500,76
+Fungi Fruit Slorg Slime,1500,66
 Grarrl Crackers,1500,68
 Halloween Kacheek Candy Dish,1500,101
 Iced Berry Water,1500,70
 Iced Blackberry Tea,1500,88
+Jhudoras Cupcake,1500,89
 Kiko Candy,1500,81
 Kreludan Rocket Cookie,1500,70
 Lava Bread Bowl,1500,89
 Lemon Kiko Taffy,1500,88
 Lime Berry Darigan Altador Cup Slushie,1500,101
 Lime Ice Cream,1500,84
-Lupe Sticky Rice Cake,1500,68
 Lychee,1500,66
 Melted Ice Cube,1500,68
 Minty Moach Mocha,1500,87
 Neopolitan Milkshake,1500,65
 Olive Snowball,1500,101
 Omega Eggs,1500,75
+Orange Cream Tea,1500,77
 Orange Split Chia Pop,1500,75
 Organic Cucumber Slices,1500,67
 Pepperminto Slushie,1500,85
@@ -3482,10 +3492,11 @@ Queela Stick,1500,82
 Rainbow Snowball,1500,180
 Rocket Corn on the Cob,1500,85
 Roseatte Slushie,1500,82
+Sauteed Space Rock,1500,77
 Screamed Corn,1500,73
 Seaweed Rock Slices,1500,87
 Shoyru Ice Cream Sculpture,1500,86
-Skeith Ice Cream Sandwich,1500,84
+Sourmelon Brew,1500,68
 Spaghetti Kiko Taffy,1500,89
 Sparkling Berry Ice Cream,1500,89
 Spiderweb Latte,1500,66
@@ -3498,11 +3509,11 @@ Taelia Muffin,1500,85
 Tangella Sandwich,1500,89
 Tangy Red Melon Slushie,1500,41
 Tea Biscuits,1500,75
+Teal and Purple Juppie Slushie,1500,70
 Tomato Chia Wings,1500,89
 Vanilla Gnorbu Cupcake,1500,75
 Voidberry Faerie Bubble,1500,69
 Wintermelon,1500,67
-Aisha Day Soup,1475,82
 Apple Chia Wings,1475,89
 Aubergine Wrap,1475,88
 Azzle Coffee,1475,81
@@ -3520,13 +3531,12 @@ Kiwi,1475,70
 Mushroom Sandwich,1475,84
 Omelette with Cream Sauce,1475,65
 Orange Filled Jacket Potato,1475,85
-Organic Nectarine,1475,78
 Peas and Carrots Ice Lolly,1475,83
 Pyranegg,1475,87
-Sand Witch,1475,78
 Speckled Candy Floss,1475,86
 Strawberry and Lime Achyfi,1475,87
 Tigersquash Rock Slices,1475,85
+Air Faerie Gum,1450,85
 Altadorian Cobb Salad,1450,85
 Bamboo Tea,1450,85
 Berry Eyrie Souffle,1450,82
@@ -3545,6 +3555,7 @@ Goparokko Meerca Tail Fruit Tape,1450,78
 Grey Ice Cream,1450,83
 Guacasymole,1450,81
 Left-Over Turkey Wing Sandwich,1450,73
+Lemon Jelly Pop,1450,50
 Lime Faerie Bubble,1450,68
 Lucky Slothy Day Dip,1450,85
 Meriberry Shaved Ice,1450,79
@@ -3554,21 +3565,24 @@ Plain Shaved Ice,1450,76
 Plate of Christmas Kookith Cookies,1450,101
 Pomegranate Coffee,1450,70
 Potato Jacket Dog,1450,66
+Sand Peach,1450,53
 Spring Flower Tea,1450,66
+Watermelon,1450,68
 Zafara Gruel,1450,74
-Cactus Blossom,1425,19
 Cheesy Mynci Beach Volleyball Crackers,1425,101
 Chokato Parfait,1425,88
 Creamy Carrot Trifle,1425,87
 Faerie Petpet Food,1425,87
 Florg Os Cereal,1425,82
 Ice Cream Bowl Altador Hat,1425,101
+Icy Baked Beans,1425,75
 Illusens Holiday Cream Cookie,1425,101
 Jelly Peapod,1425,70
 Lemon Sun Cake,1425,81
 Origami Breakfast,1425,82
 Scorchipepper Jacket Potato,1425,88
 Stone Pie,1425,101
+Aisha Day Soup,1400,82
 Archaesaurus Tail,1400,22
 Bubbling Blue Soup,1400,89
 Cake Coffee,1400,101
@@ -3576,6 +3590,7 @@ Candy Pumpkin Latte,1400,87
 Cheese Ghostkersandwich,1400,70
 Cheese Star Sandwich,1400,85
 Chocolate Brucicle,1400,85
+Chocolate Eclair Paste,1400,30
 Chocomalt Milkshake,1400,66
 Chokato Baby Food,1400,77
 Chokatoade,1400,87
@@ -3584,23 +3599,20 @@ Deep-Fried Gormball,1400,85
 Earl Grey Tea,1400,60
 Faerie Asparagus,1400,88
 Faerie Sparkle Candy,1400,71
-Flaming Hot Chips,1400,83
 Frozen Hot Chocolate,1400,82
 Fyora Faerie Straw,1400,76
-Icy Baked Beans,1400,75
 Jacket Potato with Beans,1400,63
 Jelly Peach,1400,84
+Jug Juice,1400,86
 Juicee,1400,87
 Kelp Samosa,1400,180
 Ketchup and Mustard Hot Dog,1400,65
-Marshmallow Slushie,1400,83
 Mecha Icy Cone,1400,88
 Mixed Grarrl Salad,1400,75
 Mixed Nuts,1400,65
 Mynci Banana Split,1400,68
 Nimmo Curry and Rice Ball,1400,78
 Organic Green Grapes,1400,40
-Oysters on a Half Shell,1400,67
 Peanut Crunch Cereal,1400,70
 Queela Fruit,1400,73
 Radish Salad,1400,78
@@ -3633,7 +3645,6 @@ Organic String Cheese,1375,74
 Starry Gelert Pie,1375,86
 Stealthy Cocorot,1375,101
 Super Sour Slushie,1375,75
-Weevil Coffee,1375,55
 Baked Juppie,1350,89
 Banana Achyfi,1350,90
 Banana Hot Dog,1350,70
@@ -3647,6 +3658,8 @@ Chocolate Coated Cabbage,1350,80
 Chunky Cauliflower Soup,1350,75
 Faerie Marshmallows,1350,85
 Fresh Popcorn,1350,75
+Fruity Star Juice,1350,86
+Grape Jam Hot Dog,1350,65
 Heavy Bark Cheese,1350,101
 Honey Glazed Ham,1350,84
 Hot Banana Soup,1350,87
@@ -3670,16 +3683,16 @@ Turkey Steak Dinner,1350,86
 Veggie Bowl,1350,78
 Aisha Cucumber Riceball,1325,66
 Bacon and Cheese Hot Dog,1325,70
+Black Hole Jellybeans,1325,76
 Cheery Tomatoes,1325,70
 Chokato Rigamaroll,1325,89
 Crispy Crunchy Cookies Cereal,1325,75
+Easter Negg Crispy Rice Treat,1325,101
 Fishy Sandwich on a Stick,1325,101
 Flatfruit Latte,1325,88
 Hot Strawberry Soup,1325,89
 Intergalactic Slushie,1325,101
 Juppie Swirl Chia Pop,1325,88
-Light Faerie Cupcake,1325,76
-Lime Tea,1325,76
 Loveberry Slushie,1325,72
 Olive Cupcake,1325,70
 Organic Mushroom,1325,30
@@ -3689,7 +3702,6 @@ Roasted Spyder on a Stick,1325,87
 Spinach and Cream Cheese Dumplings,1325,71
 Strawberry Kiko Ice Cream Cone,1325,87
 Stuffed Eel,1325,101
-Turnla,1325,77
 Apple and Brie Omelette,1300,101
 Apricot Gnorbu Juice,1300,74
 Aquaberry Kiko Candy Floss,1300,75
@@ -3714,51 +3726,54 @@ Jhudora Faerie Straw,1300,77
 Marrow Bean,1300,101
 Mint Tea,1300,65
 Moon Sponge Cake,1300,82
+Olive Marshmallow Taco,1300,98
 Onion Shoyru Meatball,1300,70
 Orange Wiggle Cake,1300,85
 Organic Broccoli,1300,10
 Organic Mushy Peas,1300,71
+Oysters on a Half Shell,1300,67
 Pink Mashed Potatoes,1300,101
 Planet Pops,1300,84
 Pulsating Brain Custard,1300,87
 Quiggle Fly Pie,1300,83
 Raspberry JubJub Mini Burger,1300,87
 Scorchio Melted Cheese Sandwich,1300,66
+Skeith Ice Cream Sandwich,1300,84
 Snowberry Tea,1300,60
 Snowy Rack of Ribs,1300,82
+Steamed Dumplings,1300,89
 Strawberry Butter Tea,1300,78
+Stuffed Puntec,1300,70
 Taelia Pizza Slice,1300,88
 Thornberry Tea,1300,65
 Tiger Shoyru Ice Cream,1300,89
 Ultimate Fyora Day Muffin,1300,89
-Zonutuk Fruit,1300,95
 Bacon and Beans Jacket Potato,1275,70
 Candy Kiko Apple,1275,74
 Dark Liquid in Mugs,1275,101
 Dried Gruel Capsules,1275,50
 Holiday Flowering Tea Pot,1275,90
-Hot Mustard Sauce,1275,65
-Kacheek Marshmallows on a Stick,1275,67
+Lime Tea,1275,76
 Lime Time Slushie,1275,87
 Mint Flavoured Borovan,1275,87
-Shishkafruit Jam,1275,81
 Strawberry Blumaroo Cone,1275,82
 Strawberry Snowball,1275,101
 Thistle Shoyru Ice Cream,1275,89
-Vegetable Deluxe,1275,20
+Zesty Zafara Burrito,1275,88
 Banana and Chocolate Rock Stick,1250,85
 Blue Shoyru Slushie Cup,1250,82
 Burnt Hot Dog,1250,66
-Cheese and Eel Burger,1250,35
+Cactus Blossom,1250,19
 Cinnamon Toasties Blast,1250,75
 Coconut and Gooseberry Achyfi,1250,88
-Coltzan Negg,1250,85
+Cranberry Kiko Drink,1250,71
+Faerie Bonbons,1250,87
 Giant Bowl of Cranberry Sauce,1250,86
+Hegelob Peanut Cookies,1250,86
 Hot Dog Sundae Deluxe,1250,85
 Intergalactic Ice Cream Cone,1250,87
 Ketchup Relish Dog,1250,67
 Kreludan Fruit Salad,1250,86
-Lime Chia Pop,1250,35
 Metal Pizza,1250,81
 Mutant Asparagus,1250,82
 Neocola Hard Candies,1250,82
@@ -3769,6 +3784,7 @@ Pumpkin Eyrie Souffle,1250,83
 Quiggle Stew,1250,85
 Red Eye Egg,1250,47
 Sand Pear,1250,46
+Shenkuu Shrimp-Fried Rice,1250,76
 Soy Chai Latte,1250,82
 Sparkling Pink New Year Juice,1250,86
 Spooky Apple Muffin,1250,101
@@ -3782,15 +3798,14 @@ Bark Taco,1225,77
 Blooble and Cheese Plate,1225,88
 Boiled Peanut Dash Peanuts,1225,84
 Broccoli Achyfi,1225,83
+Brown Sugar Sweet Potato,1225,75
 Cactus Leaf,1225,15
 Calcium Supplement,1225,180
 Candy Apple Latte,1225,83
-Cherry Carrot Ice Cream,1225,74
 Corn Salad,1225,75
 Crunchy Carrot Burger,1225,86
 Faerie Tea Bowl,1225,85
 Flamear,1225,83
-Franks and Beans,1225,66
 Grapefruit,1225,70
 Half Full Glass of Lemonade,1225,101
 Ham and Mustard Sandwich,1225,101
@@ -3800,11 +3815,9 @@ Peas Flour Burger,1225,89
 Pumpkin Baby Food,1225,78
 Raisins,1225,78
 Ruki Red Lutari Pop,1225,81
-Shenkuu Shrimp-Fried Rice,1225,76
 Skeith Burger,1225,87
 Space Rocks,1225,85
 Spotted Cheese Sandwich,1225,69
-Tomato Dipped Chocolate Bar,1225,98
 Water Burger,1225,86
 Zombie Hot Dog,1225,81
 Apple Oatmeal,1200,67
@@ -3813,7 +3826,6 @@ Baked Chomby Crisps,1200,74
 Banana Honey Gormball Sandwich,1200,75
 Blueberry Baby Food,1200,76
 Bubblegum Kiko Drink,1200,73
-Bubbling Blueberry Cheese Wedge,1200,84
 Butter Sweet Potato,1200,76
 Caffeine Free Neocola,1200,25
 Caramel Coated Pear,1200,67
@@ -3823,7 +3835,6 @@ Carrot,1200,10
 Checkered Steak,1200,70
 Chicken Bread Bowl,1200,101
 Chocolate Tree Decoration,1200,101
-Chokato Slushie,1200,75
 Chomby Chips,1200,86
 Chomby Meatloaf,1200,87
 Coconut Dates,1200,67
@@ -3842,17 +3853,17 @@ Ghost Pancakes,1200,68
 Gnome Crunch Deluxe Cereal,1200,75
 Gooseberry Tuskaninny Ice Cream,1200,88
 Grarrlnola Bar,1200,66
-Grilled Asparagus,1200,88
 Grunion Brucicle,1200,84
 Ham and Cheese Wingwich,1200,87
 Juppie Cheese Wedge,1200,70
 Kastraliss Snack,1200,90
 Kiwi Sorbet,1200,83
 Leek Stew,1200,89
+Lime Chia Pop,1200,35
 Mango Shaved Ice,1200,76
 Mangorific Slushie,1200,65
 Mega Carrot Pie,1200,88
-Mutant Apple,1200,89
+Mutant Toast,1200,83
 Mynci Vegetable Melt Sandwich,1200,73
 Mynci Vegetable Soup,1200,88
 Mystery Dessert Goo,1200,77
@@ -3870,6 +3881,7 @@ Red Bruce Collectors Cup Slushie,1200,82
 Rose Slushie,1200,90
 Sack of Potatoes,1200,101
 Salisbury Steak,1200,85
+Shell Burger,1200,87
 Sliced Turkey Breast,1200,75
 Slime-Frosted Pretzel,1200,77
 Spicy Coconut Soup,1200,83
@@ -3891,8 +3903,10 @@ Avocado Jam Toast,1175,79
 Bug-a-licious Parfait,1175,84
 Can of Sausages,1175,66
 Cheese Bomb,1175,101
+Cheesecake Salad,1175,87
 Chocolate Coated Flies,1175,88
 Cranberry Flavoured Borovan,1175,89
+Creamy Cloud Ice Cream,1175,78
 Flotsam Sugar Rice Cracker,1175,68
 Jazan Cake,1175,82
 Lime Yurblecone,1175,81
@@ -3900,9 +3914,11 @@ Mini Ice Cream,1175,82
 Organic Orange Slices,1175,77
 Organic Red Onion,1175,77
 Scarab Negg,1175,88
+Shishkafruit Jam,1175,81
 Sloth Salad,1175,85
 Sprinkling of Chilli Pepper,1175,74
 Super Size Borovan,1175,101
+Turnla,1175,77
 Very Stinky Cheese,1175,101
 Volcano Chews,1175,82
 Avocado Chia Wings,1150,89
@@ -3914,10 +3930,8 @@ Cherry Neocola,1150,101
 Chips and Gravy,1150,73
 Chocolate Waffle Cone,1150,72
 Cloudberry,1150,74
-Extreme Holiday Potato,1150,101
 Flatfruit,1150,82
 Fruity Fondue,1150,85
-Galactic Space Punch,1150,84
 Grassy Green Cone,1150,82
 Greycorn,1150,89
 Grobleen Fruit Punch,1150,67
@@ -3925,44 +3939,42 @@ Heart Latte,1150,70
 Jelly Onion,1150,82
 Jelly Pod Peas,1150,68
 Lawyerbrat,1150,89
+Marshmallow Slushie,1150,83
+Mutant Apple,1150,89
 Mutant Carrot,1150,87
 Nova Fruit,1150,80
 Orange Chocolate Bar,1150,88
 Peanut Butter and Jam Sandwich,1150,72
 Purple Crisps,1150,85
 Raspberry Cranberry Juice,1150,83
+Ripe Bomberry,1150,86
 Scrambled Aubergine,1150,84
 Seaweed Bacon Jacket Potato,1150,85
 Super Spicy Borovan,1150,88
 Toffee Baby Cabbage,1150,180
 Tomato Shoyru Meatball,1150,67
 Zeenana Cappucino,1150,65
-1/3 Cheese Omelette,1125,121
 Aisha Ice Cream,1125,86
 CPMPB Sandwich,1125,83
-Faerie Bonbons,1125,87
 Faerie Rock Candy,1125,83
 Maraquan Munch Cereal,1125,101
 Meatball Toasty,1125,89
 Moehog Salad,1125,84
 Nachos,1125,180
-Orange Cream Tea,1125,77
 Pineapple Coconut Slushie,1125,88
 Poached Roaches,1125,101
-Sack Plant,1125,15
 Seaweed Shell Salad,1125,101
 Shenkuu Mountain Miso Soup,1125,78
 Shenkuu Tea Bowl,1125,84
 Snorkle Vegan Platter,1125,77
 Sparkle Berry Slushie,1125,84
 Stealthy Eyed Burger,1125,101
-Tangy Twirly Fruit Soup,1125,83
 Aisha Chocolate Cheesecake,1100,65
 Blue Pop Slushie,1100,62
 Cantaloupe Melon,1100,65
 Celestial Salad,1100,79
+Checkered Cake,1100,64
 Cheese and Tomato Muffin,1100,87
-Cheese Puffs,1100,87
 Chocolate Elephante Sundae,1100,88
 Chocolate Faerie Mallows,1100,88
 Chomby Hot Dog,1100,83
@@ -3975,24 +3987,24 @@ Disco Slushie,1100,88
 Double Cream Mocha,1100,74
 Dung Cake,1100,101
 Faerie Cloud Meringues,1100,101
+Firefish Basket,1100,75
 Fresh Kreluberry,1100,84
 Fresh-Squeezed Florange Juice,1100,93
+Galactic Space Punch,1100,84
 Garlic Juice,1100,68
 Glowing Lettuce Head,1100,79
 Gormet Coffee,1100,77
 Grarrl Cheese Slices,1100,67
-Green Oat Cereal,1100,55
 Ground Beef Smores,1100,97
 Honeydew Melon,1100,66
+Hot Cakes,1100,15
 Illusen Day Jelly,1100,89
 Islandberry Faerie Bubble,1100,70
 Lenny Coffee Mug,1100,83
-Light Faerie Sundae,1100,75
 Lime Sorbet,1100,87
 Lime Tuskaninny Pop,1100,78
 Limed Iced Tea,1100,72
 Mocha Smore,1100,86
-Mushroom and Herb Salad,1100,86
 Ogrin Meatballs,1100,75
 Orange Gnorbu Cake,1100,87
 Plate of Smores,1100,101
@@ -4002,6 +4014,7 @@ Purple Pasta,1100,81
 Rainbow Fountain Burger,1100,83
 Raspberry Achyfi,1100,83
 Red Kiko Snow Cone,1100,101
+Roseatte Sundae,1100,83
 Snailcorn Parfait,1100,96
 Spinach and Feta Pie,1100,82
 Split Pea Lupe Soup,1100,87
@@ -4013,6 +4026,7 @@ Three Layer Hummus,1100,68
 Ultimate Burger,1100,40
 Ummagine Chia Wings,1100,89
 Veggie Corn Dog,1100,82
+Weevil Coffee,1100,55
 Wocky Tacos,1100,95
 Yurble Steak,1100,88
 Blackberry Elephante Sundae,1075,89
@@ -4021,9 +4035,9 @@ Flaming Bomberry Tea,1075,75
 Good Popcorn,1075,82
 Mangcage,1075,68
 Mega Tonu Day Burger,1075,89
+Munuberry Slushie,1075,89
 Neocola Jellypop,1075,75
 Oatmeal Raisins,1075,77
-Organic Carrot Juice,1075,78
 Raspberry Mocha Candy Bar,1075,85
 Soft White Cheese,1075,70
 Banana Roll,1050,70
@@ -4041,11 +4055,11 @@ Ionized Onion,1050,86
 Iron Supplement,1050,180
 Jacket Potato with Onions,1050,75
 Jhudora Day Ice Cream,1050,86
-Lemberry Chia Jelly,1050,70
 Lemon JubJub Fruit Leather,1050,74
 Lime Jelly Burger,1050,70
+Lupe Sticky Rice Cake,1050,68
 Minty Blumaroo Cone,1050,83
-Orange Chia Wings,1050,89
+Organic Nectarine,1050,78
 Peanut Butter and Honey Sandwich,1050,87
 Plumberrisicle,1050,71
 Purple Felberry Soup,1050,84
@@ -4059,24 +4073,20 @@ Cheese Cookies,1025,101
 Cheese Covered Pretzel,1025,70
 Chocolate Cloud Cookie,1025,78
 Chocolate Kiko Fudge,1025,84
-Cloud Slushie,1025,87
 Cocoa to Share from Kari,1025,101
 Famous Crab Burger,1025,40
 Florg Nachos,1025,88
 Gooseberry Shake,1025,82
-Jhudoras Cupcake,1025,89
 Juppie Swirl Chia Wings,1025,89
 Plumberry Coral Lolly,1025,67
 Sandy Pita,1025,78
 Savoury Cheese Draik Head,1025,89
-Shell Burger,1025,87
 Shrimptail with Kelp Sauce,1025,45
 Snow Pizza,1025,50
 Tangleberry Meerca Tail Fruit Tape,1025,77
 Uni Spinach Sandwich,1025,73
 Vanilla Elephante Sundae,1025,89
 Wailing Bowl of Oats,1025,78
-1/3 Black Currant Omelette,1000,101
 1/3 Carrot and Pea Omelette,1000,106
 2/3 Cheese and Onion Omelette,1000,118
 2/3 Cheese Omelette,1000,119
@@ -4093,7 +4103,7 @@ Banana Cream Coffee,1000,60
 Berrybiscus Tartlet,1000,72
 Blackened Gruel,1000,77
 Bleeding Heart Jelly Sundae,1000,75
-Blue Raspberry Shaved Ice,1000,75
+Blue Apple Chia Pop,1000,48
 Blueberry Chia Wings,1000,89
 Blueberry Juice,1000,101
 Blueberry Snowball,1000,101
@@ -4101,10 +4111,8 @@ Bluna Burger,1000,98
 Bubble Negg,1000,83
 Burger Stuffed Orange,1000,89
 Butternut Ravioli,1000,75
-Buzz Meatloaf,1000,88
 Cabbage Taco,1000,88
 Candy Floss Chia Pop,1000,52
-Candy Juice Straw,1000,87
 Candy Licorice Latte,1000,81
 Carnapepper Soup,1000,86
 Carrot Chia Wings,1000,89
@@ -4114,9 +4122,9 @@ Celery,1000,60
 Chebu Chebu Grub,1000,101
 Cheese Flower Cracker,1000,68
 Cheese Xweetok,1000,86
-Cheesecake Salad,1000,87
 Cheesenana,1000,82
 Cheesy Apple Stick,1000,95
+Chips and Curry Sauce,1000,74
 Chocolate Taquitos,1000,92
 Chocolatey Pork Chops,1000,69
 Chokato Topped Frozen Yogurt,1000,85
@@ -4124,10 +4132,10 @@ Christmas Picnic Basket,1000,101
 Clove Ham,1000,86
 Coconut Chia Wings,1000,89
 Coffee Milkshake,1000,61
+Coltzan Negg,1000,85
 Communal Meatloaf,1000,86
 Conkerberry Rocketpop,1000,72
 Corned Beef on Rye,1000,72
-Cranberry Kiko Drink,1000,71
 Crunchy Quiggles,1000,89
 Cup of Green Tea,1000,70
 Cup of Wocky Day Soup,1000,88
@@ -4135,7 +4143,6 @@ Cursed Coffee Service,1000,84
 Dark Faerie Cookie Sandwich,1000,65
 Deep-Fried Space Rocks,1000,68
 Dehydrated Chicken Dumplings,1000,75
-Dehydrated Fungus,1000,79
 Delicate Faerie Nachos,1000,85
 Doglecoffee,1000,85
 Dried Carrot Slices,1000,75
@@ -4151,7 +4158,7 @@ Fire and Ice Slushie,1000,88
 Fire Faerie Breath Mints,1000,88
 Fire Faerie Fondue,1000,84
 Fire Rice,1000,43
-Firefish Basket,1000,75
+Flaming Hot Chips,1000,83
 Floating Pigs in Blankets,1000,76
 Florange Brucicle,1000,82
 Florg Burger,1000,84
@@ -4160,15 +4167,16 @@ Flotsam Seaweed Rice Cracker,1000,66
 Fragrant Ummagcheese,1000,101
 Frozen Corn Dog,1000,85
 Funky Carrot,1000,86
-Gnome Shroom,1000,99
 Gnorbu Salad,1000,86
 Gnorbu Wool Noodles,1000,81
 Grackle Bug Brew,1000,85
 Grape Snow Puff,1000,40
 Grey Cheese,1000,89
+Grilled Asparagus,1000,88
 Grilled Chokato on Toast,1000,86
 Grilled Negg,1000,83
 Guava Roll,1000,72
+Hammy Cheese Wedge,1000,87
 Haunted Brucicle,1000,65
 Holiday Slushie,1000,80
 Holiday Tree Appetizer,1000,101
@@ -4181,6 +4189,7 @@ House Blend Coffee,1000,50
 House Blend with Cream,1000,50
 Hubrid Nox Brucicle,1000,101
 Icy Faerie Mallows,1000,89
+Icy Onigiri,1000,77
 Jacket Potato with Nachos,1000,78
 Jelly Butter,1000,70
 Jelly Can of Beans,1000,65
@@ -4196,6 +4205,7 @@ Korbat Tea Sandwiches,1000,81
 Krawk Apple,1000,70
 Left-Over Turkey Drumstick Sandwich,1000,74
 Left-Over Turkey Steak Sandwich,1000,75
+Lemberry Chia Jelly,1000,70
 Lemint Custard,1000,86
 Lemint Muffin,1000,88
 Lemint Pizza Slice,1000,89
@@ -4204,17 +4214,21 @@ Lemon Curd,1000,180
 Lentil Stew,1000,86
 Light Faerie Breath Mints,1000,87
 Light Faerie Lemons,1000,87
+Light Faerie Sundae,1000,75
 Limeade,1000,83
 Limestone Doughnutfruit,1000,76
 Little Green Tea,1000,67
 Lunch Box for Office,1000,101
+Magenorb Juice,1000,90
 Matoast,1000,101
+Mayonnaise Doughnut,1000,90
 Meat Tuskabob,1000,84
 Meridellian Blend Coffee,1000,86
 Mint Chocolate Chia Pop,1000,78
 Mint Chocolate Chip Smore,1000,87
+Moehog Veggie Sandwich,1000,86
 Multi-scoop Ice Cream,1000,86
-Munuberry Slushie,1000,89
+Mushroom and Herb Salad,1000,86
 Neopian Battlefield Legends Tarts,1000,101
 Nimmo Cream Cakes,1000,70
 Nimmo Sheppards Pie,1000,83
@@ -4224,13 +4238,13 @@ Onion and Sliced Mushroom Soup,1000,78
 Onion Chia Wings,1000,89
 Oranella Slushie,1000,87
 Orange Ixi Drink,1000,87
+Organic Carrot Juice,1000,78
 Organic Honeycomb,1000,79
 Organic Kale,1000,76
 Organic Melon Yogurt,1000,83
 Organic Octo Snacks,1000,68
 Organic Olives,1000,180
 Organic Peanut Butter,1000,72
-Organic Pineapple,1000,70
 Organic Radish,1000,60
 Organic Strawberry Yogurt,1000,84
 Pea and Ham Baby Food,1000,15
@@ -4241,6 +4255,7 @@ Peophin Fruit Medley,1000,86
 Pineapple Doughnutfruit,1000,77
 Pink Hot Dog,1000,80
 Plain Honey Sticks,1000,65
+Pomegranate Jelly,1000,65
 Poogle Sushi,1000,81
 Potato Cheese,1000,101
 Potato Chips on a Paper Plate,1000,83
@@ -4266,6 +4281,7 @@ Sloth Surprise,1000,85
 Sludge Iced Coffee,1000,85
 Snail Cream Cone,1000,89
 Snot Volcano,1000,101
+Snout Plant,1000,105
 Snow Garlic,1000,75
 Snow Mint Tea,1000,81
 Sour Apple Kiko Drink,1000,68
@@ -4283,12 +4299,12 @@ Starberry Satay,1000,81
 Starry Star Burger,1000,86
 Strawberry Ice Cream,1000,65
 Striped Chia Pop,1000,89
-Stuffed Puntec,1000,70
 Stuffed Shells,1000,75
 Sugar Coated Apple Fritters,1000,83
 Super Icy Custard,1000,92
 Swirly Kiko Fudge,1000,83
 Tangy Tropic Slushie,1000,70
+Tangy Twirly Fruit Soup,1000,83
 Tanizard Ice Cream,1000,79
 Tarragon Achyfi,1000,82
 Tchea Fruit Slushie,1000,73
@@ -4298,7 +4314,6 @@ Thornata Juice,1000,83
 Thornata Slushie,1000,89
 Thornberry Jelly,1000,75
 Tomb Chips,1000,86
-Tropical Fruit Smoothie,1000,15
 Turbo Steak Meat,1000,101
 Turmac Ice Lolly,1000,101
 Tuskaninny Ice Cream Bar,1000,81
@@ -4318,8 +4333,10 @@ Vegetable Quiggle Sandwich,1000,88
 Vegetarian Fyora Day Taco,1000,82
 Vegetarian Kyrii Sandwich,1000,88
 Vegetarian Tonu Day Burger,1000,88
+Veggie Crisps,1000,68
 Veggie Sausage,1000,180
 Veggie Tuskabob,1000,83
+Voidberry Cobbler,1000,101
 Warm Caramel Latte,1000,81
 Water Faerie Cookie Sandwich,1000,68
 Week Old Glass of Milk,1000,90
@@ -4330,12 +4347,9 @@ A Smatter of Butter,990,75
 Authentic Tyrannian Coffee,990,83
 Banana Slushie,990,87
 Banana Sundae,990,88
-Black Hole Jellybeans,990,76
 Blueberry Roll,990,73
 Celery Achyfi,990,84
-Chips and Curry Sauce,990,74
 Chokato Toasty,990,86
-Faerie Pineapple,990,82
 Flotsam Rice Cracker,990,65
 Fresh Lemint Juice,990,88
 Gnorbu Sushi,990,89
@@ -4349,7 +4363,6 @@ Lychee Bubble Tea,990,67
 Mango,990,65
 Melowhirl Juice,990,89
 Miniature Gingerbread City,990,101
-Mutant Toast,990,83
 Nutty Cheese Surprise,990,74
 Orange Lupe Treat,990,75
 Orangomelon,990,83
@@ -4363,22 +4376,21 @@ Pterducken,990,95
 Quadruple Fudge Cheese Wedge,990,89
 Raspberry Milkshake,990,15
 Red Eggs on Toast,990,22
-Roast Ham,990,101
 Savoury Grundo Veggieballs,990,82
 Snowberry Rocketpop,990,73
 Sparkling Carrot Juice,990,84
 Tentacle Bowl,990,81
 Tigersquash Iced Bun,990,55
-Toffeed Brain,990,97
+Tropical Fruit Smoothie,990,15
 Vampiric Christmas Cookies,990,101
 Waffle Sandwich,990,93
 Wocky Funnel Cake,990,101
-Yellow Rock Slices,990,72
+Zero Gravity Veggie Platter,990,83
 Baby Chomby Cookie,980,101
 Blue Swirl Cheesicle,980,87
 Blueberry Kyrii Slushie,980,88
+Caramalised Blunkabean,980,30
 Cherry Xweetok Cupcake,980,87
-Choco Mint Rock Stick,980,88
 Chokato Mash Jacket Potato,980,88
 Evil Blancmange,980,99
 Fire Faerie Cupcake,980,75
@@ -4387,23 +4399,22 @@ Fried Shrimp,980,30
 Gelert Day Cereal,980,82
 Green Apple Slushie,980,61
 Grenanna Meerca Tail Fruit Tape,980,76
+Ice Milk Red Tea,980,68
 Icy Fried Chicken,980,76
 Jelly Pecan,980,70
 Kiko Cola,980,64
 Kiko Fudge Sundae,980,85
+Kiwi and Cucumber Sandwich,980,65
 Lentil And Bean Hot Dog,980,78
 Lesser Bearded Plantfruit,980,82
 Lost Desert Fruitcake,980,101
 Maraquan Blend Coffee,980,85
-Milky Moo Ice Lolly,980,75
 Organic Slop,980,68
 Strawberry Flotsam Day Shake,980,87
-Teal and Purple Juppie Slushie,980,70
 Tigerbuggle Tuskaninny Ice Cream,980,89
 Tofu and Veggie Sandwich,980,83
 Tofu Pumpkin,980,84
 Twirly Fruit Shoyru Ice Cream,980,88
-Zesty Zafara Burrito,980,88
 Cheese and Beans Jacket Potato,970,64
 Chicken Curry,970,82
 Coffee Slushie,970,79
@@ -4419,9 +4430,9 @@ Water Droplet,970,101
 Cheese Skeith,960,180
 Clawmatoe,960,13
 Flaming Hot Burrito,960,89
+Gurrandrillge,960,66
 Organic Baby Carrots,960,76
 Pant Devil Lunch Box,960,88
-Roseatte Sundae,960,83
 Skarl Kebab,960,101
 TNT Coffee Mug,960,101
 2/3 Green Pepper Omelette,950,107
@@ -4430,6 +4441,7 @@ Bluecheese Dressing,950,84
 Borovan-Flavoured Crisps,950,101
 Bowl-O-Bones,950,88
 Brown Ixi Acorn,950,88
+Buzz Meatloaf,950,88
 Caramel Baby Cabbage,950,180
 Chocolate Custard,950,84
 Chocolate Duck Rump,950,98
@@ -4443,10 +4455,11 @@ Gnorbu Burger,950,88
 Kyrii Chocolate Milkshake,950,75
 Lemon Iced Tea,950,60
 Lemwart Kikotube,950,75
+Lime Snot Kiko Lolly,950,75
 Marshmallow Milkshake,950,63
 Marshmallow Sweet Potato,950,77
 Marshmallows with Borovan Dipping Sauce,950,101
-Mayonnaise Doughnut,950,90
+Mynci Cristo Sandwich,950,81
 Natural Gum,950,72
 Nimmo Bento,950,75
 Nimmo Day Sandwich,950,87
@@ -4464,23 +4477,22 @@ Tofu Bone,950,58
 Twirly Fruit Parasol Faerie Punch,950,77
 Vanilla Gelert Ice Cream Sandwich,950,88
 White Chocolate Pear,950,75
-Zero Gravity Veggie Platter,950,83
 2/3 Carrot and Pea Omelette,940,106
 Jhudoras Favourite Pie,940,85
 Krawk Ice Cream Sandwich,940,89
 Lime Chia Wings,940,89
 Root Stew,940,77
-Sand Fruit Salad,940,75
 Tetraberry Slushie,940,86
 A Dozen Neggs,930,88
 Baby Bruce Milk Bottle,930,80
 Bronto Bite,930,35
-Carrots in Salad,930,76
+Dehydrated Fungus,930,79
 Dinner Hot Dog,930,86
 Double Mustard Double Bacon Hot Dog,930,67
 Epple Sandwich,930,89
 Golden Florange,930,101
 Half-Eaten Chicken Pie,930,101
+Lime Ruki Sundae,930,89
 Lychee Slushie,930,87
 Meat Kebab,930,78
 Meaty Chia Soup,930,82
@@ -4490,13 +4502,15 @@ Oozing Negg Buns,930,75
 Peanut Dash Cookie,930,83
 Purblare Fruit Bowl,930,91
 Purple Ixi Acorn,930,88
-Strawberry Nimmo Ice Lolly,930,88
 Treasure Chest Cake,930,101
 Blue Bruce Collectors Cup Slushie,920,84
 Blue Raspberry Bori Snowcone,920,87
+Faerie Pineapple,920,82
 Kacheek Vanilla Pudding,920,62
+Mop n Slop,920,101
 Mummy Spaghetti,920,73
 Peach Ice Cream,920,65
+Sparkling Blue New Year Juice,920,84
 Clown Chia Zeenana Ice Cream,910,87
 Cube-Shaped Watermelon,910,87
 Gravy Hot Dog,910,84
@@ -4507,17 +4521,19 @@ Altador Fruit on a Plate,900,101
 Bat Cookie,900,76
 Blended Pipper,900,75
 Bludberry Slorg Slime,900,66
+Bottle of Water,900,10
 Brain Kebab,900,98
 Bubbling Bori Beverage,900,66
 Candy Keys,900,101
 Canteen-o-Sand,900,77
 Caramel Hot Chocolate,900,79
-Carrot On A Stick,900,85
 Cashew,900,66
 Chai Tea Cake,900,72
 Cheesy Cloud Cookie,900,82
 Cherry Juice,900,101
 Chokato Burger,900,76
+Chunk of Meat,900,73
+Cloud Slushie,900,87
 Coconut Soup,900,68
 Crazy Crisp Taco,900,52
 Cup of Tea,900,15
@@ -4537,7 +4553,7 @@ Grunion Fruit Shaved Ice,900,77
 Ice Milk Green Tea,900,66
 Joint of Ham,900,50
 Kookith Vegan Platter,900,75
-Lemon Jelly Pop,900,50
+Lemon Brucicle,900,60
 Light Appetizer,900,101
 Mac and Cheese,900,70
 Meat Lasagne,900,52
@@ -4547,12 +4563,11 @@ Nebula Cake,900,101
 Negg Slushie,900,82
 Neo Taco,900,50
 Numbers and Shapes Soup,900,65
+Orange Chia Wings,900,89
 Origami Donut,900,81
-Pant Devil Sandwich,900,101
 Pickled Eel,900,40
 Pigalicious Ham Sandwich,900,83
 Plain Omurice,900,75
-Pomegranate Jelly,900,65
 Raspberry Jelly Draik Head,900,89
 Raspberry Neocola,900,65
 Scorchio Ham Sandwich,900,67
@@ -4565,7 +4580,6 @@ Sprinkled Doughnutfruit,900,78
 Strawberry Jetsam Sandwich,900,89
 Strawberry Marshmallow Grundo,900,81
 Symol White Cheddar Cheese Ball,900,82
-Tea With Honey and Milk,900,71
 Thistleberry Tuskaninny Ice Cream,900,89
 Thornberry Slorg Slime,900,68
 Whoot Cookies,900,101
@@ -4584,19 +4598,18 @@ Lenny Casserole,890,83
 Meaty Usul Wrap,890,75
 Mynci Steak,890,89
 Queela Crisp,890,65
-Sausage on Toast,890,61
 Seagrass Tea,890,101
 Snow Sandwich,890,35
 Spotted Kau Ice Cream,890,87
 Steamed Round Dumplings,890,82
 Yooyuball Rice Ball,890,101
 1/3 Sausage Omelette,880,104
+Bubbling Blueberry Cheese Wedge,880,84
 Candy Corn Stuffed Pumpkin,880,86
 Cantaloupe Slushie,880,87
+Cheese Puffs,880,87
 Low Fat Milk,880,70
 Marshmallow Grundo,880,70
-Meaty Asparagus Dish,880,89
-Pomegranate Iced Tea,880,73
 Ptolymelon,880,67
 Sketch Cheese,880,88
 Sparkling Draik Cake,880,89
@@ -4604,20 +4617,20 @@ Spotted Gelert Sundae,880,88
 Vanilla Blumaroo Cone,880,81
 Zafara Orange Juice,880,86
 2/3 Meat Feast Omelette,870,101
-Chomby Leafy Lollypop,870,85
 Churros,870,30
-Mynci Cristo Sandwich,870,81
+Gormffaine,870,73
 Tentacle Sprout,870,32
+Angelpuss Cheese,860,101
 Blackened Banana,860,180
 Chilli Hot Dog,860,180
-Gooseberry Jelly,860,89
 Mixed Greens Salad,860,77
+Rose Petal Crisps,860,64
 Sketch Cake,860,88
-Snow Apple,860,75
 Stick of Butter,860,90
 Twirly Fruit Stew,860,101
 Apple Core,850,101
 Apple Juice,850,10
+Bacon Muffin,850,50
 Basket of Coconuts,850,101
 Benyeroberry Parasol Faerie Punch,850,75
 Butterscotch Milkshake,850,62
@@ -4625,6 +4638,7 @@ Cheese Spread on a Plank,850,66
 Chocolate Peanut Butter Bagel,850,88
 Cocolatte Slorg Slime,850,65
 Delicious Custard Brulee,850,87
+Dried Duoroot,850,75
 Electric Blue Slushie,850,86
 Grapefruit Tea,850,75
 Haunted Hummus,850,84
@@ -4637,6 +4651,7 @@ Paper-Wrapped Cheese,850,75
 Pepper Chia Wings,850,89
 Quiggle Foot Wrap,850,86
 Squid Slushie,850,88
+Twirly Fruit Juice,850,87
 Bag Of Sugar,840,64
 Mustard Ice Cream,840,35
 Organic Dark Chocolate,840,73
@@ -4658,14 +4673,13 @@ Tangleberry Slorg Slime,820,67
 Glowing Green Soup,810,88
 Luscious Flambe,810,81
 Shrimp Kebab,810,82
+Strawberry Nimmo Ice Lolly,810,88
 Baby Tomatoes,800,30
 Bargasaurus Steak,800,27
 Beet Pate,800,86
 Berry Buzz Ice Cream,800,72
 Bowl of Alphabet Soup,800,101
-Brown Sugar Sweet Potato,800,75
 Celery Salad,800,82
-Cheese Manicotti,800,20
 Cheese Tortilla,800,30
 Cheesy Jetsam Sandwich,800,82
 Cheops Slushie,800,65
@@ -4674,19 +4688,20 @@ Coffee-Filled Pear,800,67
 Crab Salad,800,76
 Draik Cracker Sandwich,800,75
 Dried Lemoran,800,78
-Faerie Toast With Butter,800,35
 Fishy Poogle Pate,800,75
 Ice Cereal,800,88
 Ice Milk Coffee,800,65
 Ice Sickle Pop,800,66
 Intergalactic Planet Dairy,800,75
 Jelly Parsley,800,46
+Kiwi Slushie,800,70
 Knit Glass Cozy,800,101
 Krakuberry Mocha,800,70
 Lemon Faerie Bubble,800,65
 Licorice Cheese,800,101
 Lime,800,69
 Lupe Snowcone,800,81
+Mystery Island Chocolate Milk Glass,800,73
 Neo Cola Chia Pop,800,55
 Omelette Turkey,800,90
 Orange Bruce Juice,800,88
@@ -4710,30 +4725,33 @@ Star Latte,800,68
 Tangram Sandwich,800,101
 That Fruit Basket You Forgot About,800,92
 Tomato Cheesecake,800,90
+Twirly Fruit Coral Lolly,800,65
 Two Bottles of Water,800,50
-Tyrannian Dung Cheese,800,111
 Ultimate Concoction for Restoring Refreshment,800,101
 Black Licorice,790,66
 Ghost Marshmallows,790,90
 Hidden Treasure Pasta,790,90
 Hot Blunella Punch,790,73
 Iced Papaya Tea,790,84
+Meaty Asparagus Dish,790,89
 Mixed Rock Slices,790,82
 Rhuby Fruit Jam Hot Dog,790,81
 Shrimp Spaghetti,790,65
 Stale Bread,790,35
 Tangella on Toast,790,86
+2/3 Bacon and Broccoli Omelette,780,109
+2/3 Bacon Omelette,780,112
 Altador Cup Cheese Platter,780,101
 Bludberry Coral Lolly,780,66
 Blue Bomberry,780,101
 Cabbage Quiche,780,89
+Cheese and Eel Burger,780,35
 Cheesy Krawk Sandwich,780,89
 Chia Cheese Blintz,780,86
 Chocolate and Asparagus Achyfi,780,89
+Chomby Leafy Lollypop,780,85
 Flaming Blooble Fruit Juice,780,88
 Jumbleberry Kikotube,780,76
-Kiwi Slushie,780,70
-Magenorb Juice,780,90
 Mortogberry Slushie,780,81
 Mynci Brain Sandwich,780,96
 Obsidian Rock Candy,780,78
@@ -4753,16 +4771,14 @@ Chicken Tuskabob,770,84
 Chocolate Covered Unguberry,770,101
 Flaming Hot Banana,770,86
 Green Ixi Acorn,770,89
-Lime Ruki Sundae,770,89
 Plain Sloth Day Burger,770,83
 Raptraphant Leg,770,99
 Roasted Aubergine Sandwich,770,86
 Watermelon Chia Pop,770,84
 Zafara Hot Chocolate,770,82
 Creamy Carrot Soup,760,75
-Moehog Veggie Sandwich,760,86
-Olive Marshmallow Taco,760,98
 Onion Cola,760,93
+Pomegranate Iced Tea,760,73
 Baggus Dip,750,89
 Bottled Droolik Drool,750,84
 Candy Peas,750,75
@@ -4770,6 +4786,7 @@ Chip Butty Pizza,750,94
 Chocolate Fish,750,96
 Freeze-Dried Holiday Meal,750,101
 Furry Chocomint Cheese,750,101
+Gooseberry Jelly,750,89
 Gruel,750,30
 Inkade,750,88
 Lava Butter,750,75
@@ -4779,11 +4796,13 @@ Mistletoe Slushie,750,85
 Mugless Iced Coffee,750,101
 Pasta Nest,750,89
 Pile of Rotten Neggs,750,101
-Rose Petal Crisps,750,64
+Potato Ice Cream,750,90
 Stuffed Surprise,750,101
 Sweet Ummagine Roll,750,88
+Tea With Honey and Milk,750,71
+Tigersquash Burger,750,84
 Triangle of Ham,750,69
-Twirly Fruit Coral Lolly,750,65
+Unwanted Fruit Cake,750,101
 Up For Grabs Lunch Leftovers,750,101
 Veggie Poogle Wrap,750,75
 Voidberry Slushie,750,92
@@ -4791,9 +4810,9 @@ Deceptive Salad,740,89
 Enoki-n-Cheese Plank,740,75
 Filling Skeith Steak,740,88
 Fire Fondue,740,89
+Flower Latte,740,72
 Organic Almond,740,89
 Spicy Mystery Island Coffee,740,84
-Steeped Tea,740,66
 1/3 Sausage and Pepperoni Omelette,730,102
 Apple Neocola,730,65
 Chai Iced Tea,730,70
@@ -4802,7 +4821,6 @@ Neopian Central Dog,730,68
 Plain Eyrie Souffle,730,81
 Plum Chia Wings,730,89
 Scalding Hot Soup,730,101
-Caramalised Blunkabean,720,30
 Chrysanberry Latte,720,81
 Durian Biscuit,720,87
 Durian Chia Wings,720,89
@@ -4824,31 +4842,33 @@ Faerie Fried Egg,700,82
 Fresh Faerie Fruit Parasol Punch,700,78
 Golden Ixi Acorn,700,89
 Grape Roll,700,73
-Hot Cakes,700,15
 Hot Papaya Tea,700,83
 Jar Of Flies,700,87
-Kiwi and Cucumber Sandwich,700,65
 Lentil Pie,700,89
 Peanut Butter Granola Bar,700,86
-Shiny Golden Cheese,700,101
+Roast Ham,700,101
 Split Pea Soup Bowl,700,89
 Straw Cubes,700,88
 Thistleberry Ice Lolly,700,88
+1/3 Tomato Omelette,690,122
 Flaming Hot Hot Dog,690,83
-Gormffaine,690,73
 Illusen Day Burger,690,89
 Kabuggle Mocha,690,45
 Kau Kau Farm Half And Half,690,70
+Shiny Golden Cheese,690,101
 Spinach Topped Frozen Yogurt,690,86
+Spotty Cheese Wedge,690,88
 Veggie Flower Cracker,690,66
 Bleumaroo Cheese,680,82
 Ice Cream Machine Sundae,680,101
+Illusens Green Goddess Potato Salad,680,93
 Jalapeno Pretzel,680,75
 Octopus Ice Cream Platter,680,95
+Scrampi Salad,680,82
 Sherbet Lemon Chia Pop,680,35
-Twirly Fruit Juice,680,87
 Beef Rouladen,670,30
 Fresh Melon Cubes,670,89
+Gnome Shroom,670,99
 Qando Sundae,670,81
 Roasted Beet Salad,670,84
 Snow Cake,670,35
@@ -4861,22 +4881,20 @@ Kiwi Cookies,650,85
 Marble Ice Lolly,650,101
 Molten Ice Cream Cone,650,101
 Raspberry Brucicle,650,55
-Snowager Brucicle,650,101
 Snowghetti and Meatballs,650,40
 Strawberry Poogle Cupcake,650,88
 Symol Dinner,650,101
 Thornberry Noodle Soup,650,88
 Tuna Sub,650,30
 Whole Wheat Flower Cracker,650,67
-Hammy Cheese Wedge,640,87
+Faerie Toast With Butter,640,35
 Lenny Veggie Burger,640,88
 Nimmo Rice Ball,640,77
 Organic Dill Pickles,640,81
 Speckled Apple,640,101
 Cherimoya,630,68
-Chunk of Meat,630,73
-Flower Latte,630,72
 Gooey Bug Soup,630,86
+Green Oat Cereal,630,55
 Lunch Cereal,630,87
 Plain Negg Neggnog,630,87
 Sketch Loaf,630,89
@@ -4887,21 +4905,20 @@ Thimble of Soup,620,68
 Cucumber and Onion Soup,610,82
 Meepit Juice,610,101
 Shadow Usul Lunch Box,610,87
-Tchea and Meatball Noodles,610,87
+1/3 BBQ Sauce Omelette,600,115
 Beans with Sausages,600,84
-Broccoli,600,15
 Bubbling Burping Juice,600,83
 Burnt Gingerbread Cookies,600,101
 Chocolate Chip Zafara Cookie,600,86
 Chocolate Dipped Ruki Lolly,600,88
 Cup of Water,600,35
-Curried Mussels,600,86
 Fire Faerie Muffin,600,82
 Frosty Doughnut,600,70
 Grarrl Breakfast Platter,600,65
 Halloween Angry Lobster Dinner,600,101
 Infested Peach,600,40
 Magenorb,600,65
+Marshmallows with Gravy,600,91
 Persicot,600,69
 Red Sausage,600,20
 Refreshing Peophin Burger,600,88
@@ -4920,20 +4937,21 @@ Chamomile Tea,580,70
 Cheesy Krawk Pot,580,75
 Cooling Courgette Slice,580,86
 Gingerbread Slushie,580,101
-Ice Milk Red Tea,580,68
 King Skarl Mashed Potato Tribute,580,87
 Pineapple Juice Bottle,580,101
+Roast Gargapple,580,60
 Shadow Usul Flask,580,101
-Spotty Cheese Wedge,580,88
+Tomato Dipped Chocolate Bar,580,98
+Blue Raspberry Shaved Ice,570,75
 Checkered Ice Cream,570,83
 Chocolate Baby Cabbage,570,101
 Gruel Pizza,570,60
 Sea Cocktail,570,86
-Tigersquash Burger,570,84
 Grape and Lime Rock Stick,560,82
 1/3 Bacon and Broccoli Omelette,550,109
 Box of Skull Truffles,550,86
 Chilli And Cheese Hot Dog,550,40
+Custard Parfait,550,75
 Danderlice Surprise,550,92
 Deviled Delight,550,69
 Faerie Candy Floss,550,83
@@ -4945,7 +4963,6 @@ Slug Flakes,550,50
 Thornberry Java with Cream,550,55
 Vegetarian Krawk Day Pie,550,87
 Wocky Veggies and Dip,550,82
-Baby Kougra Custard,540,50
 Carnapepper Finger Sandwiches,540,65
 Brain Hot Dog,530,89
 Extra Gherkin Hot Dog,530,95
@@ -4953,9 +4970,12 @@ Icestorm Negg,530,101
 Organic Almond Butter,530,89
 Pteri Wrap,530,59
 Slugroot,530,180
+Tchea and Meatball Noodles,530,87
 Clove Covered Orange,520,101
+Disgruntled Candy Corn,520,90
 Grilled Doughnutfruit,520,86
 Lime Achyfi,520,86
+Pant Devil Sandwich,520,101
 Raspberries,520,86
 Roasted Tchea Fruit,510,84
 Adhesive Tape Tostada,500,101
@@ -4963,13 +4983,12 @@ Alabriss Food,500,101
 Asparacone,500,89
 Bacon Omelette,500,112
 Bag of Nuts,500,60
-Beef Jerky,500,101
 Blueberries,500,85
 Box of Leftover Muffins,500,101
 Bubbling Snot Cheese,500,101
 Cantelope Fruit Cup,500,81
-Cheese Omelette,500,119
 Cherries,500,40
+Chilli Stir Fry,500,88
 Corn Corndog,500,65
 Flattened Durian,500,89
 Fried Something,500,86
@@ -4979,11 +4998,11 @@ Grape Chia Pop,500,35
 Grey Peach Pie,500,86
 Harffel Flavoured Milk,500,83
 Hot Cocoa,500,101
-Icy Onigiri,500,77
 Jelly Cereal,500,60
 Lemonberry Ice Lolly,500,81
 Lunch Tray,500,101
 Meaty Courgette Slice,500,89
+Mini Meatball,500,101
 Mummified Cookie,500,85
 Munion,500,83
 Passionberry,500,85
@@ -4995,15 +5014,14 @@ Rock Stew,500,68
 Sand Orange,500,48
 Screlon,500,82
 Snot Split,500,87
-Snowager Negg,500,101
 Sophies Bowl of Stew,500,101
-Spicy Meowclops Whiskers,500,180
+Tavis Tea,500,101
 Toffee Classic,500,65
 Tofukabob,500,82
 Tooth Faerie Ice Lolly,500,82
-Treasure Map Negg,500,88
 Twirly Fruit,500,180
-Bacon Muffin,490,50
+1/3 Cheese and Onion Omelette,490,118
+Baby Kougra Custard,490,50
 Eye Candy,490,73
 Meat and Vegetables Tube,490,101
 Neocrunch Cereal,490,50
@@ -5014,9 +5032,11 @@ Turkey and Cranberry Omelette,490,180
 2/3 Chokato Omelette,480,101
 Cheese and Onion Omelette,480,118
 Delicious Ruki Crackers,480,88
+Frucumber,480,74
 Illusen Day Cupcake,480,89
 Orange Juice,480,35
 Scurvy-B-Gone,480,101
+Toffeed Brain,480,97
 Basket of Peanuts,470,101
 Carrot Lupe Treat,470,55
 Cup of Frozen Borovan,470,83
@@ -5025,15 +5045,16 @@ Maggot Salad,470,101
 Plate of Peanuts,470,89
 Scorchio Banana Cake,470,89
 Cackleberry,460,101
-Chocolate Eclair Paste,460,30
 Dried Squid on a Stick,460,87
 Flaming Hot coffee,460,101
 Meaty Pot Pie,460,30
 Molten Hot Chilli,460,60
-Peanut,460,50
 Tomato,460,20
+2/3 Black Currant Omelette,450,101
+2/3 Sausage Omelette,450,104
 Berry Topped Frozen Yogurt,450,84
 Captain Scarblade Crunch Cereal,450,84
+Cheops Plant,450,46
 Cherry Granola Bar,450,71
 Chocolate Skeith Cone,450,75
 Coltzans Shrine Ice Cream Cone,450,81
@@ -5047,7 +5068,7 @@ Orange Stuffed Orange,450,89
 Scorched Veggies,450,65
 Scorchio Chocolate Cake,450,89
 Seasonal Bilge Rat,450,101
-Snout Plant,450,105
+Snowager Negg,450,101
 Snowmuncher Cereal,450,101
 Spicy Wings,450,30
 Stramberry Coconut Milk,450,65
@@ -5074,33 +5095,33 @@ Pteri Sundae,420,88
 Spherical Lemon,420,85
 Bone Dog,410,82
 Sand Banana,410,57
+2/3 BBQ Sauce Omelette,400,115
 Asparagus Ice Lolly,400,101
+Beef Jerky,400,101
 Brain Stew,400,85
+Cannibalistic Pumpkin,400,90
 Carrot and Pea Omelette,400,106
 Cheeseburger,400,40
 Chicken and Gammon,400,89
 Chocolate Achyfi,400,101
 Christmas Tree Rice Dumplings,400,101
 Cracked Keno Egg,400,90
-Custard Parfait,400,75
 Dehydrated Ham and Eggs,400,87
 Eliv Thade Sandwich,400,89
 Furanga Fruit,400,78
 Grey Doughnutfruit,400,86
-Heavenly Roast Turkey,400,80
 Java Jive,400,65
 Jetsam Apple Cake,400,87
 Kau Kau Farm Cheese Wedge,400,87
 Lesser Spotted Fish,400,101
 Mulled Fruit Juice,400,180
-Mystery Island Chocolate Milk Glass,400,73
 Organic Plain Yogurt,400,81
 Plain Frozen Yogurt,400,83
-Prawn Delight,400,101
 Primordial Thing,400,42
 Pyracone,400,83
 Quadruple Fudge Cheese,400,112
 Rancid Old Meat,400,102
+Sabre-Xs Egg Salad,400,80
 Shoyru Breakfast,400,65
 Snowager Ice Lolly,400,180
 Spicy Juppie Cheese,400,101
@@ -5108,7 +5129,6 @@ Stretched Apples,400,89
 Tangella Jam,400,77
 Tangy Peophin Burger,400,87
 Tasty Bag of Mutant Grundo Marshmallows,400,101
-Tomato Stuffed Doughnut,400,91
 What the Aisha Dragged In,400,62
 Bloody Finger Hotdog,390,101
 Can of Neocola,390,15
@@ -5130,13 +5150,12 @@ Meuka Drops,380,101
 Radish,380,50
 Snowberry Chia Pop,380,58
 Desert Candy Cane,370,101
-Dried Duoroot,370,75
 Honey Filled Olive,370,66
-Strawberry Brucicle,370,56
 Wicked Wocky Wobble Sandwich,370,101
 Apple Jelly Apple,360,60
 Palm Leaf Wrap,360,82
 Spherical Carrots,360,101
+1/3 Cheese Omelette,350,121
 Banango Bread,350,74
 Blackberries,350,87
 Evil Baklava,350,82
@@ -5145,18 +5164,19 @@ Grilled Shishkafruit,350,85
 Hot Crossed Buns,350,70
 Lemon Snow Puff,350,50
 Nacho Cheese Stuffed Hot Dog,350,58
-Noil Tea,350,180
 Peaburger Delight,350,44
 Piratey Fruit Juice,350,180
 Raspberry Jelly Pop,350,58
+Sausage on Toast,350,61
+Snowager Brucicle,350,101
 Spherical Watermelon,350,83
 Spicy Radish Salad,350,101
 Splime Chia Pop,350,59
 Sroom Fruit on Toast,350,86
 Tropical Noodle Surprise,350,89
 Ultimate Bulls Eye II Shish Kabob,350,101
-Unidentified Grilled Meat,350,101
 Yurble Pasta,350,87
+Curried Mussels,340,86
 Easy-to-make Insta-meal,340,101
 Giant Turmac Omelette,340,101
 Jelly Nova,340,85
@@ -5164,6 +5184,7 @@ Organic Grapefruit Yogurt,340,82
 Rainbow Chia Pop,340,50
 Recycled Candy Corn,340,101
 Thornberry Fruit Grog,340,85
+Tyrannian Dung Cheese,340,111
 Angry Marshmallows,330,90
 Bottle of Ketchupmayomustard,330,101
 Fried Egg,330,20
@@ -5171,26 +5192,24 @@ Frubix Cube on Toast,330,86
 Haunted Milk,330,90
 Iced Borovan,330,60
 Icy Hot Berry Iced Tea,330,82
-Illusens Green Goddess Potato Salad,330,93
 Lutaya,330,83
 Pegleg Chicken,330,88
 Ruki Juicebox,330,84
 Spongy Mound,330,104
+Unidentified Grilled Meat,330,101
 Chocolate Chunk Krawk Island Cake,320,101
 Ghostly Hot Dog,320,84
 Islandberry Fruit Kebab,320,80
+Peanut,320,50
 Yullie Log Cake,320,101
 Cornupepper Jelly,310,101
 Jelly Berries,310,53
 Mr Chipper Popsicle,310,101
-Mutton Stew,310,87
 Raspberry Jelly,310,101
-Seaweed Sandwich on Coral Bread,310,180
 Strawberry Jelly,310,101
 Asparagus Delight Slushie,300,88
 Bacon and Broccoli Omelette,300,109
 BBQ Sauce Omelette,300,115
-Cannibalistic Pumpkin,300,90
 Carton of Orange Juice,300,60
 Cherry Milkshake,300,60
 Chocolate Covered Strawberries,300,86
@@ -5203,7 +5222,6 @@ Cranberry Jelly,300,180
 Deli Turkey Slices,300,30
 Festering Coffee,300,80
 Garlic Butter Hot Dog,300,55
-Gurrandrillge,300,66
 Icky Fruit,300,70
 Jalapeno Popper,300,30
 Kiwi-Pear Gummies,300,101
@@ -5212,23 +5230,21 @@ Lemint,300,84
 Lime Jelly,300,101
 Moehog Fruit Leather,300,83
 Mummified Banana,300,77
+Noil Tea,300,180
 Rose-Flavoured Coffee,300,74
 Sausage Omelette,300,104
 Small Fruit Basket,300,88
 Snot-Covered Cookies,300,180
 Spaghetti and Eyeballs,300,88
 Spicy Seasoning from Moehog Chef,300,101
+Steeped Tea,300,66
 Sushi Rolls,300,60
 Tut Trout,300,82
-Tyrannian Goulash,300,93
-Unwanted Fruit Cake,300,101
 Zombie Marshmallows,300,82
-Blue Apple Chia Pop,290,48
 Breakfast Croissant,290,30
 Green Pepper Omelette,290,107
 Hot Dog with Mustard & Relish,290,46
 Mortog Stew,290,83
-Nutritional Block,290,96
 Snot Doughnutfruit,290,101
 Spine Cone,290,80
 Turkey With Candy Cane Stuffing,290,89
@@ -5238,15 +5254,18 @@ Bori Veggie Special,280,65
 Checkerboard Pizza,280,101
 Cup of Hot Borovan,280,101
 Destruct-O-Munch,280,101
+Extreme Holiday Potato,280,101
 Lemon Jelly,280,101
 Mint Ice Cream,280,50
+Mutton Stew,280,87
 Snail Sub,280,55
+Spicy Meowclops Whiskers,280,180
 Tyrannian Green Cheese and Crackers,280,80
 Ugga-Grug,280,78
 Creamy Sutek Bean Soup,270,88
-Fish and Rhubarb Burgers,270,94
 Florange Jam,270,88
 Slightly Nibbled Orange e,270,101
+Strawberry Brucicle,270,56
 Trident of Chestnuts,270,101
 Ultimate Bullseye II Crispie Rice Treat,270,101
 Artificially Flavoured Blueberry Snacks,260,101
@@ -5264,23 +5283,24 @@ Cackleberry on Toast,250,86
 Cherry Faerie Bubble,250,55
 Chocolate Korbat Ice Lolly,250,80
 Chunky Meaty Stew,250,60
-Darigan Doppio,250,101
 Goparokko Sugar Cubes,250,101
+Green Cabbage,250,30
 Groggy Grog Nogg,250,101
 Pteri Burger,250,56
 Pteri Kabob,250,57
 Pumpkin Cookies,250,23
 Sausages,250,101
 Scarab Cookie,250,20
+Seaweed Sandwich on Coral Bread,250,180
 Space Kabob,250,90
 Stone and Slime Slushie,250,78
 Toasted Gear Cookies,250,101
 Were Hot Dog,250,82
 Zeenana Crepe,250,92
+Fresh Seaweed Pie,240,35
 Molten Lasagne,240,75
 Mynci Meat Pie,240,60
 Soft Tyrannian Cheese and Crackers,240,70
-1/3 Marshmallow Omelette,230,101
 Azzle Fruit Leather Socks,230,65
 Cherry-tastic Faerie Pie,230,70
 Citadel Stew Spice,230,101
@@ -5288,12 +5308,12 @@ Crablett,230,42
 Gruel Cake,230,40
 Gruisberry,230,81
 Misshapen S.M.E.L.T. Cookies,230,101
+Prawn Delight,230,101
 Raspberry Faerie Bubble,230,54
 Tigersquash Crepe,230,98
 1/3 Spinach Feta Omelette,220,101
 Chokato Crepe,220,96
 Darkberry Cheese,220,101
-Disgruntled Candy Corn,220,90
 Hot Dog with Onions,220,50
 Hot Worm Hot Dog,220,40
 Lentil Cookies,220,88
@@ -5315,21 +5335,18 @@ Eliv Thade Sludge Shake,200,86
 Grapple,200,80
 Green Herb Dressing,200,81
 Grenelon,200,86
-Gummy Grensa,200,80
 Half Rainbow Jelly,200,101
 Hot Burnumup,200,75
 Hot Fly Cocoa,200,101
-Mini Meatball,200,101
 Mutant Ummagine,200,89
 Orange Jelly Sandwich,200,60
-Parchment Fruit,200,88
 Plain Mashed Potato,200,60
 Prawn Cocktail Achyfi,200,101
 Pteri Spaghetti,200,58
+Rotten Omelette,200,101
 Sand Apple,200,57
 Santa Skarl Cookie Crumbs,200,101
 Shishkafruit Fritters,200,85
-Snow Coconut,200,180
 Snowmuncher Salad,200,101
 Space Fungus Sundae,200,92
 Spicy Chicken Burrito,200,40
@@ -5343,12 +5360,14 @@ Cherry JubJub Fruit Leather,190,82
 Fajita Chips,190,30
 Grundo Stix,190,73
 Marracado,190,86
+Orange,190,40
 Organic Tuna Olive Salad,190,85
 Petpetpet Crackers,190,101
 Puntec Fruit Pasta,190,82
 Radish Hot Dog,190,58
 Ruki Veggie Sandwich,190,87
 Shishkafruit,190,86
+Snow Coconut,190,180
 Spirulina and Laver Candy,190,101
 Artificially Flavoured Strawberry Snacks,180,101
 B-B-Q Pork,180,40
@@ -5370,7 +5389,6 @@ Chokato Petpet Food,170,89
 Desert Kiko Snacks,170,82
 Frozen Block of Sustenance,170,83
 Fruity Kiko Necklace,170,60
-Lemon Brucicle,170,60
 Moon Bori,170,101
 Poogle Steak Left-Overs,170,73
 Salted Seaweed,170,101
@@ -5378,14 +5396,11 @@ Turnip Gruel,170,86
 White Chocolate Ghosts,170,101
 Hanging Fruit Basket,160,90
 Raw Potato,160,45
-Tavis Tea,160,101
 Astronaut Meal,150,101
-Frucumber,150,74
+Cheese Omelette,150,119
 Garlic Cheese Toast,150,78
 Jumbleberry Achyfi,150,101
 Purblare,150,88
-Rotten Omelette,150,101
-Sabre-Xs Egg Salad,150,80
 Salmon Fishwich,150,35
 Sand Shroom,150,83
 Sausage and Pepperoni Omelette,150,102
@@ -5399,7 +5414,7 @@ Vegetarian Cheeseburger,150,40
 2/3 Spinach Feta Omelette,140,101
 Buzz Honey,140,75
 Eyrie Pancake,140,60
-Fresh Seaweed Pie,140,35
+Gummy Grensa,140,80
 Leftover Fruit Plates,140,101
 Spung,140,80
 Stack of Slightly Used Carrots,140,101
@@ -5422,8 +5437,8 @@ Puntec Fruit,130,96
 Qando Pita,130,63
 Stick-O-Mynci,130,76
 Vanilla Milkshake,130,20
-Yeasty Bread,130,60
 Chicken Leg Surprise,120,87
+Choco Mint Rock Stick,120,88
 Coco NeoCrunch,120,35
 Flaming Blooble Fruit Jam,120,101
 Mollusc Surprise,120,38
@@ -5432,20 +5447,22 @@ Plain Omelette,120,101
 Plate of Charred Cookies,120,101
 Sour Cream Hot Dog,120,60
 1/3 Plain Omelette,110,101
+Banan,110,180
 Blueberry Fruit Pancakes,110,76
 Brown Rice,110,76
 Elderly Hot Dog,110,55
 Fresh Skeem Fruit Salad,110,82
+Heavenly Roast Turkey,110,80
 Icy Brucicle,110,180
 Mummified Pepper,110,63
-Snot Snake,110,75
 Spiked Dariberry,110,89
 Strypedillo,110,83
 Tyrannian Cookies,110,70
+1/3 Black Currant Omelette,100,101
 1/3 Clay Omelette,100,101
 1/3 Juppie Omelette,100,101
+1/3 Marshmallow Omelette,100,101
 2/3 Pizza Omelette,100,101
-Apple Apple,100,101
 Artisan Bread,100,101
 Banana Milkshake,100,40
 Caramel Acara On A Stick,100,60
@@ -5453,23 +5470,20 @@ Chocolate Gum Drops,100,101
 Chocolate Milkshake,100,20
 Chomby Head Cupcake,100,56
 Corn and Jelly Ball,100,87
-Corn On The Cob,100,80
 Dung Taco,100,77
 Eggs on Rock,100,75
 Endless Salad and Bread Sticks,100,89
-Flaming Burnumup,100,72
 Flat Bread,100,45
+Forest Fruit Baby Food,100,40
 Fried Trilo Bites,100,87
 Furanga Brucicle,100,101
 Grackle Bug Steak,100,84
 Grapity Slushie,100,70
-Green Cabbage,100,30
 Green Grapes,100,40
 Grilled Ummagine Chips,100,85
 Ground Rolls,100,88
 Grunion Fruit Shake,100,78
 Hasee Puff Cereal,100,90
-Jhudora Rotten Negg,100,55
 Lava Lamp Cake,100,101
 Minced Beef Pretzel,100,55
 Mummy Burrito,100,78
@@ -5478,7 +5492,6 @@ Peanut Butter Slushie,100,60
 Poogle Shish Kabob,100,72
 Pyramibread,100,53
 Queela Jelly,100,101
-Roast Gargapple,100,60
 Scorched Chomato,100,80
 Shared Molten Hot Sauce,100,101
 Skeem,100,85
@@ -5489,25 +5502,23 @@ Teal Juppie,100,180
 Tri-Nana,100,80
 Turkey and Cranberry Chia Pop,100,101
 Yellow Courgette,100,78
-Black Currant Omelette,95,101
 Brown Rice Bowl,95,65
 Chokato Omelette,95,101
 Grackle Bug on a Stick,95,70
 Jipple Pear,95,88
 Little Fishy Omelette,95,101
 Meridellian Potato,95,86
-Orange,95,40
 Pineapple,95,60
 Pumpkin Slice,95,73
 Rainborific Slushie,95,70
 Sand Grapes,95,51
 Spicy Snow Rolls,95,85
 Strawberry Rock Paste,95,78
+Yeasty Bread,95,60
 1/3 Mushroom Omelette,90,101
 Bag of Chips,90,70
 Berry Cola Slushie,90,75
 Fried Chicken Breast,90,40
-Frozen Dessert,90,101
 Half Lime Trifle,90,101
 Half Smelly Jelly,90,101
 Lesser Spotted Burble,90,87
@@ -5521,7 +5532,6 @@ Beet and Onion Pudding,85,79
 Cactopus,85,66
 Half Watermelon Jelly,85,101
 Hot Tyrannian Pepper Omelette,85,101
-Mayo-Doused Batter-Fried Grackle Bugs with Honey Walnuts,85,78
 Rose Shake,85,101
 1/3 Chocolate Omelette,80,101
 1/3 Little Fishy Omelette,80,101
@@ -5530,16 +5540,20 @@ Blue Oyster,80,80
 Cherry Onion Blossom,80,90
 Chocolate Chip Cookie Slushie,80,73
 Chocolate Faerie Log,80,80
+Corn Bread,80,77
 Fish and Chips,80,78
+Flaming Burnumup,80,72
 Grondik Root,80,180
 Half Lemon Trifle,80,101
-Millennia Egg,80,78
+Meat Feast Omelette,80,101
 Strawberry Ice Cream with Balsamic Vinegar Syrup,80,88
 Twisted Bread,80,78
 Worm Nugget,80,50
 2/3 Hot Tyrannian Pepper Omelette,75,101
+2/3 Plain Omelette,75,101
 Bite Size Celery,75,76
 Blackened Honey,75,78
+Darigan Doppio,75,101
 Flower Cake,75,101
 Holiday Dinner In A Can,75,87
 Lemon and Lime Fish Pop,75,53
@@ -5558,28 +5572,23 @@ Worm Infested Cheese,75,78
 1/3 Veggie Delight Omelette,70,101
 2/3 Strawberry Omelette,70,101
 Chocopie Slice,70,44
-Cup of Stagnant Water,70,101
 Fresh Kiwi,70,70
 Fresh-Squeezed Grenelon Juice,70,87
 Giant Tomato Kebab,70,88
-Lime Milkshake,70,55
-Oppressor Onions,70,96
-Sand Squash,70,50
+Snot Snake,70,75
 Space Rock Soup,70,96
 Strawberries and Cream Baby Food,70,40
 Twirly Fruit Omelette,70,101
 Ugga Melon Omelette,70,101
-Voidberry Cobbler,70,101
 Beefy Broccoli,65,30
-Cheops Plant,65,46
 Festive Haunted Woods Cider,65,101
 Flaming BBQ Crisps,65,45
 Gadgads Bowl,65,101
 Grilled Veggie Bowl,65,66
 Ham and Cheese Omelette,65,101
 Marshmallow Omelette,65,101
-Shadow Usul Ice Lolly,65,180
 Spinach Feta Omelette,65,101
+Tyrannian Goulash,65,93
 1/3 Spicy Red Pepper Omelette,60,101
 2/3 Juppie Omelette,60,101
 Bullseye Pie,60,72
@@ -5591,19 +5600,17 @@ Durbage,60,79
 Fried Courgette,60,76
 Hot Onion Salad,60,79
 Illusens Cream Cookie,60,101
-Meat Feast Omelette,60,101
+Millennia Egg,60,78
 Mushroom Omelette,60,101
+Orange Chicken,60,30
 Slorg Ice Cream,60,84
 Stale Black Jelly Beans,60,101
-2/3 Plain Omelette,55,101
+Black Currant Omelette,55,101
 Cheesy Meat Wrap,55,40
-Forest Fruit Baby Food,55,40
 Grarrl Saliva Soup,55,79
 Islandberry Tea,55,82
 Orfaberry,55,101
 Paint Chips and Salsa,55,101
-Rainbow Jelly Chomby,55,101
-Sand Peach,55,53
 Scorched Cheops Plant,55,101
 Snowager Cake,55,101
 Squibble Berry,55,88
@@ -5623,6 +5630,7 @@ Bruised Apple,50,101
 Carved King Hagan Echtooh Melon,50,88
 Cheesy Potato Stuffed Doughnut,50,82
 Cherry Apple,50,101
+Corn On The Cob,50,80
 Cranberries,50,84
 Crunchy Skullberry,50,101
 Fresh Fruit Surprise Omelette,50,101
@@ -5650,13 +5658,11 @@ Sprout Borovan,50,101
 Squashed Salisbury Steak,50,50
 Strawberry Fruit Pancakes,50,75
 Sugared Meatballs,50,80
-Surfing Slushie,50,101
 Symol Dirt Pie,50,58
 Toasted Pyramibread,50,101
 Veggie Lasagne,50,68
 Wasp Biscuits,50,79
 1/3 Strawberry Omelette,45,101
-2/3 Black Currant Omelette,45,101
 Blumaroo Steak,45,54
 Burnt Red Eye Egg,45,101
 Chocolate Cone Witch Hat,45,101
@@ -5669,12 +5675,11 @@ Fruit and Vegetable Hand Roll,45,93
 Juppie Omelette,45,101
 Maggoty Egg Roll,45,66
 Nolafruit,45,87
-Orange Chicken,45,30
 Peppermint Rock Jam,45,101
 Roasted Draphly Kabob,45,79
 Seedless Skeem,45,87
-Spectral Cinnamon Rolls,45,91
 Sutek Muffin,45,53
+Waterfish,45,101
 2/3 Rice Omelette,40,101
 Alien Aisha Zapzaggle,40,80
 Can of Pickled Spinach,40,68
@@ -5700,6 +5705,7 @@ Raw Wartroot,40,75
 Scorched Rhuby,40,89
 Scorched Sutek Beans,40,101
 Space Faerie Doughnut,40,101
+Spectral Cinnamon Rolls,40,91
 Spicy Red Pepper Omelette,40,101
 Spoiled Sphinx Links,40,101
 Spooky Shake,40,35
@@ -5711,14 +5717,15 @@ Calamari Tongue Wrap,35,87
 Chewed Gum Ice Cream Cone,35,77
 Chocolate Taco,35,70
 Chokato Ghostkersandwich,35,59
-Corn Bread,35,77
 Damaged Bagguss,35,101
 Damaged Ummagine,35,101
 Fermented Slop Surprise,35,68
+Ghost Cupcakes,35,85
 Gravy Smoothie,35,65
 Half Chocolate Jelly,35,101
 Half Lemon Jelly,35,101
 Half Peanut Butter Jelly,35,101
+Lime Milkshake,35,55
 Maggot and Cheese Burger,35,82
 Melon Berry Apple,35,101
 Mini Egg Taco,35,89
@@ -5731,6 +5738,7 @@ Scorched Pyramicake,35,101
 Smoked Tuna on Chocolate Toast,35,75
 Squashed Tchea Fruit,35,101
 Strawberry and Cheese Milkshake,35,45
+Surfing Slushie,35,101
 Tuna Stroganoff,35,78
 Very Rotten Tomato,35,75
 1/3 Tangy Tigersquash Omelette,30,101
@@ -5756,13 +5764,14 @@ Ketchup-Flavoured Milk,30,76
 Maggot Pizza,30,73
 Mangled Geopeppers,30,101
 Meat and Beans,30,85
-Meatballs and Worms,30,80
 Meaty Rock Pebbles,30,86
 Mustard Durian Smoothie,30,68
+Parchment Fruit,30,88
 Pork Ice Cream,30,77
 Rainbow Jelly,30,101
 Rice Omelette,30,101
 Sack Plant Stew,30,101
+Sand Squash,30,50
 Scorched Cheopple,30,80
 Scorched Sutek Muffin,30,101
 Shrimp Cupcake,30,79
@@ -5779,6 +5788,7 @@ Bunch of Tomatoes,25,60
 Buried Treasure Crackers,25,75
 Burnt Grackle Bug on a Stick,25,101
 Buttered Watermelon,25,61
+Cherries Jubalee,25,30
 Chilled Eyeball Custard,25,38
 Chocolate Coated Fish Pop,25,66
 Chocolate Liver Casserole,25,78
@@ -5787,7 +5797,6 @@ Cinnamon Tuna and Guacamole,25,86
 Cotton Apple,25,101
 Crispy Pumpkin Chips,25,81
 Electric Apple,25,101
-Evil Negg,25,101
 Eyeball Pie,25,88
 French Flies,25,76
 Freshly Tinned Carrots,25,70
@@ -5815,22 +5824,23 @@ Peanut Butter and Jelly Egg Cabbage,25,66
 Pickled Moehog Feet,25,80
 Rainbow Burger with Cheese,25,78
 Scorched Pleto,25,80
+Shadow Usul Ice Lolly,25,180
 Skeith Juice Cocktail,25,46
-Spiced Apple Pie,25,50
 Stuffed Dorkle Pepper,25,50
 Tchea Fruit,25,35
 Tyrannian Gumball,25,87
 Tyrannian Salad,25,88
+Watermelon Jelly,25,101
 Worm Burger,25,74
 Anything Soup,20,87
+Apple Apple,20,101
 Burnt Vinegar Dipped Kabob,20,74
-Chilli Stir Fry,20,88
 Chocolate Jelly,20,101
 Cracked Mummified Pepper,20,101
 Customised Apple,20,101
 Dappled Apple,20,101
+Evil Negg,20,101
 Frosted Grub Burrito,20,75
-Ghost Cupcakes,20,85
 Half Pear Jelly,20,101
 Half Thornberry Jelly,20,101
 Honeyfly Smoothie,20,66
@@ -5851,7 +5861,6 @@ Tonguewich,20,40
 Twinkling Ice Cream,20,83
 Tyrannian Rockberry Juice,20,87
 Water Apple,20,101
-Watermelon Jelly,20,101
 Woo Woo Grub,20,55
 Anchovy Loaf,19,88
 Dopple Dapple Apple,19,101
@@ -5872,6 +5881,7 @@ Haunted Woods Chocolate Milk Glass,18,75
 Iced Iceberg Salad,18,101
 Iced Soy Chai Latte,18,90
 Lemon Nova Pop,18,90
+Meatballs and Worms,18,80
 Rotten Puntec Fruit,18,101
 Scorched Tut Trout,18,101
 Tyrannian Bone,18,87
@@ -5899,7 +5909,6 @@ Pear Jelly,16,101
 Strawberry Trifle,16,101
 Beetroot and Cream Smores,15,81
 Bone Soup,15,81
-Cherries Jubalee,15,30
 Chocolate Beef Custard,15,74
 Chocolate Faerie Cake,15,101
 Cocoa Juppie,15,180
@@ -5929,7 +5938,6 @@ Deviled Eggs,14,92
 Double-Decker Smore,14,101
 Eyeball Sushi,14,70
 Grub Skewer,14,85
-Happy Face Latte,14,71
 Iceberg Sundae,14,50
 Maggot Stew,14,50
 Potato Stuffed Pepper,14,82
@@ -5973,8 +5981,8 @@ Operatic Apple,12,101
 Rotten Wormy Apple,12,60
 Sand Cherries,12,52
 Scorched Gobi Fruit,12,82
-Slimesicle,12,48
 Tonu Rock Cake,12,84
+Treasure Map Negg,12,88
 Whole Purplum Jelly,12,101
 Whole Thornberry Jelly,12,101
 Yellow Apple,12,101
@@ -5994,6 +6002,7 @@ Mutant Ketchup,11,85
 Pleto Melon,11,80
 Raw Grubwich,11,86
 Space Tots,11,101
+Spiced Apple Pie,11,50
 Tyrannian Water Beans,11,88
 Barnacle Burrito,10,101
 Beetroot Ice Cream,10,76
@@ -6006,11 +6015,13 @@ Half Chokato Jelly,10,101
 Half Eaten Dung Jelly,10,101
 Half Lint Jelly,10,101
 Half Strawberry Jelly,10,101
+Mayo-Doused Batter-Fried Grackle Bugs with Honey Walnuts,10,78
 Mint Rolls,10,78
 Moldy Pancakes,10,74
+Oppressor Onions,10,96
 Pack o Pumpkin Seeds,10,64
 Peanut Butter Jelly,10,101
-Robo Jelly,10,101
+Reptillian Arm,10,87
 Rotten Tomato Salad,10,78
 Sausage Mayo Gum,10,82
 Scotch Egg,10,101
@@ -6032,6 +6043,7 @@ Frozen Jelly,9,101
 Fruitmallow Grog,9,74
 Gummy Baby Space Fungus,9,101
 Mint Jelly Half,9,101
+Mynci Ham and Cheese Sandwich,9,78
 Neggy Custard Pie,9,88
 Neo Crackers,9,35
 Pearapple,9,101
@@ -6040,6 +6052,7 @@ Red Chiaberry,9,101
 Roast Tentacle,9,57
 Scary Soup,9,59
 Sherbet Gravy,9,84
+Smiley Cake Negg,9,101
 Squished Jelly,9,101
 Squished Tomato,9,101
 Tin of Sardines,9,101
@@ -6049,7 +6062,6 @@ Worms and Dirt Sundae,9,74
 Apple Bobbing Bart Bark,8,101
 Artichoke Dumplings,8,79
 Blackapple,8,101
-Blue Furry Negg,8,101
 Cactus Apple,8,101
 Chilli Prawn Juice,8,63
 Delectable Mould Garden,8,64
@@ -6058,6 +6070,7 @@ Digital Apple,8,101
 Disco Apple,8,101
 Fire Jelly,8,101
 Franken Apple,8,101
+Frozen Dessert,8,101
 Golden Apple,8,101
 Half Eaten Bar of Chocolate,8,84
 Half Snotty Jelly,8,101
@@ -6066,8 +6079,8 @@ Jumbleberry,8,101
 Large Grundo Toe With Lint Side Order,8,74
 Lupe Snack Pack,8,88
 Melowhirl,8,74
-Organic Peanut,8,90
 Peanut Butter Spiders,8,52
+Rainbow Jelly Chomby,8,101
 Rotten Wocky Day Cupcake,8,101
 Scorched Suti Fruit,8,83
 Spy Apple,8,101
@@ -6085,11 +6098,10 @@ Gobi Fruit,7,82
 Grapple Apple,7,101
 Hairy Rock Burger,7,86
 Ionic Bread,7,85
+Meat Skewered Meat,7,88
 Mint Jelly,7,101
 Musho Mushy Peas,7,101
-Mynci Ham and Cheese Sandwich,7,78
 Raspberry Jelly Half,7,101
-Reptillian Arm,7,87
 Rotten Negg and Onion Quesadilla,7,75
 Sand Dabs,7,101
 Sardine Vinegar Gum,7,81
@@ -6109,40 +6121,43 @@ Titanic Giant Squid,6,101
 Zonutuk Fruit Bowl,6,101
 1/3 Rice Omelette,5,101
 Basket of Gross Berries,5,82
+Blue Furry Negg,5,101
 Box of Trifle Mix,5,101
 Broken Corn Pyramid,5,101
 Clay Apple,5,101
+Cup of Stagnant Water,5,101
 Designer Blackened Potato,5,76
 Edible Smelly Gym Socks,5,73
 Fish Jelly,5,101
 Flatfruit Lollypop,5,72
 Half Eaten Cornupepper Jelly,5,101
 Madfish,5,101
-Meat Skewered Meat,5,88
 Nightsteed Cake,5,81
 Onion Sorbet,5,60
+Organic Peanut,5,90
 Purple Felberry,5,101
 Sand Sandwich,5,60
 Slime Sundae,5,44
-Smiley Cake Negg,5,101
+Slimesicle,5,48
 Square Gelatin,5,80
 Starry Crunch,5,83
 Super Energy Blast Drink,5,101
 Tarlas Mystery Meal,5,101
 Tarnished Apple,5,101
-Waterfish,5,101
 Almost Gummy Rat (Strawberry),4,42
 Asparagus Yogurt,4,60
 Beaten Old Apple,4,101
 Butterfish,4,101
 Coconut Skull Scorchipepper Juice,4,101
+Disappearing Plate of Biscuits,4,101
 Doomfish,4,101
 Fishberry,4,101
-Fresh Clam Jam,4,45
 Galaxy Energy Drink,4,91
 Glowing Jelly,4,101
+Happy Face Latte,4,71
 Homemade Gooseberry Jam,4,101
 Homemade Marmalade,4,101
+Jhudora Rotten Negg,4,55
 Maraquan Apple,4,101
 Meteor Bites,4,101
 Mortogberry,4,101
@@ -6165,8 +6180,8 @@ Zeenana Peel,4,101
 Alien Aisha Splurgles,3,82
 Dented Can of Neocola,3,101
 Dirt Pie,3,45
-Disappearing Plate of Biscuits,3,101
 Eyefish,3,101
+Fresh Clam Jam,3,45
 Ixi Hoof Soup,3,84
 Meat Cake,3,50
 Meridell Gravy,3,101
@@ -6176,6 +6191,7 @@ Pickled Leeches,3,60
 Pimplepepper,3,80
 Pusberry,3,101
 Smelly Jelly,3,101
+Stone Jelly,3,101
 Tagobo Potion,3,45
 Ummagine,3,82
 Bombfish,2,101
@@ -6194,6 +6210,7 @@ Nutritional Blockberry,2,101
 Oil and Grease Jelly,2,101
 Pirate Potato Crisps,2,76
 Radarfish,2,101
+Robo Jelly,2,101
 Small Giant Squid,2,101
 Tanglepus,2,101
 Vampire Apple,2,101
@@ -6209,7 +6226,6 @@ Poisonous Jelly,1,101
 Rotten Omelette Sandwich,1,76
 Snotty Jelly,1,101
 Space Spice,1,66
-Stone Jelly,1,101
 Tasty Fungus,1,101
 Wiggling Grub Surprise,1,76
 00 Negg,(r101),101
@@ -6253,6 +6269,7 @@ Cloudy Brucicle,(r101),101
 Co-Melon,(r101),101
 Cocoa with Sloth-mallows,(r101),101
 Cornupepper Lemonade,(r101),101
+Crabby Borovan,(r101),101
 Crunchy Chocolate Rod of Supernova,(r101),101
 Dargil Meat,(r180),180
 Disco Uni Multi-Coloured Custard,(r101),101
@@ -6399,6 +6416,7 @@ Variberry,(r101),101
 Very Very Stale Bread,(r101),101
 Whipped Green Kau Malt,(r101),101
 Whomp Berries,(r180),180
+Winterberry,(r101),101
 Yellow Kacheek Lemonade,(r101),101
 Ylanas Blaster Cookie,(r101),101
 Yooyu Gumball Machine,(r101),101
@@ -6409,7 +6427,6 @@ Sushi Boat,Inflation Notice,99
 Luxury Cabbage Cake,Inflation Notice,99
 Cheesy Carrots,Inflation Notice,99
 Cloud Meerca Cocoa,Inflation Notice,101
-Cool Negg,Inflation Notice,101
 Four Layer Carrot Cake,Inflation Notice,99
 Roast Pork,Inflation Notice,99
 Geopeppers,Inflation Notice,99
@@ -6428,8 +6445,6 @@ Barnacle Bills Belt Busting Burger,Inflation Notice,100
 Ferocious Negg,Inflation Notice,101
 Power Negg,Inflation Notice,101
 Mouldy Cheese,Inflation Notice,99
-Forbidden Plunder,Inflation Notice,100
-Purple Kau Yogurt,Inflation Notice,101
 Rare Cyber Negg,Inflation Notice,101
 Cackling Negg,Inflation Notice,108
 Meerca Apertif,Inflation Notice,96
@@ -6460,6 +6475,7 @@ Maraquan Cream Broth,Inflation Notice,101
 Scorchio Smore,Inflation Notice,101
 Swill Pudding,Inflation Notice,180
 Cabbage Sorbet,Inflation Notice,101
+Sugar Negg Cereal,Inflation Notice,101
 Tentacled Alien Drink,Inflation Notice,101
 Roe Sushi,Inflation Notice,99
 Regal Cheese Sandwich,Inflation Notice,101
@@ -6505,6 +6521,7 @@ Fried Something Something,Inflation Notice,90
 Berry Mynci Juice Box,Inflation Notice,101
 Watermelon Soup,Inflation Notice,101
 Fruit Loaf,Inflation Notice,101
+Potato Salad,Inflation Notice,78
 Lutari Cocojuice,Inflation Notice,101
 Hobans Left-Overs,Inflation Notice,180
 Pink Cheese,Inflation Notice,80
@@ -6512,41 +6529,26 @@ Snowflake Cupcake,Inflation Notice,101
 Negg Juice,Inflation Notice,101
 Usuki Head Stew,Inflation Notice,101
 Lamb Chop,Inflation Notice,80
-Holiday Ghostpuff,Inflation Notice,86
 Jar of Jubble Bubble,Inflation Notice,101
 Pile of Snack Foods,Inflation Notice,101
 Stadium of Food,Inflation Notice,101
 Deluxe Organic Salad,Inflation Notice,101
-Shishka Juice,Inflation Notice,101
 Spotted Pudding with Custard,Inflation Notice,93
-Ultra Slushie,Inflation Notice,101
 Dates & Figs Energy Bar,Inflation Notice,101
 Plate of Berries,Inflation Notice,101
 Plate of Sun and Moon Cookies,Inflation Notice,101
 Seaweed Omelette,Inflation Notice,101
-Giant Tub of Ice Cream,Inflation Notice,101
-Pirate Bento,Inflation Notice,101
-Day and Night Cake,Inflation Notice,101
-Regulation Meridellian Rations,Inflation Notice,101
-Turmac Fruit Snacks,Inflation Notice,101
-Jelly Bean Flower Cookie,Inflation Notice,101
 Yooyu Noodles,Inflation Notice,101
 AAA Meatloaf,Inflation Notice,101
 Meatless Pie,Inflation Notice,101
 Chalkboard Cookies,Inflation Notice,101
 Three Scoops of Chocolate Ice Cream,Inflation Notice,101
 Igloo Ice Cream Cone,Inflation Notice,101
-Jewelled Goblet of Berry Squash,Inflation Notice,101
 Gem Roll-Ups,Inflation Notice,101
-Nabiles Qasalan Delight,Inflation Notice,78
 Super Blue Gift Stocking,Inflation Notice,101
 Office Desk Cookie Jar,Inflation Notice,101
-Robo Crunch,Inflation Notice,101
-Storm Roll,Inflation Notice,101
 Glass Full of Ice Cubes,Inflation Notice,101
-Nimmo Glass of Juice,Inflation Notice,101
 Super Food Platter,Inflation Notice,101
-Missing King Milk Carton,Inflation Notice,101
 Snow Twirly Fruit,Inflation Notice,101
 Small Glass of Wheatgrass,Inflation Notice,101
 Meteor Cookies,Inflation Notice,101
