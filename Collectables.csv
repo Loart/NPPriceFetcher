@@ -1,7 +1,7 @@
 original,replacement,rarity
 Candychan Stamp,700000000,180
+Shenkuu Stamp,450000000,99
 Large Black Collectable Scarab,400000000,99
-Shenkuu Stamp,400000000,99
 Battle Slices Stamp,300000000,99
 Queen Fyora Stamp,300000000,99
 Malevolent Sentient Poogle Plushie (TCG),250000000,110
@@ -52,12 +52,12 @@ Day and Night Collectable Scarab,25000000,101
 Skeith Defender Stamp,22000000,98
 Dark Battle Duck Stamp,20000000,98
 Gilly the Usul,20000000,99
+Ready to Roll Stamp,20000000,98
 Siona,20000000,99
 The Wraith Resurgence Stamp,20000000,101
 Lord Kass Card,19000000,99
 Captain Xelqued,17000000,99
 Kyrii Sorceror,17000000,99
-Ready to Roll Stamp,17000000,98
 Sergeant Brexis,17000000,99
 Threelegs vs. Techo Master Stamp,17000000,101
 AAA Coin,16000000,101
@@ -82,7 +82,6 @@ Count Von Roo Stamp,11000000,98
 Draconus Maximus,11000000,99
 Altador Cup XVIII Stamp,10000000,101
 Taelia Vs. Ember Stamp,10000000,101
-Court Dancer Stamp,8000000,98
 Garin Stamp,8000000,98
 Haunted Shenkuu Amulet,8000000,101
 Kauvara,8000000,99
@@ -92,7 +91,6 @@ Hadrak Stamp,7500000,98
 Happy Lutari Stamp,7500000,101
 Black and Yellow Collectable Scarab,7000000,94
 Count Von Roo Plushie Stamp,7000000,97
-Isca Stamp,7000000,98
 Kiko Carpenter Stamp,7000000,101
 Professor Kachevski,7000000,99
 Giant Ghostkerchief Coin,6500000,98
@@ -101,6 +99,7 @@ Altador Cup IX Commemorative Stamp,6000000,101
 Altador Cup XI Commemorative Stamp,6000000,101
 Brains vs. Brawn Stamp,6000000,101
 Chokato (TCG),6000000,101
+Court Dancer Stamp,6000000,98
 Magax Vs. Nox Stamp,6000000,101
 Wise Gnorbu Stamp,6000000,97
 AC XVI Commemorative Stamp,5000000,101
@@ -127,22 +126,23 @@ Fumpu Leaf Medallion (TCG),4000000,107
 Haunted Lost Desert Amulet,4000000,101
 Jacques Stamp,4000000,97
 Kari and Topsi Stamp,4000000,101
-Preoccupied AAA Stamp,4000000,101
 Lucky Coin Stamp,3800000,92
 Neopets 24th Cake Charm,3800000,101
 Fiery Golden Collectable Scarab,3400000,101
+Preoccupied AAA Stamp,3200000,101
 Mipsy Stamp,3100000,92
 AC XIII Commemorative Stamp,3000000,101
 Drackonack Stamp,3000000,97
 Fire Breathing Scorchio Stamp,3000000,101
+Gors The Mighty Stamp,3000000,97
 Haunted Terror Mountain Amulet,3000000,101
 Lu Codestone (TCG),3000000,107
 Sparkleback Collectable Scarab,3000000,97
 Team Dacardia Stamp,3000000,101
 Shiny Monoceraptor Stamp,2750000,97
-Von Roos Castle Stamp,2750000,97
 Larnikin Coin,2500000,98
 Morguss (TCG),2500000,103
+Von Roos Castle Stamp,2500000,97
 AAA vs. Abigail Stamp,2000000,101
 Aisha Slorgrider (TCG),2000000,103
 Branston the Eyrie,2000000,98
@@ -153,7 +153,6 @@ Cybunny Scout (TCG),2000000,103
 Detransmogrifier (TCG),2000000,103
 Garoo Elite (TCG),2000000,103
 Golden Dubloon Stamp,2000000,96
-Gors The Mighty Stamp,2000000,97
 Grundo Warehouse Stamp,2000000,97
 Haunted Faerieland Amulet,2000000,101
 Kayla (TCG),2000000,103
@@ -181,12 +180,12 @@ Jhudora the Dark Faerie,1500000,96
 Nabile Stamp,1500000,96
 Northern Watch Tower Stamp,1500000,96
 Shreegla VI,1500000,101
-Snowbunny Stamp,1500000,99
 Swordsmaster Talek Stamp,1500000,91
 Wock Til You Drop,1500000,98
 Zeirn the Electric Kougra,1500000,98
 Deckswabber,1450000,97
 Evil Evil Coconut,1400000,101
+Snowbunny Stamp,1400000,99
 Jeran,1300000,98
 Kalandra,1300000,98
 Tyrannia Stamp,1300000,101
@@ -200,6 +199,7 @@ Angry Evil Coconut,999999,101
 Biting Book (TCG),999999,103
 Blumaroo Squire (TCG),999999,103
 Darigan Skeith (TCG),999999,103
+Fumble! (TCG),999999,103
 Grundo Programmer (TCG),999999,103
 Horned Evil Coconut,999999,101
 Hulking Wraith Stamp,999999,101
@@ -216,7 +216,9 @@ Werelupe Sage (TCG),999999,103
 Yellow Knight Stamp,999999,95
 Mini Evil Coconut,995000,101
 Air Faerie Token (TCG),990000,103
+Screaming Evil Coconut,990000,101
 Green Scorchio (TCG),985000,103
+The Cyodrakes Gaze Stamp,985000,95
 Lost City Lanes Stamp,980000,101
 Court Dancer (TCG),975000,103
 Usul-in-Waiting (TCG),975000,103
@@ -236,17 +238,15 @@ Valrigard,950000,97
 Space Faerie Stamp,940000,93
 Scorched Evil Coconut,935000,101
 Turtum Coin,930000,97
+Captain Scarblade Stamp,925000,99
 Eyrie Guard (TCG),925000,103
 Sinister Evil Coconut,920000,101
 Ixi Raider (TCG),915000,103
 Mynci Plushie (TCG),915000,103
 Turmaculus Strikes! (TCG),915000,103
-Mr. Chuckles,910000,96
 Snorkle (TCG),910000,103
-Fumble! (TCG),900000,103
 Fyoras Castle Stamp,900000,94
 Painted Evil Coconut,900000,101
-Silent Evil Coconut,900000,101
 The Shop Wizard,900000,96
 Tropical Wall Hangings,885000,101
 Green Buzz (TCG),870000,103
@@ -254,15 +254,17 @@ Moaning Evil Coconut,865000,101
 Monstrous Evil Coconut,865000,101
 Golden Evil Coconut,860000,101
 Lost City of Phorofor Stamp,855000,95
-Lutari Uni Stamp,850000,101
 Mechanoid Warrior,850000,96
+Mr. Chuckles,850000,96
 Purple Twirly Shell,850000,95
+Reinforcements (TCG),850000,103
+Skarls Banquet (TCG),835000,103
+Green Poogle (TCG),830000,103
 Quiggle Scout (TCG),830000,103
 Weakness (TCG),820000,103
+Everlasting Apple (TCG),815000,103
 Darigan PaintBrush (TCG),810000,110
 Shoyru Spy (TCG),800000,103
-The Cyodrakes Gaze Stamp,800000,95
-Captain Scarblade Stamp,795000,99
 Kougra Scientist (TCG),795000,103
 Spooky Beans (TCG),795000,103
 Gelert Beast Hunter (TCG),790000,103
@@ -272,22 +274,21 @@ Sludging Ray (TCG),780000,103
 Back from the Grave (TCG),775000,103
 Resistance HQ (TCG),770000,103
 Save the Day (TCG),770000,103
-Screaming Evil Coconut,770000,101
 Tuskaninny Sailor (TCG),765000,103
 Faerie Pancakes (TCG),750000,103
-Green Poogle (TCG),750000,103
 The Ruins of Thanyros Stamp,750000,101
-Skarls Banquet (TCG),745000,103
 Book Coin,740000,96
-Everlasting Apple (TCG),735000,103
+Silent Evil Coconut,740000,101
+Rebuilding Dacardia Stamp,735000,101
 Stitched Evil Coconut,735000,101
 Mystery Island Aishas Stamp,730000,180
 Landing Party (TCG),725000,103
 Mutant Buzz (TCG),725000,103
-Hubrid Nox,715000,96
 Scowling Sloth Coin,715000,99
 Defender of Ador (TCG),700000,103
+Hubrid Nox,700000,96
 Starry PaintBrush (TCG),700000,110
+Lutari Uni Stamp,695000,101
 Red Uni (TCG),695000,103
 Zorlix (TCG),690000,103
 Lunchtime,675000,96
@@ -295,41 +296,41 @@ Shadow Gulch Stamp,675000,95
 Castle Sanctuary (TCG),665000,103
 Oubliette (TCG),650000,103
 Maraquan PaintBrush (TCG),635000,110
-Negg-Gazer Charm,635000,101
 Skarls Personal Guard (TCG),635000,103
 Treasure Seekers,630000,97
+Margoreth,625000,95
 Blue Skeith (TCG),620000,103
 Wanderers Curse (TCG),615000,103
 Fyora the Faerie Queen (TCG),610000,180
 Abandoned Water Tower Stamp,600000,101
 Earth Faerie Token (TCG),600000,103
-Reinforcements (TCG),600000,103
 Dark Faerie Token (TCG),595000,103
 Gedda Happycheek,595000,96
 Slumberberry Potion (TCG),595000,103
 Brilliant Negg Crown,590000,101
 Lampwyck Stamp,590000,95
 Space Faerie Kari Charm,590000,101
-Shenkuu Helmet Stamp,570000,94
-Hidden Tower Secrets (TCG),560000,103
+Negg-Gazer Charm,575000,101
 Biyako Stamp,550000,94
 Games Master Challenge Stamp,550000,101
 Lost Desert PaintBrush (TCG),550000,110
 Unmask (TCG),545000,103
+Garrox5 The Grundo Trooper,535000,97
 Tomos Stamp,535000,95
-Cybunny on a Cycle Stamp,530000,94
 Diadem of the Deep,530000,88
-King Altador Stamp,520000,99
+Cybunny on a Cycle Stamp,520000,94
 Flying Potion (TCG),510000,103
+Shenkuu Helmet Stamp,510000,94
 Mechachiazilla,505000,96
 Dark Ilere Stamp,500000,94
-Garrox5 The Grundo Trooper,500000,97
-Rebuilding Dacardia Stamp,500000,101
+Dark Qasala Stamp,500000,93
+Hidden Tower Secrets (TCG),500000,103
 Champions of Meridell Stamp,490000,101
 Talinia Stamp,490000,94
 Mutox Syrup (TCG),485000,103
 Darigan Citadel Stamp,480000,93
-Rainbow PaintBrush (TCG),465000,110
+The Discarded Magical Blue Grundo Plushie of Prosperity Stamp,470000,101
+Forgotten Shore Stamp,465000,94
 Scauderwelsch,465000,96
 Nova (TCG),455000,103
 Thingy (TCG),455000,103
@@ -341,64 +342,64 @@ Mootix (TCG),430000,103
 Silver Buzzer Coin,430000,96
 Yellow Negg (TCG),430000,103
 Bottle of Grarrl (TCG),420000,103
-Margoreth,420000,95
 Illusen the Earth Faerie,410000,95
+King Altador Stamp,410000,99
 Cloud PaintBrush (TCG),405000,110
 Put on Display (TCG),405000,103
 The Pant Devil,405000,96
-Sticky Snowflake Stamp,400000,99
-Forgotten Shore Stamp,395000,94
 Mysterious Obelisk Stamp,395000,101
-Yellow PaintBrush (TCG),395000,103
 Faerie Lantern (TCG),390000,103
 Island PaintBrush (TCG),375000,110
+Rainbow PaintBrush (TCG),375000,110
+Sticky Snowflake Stamp,375000,99
 Tyrannian Victory Day Stamp,370000,94
+Yellow PaintBrush (TCG),360000,103
 Marshmallow Grundos (TCG),335000,101
-Ring of Sloth Stamp,320000,180
 Symol Warrens (TCG),315000,103
 Doglefox (TCG),310000,103
 Jahbal,300000,94
 Scordrax Stamp,300000,94
-The Discarded Magical Blue Grundo Plushie of Prosperity Stamp,300000,101
 Krawk card,280000,94
+Snow PaintBrush Coin,280000,96
 The Soup Faerie,275000,96
-New Faerieland Stamp,265000,101
+Ring of Sloth Stamp,270000,180
 Meerca Catapult (TCG),255000,103
 Altador Cup Collectable Card,250000,101
 Astronaut Kari Charm,250000,101
 Scorchio Alchemist (TCG),245000,103
-Snow PaintBrush Coin,245000,96
 Blue PaintBrush (TCG),238000,103
 Detective Kari Charm,238000,101
 Wheel of Knowledge (TCG),235000,101
-Dark Qasala Stamp,227000,93
 Snowball Cannon (TCG),220000,103
 Shumi Telescope Stamp,219000,93
 Fire and Ice Blade (TCG),210000,101
 Candychan (TCG),207000,101
-Red PaintBrush (TCG),192000,103
+New Faerieland Stamp,197000,101
 Neggnapper Stamp,189000,101
 Wheel of Excitement (TCG),186000,101
 Darkest Faerie Stamp,184000,98
+The Krawken Stamp,173000,92
 Altador Cup X Commemorative Stamp,170000,101
-Blue and Gold Tube Shell,160000,93
-Chomby Stamp,160000,101
+Zombified Heroes Stamp,162000,93
 Faerie Guardian (TCG),158000,101
+Chocolate Factory Coin,157000,95
+Chomby Stamp,150000,101
+Wheel of Monotony Stamp,150000,92
 Snow PaintBrush (TCG),148000,110
 Fire Breathing Meerca,145000,180
 Shyanna,145000,180
-Tyrannian Elephante Stamp,145000,101
 Moltara Town Hall Stamp,144000,93
 Mr. Krawley Stamp,140000,93
 Attack of the Slorgs (TCG),135000,101
 The Brain Tree,135000,95
-The Krawken Stamp,129000,92
+Red PaintBrush (TCG),130000,103
 Green PaintBrush (TCG),123000,103
-Korosu Crestscar,122000,94
 Alchemy (TCG),120000,101
 Baelia Stamp,120000,101
 Spotted PaintBrush (TCG),120000,107
 Sticks and Stones,120000,180
+Blue and Gold Tube Shell,119000,93
+Korosu Crestscar,118000,94
 Official Ghoul Catchers Stamp,116000,101
 Singed Tyrannian Volcano Stamp,116000,93
 Mirgle (TCG),106000,103
@@ -406,6 +407,7 @@ Water Faerie Doll (TCG),103000,101
 Jhudoras Evil Eye (TCG),100000,101
 Ruling the Universe (TCG),100000,101
 Snowickle Coin,100000,101
+Tyrannian Elephante Stamp,100000,101
 Wand of Ice (TCG),100000,101
 Omelette of the Faeries (TCG),95000,101
 Lava Monster Stamp,94000,98
@@ -416,10 +418,10 @@ Santa Skarl Stamp,89500,101
 Stamp of Spring Charm,89000,101
 Blue Blumaroo (TCG),88000,101
 Strawberry Brucicle (TCG),87500,101
-Wheel of Monotony Stamp,86000,92
 Slymook (TCG),85000,101
 Slorg Slime (TCG),82000,101
 Baby Aisha Stamp,80000,101
+Green Knight Stamp,80000,91
 Super Bright Rainbow Pool Stamp,79000,89
 Lady Blurg Stamp,78500,101
 Coltzans Shrine Coin,78000,101
@@ -428,6 +430,7 @@ Light Faerie Doll (TCG),75500,101
 Cheese (TCG),73000,101
 Princess Sankara,73000,93
 Seaweed Omelette (TCG),72000,101
+Usukiland Stamp,70000,88
 Florin Stamp,69500,90
 Gatekeeper Stamp,69500,89
 Snowager Ice Lolly (TCG),69000,101
@@ -435,12 +438,10 @@ Faerie Festival (TCG),68000,101
 Blue Kau (TCG),65000,101
 Jelly Aishas (TCG),61500,101
 Stan the Kyrii,61500,93
-Chocolate Factory Coin,61000,95
-Edna the Zafara Stamp,60000,90
+Hubrid Nox Commemorative Stamp,60000,88
 Snowager Scale (TCG),60000,101
 Book of Sadness (TCG),59500,101
 Tylix Stamp,59500,89
-Castle Defender Stamp,59000,90
 Pant Devil Sandwich (TCG),59000,101
 Bottled Water Faerie (TCG),58500,101
 Feeding Mr. Scary (TCG),57500,101
@@ -448,11 +449,12 @@ Plump Petpets Stamp,57500,101
 Form Up! (TCG),55500,101
 Rainbow Collectable Scarab,55000,92
 Dorak Stamp,54500,91
+Castle Defender Stamp,54000,90
 Mutant Bearog (TCG),54000,101
 Dark Faerie Stamp,53500,92
 Snowberries (TCG),51000,101
+Boris Stamp,50000,90
 Icy Negg (TCG),50000,101
-Reina Collectable Card,50000,101
 Peachpa (TCG),49700,101
 RIP Lucy Stamp,49700,91
 Crop Failure (TCG),49500,101
@@ -461,20 +463,18 @@ Guardian of Ice Magic,49000,92
 Kreai,48800,91
 Celestial Talisman Stamp,48700,88
 Bottled Earth Faerie (TCG),48400,101
-Green Knight Stamp,48400,91
 Everlasting Porridge (TCG),47800,101
 Haunted Brightvale Amulet,47000,101
 Jewelled Scarab Stamp,47000,88
-Silver Concert Hall Coin,46900,92
 Thin Ice (TCG),46600,101
 The Lava Ghoul,46200,180
 Yellow Cybunny (TCG),46100,101
 Illusens Charm (TCG),45900,101
 Puppyblew (TCG),45700,101
+Battledome Coin,45000,93
 Bottled Faerie Stamp,45000,89
 Illusens Faerie Globe (TCG),45000,101
 N-4 Information Retrieval Bot Coin,44900,93
-Sunblade Stamp,44700,90
 Beyond Neopia (TCG),44500,101
 Red Shoyru (TCG),44500,101
 Starberry (TCG),44500,101
@@ -486,7 +486,6 @@ Failed Experiment (TCG),43800,101
 Blue Lupe (TCG),42000,101
 The Drenched Stamp,41300,89
 Illusens Potion Book (TCG),41000,101
-Usukiland Stamp,41000,88
 Bottled Dark Faerie (TCG),40500,101
 Broken Crackers (TCG),40000,101
 Cogs Togs Stamp,40000,90
@@ -495,33 +494,35 @@ Tribal Blowgun (TCG),39900,101
 Green Patterned Collectable Scarab,39800,91
 Qasalan Tablets (TCG),39500,101
 Dead of Night (TCG),39400,101
+Reginald Christmas Stamp,39000,101
 Rod Of Dark Nova Stamp,38700,89
+Charms Stamp,38100,90
 Mutant Grundo Stamp,38000,86
-Wand Of The Dark Faerie Stamp,38000,87
+Reina Collectable Card,38000,101
 Maths Nightmare,37700,85
 Frozen Longbow (TCG),37500,101
 Sea Anemones (TCG),37500,101
 Lavender Cowry Shell,37100,90
 Charybdis Seashell,37000,101
 Kreldyfloss (TCG),36800,101
+Edna the Zafara Stamp,36500,90
 Neopian Hospital Stamp,36400,87
 Battle Stations (TCG),36000,101
 Mystery Island Travel Stamp,36000,90
 Purple Spiral Shell,35700,92
 Red JubJub (TCG),35500,101
 Bottled Air Faerie (TCG),35000,101
-Illusen Stamp,35000,90
 Pickled Greeble Tongue (TCG),35000,101
 Zombie Faleinn Stamp,34900,87
 Blue Aisha (TCG),34500,101
-Battledome Coin,34300,93
 Bottled Fire Faerie (TCG),34000,101
 Green Negg (TCG),33700,101
-Dark Graspberry Stamp,33500,86
 Destruction of Faerieland Stamp,33500,91
 Green Blumaroo (TCG),33400,101
 Arcade Stamp,32400,101
 Kolvars Stamp,32200,89
+Evil Fuzzle Coin,32000,92
+Sunblade Stamp,32000,90
 Happy Negg (TCG),31300,101
 Babaa (TCG),31000,101
 Misdirection (TCG),31000,101
@@ -544,10 +545,13 @@ Green Wocky (TCG),30000,101
 Iscas Necklace (TCG),30000,101
 Jelly Pop Stamp,30000,86
 Lishas Charm (TCG),30000,101
+Mazzew (TCG),30000,101
+Princess Vyssa,30000,91
 Rainbow Flare (TCG),30000,101
 Robot Noil (TCG),30000,101
 Robot Spyder (TCG),30000,101
 Spike Trap (TCG),30000,101
+Tangle Net Gun (TCG),30000,101
 Yellow Wocky (TCG),30000,101
 Astral Blade Coin,29900,93
 Red Wocky (TCG),29900,101
@@ -556,7 +560,6 @@ Yellow JubJub (TCG),29800,101
 Dark Graspberry (TCG),29700,101
 Blue Kougra (TCG),29500,101
 Buried Treasure Stamp,29500,87
-Hubrid Nox Commemorative Stamp,29500,88
 Stone Snowball (TCG),29500,101
 Yellow Zafara (TCG),29500,101
 Hasee (TCG),29400,101
@@ -565,14 +568,11 @@ Sceptre of Banishing (TCG),29300,101
 Yellow Gelert (TCG),29300,101
 Brown Negg (TCG),29000,101
 Darigan Shield Stamp,29000,86
-Princess Vyssa,29000,91
 White Aisha (TCG),29000,101
 Maractite Axe (TCG),28900,101
-105 Castle Secrets Stamp,28500,87
 Greater Green Collectable Scarab,28500,89
 Tchea Fruit (TCG),28500,101
 Red Eyrie (TCG),28100,101
-Boris Stamp,28000,90
 Bottled Light Faerie (TCG),28000,101
 Chocolate Factory Stamp,28000,89
 Dinner Is Served (TCG),28000,101
@@ -586,7 +586,6 @@ Red Aisha (TCG),27500,101
 Kiss the Mortog (TCG),27300,101
 Peaceful Coexistence Stamp,27000,88
 Faleinn,26900,90
-Kings Lens Stamp,26500,87
 Feepit (TCG),26300,101
 Petpetnip (TCG),26000,101
 Red Kyrii (TCG),26000,101
@@ -618,66 +617,68 @@ Polarchuck (TCG),24500,101
 Snowman Slushie Stamp,24500,101
 Blue Spiral Seashell,24400,90
 Blue Bruce (TCG),24300,101
-Charms Stamp,24300,90
 Turmaculus Stamp,24300,89
 Anubis (TCG),24000,101
 Blue Negg (TCG),24000,101
-Petpet Cannonball Stamp,24000,84
 Tyrannian Plateau Stamp,24000,86
 Buzzer (TCG),23900,101
 Cybunny Plushie (TCG),23500,101
 Golden Scorchstone (TCG),23500,101
 White Acara (TCG),23500,101
 Blue Jetsam (TCG),23400,101
-Evil Fuzzle Coin,23000,92
 Bogberries (TCG),22800,101
 Kidnapped (TCG),22800,101
 Enameled Peophin Brooch of the Deep,22500,90
 Moon Charm (TCG),22500,101
-Stamp of Neopia,22400,101
 Blue Peophin (TCG),22000,101
 Green Mynci (TCG),22000,101
+Petpet Cannonball Stamp,22000,84
 Water Mote (TCG),22000,101
 Magic Robes (TCG),21900,101
-Electro Shield Coin,21600,91
 Green Shoyru (TCG),21500,101
+Stamp of Neopia,21000,101
+Thawing Potion (TCG),21000,101
 Green Grarrl (TCG),20500,101
 Noil Gem (TCG),20500,101
 Snowbunny (TCG),20500,101
+Ghi Pharun,20100,90
 Beast Burger (TCG),20000,101
 Cabbage (TCG),20000,101
 Chasm Beast Stamp,20000,88
 Chocolate Korbats (TCG),20000,101
 Evil Fuzzle (TCG),20000,101
 Exploding Acorns (TCG),20000,101
+Green Skeith (TCG),20000,101
 Healing Potion (TCG),20000,101
 Hide-and-Seek (TCG),20000,101
+Illusen Stamp,20000,90
 Maractite Shield (TCG),20000,101
 Red Buzz (TCG),20000,101
 Red Pteri (TCG),20000,101
+Scarab Stamp,20000,93
 Slugawoo (TCG),20000,101
 Sparkly Green Scallop Shell,20000,90
 Squiggles Shell,20000,89
 Tribal Headdress (TCG),20000,101
 Turmac Roll (TCG),20000,101
+Wand Of The Dark Faerie Stamp,20000,87
 Warf (TCG),20000,101
 Harris (TCG),19900,101
 Mirage (TCG),19800,101
-Mokti and Rikti Stamp,19800,88
 Yullie (TCG),19800,101
 Yellow Scorchio (TCG),19700,101
 Ixi Plushie (TCG),19500,101
 Orange Rambus (TCG),19500,101
+Silver Concert Hall Coin,19500,92
 Yellow Chomby (TCG),19500,101
 Cosmic Cheese Stars (TCG),19400,101
+Electro Shield Coin,19300,91
 Green Grass Skirt (TCG),19300,101
 Maraquan Charger Stamp,19300,87
 Eureka,19000,90
-Ghi Pharun,19000,90
-Meridell Gardens Stamp,19000,87
 Oops! (TCG),19000,101
 Pink Curly Shell,19000,89
-Scratchcard Kiosk Stamp,19000,84
+Stocking Stamp,18800,80
 Chocolate Cybunnies (TCG),18700,101
 Eraser of the Dark Faerie Stamp,18600,87
 Chomp! (TCG),18500,101
@@ -697,43 +698,46 @@ Splat A Sloth Coin,18100,91
 Yellow Ixi (TCG),18100,101
 Blue Acara (TCG),18000,101
 Buzz Avenger,18000,88
+Christmas Zafara Stamp,18000,80
 Gargaroxs Recipe Book Coin,18000,91
+Kentari Spyglass Stamp,18000,89
 Meaty Pie (TCG),18000,101
 Meuka,18000,90
 Potatoes (TCG),18000,101
 Red Meerca (TCG),18000,101
-Smugglers Cove Stamp,17800,86
 Petpet Growth Syrup (TCG),17500,101
 Yellow Elephante (TCG),17500,101
-Rally (TCG),17400,101
+The Masked Intruder,17400,89
 Green Ruki (TCG),17300,101
-Thawing Potion (TCG),17300,101
+Tazzalor Stamp,17300,86
 Ring of Weightlessness (TCG),17100,101
 Blue Koi (TCG),17000,101
 Buzzer Swarm (TCG),17000,101
 Jerans Armour (TCG),17000,101
+Kings Lens Stamp,17000,87
 Shadow Breeze (TCG),17000,101
+SHFISS Stamp,17000,80
+Sliding Darblat Stamp,17000,83
 Wooden Blocking Shield (TCG),17000,101
 Flowper (TCG),16900,101
 Green Acara (TCG),16900,101
 Gadgadsbogen (TCG),16500,101
 Green Peophin (TCG),16500,101
+Hubrid Noxs Mountain Fortress Stamp,16500,88
 Maraquan Blade Specialist Stamp,16500,86
-The Masked Intruder,16500,89
 Yellow Aisha (TCG),16500,101
 Yellow Grass Skirt (TCG),16500,101
 Yellow Kougra (TCG),16500,101
 Cursed Strawberries (TCG),16300,101
 The Snowager,16100,90
 Turnips (TCG),16100,101
-Alien Aisha Ray Gun Stamp,16000,86
+105 Castle Secrets Stamp,16000,87
 Blue Flotsam (TCG),16000,101
 Catch! (TCG),16000,101
 Green Nimmo (TCG),16000,101
 Lishas Glasses (TCG),16000,101
 Yellow Eyrie (TCG),16000,101
 Pineapple Dessert Stamp,15900,86
-Gingerbread House Coin,15800,101
 LDPBSTSCC,15800,89
 Maraquan Jellypops (TCG),15800,101
 Alien Aisha Myriad Stamp,15600,88
@@ -741,13 +745,12 @@ NeoQuest II Logo Stamp,15600,87
 Ghoti (TCG),15500,101
 Tors Challenge (TCG),15500,101
 Purrows Plight (TCG),15400,101
-Snowglobe Faerie Stamp,15400,84
 Cheery Tomatoes (TCG),15300,101
 Mellow Marauders Plushie Stamp,15200,83
 Bottle of Green Sand (TCG),15000,101
-Cyodrakes Gaze Logo Stamp,15000,87
 Elite Blaster (TCG),15000,101
 Evil Snowball (TCG),15000,101
+Faerie Wings Shell,15000,88
 Fog Mote (TCG),15000,101
 Good Snowball (TCG),15000,101
 Grundo Snow Throw Stamp,15000,82
@@ -757,6 +760,7 @@ Malfunction (TCG),15000,101
 Maractite Armour (TCG),15000,101
 Powtry Stamp,15000,101
 Red Usul (TCG),15000,101
+Star Fish Shell,15000,84
 Tooth of Goregas (TCG),15000,101
 Uncommon Blue Collectable Scarab,15000,89
 White Kougra (TCG),15000,101
@@ -766,6 +770,7 @@ Charming the Miamice (TCG),14800,101
 Pirate Cutlass (TCG),14800,101
 Red Tonu (TCG),14800,101
 Green Moehog (TCG),14700,101
+Jhudoras Bewitched Ring Stamp,14700,86
 Moehog Plushie (TCG),14500,101
 Pant Devil Attacks (TCG),14500,101
 Blue Eyrie (TCG),14400,101
@@ -782,37 +787,36 @@ GX-4 Oscillabot (TCG),14000,101
 Ixi Lancer,14000,90
 Lightning Lenny,14000,88
 Red Mynci (TCG),14000,101
-Seasonal Stamp,14000,180
 Shivering Potion (TCG),14000,101
-Stocking Stamp,14000,80
 The Black Pawkeet Stamp,14000,87
 Bagguss (TCG),13900,101
 Blue Babaa (TCG),13900,101
 Bzzt Blaster (TCG),13900,101
 Corrode (TCG),13900,101
 Red Scorchio (TCG),13900,101
-Star Fish Shell,13900,84
 Uni Charm (TCG),13900,101
 Cheesy Pineapple Sticks (TCG),13800,101
 Green Turmac (TCG),13700,101
 Fire Mote (TCG),13600,101
 Blue Uni (TCG),13500,101
 Exploding Acorns Stamp,13500,86
+Purrows Amulet (TCG),13500,101
 Pyramibread (TCG),13500,101
 Rocket Boots (TCG),13500,101
-Scarab Stamp,13500,93
+Seasonal Stamp,13400,180
 Splat-A-Sloth Stamp,13400,84
 Guess the Card (TCG),13300,101
 The Lupe Collector,13300,88
 Island Lei (TCG),13200,101
 Armin the Small,13000,90
-Faerie Wings Shell,13000,88
 Red Mazzew (TCG),13000,101
 Royal Summons (TCG),13000,101
+Secret Passage (TCG),13000,101
 Snow Flame (TCG),13000,101
 Vernax (TCG),13000,101
 Yellow Flotsam (TCG),13000,101
 Coco Stamp,12900,80
+Flying Korbats Stamp,12900,88
 Coral Bracelet (TCG),12800,101
 Bringer of Night Stamp,12700,83
 Funnydew Melon (TCG),12600,101
@@ -822,6 +826,7 @@ Witchs Hat (TCG),12500,101
 Desert Scimitar (TCG),12400,101
 Protect the Village (TCG),12400,101
 A Light Faerie,12300,89
+Alien Aisha Ray Gun Stamp,12000,86
 Blue Korbat (TCG),12000,101
 Green Ixi (TCG),12000,101
 Onions (TCG),12000,101
@@ -833,7 +838,6 @@ Tyrannian Usul Stamp,12000,85
 Yellow Gallion (TCG),12000,101
 Faerie Bubbles Stamp,11900,86
 Khonsu (TCG),11900,101
-Year 5 Stamp,11900,180
 Purple Juppie (TCG),11800,101
 Rohanes Mother Stamp,11800,87
 Grappling Hook (TCG),11700,101
@@ -843,7 +847,7 @@ Blue Doglefox (TCG),11600,101
 The Spider Grundo,11500,89
 The Thieves Code (TCG),11500,101
 Tomatoes (TCG),11300,101
-Christmas Zafara Stamp,11200,80
+Bruno Stamp,11100,82
 Deluxe Money Tree Stamp,11100,85
 Green JubJub (TCG),11000,101
 Green Lenny (TCG),11000,101
@@ -851,33 +855,27 @@ Grundo Battle Helmet (TCG),11000,101
 Maractite Sword (TCG),11000,101
 Red Zafara (TCG),11000,101
 Red Kacheek (TCG),10800,101
-Soup Faerie Stamp,10700,101
 Battle Hammer (TCG),10500,101
 Faeriecinths (TCG),10500,101
 Rainbow Fountain Card,10500,89
 Armlet of the Deep,10400,87
-SHFISS Stamp,10400,80
 Draik Paladin,10300,90
 Korbat Cape (TCG),10300,101
-Sliding Darblat Stamp,10200,83
 Guardian of Spectral Magic,10100,88
 Blue Gelert (TCG),10000,101
 Blue Grarrl (TCG),10000,101
+Cyodrakes Gaze Logo Stamp,10000,87
 Defence Shield v1.0 (TCG),10000,101
 Faerieland Justice Stamp,10000,84
 Hissi Oil (TCG),10000,101
 Ice Scimitar (TCG),10000,101
-Jhudoras Bewitched Ring Stamp,10000,86
 Juppie Juice (TCG),10000,101
 Muntando Fruit (TCG),10000,101
-Neopet Version 2 Stamp,10000,82
 Orange Acara (TCG),10000,101
 Orange Korbat (TCG),10000,101
 Potion of Invisibility (TCG),10000,101
-Purrows Amulet (TCG),10000,101
 Red Jetsam (TCG),10000,101
 Ruki Plushie (TCG),10000,101
-Secret Passage (TCG),10000,101
 Shop Wizard Stamp,10000,85
 Something Will Happen (TCG),10000,101
 Usica Berries (TCG),10000,101
@@ -896,24 +894,21 @@ Red Skeith (TCG),9950,101
 Rubbish Chute (TCG),9950,101
 Thornberry (TCG),9950,101
 Yellow Quiggle (TCG),9950,101
-Bruno Stamp,9900,82
 Kiko Squeeze Toy (TCG),9900,101
 Monsoon (TCG),9900,101
 Runed Maractite Coin,9900,86
-Tangle Net Gun (TCG),9900,101
 Artagami Keyring Charm,9850,101
 Crokabek (TCG),9850,101
+Frozen Snowflake Coin,9800,88
 Ring of the Lost (TCG),9800,101
 Red Acara (TCG),9750,101
 Berti the Creator,9500,88
 Green Cybunny (TCG),9500,101
-Hubrid Noxs Mountain Fortress Stamp,9500,88
 Yellow Tonu (TCG),9500,101
 Golden A (TCG),9400,101
 Spyder Juice Elixir (TCG),9350,101
 Ummagine (TCG),9300,101
 Crimson Spotted Shell,9250,86
-Yes-Boy Ice Cream Stamp,9250,84
 Tasu Stamp,9200,88
 Triangular Maractite Coin,9200,82
 Red Lenny (TCG),9150,101
@@ -923,73 +918,73 @@ Faerie Dishwater (TCG),9000,101
 Lemon Snow Puff (TCG),9000,101
 Raspberries (TCG),9000,101
 Red Gelert (TCG),9000,101
+Rusty Sloth Clone Maractite Coin,9000,82
+Yes-Boy Ice Cream Stamp,8950,84
 Green Quiggle (TCG),8900,101
-Deep Seashell,8850,88
 Red Tuskaninny (TCG),8850,101
-Rusty Sloth Clone Maractite Coin,8750,82
-Geb Stamp,8700,84
+Chomby and the Fungus Balls,8700,86
 King Skarl Plushie Stamp,8700,89
-Speckled Collectable Scarab,8500,88
+Smugglers Cove Stamp,8500,86
 Judge Hog,8400,88
-Mazzew (TCG),8250,101
+Deep Seashell,8250,88
 Horned Collectable Scarab,8150,90
-Chomby and the Fungus Balls,8100,86
 Altador Food Stamp,8000,89
+Dark Graspberry Stamp,8000,86
 Galem Darkhand,8000,90
 Imperius Flare,8000,88
 Niten Hiroru,8000,65
-The Three (TCG),8000,110
+Meridell Gardens Stamp,7900,87
 Spiky Orange Murex Shell,7850,88
 Brown Striped Murex Shell,7800,89
 Hubrid Nox Stamp,7750,85
 Illusens Staff Stamp,7700,85
-Bronze Mystery Island Coin,7550,90
 Pacha The Vet,7500,80
 Bug Eye McGee Stamp,7450,83
+Neopet Version 2 Stamp,7250,82
 Carnival of Terror Stamp,7200,80
 Maractite Koi Maractite Coin,7050,82
 Molten Morsels Stamp,7050,83
+Faerie Furniture Shopkeeper Stamp,7000,86
 Mutant Aisha Twins,7000,83
 Terror Mountain Scene Stamp,7000,80
 Librarian Stamp,6950,86
 Long Headed Collectable Scarab,6950,85
-Hasee Bounce Card,6900,82
 Magax: Destroyer,6900,85
-Faerie Foods Stamp,6850,81
 Docked Ship Stamp,6800,85
 Mutant Techo Plushie Stamp,6750,80
+Speckled Collectable Scarab,6750,88
 Red Lined Shell,6700,88
 Daedelon,6500,82
 Merouladen and Heermeedjet,6450,87
+Luperus,6400,66
 Senator Palpus,6400,85
 Camouflage Scallop Shell,6350,87
-Luperus,6350,66
 Draik Guard Stamp,6200,84
 Hair Clip of the Deep,6200,81
+Hasee Bounce Card,6150,82
 Crumpetmonger Stamp,6100,83
-Psellia Stamp,6050,83
 Mysterious Aisha Sorceress,6000,82
 Qasalan Tablet Stamp,6000,84
-Enchanted Pudao Stamp,5900,83
-Exploding Space Bugs Stamp,5900,85
+Year 5 Stamp,6000,180
+Faerie Foods Stamp,5950,81
 Family Portrait Stamp,5900,83
-Shiny Cocoa Collectable Scarab,5900,84
 Yellow and Black Collectable Scarab,5900,81
 Dr_Death,5850,84
 Gadgadsbogen Festival,5850,88
 Giant Grackle Bug,5850,68
+Bronze Mystery Island Coin,5750,90
 Lady Frostbite Stamp,5700,85
 Ruins of Faerieland Stamp,5700,81
-Tyrannian Blumaroo Stamp,5700,80
 Brain Tree Stamp,5600,80
-Maitre D,5550,82
 Worn Maractite Coin,5550,83
 Jeran Stamp,5500,90
 Kauvara Stamp,5500,80
+Snowglobe Faerie Stamp,5500,84
 Zafara Princess Stamp,5450,85
 Angry Janitor Stamp,5400,85
 Maelstra The Dark Faerie,5400,81
 Qasalan Coffee Set Stamp,5400,81
+Shiny Cocoa Collectable Scarab,5350,84
 Trapped Tomos Stamp,5350,84
 Underwater Chef Stamp,5350,84
 Garon the Lupe,5300,87
@@ -1000,109 +995,122 @@ Faerieland Petpet Shopkeeper Stamp,5100,82
 King Roos Nemesis,5050,80
 Alien Aisha Vending Stamp,5000,80
 Blarthrox Stamp,5000,80
+Exploding Space Bugs Stamp,5000,85
 Kelland Stamp,5000,85
-Princess Sankara Stamp,5000,80
+Maitre D,5000,82
 Yiko Stamp,5000,77
 Zygorax Stamp,5000,80
+Princess Sankara Stamp,4975,80
 Bonju Stamp,4950,85
 Krawk Island Governor Stamp,4950,78
 N4 Bot Stamp,4950,80
-Senator Barca Stamp,4950,80
+Senator Barca Stamp,4925,80
+Gingerbread House Coin,4900,101
 Holographic Sakhmet City Stamp,4900,89
+Scorchio Mummy Stamp,4900,88
 Super Happy Icy Fun Snow Shop Card,4900,180
 Peopatra Stamp,4875,78
-Faerie Furniture Shopkeeper Stamp,4850,86
 Spirit of Slumber Stamp,4850,87
-Bone Chair Stamp,4750,79
 Guardian of Shock Magic,4700,69
 00 Hog,4650,85
-Quiggle Scout Stamp,4650,85
 Count Von Roo,4575,67
 Ruler of the Five Seas Stamp,4550,86
+Velm Stamp,4550,93
 2 Gallon Hatz,4500,68
 Plains Aisha,4500,66
+Princess Fernypoo,4500,68
 Ruins of Qasala Stamp,4500,85
+Snow Faerie Stamp,4500,80
 Umma Bunga,4400,68
 Suteks Tomb Stamp,4375,81
-Princess Fernypoo,4350,68
 Capara,4300,82
 Chen-Ra Son of the Sun,4300,69
 Pile of Dung Stamp,4300,84
 Guard Zomutt Stamp,4275,80
-Moonlit Werelupe Stamp,4200,80
+Moonlit Werelupe Stamp,4175,80
 Sir Fufon Lui,4150,85
 Petty Crewmate Stamp,4125,84
 Darigan Elemental Stamp,4000,80
 Fruit Machine Stamp,4000,80
-Scorchio Mummy Stamp,4000,88
 Scratch Card Kiosk Wocky,4000,80
 Sword of Skardsen Stamp,4000,88
 Keergo,3975,66
 Monoceraptor Claw Stamp,3950,83
+Psellia Stamp,3950,83
 Sword of the Air Faerie Stamp,3950,85
+Bone Chair Stamp,3900,79
+Fire Paw,3900,52
 Frosty Snowman Stamp,3900,75
+Fruit Bomb Stamp,3900,81
 Grarrg,3900,67
 Korbats Lab Card,3900,68
 Rhan Tyr,3900,62
 Sakhmet Palace Stamp,3900,80
+Soup Faerie Stamp,3900,101
 Kyruggi,3800,68
 Midnight Desert Lupe Stamp,3800,80
-Plesio Stamp,3750,76
+Grargadon,3725,80
 Orange Patterned Collectable Scarab,3700,79
 The Navigator,3700,80
 Gordos Stamp,3675,82
-Beerlap III,3650,80
 Faerie City Stamp,3650,82
 Mutant Usul Stamp,3650,76
 Nova Storm Stamp,3625,88
 Wintery Bruce Stamp,3625,78
 Kasuki Lu,3575,45
-Rusty Door Stamp,3550,76
-Pomanna Stamp,3525,80
+Plesio Stamp,3550,76
 Christmas Meerca Stamp,3500,83
-Golden Orb Stamp,3500,80
 Gragarex the Grarrl Trooper,3500,83
 Lady Osiri,3500,59
+Pomanna Stamp,3500,80
 Altadorian Farmer Stamp,3475,81
 Pirate Troops Stamp,3475,89
-Fire Paw,3400,52
 King Skarl Stamp,3400,90
-Spiky Shell,3400,85
 Tonunishiki,3400,78
 Choras Tillie,3300,50
+Tyrannian Blumaroo Stamp,3300,80
 Tyrannian Grarrl Stamp,3300,80
 Magma Pool Stamp,3225,80
 Attack of the Slorgs Stamp,3200,82
-Grargadon,3200,80
-Seaweed Necklace Stamp,3200,83
+Golden Orb Stamp,3200,80
+Guardian of Fire Magic,3200,31
+Zyrolon,3200,63
+Geb Stamp,3150,84
 Shenkuu Bridge Stamp,3150,80
 The Lighthouse Stamp,3150,81
+Enchanted Pudao Stamp,3125,83
+Beerlap III,3100,80
 Bruce Avenger,3100,82
-Frozen Snowflake Coin,3100,88
 Giant Leaf Curtains Stamp,3100,80
+Quiggle Warlord,3100,35
+Rusty Door Stamp,3100,76
 Kharlos,3050,65
-Library Faerie Stamp,3050,75
 Shield Of Pion Troect Stamp,3050,80
+Simple Red Collectable Scarab,3050,84
+The Three (TCG),3050,110
 Arnie Hulltusk,3000,34
+Brista Lightfeet,3000,79
 Delina Stamp,3000,80
+King Coltzan III,3000,63
+Large Black and White Collectable Scarab,3000,83
 Lavender,3000,63
 Osiris Pottery Stamp,3000,76
 Perfectly Flat Rock Stamp,3000,78
 Polkadot Collectable Scarab,3000,76
 Rampaging Grundonoil Stamp,3000,89
-Simple Red Collectable Scarab,3000,84
 Tangerine Trumpet Shell,3000,85
+Temple Of The Sky Stamp,3000,89
 Thyoras Tear Stamp,3000,80
-Zyrolon,3000,63
+Zephiea Boltheart,3000,64
 Morax Dorangis,2975,38
 Mr Irgo,2975,39
 Morax Dorangis Stamp,2950,80
-Quiggle Warlord,2950,35
 Zafara Hero,2950,55
-Brista Lightfeet,2900,79
+Feemix the Korbat Scout,2925,61
+Neoquest Hero,2900,36
+Spiky Shell,2900,85
 Tyran Far,2900,42
 Zafara Rogue,2900,31
-Qasalan Delights Stamp,2875,76
 Bushy Antennae Collectable Scarab,2850,81
 Grand Theft Ummagine Stamp,2850,78
 Myncha,2850,64
@@ -1111,53 +1119,55 @@ Grinning Sloth Stamp,2800,85
 King Hagan of Brightvale,2800,85
 Marak Stamp,2800,80
 Neopian Tank Patrol 45,2800,50
+Seaweed Necklace Stamp,2800,83
 Undead Grundo Shopkeeper,2800,45
-King Coltzan III,2775,63
 Flashy Winged Collectable Scarab,2750,83
 Kiko Explorer,2750,80
-Neoquest Hero,2750,36
 Tug Of War Stamp,2750,79
 Rock Stamp,2725,70
-Guardian of Fire Magic,2700,31
+Jake the Explorer,2700,57
+Kalora the Kau,2700,61
 Rock Beast,2700,57
 Two Rings Archmagus,2700,39
 Uugbah Sharp Spear,2700,39
 Neovia Stamp,2675,78
-Feemix the Korbat Scout,2650,61
 Guardian of Life Magic,2625,81
 Darigan Eyrie Stamp,2600,79
-Jake the Explorer,2600,57
+Gog,2600,62
+Grarrl Battlemaster,2600,56
 Rhiannon,2600,33
-Captain Astounding,2575,78
-Fruit Bomb Stamp,2575,81
 Korabric,2575,32
+Solar Fyre,2550,42
 Captain of Fyoras Guards Stamp,2525,76
 The Wall,2525,79
 Alhazad the Trader,2500,48
-Grarrl Battlemaster,2500,56
+Frostburn the Chia,2500,56
 Gutan Kai,2500,43
-Lost Desert Sphinx Stamp,2500,76
+Library Faerie Stamp,2500,75
+Lord Luparn,2500,37
 Lustra the Golden Peophin,2500,65
 Ryshu,2500,61
 Tehuti,2500,54
 Trapped,2500,31
+Eleus Batrin,2475,45
 New Maraqua Stamp,2475,88
 Gors the Mighty,2450,34
 Hubert the Hot Dog Salesman,2450,59
-Lord Luparn,2450,37
 So Blue Shell,2450,85
+Two Rings Wizard,2450,56
 Christmas Kougra Stamp,2425,75
 Erick,2425,33
+Lost Desert Sphinx Stamp,2425,76
+Qasalan Delights Stamp,2425,76
 Siyana Stamp,2425,77
 The Gate Keeper,2425,51
 Advert Attack Stamp,2400,70
 Electro-Boy,2400,80
+Gelert Pack,2400,80
 Jerdana Stamp,2400,78
 Nadia the Peophin of Love,2400,52
 Piraket Stamp,2400,82
 Sir Cheekalot,2400,48
-Solar Fyre,2400,42
-Temple Of The Sky Stamp,2400,89
 Tug-O-War Card,2400,76
 Uggsul,2400,35
 Ukkrah the Fire Grarrl,2400,52
@@ -1183,12 +1193,11 @@ The Auction Genie,2300,51
 The Tooth Faerie,2300,57
 Two Rings Warlock,2300,37
 Lupe Warrior,2225,31
+Quiggle Scout Stamp,2225,85
 Senator Barca,2225,67
-Skeith Bank Manager Stamp,2225,70
-Snow Faerie Stamp,2225,80
+Tazzalor,2225,78
 Aurora the Healer,2200,46
 Brown Spotted Shell,2200,84
-Gelert Pack,2200,80
 Hagalugg,2200,45
 Haiki-Lu,2200,46
 Jannen,2200,44
@@ -1200,134 +1209,126 @@ The Stuff Collectable Card,2200,45
 Uncle Tharg,2200,52
 Undead Cybunny,2200,34
 Words of Antiquity Stamp,2200,75
-Money Tree,2150,79
+Money Tree,2175,79
+Orange Skeith Stamp,2150,50
 Ryshiki,2125,45
-Zephiea Boltheart,2125,64
 Breadoch Big Foot,2100,32
+Chimi Magi,2100,34
 Florg the Devourer,2100,36
-Frostburn the Chia,2100,56
+Goldwing,2100,31
 Kyrii Native,2100,39
 Moehawk,2100,43
 Mrs. Prenderghast,2100,50
 Neolodge Stamp,2100,73
 Psellia the Air Faerie,2100,44
-Velm Stamp,2100,93
 Grackle the Chia Bomber,2075,77
-Eleus Batrin,2050,45
-Striped Blue Collectable Scarab,2050,80
+Chuffer Bob,2050,62
 Uggaroo,2050,35
 Lenny Curator,2025,76
+Skeith Bank Manager Stamp,2025,70
 Ancient Contract Stamp,2000,77
+Captain Astounding,2000,78
 Captain Telhan,2000,38
-Chuffer Bob,2000,62
-Faerie Slingshot Stamp,2000,70
-Green Smooth Shell,2000,84
-Orange Skeith Stamp,2000,50
+Flaming Wuzzle,2000,32
 Pomanna,2000,50
 Rohane Stamp,2000,80
 Rollay Scaleback,2000,31
 The Arcanium Stamp,2000,79
-The Space Faerie,2000,83
-Two Rings Wizard,2000,56
+Uzarro,2000,36
 Yes Boy Ice Cream,2000,51
+Buzz Alchemist,1975,77
 Gargoyle Troop,1975,33
 Iyana the Earth Faerie,1975,76
+Tyrela Softpaw,1975,47
 Underwater Chef,1975,49
 Wrawk the Merciless,1975,49
 Doirn,1950,30
 Mystical Hissi Knight,1950,72
 Professor Agatha,1950,38
 Shahuaga The Red,1950,74
-Tazzalor,1950,78
 The Negg Faerie,1950,78
-Tyrela Softpaw,1950,47
+Advisor Wessle,1925,52
 Desert Flower,1925,36
 Annual Gormball Championship,1900,36
 Attack Pea Stamp,1900,76
-Chimi Magi,1900,34
-Farlax V,1900,76
-Flaming Wuzzle,1900,32
-Kalora the Kau,1900,61
 Nereid the Water Faerie,1900,30
+Rainbow Slushie Stamp,1900,60
+The Space Faerie,1900,83
 A Two Rings Crusader,1875,36
 Lummock Sendent,1875,37
 Second Edition Altador Petpet Stamp,1875,83
 Two Rings Crusader Stamp,1875,78
-Buzz Alchemist,1850,77
 Gallion Stamp,1850,80
 Glug Glug Jones,1850,58
+Grundo Chef,1850,43
 Liandra,1850,56
 M*ynci,1850,31
 Professor Chesterpot,1850,42
-Gog,1800,62
-Hubrids Puzzle Box Stamp,1800,72
+Faerie Slingshot Stamp,1800,70
 Moogi,1800,35
 Purple Grundo Stamp,1800,75
+Shadow Usul,1800,70
 Undead Farmer,1800,73
-Uzarro,1800,36
+Geirrod Sternhoof,1775,36
 Sir Wockilan the Brave,1775,50
+Striped Blue Collectable Scarab,1775,80
 Wesley Clearheart,1775,75
 Berserker,1750,38
 Boraxis the Healer,1750,34
-Captain Threelegs,1750,75
 Dreaming,1750,36
 Fuhnah The Fire Faerie,1750,45
 Godfried the Good,1750,42
-Goldwing,1750,31
-Hegred Aishann,1750,76
 Leirobas,1750,59
-Advisor Wessle,1725,52
 Desert Petpet Stamp,1700,60
 Grarrl Keno Card,1700,70
+Hubrids Puzzle Box Stamp,1700,72
 Riyella,1700,36
 Scorchio Mage,1700,50
 Spectral Elemental,1700,32
-Xantan the Foul,1700,46
 Sharpeye,1675,35
 Tyrannian Korbat Stamp,1675,60
 Ursula Usul,1675,75
 Velvet Pimpernel,1675,39
 Captain Dread,1650,42
-Glossy Blue Shell,1650,82
 Plesio,1650,53
+Li-sha,1625,37
 Admiral Arvakis,1600,44
 Antikia Lighten,1600,43
 Denethrir,1600,46
-Geirrod Sternhoof,1600,36
+Hegred Aishann,1600,76
 Negg Noodles Stamp,1600,77
 Tyrannian Kyrii Stamp,1600,55
 Highland Chia,1575,43
-Large Black and White Collectable Scarab,1575,83
-Li-sha,1575,37
 Jelly Chia,1550,50
 Orange Spotted Collectable Scarab,1550,77
-Darien,1525,35
 Esophagor Stamp,1525,70
-Abominable Snowball (TCG),1500,101
 Black Bearog Stamp,1500,50
 Blarthrox,1500,72
-Boraxis the Healer Stamp,1500,74
 Doctor,1500,38
 Grimilix,1500,71
-Scorchio Mummy,1500,75
 Slychi the Skeith Invader,1500,33
 Sarkif,1475,49
 Temple Watchman,1475,44
-Tyrannian JubJub Stamp,1475,58
 Bazri The Grundo,1450,73
+Green Smooth Shell,1450,84
+Drooling Quadrapus Stamp,1425,78
+Farlax V,1425,76
 Flying Shoyru,1425,43
 Green Scale,1425,45
 Gormball Stamp,1400,30
-Grundo Chef,1400,43
+Grimilix Stamp,1400,40
 Island Mystic,1400,48
 Mystery Island Kougra Stamp,1400,20
 Rotting Skeleton Stamp,1400,50
+Tyrannian JubJub Stamp,1400,58
 Meerca Menace,1375,44
 Petpet Growth Syrup Stamp,1375,83
+Boraxis the Healer Stamp,1350,74
+Usinda,1350,46
 Robot Skeith Stamp,1325,50
 Chiazilla,1300,60
-Drooling Quadrapus Stamp,1300,78
-Grimilix Stamp,1300,40
+Darien,1300,35
+Glossy Blue Shell,1300,82
 Senator Palpus Stamp,1300,60
 Stone Armchair Stamp,1300,70
 The Phantom,1300,45
@@ -1335,25 +1336,27 @@ The Wave Stamp,1300,72
 Two Rings Archmagus Stamp,1300,70
 Mr Irgo Stamp,1275,60
 First Edition Altador Petpet Stamp,1250,76
+Scorchio Mummy,1250,75
 Battle Eyrie Stamp,1225,80
 Edna the Witch,1225,71
 Tylix,1225,70
 Entrance to Moltara Stamp,1200,75
+Kazeriu Stamp,1200,84
 Leirobas Stamp,1200,70
 Mokti,1200,37
-Money Tree Stamp,1200,60
-Rainbow Slushie Stamp,1200,60
 The Battle Faerie,1200,57
 Umbus Alta,1200,73
 Wintery Petpet Shop Stamp,1200,79
 Malkus Vile,1175,34
 Veggie Pizza Stamp,1175,74
 Wishing Well Stamp,1175,65
+Christmas Uni Stamp,1150,70
 Snow Wars Catapult Stamp,1150,58
-Christmas Uni Stamp,1100,70
 Midas,1100,42
+Captain Threelegs,1075,75
 Shenkuu Draik Stamp,1050,77
 Archmagus of Roo Stamp,1000,70
+Book Shop Nimmo Stamp,1000,70
 Destruct-O-Match Stamp,1000,71
 Golden Khamette Stamp,1000,62
 Healing Springs Stamp,1000,63
@@ -1361,18 +1364,19 @@ Huberts Hot Dogs Stamp,1000,70
 Island Native Stamp,1000,74
 Jhuidah Stamp,1000,76
 Lhika Burrtail,1000,35
+Pyramid Sun Rise Stamp,1000,58
 Snowball Fight Stamp,1000,86
-Usinda,1000,46
-Kazeriu Stamp,980,84
+Xantan the Foul,1000,46
 Lost Desert Grarrl Stamp,980,70
 Mystery Island Heads Stamp,980,71
 Chunk of Meat Stamp,950,50
+Money Tree Stamp,950,60
 Advisor Wessle Stamp,930,60
-Book Shop Nimmo Stamp,910,70
+Slorg Flakes Stamp,930,68
 Halloween Ona Stamp,910,85
 Grackle Bug Stamp,900,60
-Shadow Usul,900,70
-Slorg Flakes Stamp,900,68
+Mist Kougra Stamp,880,60
+Plains Aisha Stamp,840,70
 Island Mystic Stamp,820,70
 Faerie Techo Plushie Stamp,810,64
 Anshu Stamp,800,82
@@ -1381,29 +1385,26 @@ Gelert Prince Stamp,800,84
 Haiku Stamp,800,75
 Roast Gargapple Stamp,800,85
 The Esophagor,800,61
-Basic Yellow Collectable Scarab,750,75
-Plains Aisha Stamp,750,70
-Fetch! Stamp,730,60
+Fetch! Stamp,720,60
+Basic Yellow Collectable Scarab,700,75
 Everlasting Crystal Apple Stamp,700,84
 H4000 Helmet Coin,700,90
-Halloween Aisha Stamp,700,70
 Zeenana Stamp,660,61
-Pyramid Sun Rise Stamp,630,58
+Halloween Aisha Stamp,630,70
 Adopt A Grundo Coin,500,90
 Easter Treats Stamp,500,101
 Hairpin of the Deep,500,83
 Lord Darigan Stamp,500,82
-Mist Kougra Stamp,500,60
 Common Desert Collectable Scarab,490,68
 Gormball Coin,490,90
-King Coltzan Coin,460,101
 Shenkuu Lunar Temple Stamp,440,79
-Orange Draik Stamp,330,80
+Abominable Snowball (TCG),390,101
+King Coltzan Coin,350,101
 Assorted Fruits Stamp,300,62
 Cosmic Cheese Stars Coin,300,90
 Maraquan Kau Maractite Coin,300,85
 Mystery Island Hut Stamp,300,64
-Squared Maractite Coin,300,75
+Orange Draik Stamp,300,80
 Master Vex Stamp,280,85
 Grundo Veggieballs Coin,260,89
 Half Maractite Coin,230,76
@@ -1417,26 +1418,27 @@ Shiny Purple Cowry Shell,110,87
 Tiara of the Deep,100,78
 Moonlit Esophagor Stamp,90,82
 Fauna Stamp,75,77
-Ancient Peophin Maractite Coin,60,101
-Captain of the Guard Stamp,50,101
 Grobleen Salad Coin,50,90
-General Crustygums,45,85
 Maraquan Defenders Stamp,45,85
+Ancient Peophin Maractite Coin,40,101
+Captain of the Guard Stamp,35,101
 Round Maractite Coin,35,101
 Dual Tone Maractite Coin,30,81
+Kentari Stamp,30,76
 Sophie the Swamp Witch,30,84
 Bangles of the Deep,25,84
 Maractite Waves Coin,20,101
-Kentari Stamp,16,76
+Squared Maractite Coin,16,75
 Circlet of the Deep,15,75
 Maraquan Troops Stamp,15,89
 Deformed Maractite Coin,13,101
 Earrings of the Deep,10,101
 Korbats Lab Stamp,10,70
 Bug Eye McGee,8,80
+General Crustygums,7,85
 Shenkuu City Stamp,7,75
-Linae Stamp,5,78
 Necklace of the Deep,5,101
+Linae Stamp,3,78
 Purple Scallop Shell,3,81
 Samuel No Eyes,2,50
 Trrygdorr,2,49
@@ -1927,7 +1929,6 @@ Red Poogle (TCG),(r103),103
 Red Scorchstone (TCG),(r107),107
 Red Techo (TCG),(r107),107
 Reginald (TCG),(r103),103
-Reginald Christmas Stamp,(r101),101
 Regulation Crossbow (TCG),(r107),107
 Retreat! (TCG),(r107),107
 Retribution (TCG),(r107),107
@@ -2183,6 +2184,7 @@ Wheel of Excitement Stamp,Inflation Notice,101
 Money Tree Coin,Inflation Notice,99
 Spotted Blue Collectable Scarab,Inflation Notice,98
 The Crumpetmonger Shop Stamp,Inflation Notice,101
+Isca Stamp,Inflation Notice,98
 Sword Of Apocalypse Stamp,Inflation Notice,98
 Dr Sloth Coin,Inflation Notice,98
 Guardian Of Spectral Magic Stamp,Inflation Notice,96
@@ -2237,7 +2239,6 @@ Altador Magic Stamp,Inflation Notice,94
 Mallow Coin,Inflation Notice,96
 Nothing Has Happened (TCG),Inflation Notice,103
 Royal Orange Cowry Shell,Inflation Notice,95
-Zombified Heroes Stamp,Inflation Notice,93
 Hagar Mountbane,Inflation Notice,180
 Tiny Golden Shell,Inflation Notice,94
 Eliv Thade Coin,Inflation Notice,96
@@ -2293,16 +2294,19 @@ Zoomik Coin,Inflation Notice,94
 Spectre,Inflation Notice,90
 Devilpuss Stamp,Inflation Notice,89
 Razul Stamp,Inflation Notice,92
+Mokti and Rikti Stamp,Inflation Notice,88
 Hoban Stamp,Inflation Notice,90
 Trestin Stamp,Inflation Notice,87
 Cliffhanger Stamp,Inflation Notice,88
 Desert Arms Stamp,Inflation Notice,89
+Scratchcard Kiosk Stamp,Inflation Notice,84
 Maraquan Skeith Maractite Coin,Inflation Notice,92
 Lupe Shopkeeper Stamp,Inflation Notice,91
 The Revenge Stamp,Inflation Notice,91
 Vacumatic 9000 Coin,Inflation Notice,94
 Gelert Plushie (TCG),Inflation Notice,101
 Negg Faerie Stamp,Inflation Notice,90
+Rally (TCG),Inflation Notice,101
 Sentient Headstones Stamp,Inflation Notice,90
 Neopia Central Scene Stamp,Inflation Notice,89
 Wheel of Extravagance Stamp,Inflation Notice,101
@@ -2318,7 +2322,6 @@ Coronet of the Deep,Inflation Notice,91
 Eleus Stamp,Inflation Notice,90
 Mark of the Scarab (TCG),Inflation Notice,101
 Awakening (TCG),Inflation Notice,101
-Kentari Spyglass Stamp,Inflation Notice,89
 Kreludan Blade (TCG),Inflation Notice,101
 Change of Plan (TCG),Inflation Notice,101
 Geb (TCG),Inflation Notice,101
@@ -2337,11 +2340,8 @@ Ski Lodge Stamp,Inflation Notice,86
 Yellow Buzz (TCG),Inflation Notice,101
 Goo Blaster (TCG),Inflation Notice,101
 Grobleen Salad (TCG),Inflation Notice,101
-Green Skeith (TCG),Inflation Notice,101
 Meridell Shield Stamp,Inflation Notice,89
 Yellow Acara (TCG),Inflation Notice,101
 The Legend of Jeran (TCG),Inflation Notice,101
-Flying Korbats Stamp,Inflation Notice,88
 Rink Runner Stamp,Inflation Notice,85
-Tazzalor Stamp,Inflation Notice,86
 Stale Bread (TCG),Inflation Notice,101
