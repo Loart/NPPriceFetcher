@@ -1,45 +1,45 @@
 original,replacement,edited
- Mega Power Plusshroom,2000000,r180 
-Super Fast Shroom,1300000,r180 
-Green Toadstool,945000,r180 
-Spindly Mushrooms,900000,r180 
-Smellyshroom,885000,r180 
-Blood Mushroom,750000,r180 
-Dark Shroom,700000,r180 
-Propellorshroom,625000,r180 
-Flakyshroom,600000,r180 
-Pink Toadstool,555000,r180 
-Ugly Mushroom,510000,r180 
-Floatyshroom,360000,r180 
-Bloatershroom,330000,r180 
-Purple Spotted Shroom,290000,r180 
-Sore Hand Wrap,234000,r101 
-Tealshroom,180000,r180 
-Toxic Shroom,116000,r180 
-Poisonous Mushroom,89000,r180 
-Yellow Healthshroom,85500,r180 
-Sporkle Syrup,72500,r88 
-Bottled Holiday Cheer,58500,r101 
-Extra Thick Goggles,48500,r77 
-Tasty Pie,32300,r96 
-Blue Healthshroom,30000,r180 
-Magic Goop,25900,r95 
-Peppermint Stomach Medicine,19500,r101 
-Doctors Bag,18000,r75 
-Dandelion Root,12900,r89 
-Medicinal Soap,10900,r60 
-Grumble Be Gone Tablets,8000,r85 
-Service Petpet Doglefox,6450,r77 
-Autism Infinity Shirt,5900,r72 
-Walking Cane with Spikes,5450,r75 
-IV Pole,5400,r74 
-AAC Device,5200,r75 
-Colourful Rolling Walker,5150,r75 
-Shrimp Powder,4725,r80 
-NG Tube with Paw Print Sticker,4500,r73 
-Colourful Noise Cancelling Headphones,4000,r75 
-Portable Oxygen Device,4000,r73 
-Ostomy Pouch with Star Cover,3900,r74 
-Magic Cookie,3875,r50 
-Colourful Vest Therapy Device,3800,r72 
-Herbal Scrambled Eggs,3700,r54 
+ Mega Power Plusshroom,2000000,false
+Super Fast Shroom,1300000,false
+Green Toadstool,945000,false
+Spindly Mushrooms,900000,false
+Smellyshroom,885000,false
+Blood Mushroom,750000,false
+Dark Shroom,700000,false
+Propellorshroom,625000,false
+Flakyshroom,600000,false
+Pink Toadstool,555000,false
+Ugly Mushroom,510000,false
+Floatyshroom,360000,false
+Bloatershroom,330000,false
+Purple Spotted Shroom,290000,false
+Sore Hand Wrap,234000,false
+Tealshroom,180000,false
+Toxic Shroom,116000,false
+Poisonous Mushroom,89000,false
+Yellow Healthshroom,85500,false
+Sporkle Syrup,72500,false
+Bottled Holiday Cheer,58500,false
+Extra Thick Goggles,48500,false
+Tasty Pie,32300,false
+Blue Healthshroom,30000,false
+Magic Goop,25900,false
+Peppermint Stomach Medicine,19500,true
+Doctors Bag,18000,false
+Dandelion Root,12900,true
+Medicinal Soap,10900,false
+Grumble Be Gone Tablets,8000,false
+Service Petpet Doglefox,6450,true
+Autism Infinity Shirt,5900,false
+Walking Cane with Spikes,5450,false
+IV Pole,5400,false
+AAC Device,5200,false
+Colourful Rolling Walker,5150,false
+Shrimp Powder,4725,false
+NG Tube with Paw Print Sticker,4500,false
+Colourful Noise Cancelling Headphones,4000,false
+Portable Oxygen Device,4000,false
+Ostomy Pouch with Star Cover,3900,false
+Magic Cookie,3875,false
+Colourful Vest Therapy Device,3800,false
+Herbal Scrambled Eggs,3700,false
