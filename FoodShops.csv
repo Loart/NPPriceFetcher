@@ -1,4 +1,4 @@
-Original,replacement,edited
+original,replacement,edited
 Chicken Filets with Fancy Sauce,50000000,false
 Marble Draik Egg,40000000,false
 Rainbow Cybunny Negg,25000000,false
@@ -7,7 +7,7 @@ Mega Sandwich,18000000,false
 Big Gulp Neocola,15000000,false
 Olivetato,15000000,false
 Green Picnic Hamper,12000000,false
-Magical Sroom Chia Pop,12000000,false
+Magical Sroom Chia Pop,10000000,false
 Ice Draik Egg,10000000,false
 Magical Pea Chia Pop,10000000,false
 Ocean Platter,10000000,false
@@ -18,7 +18,7 @@ Floral Jelly,9000000,false
 Mighty Steakwich,9000000,false
 Cheesy Carrots,8000000,false
 Coffee Service,8000000,false
-Magical Potato Chia Pop,7500000,false
+Magical Potato Chia Pop,5500000,false
 Isca Valentine Cookie Pop,7000000,false
 Cadaverous Cola,6000000,false
 Meridellian Style Mashed Potatoes,6000000,false
@@ -44,7 +44,7 @@ Cone-Shaped Cherry,3500000,false
 Illusen Bento Box Lunch,3500000,false
 Super Negg,3500000,false
 Artichoke Fondue,3200000,false
-Checkered Doughnutfruit,3200000,false
+Checkered Doughnutfruit,2700000,false
 Bludberry,3000000,false
 Blue Cybunny Negg,3000000,false
 Broccoli with Sprinkles,3000000,false
@@ -62,13 +62,13 @@ Golden Doughnutfruit,2600000,false
 Pickled Cauliflower,2600000,false
 Freshly Cut Grass Slushie,2500000,false
 Fyora Apple,2500000,false
-Magical Apple Chia Pop,2500000,false
+Magical Apple Chia Pop,2000000,false
 Magical Grape Chia Pop,2500000,false
 Rainbow Doughnutfruit,2500000,false
 The Great Golden Slushie,2500000,false
 Zibblifruit,2500000,false
 Tiger Orange Slushie,2300000,false
-Halloween Candy Cane,2200000,false
+Halloween Candy Cane,2000000,false
 Artichoke Cupcake,2000000,false
 Asparagus Balls,2000000,false
 Black Hole Slushie,2000000,false
@@ -83,7 +83,7 @@ Cheesy Asparagus,2000000,false
 Cheesy Chokato Pie,2000000,false
 Cherry Lemonade Slushie,2000000,false
 Chokato Toffee Apple,2000000,false
-Crunchy Snotball,2000000,false
+Crunchy Snotball,1500000,false
 Diamond Hot Dog,2000000,false
 Faerie Fruit Salad,2000000,false
 Ferocious Negg,2000000,false
@@ -100,8 +100,8 @@ Magical Asparagus Chia Pop,2000000,false
 Magical Juppie Swirl Chia Pop,2000000,false
 Magical Pepper Chia Pop,2000000,false
 Magical Red Starry Slushie,2000000,false
-Mecha Hot Dog,2000000,false
-Mini Baby Hot Dogs,2000000,false
+Mecha Hot Dog,1800000,false
+Mini Baby Hot Dogs,1900000,false
 Parts on a Pizza,2000000,false
 Peanut and Chocolate Slushie,2000000,false
 Punk Rocker Hot Dog,2000000,false
@@ -129,7 +129,7 @@ Faerie Dreamwich,1800000,false
 Invisible Cookie,1800000,false
 Linked Hot Dogs,1800000,false
 Magical Durian Chia Pop,1800000,false
-Magical Peach Chia Pop,1800000,false
+Magical Peach Chia Pop,1500000,false
 Raspberry Toffee Apple,1800000,false
 Starry Cupcake,1800000,false
 Upside-down Slushie,1800000,false
@@ -138,7 +138,7 @@ Cheesy Carrot Chunks,1700000,false
 Grey Toast,1700000,false
 Well-Aged Hot Dog,1700000,false
 Island Draik Egg,1600000,false
-Magical Lime Chia Pop,1600000,false
+Magical Lime Chia Pop,1500000,false
 Magical Ummagine Chia Pop,1600000,false
 Purple Doughnutfruit,1600000,false
 Blue Picnic Hamper,1500000,false
@@ -147,14 +147,14 @@ Eyeball Muffin,1500000,false
 Fun Icy Cheese Pop,1500000,false
 Headless Horsefish,1500000,false
 Island JubJub Cupcake,1500000,false
-Jewelled Negg,1500000,false
+Jewelled Negg,2000000,false
 Magical Avocado Chia Pop,1500000,false
 Magical Blueberry Chia Pop,1500000,false
 Magical Lemon Chia Pop,1500000,false
 Magical Onion Chia Pop,1500000,false
 Magical Pear Chia Pop,1500000,false
 Magical Plum Chia Pop,1500000,false
-Magical Strawberry Chia Pop,1500000,false
+Magical Strawberry Chia Pop,1200000,false
 Magical Thornberry Chia Pop,1500000,false
 Meerca Pie,1500000,false
 Pan Galactic Gargle Slushie,1500000,false
@@ -233,7 +233,7 @@ Usul Halloween Cupcake,950000,false
 Evil Pinanna,945000,false
 Island Kacheek Fruit Drink,945000,false
 King Altador Hallowen Juice,945000,false
-Murky Green,945000,false
+Murky Green,645000,false
 Strawberry JubJub Tea,940000,false
 Speckled Uni Milkshake,935000,false
 Witchy Negg,930000,false
@@ -253,7 +253,7 @@ Bangers and Mash,885000,false
 Boiled Striped Xweetok Negg,885000,false
 Island Bruce Mashed Potatoes,885000,false
 Red Picnic Hamper,880000,false
-Halloween JubJub Candies,875000,false
+Halloween JubJub Candies,930000,false
 Roo Roo Grub,875000,false
 Tchea Grog,875000,false
 Fire Faerie Red Pepper,870000,false
@@ -272,7 +272,7 @@ Yellow Kougra Squash Soup,835000,false
 Lever of Doom Halloween Negg,825000,false
 Speckled Bruce Fizzy Drink,825000,false
 Pink Quiggle Ice Cream Float,815000,false
-Rainbow Negg,815000,false
+Rainbow Negg,880000,false
 Altador Cup Funnel Cake,810000,false
 Fresh Sushi Cone,805000,false
 Cream Pie,800000,false
@@ -287,7 +287,7 @@ Yellow Flotsam Ice Cream Cone,780000,false
 Camouflage Poogle Crisps,775000,false
 Doughnutfruit,775000,false
 Golden Carrot,775000,false
-Pootato,770000,false
+Pootato,410000,false
 Strange Pinanna,770000,false
 Everlasting Apple,760000,false
 Orange Meerca Tea,755000,false
@@ -297,7 +297,7 @@ Grape Pop,750000,false
 Thornberry Brew,750000,false
 Carrot Crown,745000,false
 Squid on a Stick,745000,false
-Faerie Queen Smoothie Bowl,735000,false
+Faerie Queen Smoothie Bowl,785000,false
 Banana Split Chia Pop,730000,false
 Chilli Salmon Souffle,725000,false
 Container of Purple Liquid,725000,false
@@ -321,18 +321,18 @@ Chicken Yooyu Balls,685000,false
 Usul Halloween Beverage,685000,false
 Lawyerbot Degreaser,680000,false
 Black Caviar,675000,false
-Krakuberry Grog,675000,false
+Krakuberry Grog,975000,false
 Radioactive Negg,675000,false
 Assorted Vandagyre Approved Nuts,670000,false
 Sloth Wrap,670000,false
 Princess Amira Halloween Negg,665000,false
 Vein Cabbage,665000,false
 Yellow Kougra Tea,665000,false
-Green Draik Egg,660000,false
+Green Draik Egg,795000,false
 Minty Shrimp,660000,false
 Cannon Fodder,655000,false
 Cheesy Krawk Dip,655000,false
-Cornupepper,655000,false
+Cornupepper,410000,false
 Cabbage Sorbet,650000,false
 Cloud Meerca Popcorn,640000,false
 Electric Lupe Treats,640000,false
@@ -340,9 +340,9 @@ Starry Scorchipepper,635000,false
 Vegetarian Sausage Roll,635000,false
 Brainburger,630000,false
 Yellow Xweetok Cookies,625000,false
-Cherry Pop,620000,false
+Cherry Pop,999999,false
 Super Veggie Baguette,605000,false
-Grog Light,600000,false
+Grog Light,870000,false
 Island Mystic Halloween Negg,600000,false
 Fancy Rack of Lamb with Fruit,595000,false
 Krakuberry Juice,585000,false
@@ -355,12 +355,12 @@ Cheat Day Milkshake,570000,false
 Cho Sticks,565000,false
 Metallic Negg,560000,false
 Tigerfruit,555000,false
-King Altador Marshmallow Lollipops,545000,false
-Lavaberry,540000,false
-Rotating Neopia Slushie,540000,false
+King Altador Marshmallow Lollipops,550000,false
+Lavaberry,525000,false
+Rotating Neopia Slushie,500000,false
 Jelly Float,530000,false
 Cog Halloween Negg,525000,false
-Mega Pipper Sandwich,525000,false
+Mega Pipper Sandwich,620000,false
 Usuki Ears Pudding,520000,false
 Krakuberry Cove,510000,false
 Sweet Ham and Fruit,510000,false
@@ -382,7 +382,7 @@ Ugly Pinanna,470000,false
 Yooyu Waffle,470000,false
 Heart Shaped Negg,465000,false
 Radish and Cheese,465000,false
-Pheppacorn,455000,false
+Pheppacorn,400000,false
 Purple Scorchio Beet Soup,455000,false
 Berry Blend Slushie,430000,false
 Frozen Faerie Ixi Coconut Smoothie,430000,false
@@ -411,13 +411,13 @@ Capn Threelegs Halloween Negg,360000,false
 RainbowBerry,360000,false
 Chyrsaberry Surprise Easter Negg,355000,false
 Seaweed Flotsam Burger,355000,false
-Illusen Negg,350000,false
+Illusen Negg,290000,false
 Candy Cane Negg,345000,false
 Pirate Draik Egg,345000,false
 Strawberry Usul Fizzy Drink,345000,false
 Sparkling Bog Water,340000,false
 Vortex Negg,340000,false
-Broccoli and Mustard Sandwich,330000,false
+Broccoli and Mustard Sandwich,325000,false
 Marrow Sandals,330000,false
 Negg Rolls,330000,false
 Orange Kougra Fruit Juice,330000,false
@@ -428,9 +428,9 @@ Hungry Skeith Jelly,310000,false
 Cone-Shaped Lemon,305000,false
 Purple Cybunny Negg,305000,false
 Confetti Ice Cream Pops,300000,false
-Earth Faerie Mushroom,300000,false
+Earth Faerie Mushroom,295000,false
 Faerie Sparklecake,300000,false
-Frozen Negg,300000,false
+Frozen Negg,280000,false
 Usuki Veggie Plate,295000,false
 ErgyFruit,285000,false
 Muntando Fruit,280000,false
@@ -445,22 +445,22 @@ Deep Fried Negg,250000,false
 Natural Hot Dog,250000,false
 Kreludan Grunpop,249000,false
 Rosemary Mushroom Tea,249000,false
-Pumpkin Negg,248000,false
+Pumpkin Negg,185000,false
 Isca Summer Dumplings,247000,false
 Speckled Negg,246000,false
 Funnydew Neggnog,245000,false
 Spoooky Muffin,243000,false
 Starry Elephante Drink,242000,false
-Armoured Negg,240000,false
+Armoured Negg,250000,false
 Fyora Lollipop,237000,false
 Creme Brulee Slushie,235000,false
 Negg Cream Cookie,229000,false
 Pink Apple Lantern,227000,false
 Yenegg,223000,false
-Scrambled Rainbow Negg,217000,false
+Scrambled Rainbow Negg,260000,false
 Boiled Sea Serpent,216000,false
-Salt Water Hot Dog,215000,false
-King Altador Holiday Cake,211000,false
+Salt Water Hot Dog,244000,false
+King Altador Holiday Cake,223000,false
 Melted Delight,210000,false
 Joretts Chef Special,204000,false
 Kau Waffles,203000,false
@@ -469,8 +469,8 @@ French Toast PB&J Sandwich,200000,false
 Tartan Chia Pop,200000,false
 Maple Syrup Negg,199000,false
 10th Birthday Ice Cream Cone,198000,false
-Massive Ice Cream Sundae,197000,false
-Pink Spooky Popcorn,194000,false
+Massive Ice Cream Sundae,200000,false
+Pink Spooky Popcorn,120000,false
 Blairnut,192000,false
 Cheesy Choco Cookie,192000,false
 Celebratory Cup of Cocoa,190000,false
@@ -479,7 +479,7 @@ Little Bag of Bulgur,185000,false
 Punegg,178000,false
 Yellow Negg,178000,false
 Sugar Coated Leaf,176000,false
-Elderly Apple,175000,false
+Elderly Apple,Inflation Notice,false
 Pyramid Banana,175000,false
 Purple Juppie Slurpbowl,170000,false
 Welsh Rarebit,170000,false
@@ -501,47 +501,47 @@ Ornate Purple Negg,149000,false
 Decorative Negg,147000,false
 Yooyu Pizza,147000,false
 Blue Negg,145000,false
-Scorchio Spring Wrap,145000,false
-Grundo Toe Lint,144000,false
-Green Negg,143000,false
+Scorchio Spring Wrap,Inflation Notice,false
+Grundo Toe Lint,200000,false
+Green Negg,140000,false
 Purple Negg,143000,false
 Tigerbuggles,143000,false
 Steak Negg,142000,false
 Pink Usul Mug of Cocoa,140000,false
 Spinning Negg,140000,false
-Rock Negg,138000,false
+Rock Negg,140000,false
 Green Chyrsaberry,137000,false
 Canned Ham,134000,false
-Partitioned Negg,130000,false
+Partitioned Negg,112000,false
 Fire Carrot,128000,false
-Fall Leaf Salad,127000,false
+Fall Leaf Salad,123000,false
 Sweet and Sour Negg,127000,false
 Negg Lasagna,126000,false
 Tigermelon,124000,false
 Assorted Brightvale Fruit Basket,123000,false
 Kreludan Candy Floss,122000,false
 Starry Elephante Ice Lolly,118000,false
-Peach Jelly,117000,false
+Peach Jelly,119000,false
 Apple Juice Sippy Cup,114000,false
 Carnivorous Carved Pumpkin,114000,false
 Snow Faerie Puffs,114000,false
 Watermelon Maraquan Shoyru,114000,false
 Extra Fancy Crackers,112000,false
-Quiggle Pie,112000,false
+Quiggle Pie,66000,false
 Tigersquash Mega,112000,false
 Strawberry Taco,110000,false
 Evil Popcorn,109000,false
 Grey Eggs and Bacon,109000,false
 Ultra Icy Negg,109000,false
 Acnefruit,107000,false
-Glass Negg,107000,false
+Glass Negg,138000,false
 Shishka Juice,107000,false
 Gwontek Melon,105000,false
 Cheese Fondue,100000,false
 Deluxe Peophin Burger,100000,false
 Lava Burger,100000,false
-Neopets 18th Birthday Cake,100000,false
-Orange Negg,100000,false
+Neopets 18th Birthday Cake,157000,false
+Orange Negg,87000,false
 Relaxation Tea,100000,false
 Sparkling Drink,100000,false
 Taelia Negg,99000,false
@@ -556,38 +556,38 @@ JubJub Coconut Juice,95500,false
 Iced Hamwich,95000,false
 Uni Ice Cream,95000,false
 Angel Hair Salad,93500,false
-Green Festival Negg,91500,false
+Green Festival Negg,76500,false
 Tasty Guacamole,91000,false
 Negg Stew,90000,false
 Royal Blue Cheeseburger,90000,false
 Gaming Fuel,89500,false
 Thistleberry,89000,false
 Paint Blob Slushie,88500,false
-Brains and Dumplings,88000,false
+Brains and Dumplings,36400,false
 Chokato Neggnog,87500,false
-Disturbing Gelatin,87000,false
-Peppered Salmon Dish,86500,false
+Disturbing Gelatin,68000,false
+Peppered Salmon Dish,74000,false
 Bacon Taco,86000,false
 Honey Blossom Stone Doughnuts,86000,false
 Festival Negg,84500,false
-Bottle of Negg Juice,83000,false
+Bottle of Negg Juice,Inflation Notice,false
 Carnapepper,83000,false
 Mint and Chocolate Ice Cream,81500,false
 Wanderer Tea,81500,false
 Frosted Uni Cookies,81000,false
-Coconut Macaroons,80000,false
+Coconut Macaroons,24300,false
 Igloo Cupcakes,80000,false
 Tyrannian Water Negg,80000,false
 Vanilla Negg Cream,80000,false
 Glass of Jelly,79000,false
-Lemon Swirly Negg,78500,false
+Lemon Swirly Negg,78000,false
 14 Karat Baked Potato,78000,false
 Dark Tea,78000,false
-Fresh Sushi Roll,78000,false
+Fresh Sushi Roll,75500,false
 Super Icy Negg,78000,false
 Double Hot Dog,76000,false
 Cawl,75500,false
-Petpet Crackers,75500,false
+Petpet Crackers,90000,false
 Fruity Swirl Souffle,75000,false
 Gum Balls,75000,false
 Kyrii Agueena Milkshake,75000,false
@@ -618,7 +618,7 @@ Very Stale Bread,61500,false
 Burritoberry,60000,false
 Fireball Negg,60000,false
 Fundus Fruit,60000,false
-Mystery Trail Mix,60000,false
+Mystery Trail Mix,7950,false
 Strawberry Juice Carton,60000,false
 Vitamin C Tablets,60000,false
 Wocky Plum Pudding,60000,false
@@ -631,11 +631,11 @@ Bag of Space Dust,58000,false
 Lime Swirly Negg,58000,false
 Deluxe Elephante Cake,56500,false
 Meerca Negg,56000,false
-Jalapeno Cheese Nightmare,55500,false
+Jalapeno Cheese Nightmare,34000,false
 Sliced Neggs,55000,false
 Chocolate Fondue,54000,false
 Lime Juice Carton,54000,false
-Lutari Fizz,54000,false
+Lutari Fizz,50500,false
 Yooyu Ice Cream,52000,false
 Yooyu Acai Bowl,51000,false
 2/5 Candy Feast,50000,false
@@ -644,15 +644,15 @@ Peachpa and Stramberry Shell,50000,false
 Red Juppie,49900,false
 Altadorian Ambrosia,49500,false
 Hypnotic Eye Milkshake,49000,false
-Minaes Minis Cereal,48000,false
+Minaes Minis Cereal,49400,false
 4/5 Candy Feast,47900,false
 Vegetarian Sea Taco,47700,false
-Orange Jetsam Cupcake,47300,false
-Lime Berry Meridell Altador Cup Slushie,46700,false
+Orange Jetsam Cupcake,16100,false
+Lime Berry Meridell Altador Cup Slushie,56000,false
 Stuffed Chokatos,46700,false
 Brown Broadberry,46300,false
 Baked Avocado with Curried Sauce,46000,false
-Flotsam Fin Soup,46000,false
+Flotsam Fin Soup,47600,false
 The Island Mystics Diet,45700,false
 Asparagus Pie,45000,false
 Deviled Negg,45000,false
@@ -660,7 +660,7 @@ Ogrin Master Fortune Cookie,45000,false
 Ombus Fruit,45000,false
 Starberry,45000,false
 Bone-Chilling Bacon,44900,false
-Ogrin Peanut Butter and Jelly Sandwich,44800,false
+Ogrin Peanut Butter and Jelly Sandwich,20000,false
 BLT sandwich,44500,false
 Blue Flower Easter Negg,44500,false
 Broccoli Kebab,44300,false
@@ -669,16 +669,16 @@ Crystal Taco,43800,false
 Chocolate Coated Eye,43200,false
 Grape Juice Carton,42000,false
 Cookie Negg,41800,false
-Noil Candy Floss,41800,false
+Noil Candy Floss,57000,false
 Grunion,41500,false
 Royal Ice Lolly,40500,false
-Banana,40000,false
+Banana,29000,false
 Barreled Pirate Drink,40000,false
-Bogie Berry,40000,false
-Holiday Milk and Cookies,40000,false
+Bogie Berry,30800,false
+Holiday Milk and Cookies,16200,false
 Ice Chocolate Cake,40000,false
 Meridell Darigan Collab Cake,40000,false
-Red Sardplant,40000,false
+Red Sardplant,16300,false
 Rose Swirl Easter Negg,40000,false
 Sloth Dog,40000,false
 This Isnt Chili Cheese Fries,40000,false
@@ -690,12 +690,12 @@ Purple Carrot,39500,false
 Blackened Hot Pepper,39000,false
 Icy Negg,38900,false
 Gwernial,38800,false
-Pumpkin Cannolis,38800,false
-Extra Meaty Pie,38500,false
+Pumpkin Cannolis,25000,false
+Extra Meaty Pie,9450,false
 Octoberry,38100,false
 Blackened Pineapple,37900,false
 Sponge Apple,37800,false
-Jhudora Lollipop,37500,false
+Jhudora Lollipop,7850,false
 Wa Wa Grub,37000,false
 Octopi Souffle,36600,false
 Mynci Sushi,36500,false
@@ -703,10 +703,10 @@ Chocolate Shoyru Meatball,36000,false
 Strawberry Flavoured Hot Dog,35000,false
 Techo Garden Salad,35000,false
 Arnapple,34700,false
-Peanut Butter Tonu Crackers,34700,false
-2/3 Plain Fruitcake,34000,false
+Peanut Butter Tonu Crackers,26000,false
+2/3 Plain Fruitcake,20000,false
 Fresh Shark Fin,34000,false
-Chokato Omurice,33800,false
+Chokato Omurice,6000,false
 Roast Worm with Cranberries,33800,false
 Techo Jelly Surprise,33800,false
 Toast on Toast,33800,false
@@ -724,9 +724,9 @@ Poison Apples,32500,false
 Peabone,32400,false
 Blackened Potato,32000,false
 Pink Peachpa Cooler,31800,false
-Jelly Doughnut Jelly,31300,false
+Jelly Doughnut Jelly,Inflation Notice,false
 Sparkleberry Pie,31100,false
-Doughnutfruit Punch,31000,false
+Doughnutfruit Punch,5500,false
 Peppered Kersla Bug,30200,false
 Bloopcream,30000,false
 Bunwich,30000,false
@@ -734,7 +734,7 @@ Dried Blusops,30000,false
 Garin Negg,30000,false
 Purplum,30000,false
 Rainbow Lutari Cone,30000,false
-Secret Sloth Slushie,30000,false
+Secret Sloth Slushie,42800,false
 Spooky Ghostbeef,30000,false
 Tangram Bento Bowl,30000,false
 Turkey Drumstick Dinner,30000,false
@@ -743,27 +743,27 @@ Borovan Service,29900,false
 Nova Meteor Drink,29300,false
 Cheesy Pineapple Sticks,29000,false
 Chocolate Roll,29000,false
-Double Stuffed Guppy,29000,false
+Double Stuffed Guppy,19800,false
 Pumpkin Ice Cream,29000,false
 Thistleberry Shake,29000,false
 Flaming Blooble Fruit,28800,false
-Fruit Tart,28500,false
+Fruit Tart,33000,false
 Shenkuu Pumpkin Cake,28000,false
 Stone Hot Dog,28000,false
-Autumnberry,27900,false
+Autumnberry,21400,false
 Vanilla Skeith Cone,27900,false
 Diet Big Gulp Neocola,27500,false
 Dorkleberry,27500,false
 Mynci Surprise Ice Cream,27400,false
-Cheesy Kois,27000,false
+Cheesy Kois,5500,false
 Red Buzz Energy Drink,27000,false
 Governor Gavril McGills Famous Fried Fish Gills,26500,false
-Chocolate Elephante Doughnut,26400,false
+Chocolate Elephante Doughnut,19000,false
 Coral Sponge Cake,26400,false
 2/3 Chocberry Pizza,26100,false
 Cone-Shaped Strawberry,26000,false
-Small Fizzy Drink,25700,false
-Chocolate Ice Cream,25500,false
+Small Fizzy Drink,13900,false
+Chocolate Ice Cream,24500,false
 Gwermal,25500,false
 Watermelon Roll,25300,false
 1/3 Slightly Trampled Omelette,25000,false
@@ -785,7 +785,7 @@ Orangetti,24500,false
 Pineapple Juice Carton,24400,false
 Slice of Zafara Pizza,24400,false
 Aqua Negg,24300,false
-Miners Lunch,24300,false
+Miners Lunch,14000,false
 Tropical Pudding,24300,false
 Coral Beef,24200,false
 Buzz Sandwich,24000,false
@@ -805,49 +805,49 @@ Blackened Strawberries,23000,false
 Candy Feast,23000,false
 Purple Potion Punch,23000,false
 Suspicious Borovan Creame Pie,23000,false
-Exotic Plant,22900,false
+Exotic Plant,32500,false
 Mad Meepit Mocha,22900,false
 Enchanted Negg,22800,false
 Ergy Broccoli,22700,false
-Hot Dog on a Stick,22500,false
+Hot Dog on a Stick,11900,false
 Cinnamon Toasties,22400,false
 Myncibean Punch,22200,false
 Terry Berry,22000,false
 Marbled Negg,21900,false
 Cog Crunchies,21800,false
-Flaming Hot Burger,21800,false
+Flaming Hot Burger,14200,false
 Seafood Pasta Salad,21800,false
 Spaghetti and Dungballs,21800,false
 Clown Cookie,21700,false
 Deep-Fried Vegetables,21600,false
 Creamy Mushrooms,21300,false
-Flotsam Ice Cream Sundae,21200,false
+Flotsam Ice Cream Sundae,18700,false
 Breenutberry,21000,false
 Goparokko Fish Surprise,21000,false
 Peach,21000,false
 BluePepper Porridge,20500,false
 Combomelon Plant,20500,false
-Chocolate Nimmo Dessert,20200,false
+Chocolate Nimmo Dessert,18000,false
 Birthday Fruit Arrangement,20000,false
 Congratulations Negg,20000,false
 Coral Salad,20000,false
 Dessert Hot Dog,20000,false
 Escargot,20000,false
-Exotic Sliced Truffles,20000,false
+Exotic Sliced Truffles,18200,false
 Patrapiller and Honey,20000,false
 Skarl Fruit,20000,false
 Sprinkling of Black Pepper,20000,false
 Tyrannian Everything Omelette,20000,false
 Ultra Slushie,20000,false
 Yurble Pot Pie,20000,false
-Meat Stars,19900,false
+Meat Stars,24000,false
 Meerca Bolognese,19900,false
 Odorra Pod,19900,false
 Turnip Eyrie Souffle,19900,false
 Uni Crisps,19900,false
 Blended Lemaniac,19800,false
 Grape Blobcicle,19800,false
-Sloth Day Soup,19800,false
+Sloth Day Soup,17600,false
 Sausage Wrap,19600,false
 Whole Roast Pheasant,19400,false
 Blackberry Sorbet,19300,false
@@ -860,68 +860,68 @@ Ghost of Cream Pie,18900,false
 Squid Sauce,18900,false
 Igloo Ice Cream Cone,18800,false
 Jug of Fresh Lemoranade,18800,false
-Rotten Tomato Salad,18800,false
+Rotten Tomato Salad,1250,false
 Giant Tub of Ice Cream,18700,false
 Peachpa,18600,false
 Pile of Snack Foods,18600,false
 Garlic Mashed Potatoes,18500,false
 Potato Salad,18500,false
-Shrimp Salad Hot Dog,18500,false
-Spaghetti Hot Dog,18500,false
+Shrimp Salad Hot Dog,18900,false
+Spaghetti Hot Dog,14800,false
 Taco Salad,18500,false
 Three Scoops of Chocolate Ice Cream,18500,false
 Wormy Jam Sandwich,18500,false
 Brightvale Celebratory Fruit Basket,18400,false
-Negg,18400,false
+Negg,19000,false
 Spoc Spoc Grub,18400,false
 Toffee Chocolate Aisha Sundae,18300,false
 Radish Meringue,18100,false
 1/3 Chocberry Pizza,18000,false
-Apple Walnut Tea Sandwiches,18000,false
+Apple Walnut Tea Sandwiches,26000,false
 Kadoatie Puffs,18000,false
-Korbat Veggie Plate,18000,false
+Korbat Veggie Plate,17500,false
 Meteor Cookies,18000,false
 Neopets 24th Birthday Cake,18000,false
 Raspberry Birthday Nova,18000,false
 Seaweed Sandwich,18000,false
 Spoogentberry,18000,false
-Snot Sandwich,17900,false
+Snot Sandwich,22800,false
 Embalming Fluid Cocktail,17800,false
 Ghost Techo Lolly,17800,false
 Caramel Oil Latte,17700,false
-Elephante Ice Cream,17700,false
+Elephante Ice Cream,13700,false
 Ghost Bopper Cake,17700,false
 Pink Cheese,17600,false
 Unripe Puntec Wrap,17600,false
-Nimmo Day Fruit Cake,17500,false
+Nimmo Day Fruit Cake,12900,false
 Sparkling Neopie Cider,17500,false
 Purple Juppie,17400,false
 Lobsterclaw Salad,17300,false
 Lutango,17200,false
 Black Mushroom,17000,false
-Candy Skull,17000,false
+Candy Skull,16700,false
 Chocberry Pizza Slice,17000,false
-Doglefox Cookies,17000,false
+Doglefox Cookies,15900,false
 Double Scoop of Sorbet,17000,false
 Grapeade,17000,false
 Knowledge Hungry Burger,17000,false
 Spaghetti Steak Burger,17000,false
 Sparkle Berry Kiko Candy Floss,17000,false
 Bubbly Twirly Fruit Juice,16900,false
-Chokato Sundae,16900,false
+Chokato Sundae,15900,false
 Grundos Luxury Kebab,16900,false
 Fried Something Something,16800,false
 Jelly Guacamole,16800,false
 Tangleberry,16800,false
 Daily Dare Slushie,16500,false
 Easter Caramel Latte,16500,false
-Extra Large Fizzy Drink,16500,false
+Extra Large Fizzy Drink,16000,false
 Gummy Amoeba,16500,false
-Pineapple and Broccoli Pie,16500,false
+Pineapple and Broccoli Pie,18900,false
 Pumpkin Spice Coffee,16400,false
 Fig,16300,false
 Butter Gears,16200,false
-Gnorbu Chocolate Pudding,16200,false
+Gnorbu Chocolate Pudding,5750,false
 Aisha Spring Roll,16000,false
 Asparagus,16000,false
 Buzz Mashed Potato,16000,false
@@ -930,19 +930,19 @@ Jinjah Ale,16000,false
 Kelp,16000,false
 Marshmallows with Borovan Dipping Sauce,16000,false
 Orange Baby Aisha Lollypop,16000,false
-Purple Icewich,16000,false
+Purple Icewich,19500,false
 Raspberry Ghostkerchief Jelly,16000,false
 Vanilla Neocola,16000,false
 Wasabi,16000,false
 Tropical Fruit Bowl,15900,false
 Chemical Cocktail,15800,false
-Chocolate Orange Volcano,15800,false
-Luxurious Vegetarian Star Pie,15800,false
-Roast Chestnut Neggnog,15800,false
-Sour Cream Chomby Crisps,15800,false
+Chocolate Orange Volcano,19500,false
+Luxurious Vegetarian Star Pie,25900,false
+Roast Chestnut Neggnog,15500,false
+Sour Cream Chomby Crisps,23000,false
 Thistleberry Sandwich,15800,false
 Lava Latte,15700,false
-Flowers and Coffee,15600,false
+Flowers and Coffee,10000,false
 Pyramid Pear,15600,false
 Blue Acara Cake,15500,false
 Lobster Berry Surprise,15500,false
@@ -951,27 +951,27 @@ Mosaic Negg,15400,false
 Stripey Urchin,15400,false
 Jelly Neocola,15300,false
 Peach and Berries Flambe,15300,false
-Disco Toast,15200,false
-Bowl Hominy,15100,false
-Gingerbread Cookie Box,15100,false
+Disco Toast,14500,false
+Bowl Hominy,9800,false
+Gingerbread Cookie Box,11500,false
 AAA Meatloaf,15000,false
 Benyeroberry,15000,false
-Cinnamon Apple Chips,15000,false
+Cinnamon Apple Chips,32000,false
 Coconut Juice Bowl,15000,false
-Curried Chicken Tea Sandwiches,15000,false
-Custard,15000,false
+Curried Chicken Tea Sandwiches,13000,false
+Custard,9200,false
 Half Eaten Hot Dog,15000,false
 Ice Ice Cream,15000,false
 Jewelled Goblet of Berry Squash,15000,false
-Jhudora Eyeball Pasta,15000,false
+Jhudora Eyeball Pasta,14400,false
 Kiko Christmas Hot Chocolate Mug,15000,false
 Minty Aisha Sundae,15000,false
-Pipper,15000,false
+Pipper,7150,false
 Platinum Silver Hot Dog,15000,false
 Prime Veggie Burger,15000,false
 Psimouse Cake,15000,false
 Queela Torte,15000,false
-Simple Fyora Cake,15000,false
+Simple Fyora Cake,14300,false
 Spiced Melon,15000,false
 Stuffed Fish Head,15000,false
 Symol Cheddar Cheese Ball,15000,false
@@ -983,36 +983,36 @@ Hot and Sour Soup,14900,false
 Jubble Bubble Tea,14900,false
 Seaweed Bacon,14900,false
 Wild Negg,14900,false
-Dorkleshroom,14800,false
+Dorkleshroom,10900,false
 Kiko Drink,14800,false
-Raspberry Scones,14800,false
+Raspberry Scones,11300,false
 Deep-Fried Galactic... Food Mass,14700,false
 Wishbone Delight,14700,false
 Doglefox Jelly,14600,false
-Mynci Mushroom Soup,14600,false
+Mynci Mushroom Soup,8000,false
 Agueena,14500,false
 Asteroid Zeenana Split,14500,false
 Fizzy Quiggle Drink,14500,false
-Gourmet Grilled Steak Salad,14500,false
+Gourmet Grilled Steak Salad,8000,false
 Grape Slurpship,14500,false
 Origami Sushi,14500,false
-Salmon Cream Cheese Dip,14500,false
-Scaled Negg,14500,false
-Pastrami Gormball Sandwich,14400,false
+Salmon Cream Cheese Dip,15000,false
+Scaled Negg,14000,false
+Pastrami Gormball Sandwich,8900,false
 Poogle Spaghetti,14400,false
 Greengage Breeze,14300,false
 Spyven Leg Soup,14300,false
-Chocolate Covered Carrot,14200,false
+Chocolate Covered Carrot,11500,false
 Cinnamon Neocola,14000,false
 Galactic Water,14000,false
-Kyrii Jumbleberry Milkshake,14000,false
+Kyrii Jumbleberry Milkshake,8000,false
 Pickled Peppers,14000,false
 Pizapple Surprise,14000,false
-Sketch Sandwich,14000,false
+Sketch Sandwich,10900,false
 Steaming Root Salad,14000,false
 Ugga Loaf of Meat,14000,false
 Water Faerie Blueberries,14000,false
-Cupid Negg,13900,false
+Cupid Negg,15000,false
 Ice Cream Flambe,13900,false
 Magma Blaster Cereal,13900,false
 Seasoned Curly Chips,13900,false
@@ -1023,7 +1023,7 @@ Aisha Winter Roll,13700,false
 Steak Platter,13700,false
 Veggie Burger,13700,false
 Army of Undead Cupcakes,13600,false
-Fish Filet Sandwich,13600,false
+Fish Filet Sandwich,12000,false
 Gargaraptor Arm,13600,false
 Hutcakes,13600,false
 Artichoke and Feta Pie,13500,false
@@ -1037,24 +1037,24 @@ Ixi-like Potato Pile,13300,false
 Origami Rice Balls,13300,false
 Air Faerie Mug,13200,false
 Droolik Surprise,13200,false
-Extra Meaty Sandwich,13200,false
-Sloth Day Nachos,13200,false
+Extra Meaty Sandwich,13100,false
+Sloth Day Nachos,10900,false
 Strawberry Ixi Fizzy Drink,13200,false
-Ham Casserole,13100,false
+Ham Casserole,28900,false
 Anchovy Casserole,13000,false
 Blue Cocofizz,13000,false
-Chia Cereal,13000,false
-Chocolate Asparagus,13000,false
+Chia Cereal,27500,false
+Chocolate Asparagus,14800,false
 Frosted Doughnut,13000,false
 Gooey Snot Cheese,13000,false
 Gurney Fruit,13000,false
-Number Pasta,13000,false
-Peanut Butter & Jelly Waffle Sandwich,13000,false
+Number Pasta,6700,false
+Peanut Butter & Jelly Waffle Sandwich,12000,false
 Planetary Pizza Ring,13000,false
 Sea Pineapple,13000,false
 Snot Kiko Taffy,13000,false
-Doglefox Candy Floss,12900,false
-Pirate Bento,12900,false
+Doglefox Candy Floss,8000,false
+Pirate Bento,8450,false
 Turkey Dinner,12900,false
 Chilled Borovan with Frozen Asparagus,12800,false
 Dragon Roll,12800,false
@@ -1063,7 +1063,7 @@ Ham and Turkey Feast,12700,false
 Beef and Veggie Soup,12600,false
 Breakfast Hot Dog,12500,false
 Coconut Fruit Cup,12500,false
-Electric Nachos,12500,false
+Electric Nachos,15000,false
 Hieroglyphic Cake,12500,false
 Potato Snack,12500,false
 Quadruple Scoop of Sorbet,12500,false
@@ -1077,31 +1077,31 @@ Borovan in a Cone,12000,false
 Cabbage Momo,12000,false
 Halloween Eyeball Rice,12000,false
 Jelly Banana,12000,false
-Korbat Pasta and Meatballs,12000,false
+Korbat Pasta and Meatballs,6600,false
 Lawyerbot Bento Box,12000,false
-Magical Hair Usuki Slushie,12000,false
+Magical Hair Usuki Slushie,2000,false
 Mound of Grulb,12000,false
-Negg Noodle Soup,12000,false
+Negg Noodle Soup,13000,false
 Organic Red Grapes,12000,false
 Shebberries,12000,false
 Snorkle Snout,12000,false
 Stained Glass Negg,12000,false
 Steamed Gorgroggles,12000,false
-Blumaroo Ice Cream Sundae,11900,false
-Creamy Sweet Potato Soup,11900,false
+Blumaroo Ice Cream Sundae,5750,false
+Creamy Sweet Potato Soup,8950,false
 Deep-Fried Candy Floss,11900,false
 Jelly Oyster,11900,false
 Lemaniac,11900,false
 Neocola Slushie,11900,false
-Freeze Dried Sausage,11800,false
-Purple Hamburger,11800,false
-Raspberry Aisha Waffle,11800,false
-1/3 Tomato and Pepper Omelette,11700,false
+Freeze Dried Sausage,14500,false
+Purple Hamburger,10200,false
+Raspberry Aisha Waffle,12900,false
+1/3 Tomato and Pepper Omelette,330,false
 Ice Cream Dumplings,11700,false
 Mint Kyrii Ice Cream,11700,false
-Slorg Biscuits,11700,false
+Slorg Biscuits,14900,false
 Stone Veggie Gormball Sandwich,11700,false
-Blue Goo Techo Cake,11600,false
+Blue Goo Techo Cake,13800,false
 Clam and Meatball Pizza,11600,false
 Cybunny Carrot Stew,11600,false
 Vanilla Yurblecone,11600,false
@@ -1116,25 +1116,25 @@ Tea Jelly,11500,false
 Turkey Packed Lunch,11500,false
 Tuskaninny Ice Cream,11500,false
 Conical Hot Dog,11400,false
-Freeze Dried Meat,11400,false
+Freeze Dried Meat,11000,false
 Gelupepper Kiko Drink,11400,false
 Belonthiss Roll,11300,false
 Squid,11300,false
 Teasicle,11300,false
-Aisha Tomato and Potato Soup,11200,false
+Aisha Tomato and Potato Soup,19600,false
 Butter with Roll,11200,false
 Fried Suwek,11200,false
 Lunar Grunpop,11200,false
-Peanut Butter and Jelly Gormball Sandwich,11200,false
-Sketch Sundae,11200,false
+Peanut Butter and Jelly Gormball Sandwich,4000,false
+Sketch Sundae,6500,false
 Snow Burrito,11200,false
 Swirl-It-On,11200,false
-Aubergine Salad,11100,false
+Aubergine Salad,12200,false
 Cheese Rigamaroll,11100,false
 Cloud Shake,11100,false
 Fiery Faerie Chicken Nuggets,11100,false
 Molten Candy Apple,11100,false
-Oyster Obsession,11100,false
+Oyster Obsession,7000,false
 Zero Gravity Cheese Poofs,11100,false
 Aubergine Casserole,11000,false
 Blended Merryberry,11000,false
@@ -1143,7 +1143,7 @@ Blue Toobers,11000,false
 Buzz Dung Cone,11000,false
 Cube-Shaped Lemon,11000,false
 Freeze Dried Ice Cream Sandwich,11000,false
-Grilled Islandberry Slices,11000,false
+Grilled Islandberry Slices,18000,false
 Hibiscus Tea,11000,false
 Icy Hot Berry,11000,false
 Jelly Corn,11000,false
@@ -1154,14 +1154,14 @@ Qasalan Falafel,11000,false
 Tentacle Burger,11000,false
 Vanilla Kiko Fudge,11000,false
 Wasabi Crackers,11000,false
-Beans on Toast,10900,false
+Beans on Toast,16500,false
 Chocolate Kau Milk,10900,false
 Earth Faerie Cupcake,10900,false
 Earth Faerie Mug,10900,false
 Grape Juice Sippy Cup,10900,false
-Ixi Acorn Meatball,10900,false
+Ixi Acorn Meatball,15600,false
 Apple Hot Dog,10800,false
-Egg Roll,10800,false
+Egg Roll,5000,false
 Mini Koi Cereal,10800,false
 Moussaka,10800,false
 Cramjar,10700,false
@@ -1174,11 +1174,11 @@ Chicken Taquitos,10500,false
 Fern Salad,10500,false
 Gorgroggle Soup,10500,false
 Gummy Bait Worms,10500,false
-Sausage and Chips,10500,false
+Sausage and Chips,7500,false
 Turkey Curry,10500,false
-CPMPB Salad,10400,false
-Hearty Pie,10400,false
-Mutant Kau Milkshake,10400,false
+CPMPB Salad,25900,false
+Hearty Pie,10100,false
+Mutant Kau Milkshake,14700,false
 Biscuit Kiko Taffy,10300,false
 Dehydrated Spaghetti,10300,false
 Extra Large Xweetok Sushi,10300,false
@@ -1186,22 +1186,22 @@ Gamaberries,10300,false
 Snow Faerie Borovan,10300,false
 Super Frosty Ice Shake,10300,false
 The Stuff,10300,false
-Eye of Mortog Soup,10200,false
+Eye of Mortog Soup,8300,false
 Huberts Special Hot Dog,10200,false
-Loaf of Tablet Bread,10200,false
+Loaf of Tablet Bread,11200,false
 Strawberry Oatmeal,10200,false
 Fancy Altadorian Mustard,10100,false
-Acara Rainbow Lollypop,10000,false
+Acara Rainbow Lollypop,9850,false
 Banango Toffee Apple,10000,false
-Bowl of Mushy Peas,10000,false
+Bowl of Mushy Peas,9200,false
 Continuous Meat,10000,false
 Cube-Shaped Cherry,10000,false
 Danderlice Surprise,10000,false
 Deadly Apple Pie,10000,false
-Egg and Carrots,10000,false
+Egg and Carrots,9400,false
 Escape to Kreludor Cereal,10000,false
 Franks and Cheesy Pasta,10000,false
-Gnorbu Wool and Jelly Sandwich,10000,false
+Gnorbu Wool and Jelly Sandwich,11600,false
 Gruish Melon,10000,false
 Happy Negg,10000,false
 Honey Cheese,10000,false
@@ -1212,12 +1212,12 @@ Kreludan Borovan,10000,false
 Lime Berry Terror Mountain Altador Cup Slushie,10000,false
 Meepit Juice Jar,10000,false
 Mild Burnumup,10000,false
-Moehog Milkshake,10000,false
-Phear Flavoured Milk,10000,false
+Moehog Milkshake,12300,false
+Phear Flavoured Milk,16900,false
 Pumpcorn,10000,false
-Raspberry Baby JubJub Lollypop,10000,false
+Raspberry Baby JubJub Lollypop,7700,false
 Regulation Meridellian Rations,10000,false
-Rotting Veggies Salad,10000,false
+Rotting Veggies Salad,9900,false
 Sausage Stocking,10000,false
 Sentient Stew,10000,false
 Sloth Pudding Cup,10000,false
@@ -1232,7 +1232,7 @@ Qanfire Fruit,9950,false
 Ultra Strong Coffee,9950,false
 Chicken Dumpling Soup,9900,false
 Cone-Shaped Watermelon,9900,false
-Conkerberry Negg,9900,false
+Conkerberry Negg,7500,false
 Ice Cream Cone Mug of Cocoa,9900,false
 Intesteen Casserole,9900,false
 Pumpkin Bread,9900,false
@@ -1247,32 +1247,32 @@ Pyramid Pizza,9850,false
 Caramel Hot Chocolate,9800,false
 Edamame,9800,false
 Fluffy Faerie Hot Cakes,9800,false
-Gold Koi Crackers,9800,false
+Gold Koi Crackers,19000,false
 Savoury Cubes,9800,false
 Autumn Herbal Tea,9750,false
 Prickapome,9750,false
 Breakfast Cake,9700,false
-Faerie Flotsam Fricassee,9700,false
+Faerie Flotsam Fricassee,10000,false
 Frootafruit,9700,false
-Fruit Punch Roll,9700,false
+Fruit Punch Roll,10200,false
 BBQ Onion Hot Dog,9650,false
 Chocolate Gnome Crunch,9650,false
 Giant Shish Kabob,9650,false
 Kacheek Meatball,9650,false
-Egg Stew,9600,false
-French Toast,9600,false
-Number Jelly Parfait,9600,false
+Egg Stew,7000,false
+French Toast,9500,false
+Number Jelly Parfait,7500,false
 Birthday Brigadeiros,9500,false
 Blurf Mince Pie,9500,false
 Caviar Hot Dog,9500,false
-Chestnut Shortcake,9500,false
+Chestnut Shortcake,3900,false
 Grobleen Sandwich,9500,false
 Icy Jelly Steak,9500,false
 Lenny Tea Set,9500,false
 Molten Root Casserole,9500,false
 Pluburb Pie,9500,false
-Pomegranate,9500,false
-Roasted Turnips,9500,false
+Pomegranate,8850,false
+Roasted Turnips,7800,false
 Stapler in Jelly,9500,false
 Sweet Potato Fizzy Drink,9500,false
 Wocky Spaghetti Ball,9500,false
@@ -1283,20 +1283,20 @@ Fried Altadorian Cheese Plate,9400,false
 Reject Marshmallow Grundo,9400,false
 Apple Tree Broccoli,9350,false
 Koi Dumplings And Chokato,9350,false
-Skeith Ice Cream Cake,9350,false
-Jolly Green Jiggling Jelly,9300,false
+Skeith Ice Cream Cake,9250,false
+Jolly Green Jiggling Jelly,10100,false
 Menacing Brew,9300,false
 Spooky Pumpkin Gateau,9300,false
 Spotkato,9300,false
 Seared Turnip Steak,9250,false
 Blooppop,9200,false
-Quiggle Veggie Soup,9200,false
+Quiggle Veggie Soup,14800,false
 Zafara Veggie Stew,9200,false
 Blazing Edible Snowflakes,9100,false
 Knuckle Sandwich,9050,false
-Sketch Pie,9050,false
+Sketch Pie,12400,false
 Appriberry Brucicle,9000,false
-Blueberry and Orange Blend,9000,false
+Blueberry and Orange Blend,7950,false
 Box of Wheat Flakes,9000,false
 Buzz Bread Salad,9000,false
 Cheesy Cod and Tofu Burger,9000,false
@@ -1314,15 +1314,15 @@ Lava Lasagna,9000,false
 Moltaran Bak Lava,9000,false
 Mutated Cheese,9000,false
 Nettle Tea,9000,false
-Organic Oatmeal Cookie,9000,false
-Pango Chute,9000,false
+Organic Oatmeal Cookie,7350,false
+Pango Chute,8800,false
 Peachpa Stuffed Potato,9000,false
 Scrampi,9000,false
 Slorg Potatoes,9000,false
 Traveling Game Food,9000,false
 Vinberry,9000,false
 Air Faerie Munparaberries,8950,false
-Chocolate Lupe Ice Cream,8950,false
+Chocolate Lupe Ice Cream,11800,false
 Cyodrake Roll,8950,false
 Deep-Fried Mac-n-Cheese Loaf,8950,false
 Iced Caramel Coffee,8950,false
@@ -1335,9 +1335,9 @@ Cabbage Cupcake,8900,false
 Crusty Clam Surprise,8900,false
 Jelly Nachos,8900,false
 Orange Grundo Sherbet,8900,false
-Orange Yurblecone,8900,false
+Orange Yurblecone,Inflation Notice,false
 Raspberry Basket,8900,false
-Red Scorchipepper,8850,false
+Red Scorchipepper,11300,false
 Strawberry Parfait,8850,false
 Faerieland Borovan,8800,false
 Galactic Protein Shake,8800,false
@@ -1368,7 +1368,7 @@ Black Cherry Pudding,8500,false
 Cheesykraut Hot Dog,8500,false
 Dark Faerie Mushroom,8500,false
 Dark Faerie Plums,8500,false
-Festive Faerie Fizz,8500,false
+Festive Faerie Fizz,18100,false
 Gnorbu Wool Candy Floss,8500,false
 Goparokko Island Fruit,8500,false
 Perimontwist,8500,false
@@ -1377,7 +1377,7 @@ Whole Jelly Pie,8500,false
 Meatloathe,8450,false
 Morel Mushroom Dip,8450,false
 Braised Turkey Cutlet,8400,false
-Deliwich,8400,false
+Deliwich,9000,false
 Flying Space Ship Burger,8400,false
 Leafy Noodle Soup,8400,false
 Mutant Doughnut,8400,false
@@ -1392,7 +1392,7 @@ Garlic Kiko Taffy,8300,false
 Pompomberry,8300,false
 Sloth Cone,8300,false
 Black Cherry Taco,8250,false
-Chocolate Poogle Cupcake,8250,false
+Chocolate Poogle Cupcake,8000,false
 Marshmallow and Slime Souffle,8250,false
 Semolina,8250,false
 Spicy BBQ Chomby Crisps,8250,false
@@ -1400,7 +1400,7 @@ Winged Negg,8250,false
 Faerie Bubbles Brew,8200,false
 Healthy Grass Hot Dog,8200,false
 Honey Toast,8200,false
-Horror Doeuvres,8200,false
+Horror Doeuvres,7600,false
 Sausage Gravy,8200,false
 Strawberry Kiko Taffy,8200,false
 Veggie Chicken,8200,false
@@ -1412,12 +1412,12 @@ Honeyed Horn Of Plenty,8100,false
 Strawberry Scorchio Treat,8100,false
 Turmac Fruit Snacks,8100,false
 Missing King Milk Carton,8050,false
-Birthday Banana Split,8000,false
+Birthday Banana Split,7750,false
 Blue Moon Sundae,8000,false
-Blueberry Jelly Twirl,8000,false
+Blueberry Jelly Twirl,13100,false
 Doglefox Ice Cream Scoops,8000,false
 Eerie Eggs,8000,false
-Fire Faerie Mushroom,8000,false
+Fire Faerie Mushroom,7100,false
 Freeze Dried Fruit Platter,8000,false
 Frozen Blackberries and Cream,8000,false
 Frozen Strawberries and Cream,8000,false
@@ -1429,7 +1429,7 @@ Lava Chilaquiles,8000,false
 Lunch Hot Dog,8000,false
 Mint Stew,8000,false
 Moehog Rice Cakes,8000,false
-Mouldy Strawberries,8000,false
+Mouldy Strawberries,5050,false
 Natural Springabee Honey,8000,false
 Prime Beef and Chicken Meatballs,8000,false
 Rubber Fruit,8000,false
@@ -1451,7 +1451,7 @@ Baked Fish,7900,false
 Chocolate Chomby Ice Cream Sandwich,7900,false
 Deluxe Cheese Fondue,7900,false
 Glowing Pre-Sliced Mushrooms,7900,false
-Hasee Cake,7900,false
+Hasee Cake,6700,false
 I Love Potatoes Shirt,7900,false
 Pineapple Jelly,7900,false
 Plain Crackers,7900,false
@@ -1469,10 +1469,10 @@ Cole Slaw,7800,false
 Green Scorchipepper,7800,false
 Lime Berry Brightvale Altador Cup Slushie,7800,false
 Meat and Fruit Kebab,7800,false
-Dung Slushie,7750,false
+Dung Slushie,1000,false
 Fried Potato Balls,7750,false
 Gnome Crunch,7750,false
-Grundo Space Grub Platter,7750,false
+Grundo Space Grub Platter,7000,false
 Rahketmelon,7750,false
 Turkey Monster,7750,false
 Creamy Jello Jigglers,7700,false
@@ -1494,24 +1494,24 @@ Buzz Sandwich With Honey,7450,false
 Caramel Chia Parfait,7450,false
 Deluxe Burger Dog,7450,false
 Dressing and Cranberry Sandwich,7450,false
-Lime Nova Pop,7450,false
+Lime Nova Pop,6900,false
 Tea Waffles,7450,false
 Bubbly Harffel Fruit Juice,7400,false
-Christmas Wocky Cranberry Meatloaf,7400,false
+Christmas Wocky Cranberry Meatloaf,5450,false
 Holiday Spoiled Neggnog,7400,false
 Waffle Burger,7400,false
 Meat and Potatoes Krawk Pot,7350,false
 Blueberry Nova Pop,7300,false
-Brown Sugar Oatmeal,7300,false
+Brown Sugar Oatmeal,9300,false
 Sesame Pistachio Cake,7300,false
 Sporkle Leg,7300,false
 Extra Cheesy Cheddar Crisps,7250,false
 Mini Kau Cheese Wheel,7250,false
 Kabuggles,7200,false
-Snow Enchiladas,7200,false
+Snow Enchiladas,9700,false
 Techo Energy Drink,7200,false
 Strawberry Chia Pop,7150,false
-Lizarkagna,7100,false
+Lizarkagna,7600,false
 Neopets 23rd Birthday Cake,7100,false
 Protein on the Go,7100,false
 Tasty Tiki Trees,7100,false
@@ -1547,20 +1547,20 @@ Honey Vandagyre,6900,false
 Leaf Wraps,6900,false
 Pink Triple Decker Sandwich,6900,false
 Seawich,6900,false
-Sludgy Slushie,6900,false
+Sludgy Slushie,3850,false
 Tetraberry Chia Pop,6900,false
 Valentines Day Strawberry Bouquet,6900,false
 Cheddar Kacheek Cheese,6850,false
-Fizzy Apple Juice,6850,false
+Fizzy Apple Juice,6400,false
 Cinnamon Oatmeal,6800,false
 Coffee Beans Mug,6800,false
 Deep Fried Ghosts,6800,false
 Flotato-Stuffed Turkey,6800,false
 Jelly Wingafruit,6800,false
 Peanut Butter Smores,6800,false
-Pumpkin Soup,6800,false
+Pumpkin Soup,10000,false
 Blue Bruce Juice,6750,false
-Chrysanberry,6750,false
+Chrysanberry,6900,false
 Crying Corn,6750,false
 Dried Prunes,6750,false
 Scorched Kabob,6750,false
@@ -1574,7 +1574,7 @@ Rainy Day Coffee,6650,false
 Scoop of Meteor Ice Cream,6650,false
 Brown Sauce,6550,false
 Chicken,6550,false
-Fancy Rack of Lamb,6550,false
+Fancy Rack of Lamb,9250,false
 Calamari Pita Wrap,6500,false
 Dark Nova Pop,6500,false
 Dried Ummagine,6500,false
@@ -1587,7 +1587,7 @@ Lemonade,6500,false
 Orange Snow Puff,6500,false
 Rest in Peace of Chicken,6500,false
 Rock Rampage Moon Drink,6500,false
-Saus-Rage,6500,false
+Saus-Rage,5650,false
 Wild Print Hot Dog,6500,false
 Cybunny Carrot Burger,6450,false
 Hot Fruit Soup,6450,false
@@ -1599,11 +1599,11 @@ Bomatoge,6400,false
 Cryogenically Frozen Negg,6400,false
 Draik Soup,6400,false
 Faerie Festival Cake,6400,false
-Filet Mignon,6400,false
+Filet Mignon,5050,false
 Intergalactic Orange Sorbet,6400,false
 Lime Berry Maraqua Altador Cup Slushie,6400,false
 Marinas Cherry Pie,6400,false
-Mushroom Hotdog,6400,false
+Mushroom Hotdog,10000,false
 Number Crackers and Cheese,6400,false
 Tonu Sorbet,6400,false
 Ultra Deluxe Faeriepop,6400,false
@@ -1617,7 +1617,7 @@ Kreludan Ice Cream Sundae,6300,false
 Chocberry Pizza,6200,false
 Holiday Ghostpuff,6200,false
 Meatier Asparagus Dish,6200,false
-Meaty Gnorbu Pie,6200,false
+Meaty Gnorbu Pie,28000,false
 Radish Pie,6200,false
 Raspberry Jelly Muffin,6200,false
 Snow Broccoli,6200,false
@@ -1627,7 +1627,7 @@ Octle Salad,6150,false
 Salted Kiko Popcorn Ball,6150,false
 Steamed Ectoplasm,6150,false
 A Smatter of Mayo,6100,false
-Bat Kebab,6100,false
+Bat Kebab,10600,false
 Black Cherry Ice Lolly,6100,false
 Pineapple Rice Bowl,6100,false
 Pink Negg Tea,6100,false
@@ -1644,14 +1644,14 @@ Bubbling Blueberry Cheese,6000,false
 Chalkboard Negg,6000,false
 Crunchy Tooth Surprise,6000,false
 Fright Pop,6000,false
-Fruit Cake,6000,false
+Fruit Cake,5950,false
 Glowing Asparagus,6000,false
 Guacamole Injected Hot Dog,6000,false
 Iced Clover Cream Coffee,6000,false
 Jhudora Jelly,6000,false
 Ogrin Pasta,6000,false
 Pandaphant Sushi,6000,false
-Paper-Wrapped Veggies,6000,false
+Paper-Wrapped Veggies,5450,false
 Sushi Platter,6000,false
 Veal Parmesan Gormball Sandwich,6000,false
 Water Foam Hot Dog,6000,false
@@ -1666,7 +1666,7 @@ Steamed Noodle Cake,5900,false
 Strawberry Jetsam Ice Cream,5900,false
 Tail Bone,5900,false
 Wedding Cake,5900,false
-Black Currant Jelly Hot Dog,5850,false
+Black Currant Jelly Hot Dog,7100,false
 Fish and Rhubarb Burgers,5850,false
 Ice Cream Hot Dog,5850,false
 Sesame Sticks,5850,false
@@ -1677,19 +1677,19 @@ Refreshing Barrel Water,5800,false
 Cheops Soup,5750,false
 Felberry Gormball Sandwich,5750,false
 Mouldy Bomberry,5750,false
-Nutty Spaghetti,5750,false
-Skull-n-Bones Pasta,5750,false
+Nutty Spaghetti,8850,false
+Skull-n-Bones Pasta,5650,false
 Sunset Gummy Slushie,5750,false
 Egg Pate,5700,false
 Honey Yurble,5700,false
 Intestines and Marinara,5700,false
 Lime Berry Mystery Island Altador Cup Slushie,5700,false
-Mouldy Gruncheese,5700,false
-Pickled Bluchard Root Platter,5700,false
-Portobello Platter,5700,false
+Mouldy Gruncheese,5500,false
+Pickled Bluchard Root Platter,3900,false
+Portobello Platter,8000,false
 Traditional Luau Feast,5700,false
 Double Chocolate Surprise,5650,false
-Fruit Juice Sack,5650,false
+Fruit Juice Sack,4900,false
 Snowberry Ice Lolly,5650,false
 Trapango,5650,false
 Veggie Deluxe Stuffed Pepper,5650,false
@@ -1701,8 +1701,8 @@ Uni Veggie Wrap,5550,false
 Vionanna,5550,false
 Blue Berry Aisha Ice Cream,5500,false
 Bubbly Rhuby Fruit Juice,5500,false
-Carrot Cupcake,5500,false
-Cheesy Onion Noodle Soup,5500,false
+Carrot Cupcake,5000,false
+Cheesy Onion Noodle Soup,4850,false
 Chocolate Covered Toffee,5500,false
 Chocolate Scallop Shell,5500,false
 Cosmic Ring Cereal,5500,false
@@ -1711,28 +1711,28 @@ Jelly Fries,5500,false
 Mango Crab Salad,5500,false
 Mint Jelly Sandwich,5500,false
 Neopia Negg,5500,false
-Poached Pearange,5500,false
+Poached Pearange,3000,false
 Shrimp on Ice,5500,false
 Spicy Purblare Juice,5500,false
 Spooky Handwich,5500,false
 Veggie Faerie Burger,5500,false
 Zalacca Fruit,5500,false
-Baby Cabbage with Gravy,5450,false
+Baby Cabbage with Gravy,3350,false
 Cheese and Onion Crisps,5450,false
 Cosmic Stars Sandwich,5450,false
 Meriberry Dressing,5450,false
 Seasoned Lupe Chips,5450,false
 Square Marshmallows,5450,false
 Takeaway Lunch,5450,false
-Cheese Slushie,5400,false
-Desert Kau Honey,5400,false
-Draik Salad,5400,false
+Cheese Slushie,2000,false
+Desert Kau Honey,5000,false
+Draik Salad,3000,false
 Fruity Brucicle,5400,false
 Galaxy in a Glass,5400,false
 Nutritional Block,5400,false
 Snow Covered Nachos,5400,false
 Soup Faerie Soup,5400,false
-Crunchy Buzz Honey Delight,5350,false
+Crunchy Buzz Honey Delight,11000,false
 Golden Tangerines,5350,false
 Mini Swiss Kau Cheese Wheel,5350,false
 Tongue Wrap,5350,false
@@ -1753,13 +1753,13 @@ Zafara Breakfast,5200,false
 Blueberry Krawksicle,5150,false
 Bubbly Roseatte Juice,5150,false
 Gourmet Fried Chicken and Waffles,5150,false
-Paper-Wrapped Chicken,5150,false
+Paper-Wrapped Chicken,3900,false
 Speckled Ice Cream,5150,false
 Tofu Poogle Pate,5150,false
 Vanilla Poogle Cupcake,5150,false
 Voidberry Brucicle,5150,false
 Whole Wheat Jetsam Fin Crackers,5150,false
-Cucumber Tea Sandwiches,5100,false
+Cucumber Tea Sandwiches,8000,false
 Ghostly Apple,5100,false
 Ornate Bowl of Oranges,5100,false
 Sloth Spaghetti,5100,false
@@ -1769,7 +1769,7 @@ Vanilla Flavoured Borovan,5100,false
 Water Faerie Mushroom,5100,false
 Crystal Burger,5050,false
 Fishy Nibbles,5050,false
-Ginger Green Tea,5050,false
+Ginger Green Tea,4975,false
 Half Jelly Doughnut Jelly,5050,false
 Lime Jelly Eyeball,5050,false
 Polka Dot Hot Dog,5050,false
@@ -1792,7 +1792,7 @@ Hot Fudge Sundae,5000,false
 Just Plain Ol Porridge,5000,false
 Kale Chips,5000,false
 Lady Blurg Negg,5000,false
-Landfish,5000,false
+Landfish,1975,false
 Lava Toast,5000,false
 Lime Berry Haunted Woods Altador Cup Slushie,5000,false
 Megachilli Hot Dog,5000,false
@@ -1812,10 +1812,10 @@ Tonguebeans,5000,false
 Vanilla Ice Cream Apple Lantern,5000,false
 Vanilla Orange Biscuits,5000,false
 Weeping Broccoli,5000,false
-Chomby Dog,4950,false
+Chomby Dog,4100,false
 Cookie Hats,4950,false
 Grundos House Special,4950,false
-Jelly Smores,4950,false
+Jelly Smores,12900,false
 Leaf Wrap,4950,false
 Mug of Borovan with Asparagus,4950,false
 Cackleberry Jelly,4900,false
@@ -1837,11 +1837,11 @@ Frozen Prawn Delight,4875,false
 Borovan Brownies,4850,false
 Faerie Apple Pie,4850,false
 Sloth Broccoli,4825,false
-Cheeseless Lasagna,4800,false
+Cheeseless Lasagna,6500,false
 Chocolate Stuffed Orange,4800,false
 Faeriemoya,4800,false
 Giblets Gravy,4800,false
-Harffel Fruit Smoothie Bowl,4800,false
+Harffel Fruit Smoothie Bowl,9750,false
 Jhudoras Toffee Rolls,4800,false
 Tray of Hot Cocoa,4800,false
 Bottled Beans,4750,false
@@ -1857,13 +1857,13 @@ Jhudora Fries,4700,false
 Melonberry,4700,false
 Rainbow Ice Cream Sandwich,4700,false
 Yamboberries,4700,false
-Blueberry Flavoured Ice Cube,4675,false
+Blueberry Flavoured Ice Cube,8500,false
 Jelly Fruit Ring,4675,false
-Fruit Basket,4650,false
+Fruit Basket,8500,false
 Blue Raspberry Slushie,4625,false
 Elegant Cup of Tea,4625,false
 Dirt Ice Cream,4600,false
-Jelly Ham,4600,false
+Jelly Ham,4700,false
 Sushi Hot Dog,4600,false
 Ye Olde Mug of Borovan,4600,false
 Blue Bomberry Slushie,4575,false
@@ -1874,7 +1874,7 @@ Mashed Potato Hat,4550,false
 Orange and Grape Cone,4550,false
 Rainbow Hot Dog,4550,false
 Steamed Vegetable Dumplings,4550,false
-Grobleen Salad,4525,false
+Grobleen Salad,9350,false
 Kyrii Dewy Apple Milkshake,4525,false
 Spaghetti and Brains,4525,false
 A Tray of Carrots,4500,false
@@ -1888,7 +1888,7 @@ Fruity Faerie Lolly,4500,false
 Halloween Tapira Cake,4500,false
 Healthy Hearty Veggies,4500,false
 Jelly Covered Greycorn,4500,false
-Organic Carrot,4500,false
+Organic Carrot,5200,false
 Spaghetti Soup,4500,false
 Fried Fish,4475,false
 Red Octopepper,4475,false
@@ -1898,7 +1898,7 @@ Bananarific Ice Lolly,4450,false
 Cackleberry Jam,4450,false
 Coconut Shell Slushie,4450,false
 Forbidden Forever Fruit,4450,false
-Lemon Faerie Mousse,4450,false
+Lemon Faerie Mousse,6050,false
 Lime Starfish,4450,false
 Snow Lemon,4450,false
 Spicy Queela Dip,4450,false
@@ -1923,7 +1923,7 @@ Snow Gyro,4350,false
 Spiced Nuts,4350,false
 Briki Elinikos,4325,false
 Faerie Hot Dog,4325,false
-Fluorescent Hot Dog,4325,false
+Fluorescent Hot Dog,3950,false
 Purple Eyrie Jelly Sandwich,4325,false
 Danish Bacon,4300,false
 Frosted Moon Cookie,4300,false
@@ -1933,14 +1933,14 @@ Orange Grape Kiko Taffy,4300,false
 Pickled Pears,4300,false
 Berry Delight,4250,false
 Chocolate Chip Gelert Ice Cream Sandwich,4250,false
-Cup of Coffee Fruit,4250,false
+Cup of Coffee Fruit,4150,false
 Day and Night Cake,4250,false
-Dried Lupe Snack,4250,false
+Dried Lupe Snack,13700,false
 Everlasting Mug of Borovan,4250,false
 Fruity Aisha Sundae,4250,false
-Leafy Krawk Pot,4250,false
+Leafy Krawk Pot,2975,false
 Qasalan Rice Bowl,4250,false
-Secret Dressing,4250,false
+Secret Dressing,2700,false
 Snow Loaf,4250,false
 Traditional Altadorian Gyro,4250,false
 Wicker Fruit Cornucopia,4250,false
@@ -1949,14 +1949,14 @@ Orange and Mango Coffee,4225,false
 Scalemelon,4225,false
 BLT Sandwich with Cheese,4200,false
 Borovan Bubble Tea,4200,false
-Cream of Tchea Soup,4200,false
-Fyora Day Muffin,4200,false
+Cream of Tchea Soup,24200,false
+Fyora Day Muffin,5700,false
 Sliced and Pickled Pimplepepper,4200,false
 Kreludan Cake Pops,4175,false
-Mummified Ettaphant Loaf,4175,false
+Mummified Ettaphant Loaf,3200,false
 Cake Batter Slushie,4150,false
-Faerie Kougra Ice Lolly,4150,false
-Fuzzinberry,4150,false
+Faerie Kougra Ice Lolly,4000,false
+Fuzzinberry,3050,false
 Juicy Steen,4150,false
 Corndog in a Hot dog,4125,false
 Faerie Baked Potato,4125,false
@@ -1966,7 +1966,7 @@ Acara Cabbage Cake,4100,false
 Kyrii Florange Milkshake,4100,false
 Lemon Lava Cake,4100,false
 Nebula Ice Cream,4100,false
-Negg Hot Dog,4100,false
+Negg Hot Dog,4575,false
 Organic Turnip,4100,false
 Rippling Colours Negg,4100,false
 Slime Cream,4100,false
@@ -1984,11 +1984,11 @@ Blueberry Kiko Lolly,4000,false
 Blueberry Moon Tart,4000,false
 Borovan Chicken,4000,false
 Bowl of Goldkoi,4000,false
-Candy Fyora Staff,4000,false
+Candy Fyora Staff,6000,false
 Cheese and Pickle Packed Lunch,4000,false
 Cheese and Raspberry Plate,4000,false
 Cherry Puff,4000,false
-Frozen Fruit Popsicle,4000,false
+Frozen Fruit Popsicle,5000,false
 Gold Leaf Creambowl,4000,false
 Grunion Fruit Grog,4000,false
 Hot Snow Soup,4000,false
@@ -2008,7 +2008,7 @@ Untarnished Apple,4000,false
 Yooyu Gumballs,4000,false
 Apple Onion Rings,3975,false
 Carrotberry Smash,3975,false
-Cheesy Slorgwich,3975,false
+Cheesy Slorgwich,4000,false
 Gebmid Jellies,3975,false
 Slimy Pumpkin Soup,3975,false
 Uni Triple Scoop Rainbow Sorbet,3975,false
@@ -2032,10 +2032,10 @@ Sophies Stew Gummies,3900,false
 Cheery Tomato Soup Bowl,3875,false
 Genius Negg,3875,false
 Jhudoras Swirling Cocktail,3850,false
-Mummified Cheese,3850,false
+Mummified Cheese,4125,false
 Red Berry Rock Stick,3850,false
 Sand Hot Dog,3850,false
-Desert Blumaroo Honey,3825,false
+Desert Blumaroo Honey,6500,false
 Rainbow Artichoke,3825,false
 Blunella,3800,false
 Caramel Kiko Popcorn Ball,3800,false
@@ -2058,7 +2058,7 @@ Dirt Burgers,3725,false
 Mummified Negg,3725,false
 Spinach Alfredo Omurice,3725,false
 Uni Corn,3725,false
-Crabula Ice Cream,3700,false
+Crabula Ice Cream,5000,false
 Galaxia Berries,3700,false
 Holiday Lights Slushie,3700,false
 Meatball Broth,3700,false
@@ -2076,7 +2076,7 @@ Pork Sausage,3600,false
 Rainbow Snow Puff,3600,false
 Sakhmet Palace Cake,3600,false
 Spooky Donuts,3600,false
-Apple Achyfi,3575,false
+Apple Achyfi,1450,false
 Elppa,3575,false
 Fruit Beans,3575,false
 Peppermint Rock Slices,3575,false
@@ -2095,7 +2095,7 @@ Duoroot,3500,false
 Felberry Brucicle,3500,false
 Heartatoe,3500,false
 Jelly Green Tea,3500,false
-Koi Flakes,3500,false
+Koi Flakes,2300,false
 Moehog Grilled Peanut Butter Sandwich,3500,false
 Nectar of the Heroes,3500,false
 Noodle Salad,3500,false
@@ -2163,7 +2163,7 @@ Cupcake with Rainbow Frosting,3250,false
 Evil Coconut Brucicle,3250,false
 Eyeball,3250,false
 Fruit and Nut Kiko Taffy,3250,false
-Ghost Puff,3250,false
+Ghost Puff,3225,false
 Kacheek Spaghetti,3250,false
 Molten Nachos with Lava Cheese,3250,false
 Olive and Feta Pie,3250,false
@@ -2176,19 +2176,19 @@ Assorted Coconut Balls,3200,false
 Bell Apple,3200,false
 Cheese Puff Fingers,3200,false
 Choco Mint Rock Slices,3200,false
-Cococrazy Ice Lolly,3200,false
+Cococrazy Ice Lolly,3000,false
 Cybunny Carrot Cookie,3200,false
 Fiery Flames Ice Lolly,3200,false
 Ghost Burger,3200,false
 Gummi Worms,3200,false
 Lemon Meringue Tea,3200,false
-Mashed Mud with Gravy,3200,false
+Mashed Mud with Gravy,3500,false
 Pickled Cucumbers,3200,false
 Tiny Edible Palm Trees,3200,false
 Toroidoughnut,3200,false
 Veggie Poogle Pate,3200,false
 Desert Sun Dried Tomatoes,3175,false
-Durian Brucicle,3175,false
+Durian Brucicle,2700,false
 Organic Leek,3175,false
 Fig Ice Cream,3150,false
 Green Apple Watermelon Slushie,3150,false
@@ -2201,7 +2201,7 @@ Cheese and Tonu Crackers,3100,false
 Flying Faerie Veggie Platter,3100,false
 Green Octopepper,3100,false
 Nimmo Meatloaf,3100,false
-Pepper Lupe Treat,3100,false
+Pepper Lupe Treat,2600,false
 Snow Hotdog,3100,false
 Vanilla Waffle Cone,3100,false
 Deep-Fried Gormball,3050,false
@@ -2209,32 +2209,32 @@ Kreludan Cake,3050,false
 Magma Slushie,3050,false
 Peaches and Cream Slushie,3050,false
 Faerie Jelly in a Jar,3025,false
-Garlic Kebab,3025,false
+Garlic Kebab,1500,false
 Glass of Water,3025,false
 Kiko Coffee,3025,false
 Spicy Herbal Tea,3025,false
-Abominable Fruitcake,3000,false
+Abominable Fruitcake,7550,false
 Acara Day Burger,3000,false
 Air Faerie Cereal,3000,false
-Altador Cheeseburger,3000,false
+Altador Cheeseburger,3500,false
 Ancient Sakhmetian Bread of Coltzan III,3000,false
 Baked Potato Shoes,3000,false
 Black Cherry Jelly Omelette,3000,false
 Brightly Coloured Easter Negg,3000,false
 Caviar Sandwich,3000,false
-Chickayo,3000,false
-Chips and Egg,3000,false
-Chocolate Covered Peanuts,3000,false
-Chocolate Techo Foot,3000,false
+Chickayo,2925,false
+Chips and Egg,560,false
+Chocolate Covered Peanuts,4350,false
+Chocolate Techo Foot,5450,false
 Chomby Pie,3000,false
-Christmas Quiggle Lettuce and Tomato Wrap,3000,false
-Corn Pyramid,3000,false
-Deep-Fried Space Rocks,3000,false
+Christmas Quiggle Lettuce and Tomato Wrap,2750,false
+Corn Pyramid,4200,false
+Deep-Fried Space Rocks,2700,false
 Eyeball Slushie,3000,false
 Fyora Day Bento Box,3000,false
 Geared Teacup of Borovan,3000,false
 Gooseberry Jam Packed Lunch,3000,false
-Gruel Sandwich,3000,false
+Gruel Sandwich,980,false
 Illusen Leaf Burrito,3000,false
 Jelly Bacon,3000,false
 Jelly Burrito,3000,false
@@ -2252,10 +2252,10 @@ Purple Spotted Cheese,3000,false
 Qasalan Flatbread Delight,3000,false
 Rice Sushi,3000,false
 Rock Waffle,3000,false
-Sand Negg,3000,false
+Sand Negg,1125,false
 Scrumptious Borovan Cookie,3000,false
 Seaweed Lasagne,3000,false
-Shenkuu Chocolate Milk Glass,3000,false
+Shenkuu Chocolate Milk Glass,1800,false
 Skeith Crisps,3000,false
 Sloth Day Pasta,3000,false
 Space Cocoa,3000,false
@@ -2275,7 +2275,7 @@ Zurro Chocolate Ball,3000,false
 A Hearty Meal,2975,false
 Chip Butty with Tomato Sauce,2975,false
 Frump Soup,2975,false
-Glowleaf Tea,2975,false
+Glowleaf Tea,2000,false
 Lenny Lime Lutari Pop,2975,false
 Pyrapple,2975,false
 Strawberry-Kiwi Fruit Cup,2975,false
@@ -2284,11 +2284,11 @@ Broccololly,2950,false
 Cheesy Mashed Potato,2950,false
 Dark Chocolate Covered Toffee,2950,false
 Grey Juice,2950,false
-Grundo Hot Dog,2950,false
-Holiday Coffee Service,2950,false
+Grundo Hot Dog,2800,false
+Holiday Coffee Service,2300,false
 Hot Skrazzle,2950,false
 JubJub Strawberry Juice,2950,false
-Kelp Lasagne,2950,false
+Kelp Lasagne,2700,false
 Lost Desert Stew,2950,false
 Munuberry Coconut Milk,2950,false
 Mutando Jacket Potato,2950,false
@@ -2298,7 +2298,7 @@ Urchin Surprise,2950,false
 Altadorian Olive Salad,2925,false
 Chocolate Graveyard Cake,2925,false
 Frozen Jam Sandwich,2925,false
-Fruit Suprise Rock Stick,2925,false
+Fruit Suprise Rock Stick,3450,false
 Zero Gravity Parfait,2925,false
 Borovan Cookies,2900,false
 Cherry Kiko Lolly,2900,false
@@ -2306,7 +2306,7 @@ Chocolate Corn Dog,2900,false
 Coffee Waffle Bowl,2900,false
 Cucumber Salad,2900,false
 Galactic Chicken Soup,2900,false
-Grarrl Macaroni,2900,false
+Grarrl Macaroni,2850,false
 Haystack Potato Chips,2900,false
 Illusen Day Hot Dog,2900,false
 Lemon Kiko Taffy,2900,false
@@ -2320,7 +2320,7 @@ Spyder Eggs,2900,false
 Sticky Glob Sticks,2900,false
 Vanilla Flotsam Day Shake,2900,false
 Whole Roast Chicken,2900,false
-Cinnamon Raisin Oatmeal,2875,false
+Cinnamon Raisin Oatmeal,300,false
 Kreludan Wiggle Cookie,2875,false
 Lentil And Bean Hot Dog,2875,false
 Snot Brucicle,2875,false
@@ -2329,7 +2329,7 @@ Lime Berry Lost Desert Altador Cup Slushie,2850,false
 Organic Peach,2850,false
 Plain Onigiri,2850,false
 Potato Shake,2850,false
-Shenkuu Holiday Feast,2850,false
+Shenkuu Holiday Feast,3050,false
 Soba Noodles,2850,false
 Spudnick,2850,false
 Swirly Kreludan Cake,2850,false
@@ -2364,9 +2364,9 @@ Cheese Bowl,2750,false
 Chokato Chew,2750,false
 Dark Faerie Apple,2750,false
 Faerie Beetroot,2750,false
-Fyora Spritzer,2750,false
+Fyora Spritzer,2000,false
 Hash Browns,2750,false
-Jetsam Jam,2750,false
+Jetsam Jam,1475,false
 Lime Slushie,2750,false
 Macawormi and Cheese,2750,false
 Marshmallow Yam Soup,2750,false
@@ -2413,7 +2413,7 @@ Invisible Negg,2650,false
 Just Broccoli Sandwich,2650,false
 Koi Kelp Wrap,2650,false
 Orange Moon Rock Pie,2650,false
-Seven Course Meal Plate,2650,false
+Seven Course Meal Plate,2000,false
 Shenkuu Faerie Cookie Sandwich,2650,false
 Tomato Stuffed Doughnut,2650,false
 Black Currant Chia Pop,2625,false
@@ -2430,7 +2430,7 @@ Draikfruit,2600,false
 Hairy Fungus Salad,2600,false
 Heart Shaped Fruit Cake,2600,false
 Jelly Bread,2600,false
-Jelly Mushroom,2600,false
+Jelly Mushroom,2750,false
 Jummie Roll,2600,false
 Molten Lava Cake,2600,false
 Pearange,2600,false
@@ -2443,13 +2443,13 @@ Tetraberry Pie,2600,false
 Tigerbuggle Sushi,2600,false
 Tigersquash Ice Cream,2600,false
 Tobbie Fruit,2600,false
-Dipping Apples,2575,false
+Dipping Apples,2650,false
 Were Apple,2575,false
 Banango Brucicle,2550,false
 Blumaroo Coffee,2550,false
 Chococherry Surprise,2550,false
 CPMPB Pizza,2550,false
-Egg Salad Hot Dog,2550,false
+Egg Salad Hot Dog,2300,false
 Grilled Smoked Meat Sandwich,2550,false
 Half Grundo Sandwich,2550,false
 Ice Blended Mocha Coffee,2550,false
@@ -2461,7 +2461,7 @@ Beef Rouladen,2525,false
 Tigerbuggle Ice Lolly,2525,false
 Baked Apple with Cream and Jam,2500,false
 Blazing Stone Mug of Borovan,2500,false
-Bottle of Water,2500,false
+Bottle of Water,1075,false
 Casera Slushie,2500,false
 Celery Root Grits,2500,false
 Cherry Carrot Ice Cream,2500,false
@@ -2487,7 +2487,7 @@ Just Broccoli Soup,2500,false
 Magic Ghost Marshmallows,2500,false
 Marzipan Mortogs,2500,false
 Meerca Sundae,2500,false
-Metal Cheeseburger,2500,false
+Metal Cheeseburger,2100,false
 Milk Bubble Tea,2500,false
 Moehog Marmalade,2500,false
 Nachos With Cheese,2500,false
@@ -2512,7 +2512,7 @@ Kelp Covered Hot Dog,2475,false
 Orange Pixxi Squash,2475,false
 Orange Space Drink,2475,false
 Pyramid Potato Skins,2475,false
-Seaweed Rock Stick,2475,false
+Seaweed Rock Stick,2850,false
 Starry Taco,2475,false
 Butter Toffee Popcorn,2450,false
 Cheese Stuffed Olives,2450,false
@@ -2521,12 +2521,12 @@ Hot Tyrannian Pepper,2450,false
 Jelly Milk,2450,false
 Meridellian Chocolate Milk Glass,2450,false
 Moon Soup,2450,false
-Oil and Nuts Slushie,2450,false
+Oil and Nuts Slushie,1950,false
 Pickled Qasalan Pickles,2450,false
 Plum Pudding,2450,false
 Razul Muffin,2450,false
 Sand Fruit Salad,2450,false
-Snow Apple,2450,false
+Snow Apple,1450,false
 Starry Hot Dog,2450,false
 Strawberry Sugar Coral,2450,false
 Thistleberry Slushie,2450,false
@@ -2534,7 +2534,7 @@ Tigersquash Rock Stick,2450,false
 Xweetok Hot Chocolate,2450,false
 Fungi Fruit Scone,2425,false
 Mixed Fruit Kebab,2425,false
-Orange Cloud Cookie,2425,false
+Orange Cloud Cookie,2100,false
 Skullberry Brucicle,2425,false
 Strawberry and Vanilla Ice Lolly,2425,false
 Altadorian Cobb Salad,2400,false
@@ -2545,11 +2545,11 @@ Chocolate Dipped Marshmallow Grundo,2400,false
 Coconut Cocktail,2400,false
 Coffin Cake,2400,false
 Cranberry Slushie,2400,false
-Cratered Pastry,2400,false
-Crimson Ham,2400,false
-Dried Seaweed Strips,2400,false
+Cratered Pastry,1000,false
+Crimson Ham,2600,false
+Dried Seaweed Strips,2425,false
 Edible Rock Garland,2400,false
-Fudge Kiko Lolly,2400,false
+Fudge Kiko Lolly,2000,false
 Ghostmallow Smore,2400,false
 Harvest Soup Bowl,2400,false
 Ice Blended Mint Coffee,2400,false
@@ -2563,7 +2563,7 @@ Mighty Grarrl Burger,2400,false
 Minty Iced Tea,2400,false
 Orange Jelly Fish,2400,false
 Orange Spanner Jelly,2400,false
-Peach Iced Tea,2400,false
+Peach Iced Tea,2000,false
 Plain Sweet Potato,2400,false
 Radish Salad,2400,false
 Sroom Fruit Jam,2400,false
@@ -2574,9 +2574,9 @@ Zeevine,2400,false
 Freeze Dried Sprout Soup,2375,false
 Jug of Fresh Tigerade,2375,false
 Marble Cake,2375,false
-Red Hot Molten Sauce,2375,false
+Red Hot Molten Sauce,2925,false
 Sand Tofu,2375,false
-Soldier Seaweed Spaghetti,2375,false
+Soldier Seaweed Spaghetti,1950,false
 Altador Style Bratwurst,2350,false
 Baked Quince,2350,false
 Blue Bomberry Hot Dog,2350,false
@@ -2586,7 +2586,7 @@ Kreludan Cookie Star,2350,false
 Meerca Cinnamon Bun,2350,false
 Organic Green Apple,2350,false
 Scallion Pancakes,2350,false
-Snotty Spaghetti,2350,false
+Snotty Spaghetti,1875,false
 Strawberry Shaved Ice,2350,false
 Stuffed Grape Leaves,2350,false
 Ugnot,2350,false
@@ -2594,7 +2594,7 @@ Watermelon Shaved Ice,2350,false
 Whole Wheat Sun Pancakes,2350,false
 X-29 Sub-Orbital Cupcake,2350,false
 Yummy Gummy Chews,2350,false
-Frozen Veggie Sandwich,2325,false
+Frozen Veggie Sandwich,3775,false
 Stake Sandwich,2325,false
 Striped Gelert Ham and Cheese Sandwich,2325,false
 Voidberry Slushie,2325,false
@@ -2605,12 +2605,12 @@ Buttery Pecan Kiko Fudge,2300,false
 Cheddar Fries,2300,false
 Chocolate Dipped Strawberry Carrots,2300,false
 Chocolate Slushie,2300,false
-Chomby Leafy Crunch,2300,false
-Cinnamon Honey Sticks,2300,false
+Chomby Leafy Crunch,2650,false
+Cinnamon Honey Sticks,2250,false
 Cold Raspberry Tea,2300,false
 Crunch Chocolate Scoaches,2300,false
 Glorious Fyora Sundae,2300,false
-Grape Snow Puff,2300,false
+Grape Snow Puff,800,false
 Gravy Nightmare,2300,false
 Grilled Enoki,2300,false
 Hot Chocolate Dip,2300,false
@@ -2618,7 +2618,7 @@ Illusen Lunch Box,2300,false
 Kiko Cookie,2300,false
 Koyle Fruit Grog,2300,false
 Lychee,2300,false
-Moonfruit,2300,false
+Moonfruit,1175,false
 Orange Flavoured Borovan,2300,false
 Organic Red Apple,2300,false
 Papaya with Seaweed,2300,false
@@ -2648,13 +2648,13 @@ Jelly Cookies,2250,false
 Jelly Slushie,2250,false
 Korbat Tofu,2250,false
 Light of the Faeries Jam,2250,false
-Mint Kiko Ice Cream Cone,2250,false
+Mint Kiko Ice Cream Cone,2200,false
 Orange Drink Powder,2250,false
 Peppermint Cocoa,2250,false
 Plate of Bacon,2250,false
 Roasted Chestnut Ice Lolly,2250,false
 Sausage and Chips Hot Dog,2250,false
-Shoyru Cereal,2250,false
+Shoyru Cereal,2500,false
 Snow Sandwich,2250,false
 Special Sakhmet Dinner,2250,false
 Spicy Fruit Punch,2250,false
@@ -2667,11 +2667,11 @@ Acara Fruit Salad,2225,false
 Agueena Chia Wings,2225,false
 Banana Nut Cupcake,2225,false
 Blackcherry Chia Pop,2225,false
-Chocolate Aisha Sundae,2225,false
+Chocolate Aisha Sundae,2400,false
 Chrysaberry Seashell,2225,false
 Fruit Krawk Pot,2225,false
 Pork Steak,2225,false
-Sand Watermelon,2225,false
+Sand Watermelon,2000,false
 Sausage Cornucopia,2225,false
 Spicy Radish Kebab,2225,false
 Starry Slushie,2225,false
@@ -2685,10 +2685,10 @@ Corn Puffs,2200,false
 Count Cross Buns,2200,false
 Desert Kiko Dried Fruit Bowl,2200,false
 Double Shot of Espresso,2200,false
-Earth Faerie Cereal,2200,false
+Earth Faerie Cereal,1600,false
 Edible Orange Socks,2200,false
 Fig Muffin,2200,false
-Fried Eggs and Scallion Tortillas,2200,false
+Fried Eggs and Scallion Tortillas,1150,false
 Fried Tofu,2200,false
 Fruit Surprise Rock Slices,2200,false
 Furanga Fruit Sandwich,2200,false
@@ -2700,9 +2700,9 @@ Lutical Berries,2200,false
 Milk Shaved Ice,2200,false
 Open Top Onion Sandwich,2200,false
 Orange Kiko Drink,2200,false
-Paruckle,2200,false
+Paruckle,2350,false
 Pea Hot Dog,2200,false
-Peanut Kiko Apple,2200,false
+Peanut Kiko Apple,2400,false
 Purpple,2200,false
 Roast Gargamon,2200,false
 Sand Ham,2200,false
@@ -2724,10 +2724,10 @@ Sparkling Space Cocktail,2175,false
 Spiked Dariberry Tea,2175,false
 Beefy Cheesy Hot Dog,2150,false
 Berry Smore,2150,false
-Chocolate Orange Kiko Fudge,2150,false
+Chocolate Orange Kiko Fudge,2800,false
 Cranberry Sauce,2150,false
 Faerie Flotsam Pudding,2150,false
-Gooey Green Shake,2150,false
+Gooey Green Shake,10000,false
 Gumball Negg Machine,2150,false
 Jelly Cherries,2150,false
 Koi Dumplings And Chicken,2150,false
@@ -2748,12 +2748,12 @@ Turkey Milkshake,2125,false
 A Sprig of Leaf,2100,false
 Altadorian Melitinias,2100,false
 Baklava,2100,false
-Beast Burger,2100,false
-Brogleberry Porridge,2100,false
+Beast Burger,2800,false
+Brogleberry Porridge,1475,false
 Bubblegum Kiko Taffy,2100,false
 Cheese Kiko Popcorn Ball,2100,false
 Chocolate Drizzled Popcorn,2100,false
-Chocolate Rose Petal Ice Cream,2100,false
+Chocolate Rose Petal Ice Cream,2975,false
 Chocolate Star Decoration,2100,false
 Chocolate Xweetok Ice Cream Sandwich,2100,false
 Coco Whip Slushie,2100,false
@@ -2769,8 +2769,8 @@ Gebwich,2100,false
 Grenanna Iced Tea,2100,false
 Grilled Chicken Sandwich,2100,false
 Hamburger Dog,2100,false
-Honeydew Melon,2100,false
-Honeyplume Pie,2100,false
+Honeydew Melon,1375,false
+Honeyplume Pie,1800,false
 Kacheek Marshmallows on a Stick,2100,false
 Kreludan Jelly Pyramids,2100,false
 Lemberryade,2100,false
@@ -2784,24 +2784,24 @@ Pixxi Squash,2100,false
 Purple Juppie Java,2100,false
 Raspberry Sorbet,2100,false
 Scalefruit,2100,false
-Shenkuu Souffle Pancakes,2100,false
+Shenkuu Souffle Pancakes,1725,false
 Snow Burger,2100,false
 Snowghetti and Meatballs,2100,false
 Strawberry Wiggle Cake,2100,false
 Wheatgrass Juice,2100,false
 Curried Fish,2075,false
-Dung Ice Cream,2075,false
+Dung Ice Cream,1375,false
 Gooey Kreludan Cookie,2075,false
 Kreluberry Fruit Drink Pouch,2075,false
-Royal Girl Zafara Pancakes,2075,false
+Royal Girl Zafara Pancakes,1000,false
 Sliced and Pickled Azzle,2075,false
 Trilo Bite,2075,false
 Beef Brucicle,2050,false
 Feta Cheese Plate,2050,false
-Gulg Coffee,2050,false
+Gulg Coffee,1950,false
 Honey Blossom,2050,false
 Intergalactic Slushie,2050,false
-Jhudoras Achyfi,2050,false
+Jhudoras Achyfi,1900,false
 Plushie Burger,2050,false
 Smoked Snorkle Cheese,2050,false
 Sniddberry Slushie,2050,false
@@ -2812,7 +2812,7 @@ Twirly Fruit Flavoured Milk,2050,false
 Blueberry Wedge,2025,false
 Bowl of Wocky Day Soup,2025,false
 Chai Tea,2025,false
-Flavour-changing Coffee,2025,false
+Flavour-changing Coffee,1825,false
 Hot Doughnutfruit Juice,2025,false
 Potato-Stuffed Turkey,2025,false
 A Smatter of Mustard,2000,false
@@ -2832,11 +2832,11 @@ Benyeroberry Tea,2000,false
 Black Cherry Sundae,2000,false
 Blackberry Chia Pop,2000,false
 Blue Ice Apple,2000,false
-Blueberry Jetsam Jelly,2000,false
+Blueberry Jetsam Jelly,3000,false
 Bowl of Yuck,2000,false
 Brain Slushie,2000,false
 Braised Lotus Root,2000,false
-Bursting Water Muffin,2000,false
+Bursting Water Muffin,1600,false
 Candy Corn Latte,2000,false
 Caramel Iced Coffee with Extra Caramel,2000,false
 Chard Platter,2000,false
@@ -2844,20 +2844,20 @@ Cheese Noodle Sandwich,2000,false
 Cheese Stuffed Mushrooms,2000,false
 Cherry Sloth Yogurt,2000,false
 Cherry Xweetok Cupcake,2000,false
-Chicken Leg Wing,2000,false
+Chicken Leg Wing,2500,false
 Chicken Roll,2000,false
 Chickentastic Ice Lolly,2000,false
 Chill Pill,2000,false
 Chocolate Milk,2000,false
 Chocolate Wing Cakes,2000,false
-Cobrall Coffee,2000,false
+Cobrall Coffee,7700,false
 Constellation Soup,2000,false
 Courgette Bread,2000,false
 Cranberry Fog Drink,2000,false
 Crater Brand Coffee,2000,false
 Crunchy Bone Sandwich,2000,false
-Custard Cheesecake,2000,false
-Darigan Hot Dog,2000,false
+Custard Cheesecake,2500,false
+Darigan Hot Dog,1300,false
 Dark Faerie Gelato,2000,false
 Darttlefruit,2000,false
 Decorated Fruit Basket,2000,false
@@ -2867,7 +2867,7 @@ Deluxe Elephante Burger,2000,false
 Explodamelon,2000,false
 Extra Cheesy Jacket Potato,2000,false
 Extra Gherkin Hot Dog,2000,false
-Faerie Carrot 2.0,2000,false
+Faerie Carrot 2.0,1975,false
 Fresh Faerie Fruit,2000,false
 Fried Worm Stew,2000,false
 Fruit Cornucopia,2000,false
@@ -2875,13 +2875,13 @@ Fruit Ice,2000,false
 Fyora Day Sandwich,2000,false
 Garthroxian Goo,2000,false
 Ginseng Popsicle,2000,false
-Glaring Cheesecake,2000,false
+Glaring Cheesecake,1950,false
 Gnorbu Sushi,2000,false
 Gobi Fruit Tea,2000,false
 Green Rock Stick,2000,false
 Halloween Skull Cake,2000,false
 Haunted Coffee,2000,false
-Holiday Borovan Service,2000,false
+Holiday Borovan Service,990,false
 Hot Dog Split,2000,false
 Hot Meerca Tea,2000,false
 Ice Blended Caramel Coffee,2000,false
@@ -2890,7 +2890,7 @@ Iced Kougra Coffee,2000,false
 Ichor Ghost Toast,2000,false
 Illusen Acorn,2000,false
 Illusen Day Doughnut,2000,false
-Illusen Day Pizza,2000,false
+Illusen Day Pizza,1800,false
 Jelly Coffee,2000,false
 Jelly Shaped Blumaroo,2000,false
 Jhudora Day Burger,2000,false
@@ -2899,12 +2899,12 @@ Jhudora Parfait,2000,false
 Jhuidahs Tangy Fruit Juice,2000,false
 Jinjah Maple Mocktail,2000,false
 Kacheek Cheeseburger,2000,false
-Kacheek Sticky Rice Cake,2000,false
-Kiwilicious,2000,false
+Kacheek Sticky Rice Cake,1350,false
+Kiwilicious,1650,false
 Koi Dumplings And Veggies,2000,false
-Light Faerie Cereal,2000,false
-Lime Usul Shake,2000,false
-Lost Desert Sandy Olive Oil,2000,false
+Light Faerie Cereal,1800,false
+Lime Usul Shake,1600,false
+Lost Desert Sandy Olive Oil,4450,false
 Magical Floating Tea Set,2000,false
 Mighty Melon Ice Lolly,2000,false
 Mixed Fruit Noodles,2000,false
@@ -2935,7 +2935,7 @@ Smooshed Tomato,2000,false
 Snow Cake,2000,false
 Snowy Negg,2000,false
 Snowy Valley Steak,2000,false
-Space Faerie Breath Mints,2000,false
+Space Faerie Breath Mints,1450,false
 Speckled Scorchio Ravioli,2000,false
 Sphinx Sandcake,2000,false
 Sroom Fruit Sandwich,2000,false
@@ -2975,20 +2975,20 @@ Super Sour Melon Tea,1975,false
 Tropical Trail Mix,1975,false
 Violet Seeds,1975,false
 Acara Day Pancakes,1950,false
-Achyfi Ice,1950,false
+Achyfi Ice,1000,false
 Balsamic Dressing,1950,false
 Blurf Brucicle,1950,false
 Cheesy Courgette Slice,1950,false
-Cheesy Popcorn,1950,false
-Chocolate Coffee Waffle Cone,1950,false
-Chokito Wrap,1950,false
+Cheesy Popcorn,600,false
+Chocolate Coffee Waffle Cone,1475,false
+Chokito Wrap,2000,false
 Corn Chowder Soup Bowl,1950,false
 Doglefox Popcorn,1950,false
-Fancy Waffles,1950,false
+Fancy Waffles,1775,false
 Figs With Honey Sauce,1950,false
 Frozen Cucumber Slices,1950,false
 Glowleaf Melon,1950,false
-Green Rock Slices,1950,false
+Green Rock Slices,21500,false
 Hot Dog and Fizzy Drink,1950,false
 Jelly Kabob,1950,false
 Lemon Snow Puff,1950,false
@@ -3008,7 +3008,7 @@ Watercress,1950,false
 Bubble Tea,1925,false
 Cheese Star Sandwich,1925,false
 Crispy Crunchy Cookies Cereal,1925,false
-Herbal Coffee,1925,false
+Herbal Coffee,1900,false
 Hot Magma,1925,false
 Jhudora Sour Candy,1925,false
 Lava Bread,1925,false
@@ -3023,14 +3023,14 @@ Bluchard Root,1900,false
 Bori Bowl of Fruit,1900,false
 Brightvale Rigamaroll,1900,false
 Bubble Gum Slushie,1900,false
-Calamari Jacket Potato,1900,false
+Calamari Jacket Potato,4225,false
 Celeriac,1900,false
 Cheese and Mushroom Hot Dog,1900,false
 Chocalotta Ice Lolly,1900,false
 Chocolate Covered Kiko Popcornball,1900,false
 Chocolate Faerie Mallows,1900,false
 Chocolate Mint Slushie,1900,false
-Dandelion Tea,1900,false
+Dandelion Tea,1700,false
 Delicious Borovan Crepe,1900,false
 Devilish Cake,1900,false
 Extra Creamy Soup,1900,false
@@ -3045,7 +3045,7 @@ Iced Coconut Coffee,1900,false
 Intergalactic Chewy Stuff,1900,false
 Jelly Sponge Cake,1900,false
 Kelpcakes with Green Sauce,1900,false
-Korbat Wings and Fr-eyes,1900,false
+Korbat Wings and Fr-eyes,2450,false
 Light Faerie Sandwich,1900,false
 Lime and Orange Sherbert Package,1900,false
 Mano Root,1900,false
@@ -3058,7 +3058,7 @@ Organic Cherries,1900,false
 Parsnip Sandwich,1900,false
 Peanut Butter Kiko Fudge,1900,false
 Peppermint Rock Stick,1900,false
-Planetary Onion Rings,1900,false
+Planetary Onion Rings,1475,false
 Prickly Merato and Screlon Salad,1900,false
 Qando Fruit,1900,false
 Shenkuu Eel Rice Bowl,1900,false
@@ -3078,7 +3078,7 @@ White Chocolate Asparagus Souffle,1900,false
 Altadorian Lentil Soup,1875,false
 Altadorian Sun Cheese,1875,false
 Asparagus Toast Dumplings,1875,false
-Azzle Tea,1875,false
+Azzle Tea,2050,false
 Black Cherry Ixi Drink,1875,false
 Fruit Stuffed Jacket Potato,1875,false
 Lenny Vegetable Soup,1875,false
@@ -3098,7 +3098,7 @@ Cashew Milk,1850,false
 Chocolate Coin Wishing Well,1850,false
 Chokato Burger,1850,false
 Chokato Dumplings,1850,false
-Creamy Chicken Dish,1850,false
+Creamy Chicken Dish,1575,false
 Dehydrated Ice Cream,1850,false
 Disco Slushie,1850,false
 Dolmade,1850,false
@@ -3115,7 +3115,7 @@ Jail Meal,1850,false
 Krawk Apple Cake,1850,false
 Krawk Ice Cream Sandwich,1850,false
 Liver and Onions Ice Lolly,1850,false
-Origami Ice Cream,1850,false
+Origami Ice Cream,1200,false
 Plain Bagel,1850,false
 Pyraberry,1850,false
 Quiggle Grilled Cheese Sandwich,1850,false
@@ -3131,7 +3131,7 @@ Boiled Egg,1825,false
 Faerie Pastry,1825,false
 Glowing Green Hot Dog,1825,false
 Hannah Lunch Box,1825,false
-Hot Apple Oatmeal,1825,false
+Hot Apple Oatmeal,1500,false
 Jellyfish Sundae,1825,false
 Pirate Lupe Pasta,1825,false
 Plate of Wintery Caramel Apples,1825,false
@@ -3141,20 +3141,20 @@ Sunflower Pattern Easter Negg,1825,false
 Sunflower Seeds,1825,false
 Thimble of Soup,1825,false
 Autumnberry Slushie,1800,false
-Azzle Onigiri,1800,false
+Azzle Onigiri,1000,false
 Baked Apple with Tigerbuggle sauce,1800,false
-Banango Punch,1800,false
-Blumaroo Gummy Vitamins,1800,false
+Banango Punch,2400,false
+Blumaroo Gummy Vitamins,2200,false
 Bran Boulders,1800,false
 Butterscotch Milkshake,1800,false
 Cake of the Lost,1800,false
 Cheesato,1800,false
-Cheese,1800,false
-Chocolate Jhudora,1800,false
+Cheese,1400,false
+Chocolate Jhudora,690,false
 Chokato JubJub Mini Burger,1800,false
 Corn Crunchies,1800,false
-Cranberry Turkey Sandwich,1800,false
-Enchanting Strawberry Cereal,1800,false
+Cranberry Turkey Sandwich,1000,false
+Enchanting Strawberry Cereal,1400,false
 Farn Plant,1800,false
 Fluffy Faerie Pancakes,1800,false
 Foil-Wrapped Hot Dog,1800,false
@@ -3168,9 +3168,9 @@ Hannah Flask,1800,false
 Hot Lime Jelly,1800,false
 Hot Munuberry Juice,1800,false
 Ice Lolly,1800,false
-Ixi Bagel,1800,false
+Ixi Bagel,930,false
 Jelly Pretzel,1800,false
-Jhudoras Wrap,1800,false
+Jhudoras Wrap,1900,false
 King Hagan’s Holiday Cake,1800,false
 Large Tonu Day Burger,1800,false
 Last Summers Hot Dog,1800,false
@@ -3183,11 +3183,11 @@ Mixed Rock Stick,1800,false
 Mouldy Mini Kau Cheese Wheel,1800,false
 Mynci Vegetable Burger,1800,false
 Neopia Central Chocolate Milk Glass,1800,false
-Paper-Wrapped Salmon,1800,false
+Paper-Wrapped Salmon,4075,false
 Pineapple Juice,1800,false
 Plain Oatmeal,1800,false
 Pumpkin Baby Food,1800,false
-Qando Fruit Punch,1800,false
+Qando Fruit Punch,3950,false
 Qando Pizza,1800,false
 Rainbow Poogle Lolly,1800,false
 Salmon Steak,1800,false
@@ -3201,7 +3201,7 @@ Uni Wheat Cookies,1800,false
 Wiggly Hot Dog,1800,false
 Altadorian Grapes,1775,false
 Cabbage Doughnut,1775,false
-Caffeine Free Neocola,1775,false
+Caffeine Free Neocola,1025,false
 Clam Linguine,1775,false
 Eggs Benedict,1775,false
 Eyrie Sushi,1775,false
@@ -3225,7 +3225,7 @@ Cup of Water,1750,false
 Decaf Darigan Coffee,1750,false
 Islandberry,1750,false
 Lemoran Fruit Leather Socks,1750,false
-Marshmallow Roast Coffee,1750,false
+Marshmallow Roast Coffee,3000,false
 Mystery Meat Sandwich,1750,false
 Orange Rambus,1750,false
 Robo Crunch,1750,false
@@ -3247,7 +3247,7 @@ Astranna,1700,false
 Aubergine Slushie,1700,false
 Azzle,1700,false
 Bitten Red Apple,1700,false
-Black Cherry Slushie,1700,false
+Black Cherry Slushie,1600,false
 Bludberry Kikotube,1700,false
 Carrot Stuffed Jacket Potato,1700,false
 Carrots in Salad,1700,false
@@ -3264,9 +3264,9 @@ Faerie Carrot,1700,false
 Fancy Faerie Float,1700,false
 Fire Faerie Straw,1700,false
 Fishy Cheese,1700,false
-Flan,1700,false
+Flan,2400,false
 Flarble,1700,false
-Golden Juppie Delight,1700,false
+Golden Juppie Delight,1625,false
 Grapefruit Neocola,1700,false
 Grarrl Crackers,1700,false
 Gruel Ice Lolly,1700,false
@@ -3276,17 +3276,17 @@ Kau Kau Farm Organic Bottled Milk,1700,false
 Lime Berry Krawk Island Altador Cup Slushie,1700,false
 Lime Berry Roo Island Altador Cup Slushie,1700,false
 Marrow and Rice Sundae,1700,false
-Mayonnaise Artichoke,1700,false
-Minestrone Soup,1700,false
+Mayonnaise Artichoke,1575,false
+Minestrone Soup,4775,false
 Moehog Face Coffee,1700,false
 Molabean,1700,false
 Mood o Meter Berries,1700,false
 Munuberry,1700,false
 Nimmo Bento,1700,false
 Omelette Of The Faeries,1700,false
-Peanut Butter Crackers,1700,false
+Peanut Butter Crackers,1600,false
 Peanut Raisin Trail Mix,1700,false
-Petrified Cake,1700,false
+Petrified Cake,2600,false
 Phear Coffee,1700,false
 Pineapple Ham,1700,false
 Pineapple Sorbet,1700,false
@@ -3294,8 +3294,8 @@ Purple Peophin Lutari Pop,1700,false
 Raspberry Kiko Swirl,1700,false
 Roseatte Ice Cream,1700,false
 Seared Salmon Sandwich,1700,false
-Seasoning Sand,1700,false
-Seaweed Wrapped Dumplings,1700,false
+Seasoning Sand,1900,false
+Seaweed Wrapped Dumplings,7000,false
 Slice of Space Cake,1700,false
 Sliced and Pickled Duoroot,1700,false
 Sliced Strawberries,1700,false
@@ -3330,7 +3330,7 @@ Hot Mustard Sauce,1650,false
 Innocuous Cup of Hot Chocolate,1650,false
 Jelly Celery,1650,false
 Jelly Sushi,1650,false
-Juicy Warterberry,1650,false
+Juicy Warterberry,1175,false
 Jumbleberry Slushie,1650,false
 Lemon Tuskaninny Pop,1650,false
 Lemwart,1650,false
@@ -3338,7 +3338,7 @@ Lime Berry Darigan Altador Cup Slushie,1650,false
 Marrow Bone,1650,false
 Myncironi and Cheese,1650,false
 Potatoes and Gravy,1650,false
-Sakhmetian Brew,1650,false
+Sakhmetian Brew,1600,false
 Sausage Link Hot Dog,1650,false
 Smore Hot Dog,1650,false
 Space Rocks,1650,false
@@ -3355,7 +3355,7 @@ Strawberry Kiko Fudge,1625,false
 Tangerine Tea,1625,false
 Watermelon,1625,false
 Wormy Slushie,1625,false
-Camouflage Hot Dog,1600,false
+Camouflage Hot Dog,1500,false
 Chip Corn Dog,1600,false
 Chocolate JubJub Sundae,1600,false
 Chomby Tail Burger,1600,false
@@ -3363,14 +3363,14 @@ Elephante Milkshake,1600,false
 Fancy Ice Cream,1600,false
 Flaming Blooble Fruit on Toast,1600,false
 Flaming Hot Corndog,1600,false
-Flatfruit Shake,1600,false
+Flatfruit Shake,990,false
 Floating Peanut Butter Cube,1600,false
 Florg Nachos,1600,false
-Flotsam Flakes,1600,false
+Flotsam Flakes,1900,false
 Fountain Faerie Fruit Punch,1600,false
 Gelert Sticky Rice Cake,1600,false
 Glowing Pretzel,1600,false
-Grape Kiko Taffy,1600,false
+Grape Kiko Taffy,2350,false
 Holiday Potato,1600,false
 Mini Cheddar Kau Cheese Wheel,1600,false
 Mint Ice Cream Apple Lantern,1600,false
@@ -3388,7 +3388,7 @@ Seared Lava Fish,1600,false
 Shoyru Spaghetti,1600,false
 Snow Submarine Sandwich,1600,false
 Spaghetti A La Kacheek,1600,false
-Spaghetti with Altadorian Sauce,1600,false
+Spaghetti with Altadorian Sauce,1625,false
 Spicy Cabbage Pancakes,1600,false
 Sunflower Tea,1600,false
 Tangy Cheesicle,1600,false
@@ -3405,11 +3405,11 @@ Burger Stuffed Orange,1575,false
 Candy Floss Cupcake,1575,false
 Cherry Shaved Ice,1575,false
 Chilli and Cheese Jacket Potato,1575,false
-Creepy Spring Salad,1575,false
+Creepy Spring Salad,2750,false
 Fresh Basil Soup,1575,false
 Kastraliss Snack,1575,false
 Kelp Slushie,1575,false
-Lemon And Guacamole Hot Dog,1575,false
+Lemon And Guacamole Hot Dog,1750,false
 Maraquan Blend Coffee,1575,false
 Melted Sugar Vaeolus,1575,false
 Ultra Cheesy Hot Dog,1575,false
@@ -3422,16 +3422,16 @@ Chokatosicle,1550,false
 Cucumber Hot Dog,1550,false
 Date Milkshake,1550,false
 Enchanted Popcorn,1550,false
-Extra Sour Seedless Skeem Jam,1550,false
+Extra Sour Seedless Skeem Jam,800,false
 Faerie Crisps,1550,false
-Fruit in a Tube,1550,false
+Fruit in a Tube,5650,false
 Grarrl Garden Salad,1550,false
 Illusen Tea,1550,false
 Kacheek Pretzels,1550,false
 Krawk Brand Crisps,1550,false
 Partially Eaten Chocolate Buzz Dessert Platter,1550,false
 Pickled Onions,1550,false
-Pink Spooky Floss,1550,false
+Pink Spooky Floss,4600,false
 Rainbow Toast with Rainbow Jam,1550,false
 Ransaurus Steak,1550,false
 Spicy Hummus,1550,false
@@ -3440,7 +3440,7 @@ Tooth Faerie Gum,1550,false
 Turkey and Chestnut Dressing,1550,false
 Warf Tea,1550,false
 Wheat Flour,1550,false
-Baby Carrots,1525,false
+Baby Carrots,1275,false
 Banango,1525,false
 Chocolate Techo Cookie,1525,false
 Eyrie Gumbo,1525,false
@@ -3448,10 +3448,10 @@ Green Bean Kimchee,1525,false
 Islandberry Ice Cream,1525,false
 Lenny Mint Chocolate Chip Ice Cream,1525,false
 Neatly Stacked Ice Cubes,1525,false
-Snow Pepper,1525,false
-2/3 Tomato Omelette,1500,false
-Aisha Hot Chocolate,1500,false
-Bargasaurus Steak,1500,false
+Snow Pepper,500,false
+2/3 Tomato Omelette,770,false
+Aisha Hot Chocolate,1000,false
+Bargasaurus Steak,900,false
 Berry Onigiri,1500,false
 Bloody Slushie,1500,false
 Blue Cheese and Tchea Plate,1500,false
@@ -3466,21 +3466,21 @@ Chokato Chia Wings,1500,false
 Cobrall drink,1500,false
 Coconut Hot Dog,1500,false
 Cress Ghostkersandwich,1500,false
-Dropped Snowcone,1500,false
+Dropped Snowcone,2350,false
 Earth Faerie Brownies,1500,false
 Earth Faerie Gum,1500,false
-Enchanted Book Cake,1500,false
+Enchanted Book Cake,1650,false
 Fancy Sundae,1500,false
 Fire Faerie Apple,1500,false
 Fizzy Faerie Jelly,1500,false
 Flaming Hot Meat Taco,1500,false
 Franks and Beans,1500,false
 Fresh Turnip Sandwich,1500,false
-Halloween Kacheek Candy Dish,1500,false
+Halloween Kacheek Candy Dish,5000,false
 Icy Onigiri,1500,false
 Jacket Potato with Beans,1500,false
 Jhudoras Cupcake,1500,false
-Kiko Candy,1500,false
+Kiko Candy,1125,false
 Kougra Blurf Shake,1500,false
 Kreludan Rocket Cookie,1500,false
 Lava Bread Bowl,1500,false
@@ -3492,19 +3492,19 @@ Olive Snowball,1500,false
 Orange Cream Tea,1500,false
 Orange Split Chia Pop,1500,false
 Pepperminto Slushie,1500,false
-Pink Rock Stick,1500,false
+Pink Rock Stick,1675,false
 Plain Shoyru Meatball,1500,false
 Protein Bar,1500,false
 Pure Ice Tea,1500,false
 Pyranegg,1500,false
-Queela Stick,1500,false
+Queela Stick,1300,false
 Rainbow Snowball,1500,false
-Roseatte Slushie,1500,false
+Roseatte Slushie,1200,false
 Sauteed Space Rock,1500,false
-Seaweed Rock Slices,1500,false
+Seaweed Rock Slices,2700,false
 Snow Faerie Cupcake,1500,false
 Snow Slushie,1500,false
-Sourmelon Brew,1500,false
+Sourmelon Brew,3000,false
 Spaghetti Kiko Taffy,1500,false
 Sparkling Berry Ice Cream,1500,false
 Spiced Gingerbread Latte,1500,false
@@ -3525,12 +3525,12 @@ Black Tea,1475,false
 Chokato Chomby Crisps,1475,false
 Filled Cookie Jar,1475,false
 Flatfruit Fruit Leather Socks,1475,false
-Illusen Day Matcha Cheesecake Brownies,1475,false
+Illusen Day Matcha Cheesecake Brownies,1100,false
 Kiwi,1475,false
 Mixed Nuts,1475,false
 Omelette with Cream Sauce,1475,false
 Oozing Negg Buns,1475,false
-Orange Filled Jacket Potato,1475,false
+Orange Filled Jacket Potato,1350,false
 Squid Hot Dog,1475,false
 Strawberry and Lime Achyfi,1475,false
 Suteks Revenge,1475,false
@@ -3558,14 +3558,14 @@ Lime Faerie Bubble,1450,false
 Lucky Slothy Day Dip,1450,false
 Nimmo Veggie Platter,1450,false
 Plain Shaved Ice,1450,false
-Plate of Christmas Kookith Cookies,1450,false
+Plate of Christmas Kookith Cookies,1350,false
 Spherical Hot Dog,1450,false
 Spring Flower Tea,1450,false
 Thornberry Noodle Soup,1450,false
 Water Faerie Sandwich,1450,false
 Zafara Gruel,1450,false
 Cheesy Mynci Beach Volleyball Crackers,1425,false
-Chokato Parfait,1425,false
+Chokato Parfait,1100,false
 Faerie Petpet Food,1425,false
 Fungi Fruit Slorg Slime,1425,false
 Ice Cream Bowl Altador Hat,1425,false
@@ -3584,30 +3584,30 @@ Bacon and Cheese Hot Dog,1400,false
 Blue Swirl Cheesicle,1400,false
 Cake Coffee,1400,false
 Candy Pumpkin Latte,1400,false
-Cheese Ghostkersandwich,1400,false
+Cheese Ghostkersandwich,1700,false
 Chocolate Brucicle,1400,false
 Chocolate Eclair Paste,1400,false
 Chocomalt Milkshake,1400,false
 Chokato Baby Food,1400,false
 Chokatoade,1400,false
 Crazy Crisp Taco,1400,false
-Dried Chilli Peppers,1400,false
+Dried Chilli Peppers,1325,false
 Durian Lupe Treat,1400,false
 Elephante Chicken Nuggets,1400,false
 Faerie Asparagus,1400,false
 Faerie Sparkle Candy,1400,false
-Frozen Hot Chocolate,1400,false
+Frozen Hot Chocolate,1050,false
 Fyora Faerie Straw,1400,false
 Grilled Chokato on Toast,1400,false
 Jelly Peach,1400,false
 Jug Juice,1400,false
 Juicee,1400,false
-Kelp Samosa,1400,false
+Kelp Samosa,1025,false
 Ketchup and Mustard Hot Dog,1400,false
 Kiko Lake Cookie,1400,false
 Marble Ice Lolly,1400,false
 Mint Explosion Ice Lolly,1400,false
-Mixed Grarrl Salad,1400,false
+Mixed Grarrl Salad,2225,false
 Nimmo Curry and Rice Ball,1400,false
 Orbiting Eclair,1400,false
 Peanut Crunch Cereal,1400,false
@@ -3615,7 +3615,7 @@ Pink Rock Slices,1400,false
 Royal Hot Dog,1400,false
 Sand Orange,1400,false
 Sliced Tofu,1400,false
-Snowberry Delight,1400,false
+Snowberry Delight,1150,false
 Spicy Salsa Jacket Potato,1400,false
 Spring Salad Hot Dog,1400,false
 Stone Soup,1400,false
@@ -3624,7 +3624,7 @@ Sun Tea,1400,false
 Triple Hot Dog,1400,false
 Turkey Steak Dinner,1400,false
 Undead Broccoli,1400,false
-Blurf Coconut Milk,1375,false
+Blurf Coconut Milk,1100,false
 Carrot Cone,1375,false
 Cheese Manicotti,1375,false
 Cinnamon and Sugar Scone,1375,false
@@ -3640,11 +3640,11 @@ Raspberry Chicken,1375,false
 Starry Gelert Pie,1375,false
 Stealthy Cocorot,1375,false
 Super Sour Slushie,1375,false
-Banana Achyfi,1350,false
+Banana Achyfi,1200,false
 Banana Hot Dog,1350,false
 Basket of Berries,1350,false
 Batter Corn Dog,1350,false
-Berry Xweetok Ice Cream,1350,false
+Berry Xweetok Ice Cream,820,false
 Black Eyed Peas,1350,false
 Blue Cheese Draik Head,1350,false
 Brain Candy Mix,1350,false
@@ -3655,14 +3655,14 @@ Fresh Popcorn,1350,false
 Frosted Cake Hot Dog,1350,false
 Fruity Star Juice,1350,false
 Grape Jam Hot Dog,1350,false
-Honey Glazed Ham,1350,false
-Hot Banana Soup,1350,false
-Hot Meal,1350,false
+Honey Glazed Ham,1300,false
+Hot Banana Soup,1000,false
+Hot Meal,2400,false
 Jelly Rhubarb,1350,false
 Left-Over Turkey Wing Sandwich,1350,false
 Lemon and Thornberry Jelly,1350,false
 Light Faerie Sorbet,1350,false
-Pan Fried Dumplings,1350,false
+Pan Fried Dumplings,1800,false
 Pear,1350,false
 Pickled Eyeballs,1350,false
 Pilfered Mug of Coffee,1350,false
@@ -3672,7 +3672,7 @@ Rambus Salad Sandwich,1350,false
 Raspberry Milkshake,1350,false
 Sandy Sandwich,1350,false
 Settra,1350,false
-Space Cheese,1350,false
+Space Cheese,1075,false
 Star Latte,1350,false
 Tigersquash Swirly Cake,1350,false
 Aisha Cucumber Riceball,1325,false
@@ -3688,7 +3688,7 @@ Loveberry Slushie,1325,false
 Meatball Toasty,1325,false
 Olive Cupcake,1325,false
 Organic Mushroom,1325,false
-Organic Pear Slices,1325,false
+Organic Pear Slices,1600,false
 Plushie Broccoli,1325,false
 Roasted Spyder on a Stick,1325,false
 Spinach and Cream Cheese Dumplings,1325,false
@@ -3697,8 +3697,8 @@ Stuffed Eel,1325,false
 Tangy Red Melon Slushie,1325,false
 Veggie Nimmo Bento,1325,false
 Altador Buns,1300,false
-Aquaberry Kiko Candy Floss,1300,false
-Archaesaurus Tail,1300,false
+Aquaberry Kiko Candy Floss,1000,false
+Archaesaurus Tail,400,false
 Brogle Berry,1300,false
 Buttered Rice,1300,false
 Checkered Carrot,1300,false
@@ -3718,15 +3718,15 @@ Grilled Sandfish,1300,false
 Grundo Smore,1300,false
 Happy Slorg Mug,1300,false
 Hissi Oil,1300,false
-Homemade Gingerbread House,1300,false
+Homemade Gingerbread House,900,false
 Illusen Mints,1300,false
 Jacket Potato with Broccoli,1300,false
 Jhudora Faerie Straw,1300,false
 Lawyerbrat,1300,false
 Marrow Bean,1300,false
-Mint Tea,1300,false
+Mint Tea,900,false
 Moon Sponge Cake,1300,false
-Mustard Ice Cream,1300,false
+Mustard Ice Cream,180,false
 Mystery Food Tube,1300,false
 Neocrunch Cereal,1300,false
 Nimmo Day Sandwich,1300,false
@@ -3740,7 +3740,7 @@ Plushie Slice of Cake,1300,false
 Qando Fruit Tea,1300,false
 Quiggle Fly Pie,1300,false
 Sand Pear,1300,false
-Scorchio Melted Cheese Sandwich,1300,false
+Scorchio Melted Cheese Sandwich,1050,false
 Shoyru Ice Cream Sculpture,1300,false
 Skeith Ice Cream Sandwich,1300,false
 Snowberry Tea,1300,false
@@ -3777,19 +3777,19 @@ Banana and Chocolate Rock Stick,1250,false
 Blue Shoyru Slushie Cup,1250,false
 Boiling Hot Lava Soup,1250,false
 Burnt Hot Dog,1250,false
-Cactus Blossom,1250,false
+Cactus Blossom,970,false
 Cinnamon Toasties Blast,1250,false
-Coconut and Gooseberry Achyfi,1250,false
+Coconut and Gooseberry Achyfi,1700,false
 Cosmic Cheese Stars,1250,false
 Cranberry Kiko Drink,1250,false
 Dubloon Nuggets,1250,false
 Earl Grey Tea,1250,false
 Faerie Bonbons,1250,false
-Giant Bowl of Cranberry Sauce,1250,false
+Giant Bowl of Cranberry Sauce,230,false
 Grey Ice Cream Cone,1250,false
 Hegelob Peanut Cookies,1250,false
-Intergalactic Ice Cream Cone,1250,false
-Ketchup Relish Dog,1250,false
+Intergalactic Ice Cream Cone,1675,false
+Ketchup Relish Dog,850,false
 Kreludan Fruit Salad,1250,false
 Lemberry Chia Jelly,1250,false
 Mutant Asparagus,1250,false
@@ -3798,13 +3798,13 @@ Pumpkin Eyrie Souffle,1250,false
 Quiggle Stew,1250,false
 Red Eye Egg,1250,false
 Shenkuu Shrimp-Fried Rice,1250,false
-Soy Chai Latte,1250,false
+Soy Chai Latte,1200,false
 Spicy Coconut Soup,1250,false
 Tangellasicle,1250,false
 The Faerie Queen Burrito,1250,false
 Tigersquash Cappucino,1250,false
 Almond Cranberry Trail Mix,1225,false
-Bacon Muffin,1225,false
+Bacon Muffin,450,false
 Bark Taco,1225,false
 Blooble and Cheese Plate,1225,false
 Boiled Peanut Dash Peanuts,1225,false
@@ -3812,7 +3812,7 @@ Broccoli Achyfi,1225,false
 Brown Sugar Sweet Potato,1225,false
 Buttered Popcorn,1225,false
 Calcium Supplement,1225,false
-Candy Apple Latte,1225,false
+Candy Apple Latte,1200,false
 Crunchy Carrot Burger,1225,false
 Faerie Tea Bowl,1225,false
 Flamear,1225,false
@@ -3838,9 +3838,9 @@ Bubblegum Kiko Drink,1200,false
 Butter Sweet Potato,1200,false
 Caramel Coated Pear,1200,false
 Caramel Latte,1200,false
-Caramel Shaved Ice,1200,false
-Carrot,1200,false
-Carrot Lupe Treat,1200,false
+Caramel Shaved Ice,1100,false
+Carrot,950,false
+Carrot Lupe Treat,640,false
 Cheesy Baked Apple Core,1200,false
 Cheesy Kyrii Sandwich,1200,false
 Chocolate Covered Strawberries,1200,false
@@ -3864,7 +3864,7 @@ Fish Bone Delight,1200,false
 Fish Egg Basket,1200,false
 Flaming Christmas Pudding,1200,false
 Flaming Hot Pizza,1200,false
-Flotato,1200,false
+Flotato,450,false
 Frost Center Molten Enchilada,1200,false
 Fruity Bread Salad,1200,false
 Garlic Bread Halves,1200,false
@@ -3877,16 +3877,16 @@ Gruel,1200,false
 Grunion Brucicle,1200,false
 Ham and Cheese Wingwich,1200,false
 Kiwi Sorbet,1200,false
-Leek Stew,1200,false
+Leek Stew,1150,false
 Light Faerie Breath Mints,1200,false
 Lime Chia Pop,1200,false
-Mangorific Slushie,1200,false
+Mangorific Slushie,900,false
 Mega Carrot Pie,1200,false
 Meriberry Shaved Ice,1200,false
 Mutant Toast,1200,false
-Mynci Vegetable Melt Sandwich,1200,false
+Mynci Vegetable Melt Sandwich,1000,false
 Mynci Vegetable Soup,1200,false
-Mystery Dessert Goo,1200,false
+Mystery Dessert Goo,980,false
 Neo Cola Chia Pop,1200,false
 Orange Honey Sticks,1200,false
 Organic Chia Wort Root,1200,false
@@ -3898,7 +3898,7 @@ Potato Omelette Sandwich,1200,false
 Purpanna,1200,false
 Rahketmelon Slushie,1200,false
 Red Bruce Collectors Cup Slushie,1200,false
-Rose Slushie,1200,false
+Rose Slushie,700,false
 Salisbury Steak,1200,false
 Shell Burger,1200,false
 Shenkuu Mountain Miso Soup,1200,false
@@ -3919,9 +3919,9 @@ Veggie Sausage,1200,false
 Wheaty Sloth Day Burger,1200,false
 Yurble Steak,1200,false
 Avocado Jam Toast,1175,false
-Bug-a-licious Parfait,1175,false
+Bug-a-licious Parfait,1400,false
 Candy Cane Hot Dog,1175,false
-Cheese Bomb,1175,false
+Cheese Bomb,500,false
 Cheesecake Salad,1175,false
 Creamy Cloud Ice Cream,1175,false
 El Champion,1175,false
@@ -3935,19 +3935,19 @@ Organic Red Onion,1175,false
 Pant Devil Flask,1175,false
 Scarab Negg,1175,false
 Shishkafruit Jam,1175,false
-Sloth Salad,1175,false
+Sloth Salad,1400,false
 Split Pea Lupe Soup,1175,false
 Sprinkling of Chilli Pepper,1175,false
 Striped Chia Pop,1175,false
 Turnla,1175,false
 Black Currant Milkshake,1150,false
-Carrot Salad,1150,false
+Carrot Salad,970,false
 Cauliflower,1150,false
 Cherry Neocola,1150,false
 Chips and Gravy,1150,false
 Chocolate Waffle Cone,1150,false
 Cloudberry,1150,false
-Flatfruit,1150,false
+Flatfruit,1000,false
 Florg Burger,1150,false
 Fruity Fondue,1150,false
 Giant Grarrl Burger,1150,false
@@ -3974,7 +3974,7 @@ Tomato Shoyru Meatball,1150,false
 Zeenana Cappucino,1150,false
 Blueberry Faerie Bubble,1125,false
 Celery,1125,false
-Coconut Soup,1125,false
+Coconut Soup,470,false
 CPMPB Sandwich,1125,false
 Fruity Usul Acorns,1125,false
 Lime Sorbet,1125,false
@@ -4008,11 +4008,11 @@ Firefish Basket,1100,false
 Flaming Bomberry Tea,1100,false
 Fresh Kreluberry,1100,false
 Galactic Space Punch,1100,false
-Garlic Juice,1100,false
+Garlic Juice,1900,false
 Gaseous Moonpie,1100,false
 Glowing Lettuce Head,1100,false
 Gormet Coffee,1100,false
-Ground Beef Smores,1100,false
+Ground Beef Smores,430,false
 Hot Cakes,1100,false
 Illusen Day Jelly,1100,false
 Islandberry Faerie Bubble,1100,false
@@ -4020,7 +4020,7 @@ Jazan Cake,1100,false
 Lenny Coffee Mug,1100,false
 Lime Tuskaninny Pop,1100,false
 Limed Iced Tea,1100,false
-Lutari Pancakes,1100,false
+Lutari Pancakes,5500,false
 Meaty Chia Soup,1100,false
 Ogrin Meatballs,1100,false
 Pluburb,1100,false
@@ -4068,7 +4068,7 @@ Esophagor Snack Jar,1050,false
 Flotsam Kelp Shake,1050,false
 Gamaberry Stuffed Jacket Potato,1050,false
 Grenelon Slushie,1050,false
-Ionized Onion,1050,false
+Ionized Onion,1550,false
 Iron Supplement,1050,false
 Jacket Potato with Onions,1050,false
 Jhudora Day Ice Cream,1050,false
@@ -4076,13 +4076,13 @@ Lemon JubJub Fruit Leather,1050,false
 Lime Jelly Burger,1050,false
 Lupe Sticky Rice Cake,1050,false
 Maraquan Munch Cereal,1050,false
-Minty Blumaroo Cone,1050,false
+Minty Blumaroo Cone,1025,false
 Mushroom Sandwich,1050,false
 Orange Chia Pop,1050,false
 Organic Nectarine,1050,false
 Peanut Butter and Honey Sandwich,1050,false
-Purple Felberry Soup,1050,false
-Singed Dinner Rolls,1050,false
+Purple Felberry Soup,1000,false
+Singed Dinner Rolls,850,false
 Skeith Fizzy Drink,1050,false
 Square Eggs,1050,false
 Stealthy Eyed Burger,1050,false
@@ -4090,8 +4090,8 @@ Tchea Toasty,1050,false
 Triple Scoop of Sorbet,1050,false
 Brown Smoker,1025,false
 Cheese and Onion Baked Apple,1025,false
-Cheese Covered Pretzel,1025,false
-Chocolate Cloud Cookie,1025,false
+Cheese Covered Pretzel,1000,false
+Chocolate Cloud Cookie,1175,false
 Chocolate Kiko Fudge,1025,false
 Cocoa to Share from Kari,1025,false
 Famous Crab Burger,1025,false
@@ -4105,23 +4105,23 @@ Omega Eggs,1025,false
 Orange Bruce Juice,1025,false
 Plumberry Coral Lolly,1025,false
 Pteri Spaghetti,1025,false
-Sandy Pita,1025,false
+Sandy Pita,90000,false
 Savoury Cheese Draik Head,1025,false
 Tangleberry Meerca Tail Fruit Tape,1025,false
 Uni Spinach Sandwich,1025,false
 Vanilla Elephante Sundae,1025,false
 Wailing Bowl of Oats,1025,false
-1/3 Carrot and Pea Omelette,1000,false
+1/3 Carrot and Pea Omelette,510,false
 2/3 Apple and Brie Omelette,1000,false
-2/3 Cheese and Onion Omelette,1000,false
-2/3 Cheese Omelette,1000,false
+2/3 Cheese and Onion Omelette,350,false
+2/3 Cheese Omelette,170,false
 2/3 Tomato and Pepper Omelette,1000,false
 Aisha Radish Riceball,1000,false
 Almost Gummy Rat (Grape),1000,false
 Altador Cup Cheese Platter,1000,false
 Altador Cupcake,1000,false
 Ants on Ants,1000,false
-Apple Jelly Apple,1000,false
+Apple Jelly Apple,230,false
 Artichoke Ice Pop,1000,false
 Asteroid Puffs Cereal,1000,false
 Award Show Snack Pack,1000,false
@@ -4130,12 +4130,12 @@ Bag of Peas,1000,false
 Bag of Slymook Food,1000,false
 Baked Juppie,1000,false
 Banana and Chocolate Rock Slices,1000,false
-Banana Cream Coffee,1000,false
-Beetroot,1000,false
+Banana Cream Coffee,850,false
+Beetroot,500,false
 Berrybiscus Tartlet,1000,false
 Blackened Gruel,1000,false
 Bleeding Heart Jelly Sundae,1000,false
-Blended Pipper,1000,false
+Blended Pipper,1225,false
 Bludberry Coral Lolly,1000,false
 Blue Apple Chia Pop,1000,false
 Blueberry Chia Wings,1000,false
@@ -4150,8 +4150,8 @@ Carnapepper Soup,1000,false
 Carrot Fizz Achyfi,1000,false
 Chebu Chebu Grub,1000,false
 Cheese Xweetok,1000,false
-Cheesenana,1000,false
-Cheesy Apple Stick,1000,false
+Cheesenana,4800,false
+Cheesy Apple Stick,500,false
 Cheesy Baby Cabbage,1000,false
 Cherry Juice,1000,false
 Chips and Curry Sauce,1000,false
@@ -4159,7 +4159,7 @@ Chocolatey Pork Chops,1000,false
 Chomby Veggie Burger,1000,false
 Christmas Picnic Basket,1000,false
 Christmas Tree Negg,1000,false
-Churros,1000,false
+Churros,390,false
 Clove Ham,1000,false
 Coffee Milkshake,1000,false
 Coltzan Negg,1000,false
@@ -4176,14 +4176,14 @@ Doglecoffee,1000,false
 Dried Grapefruit Slices,1000,false
 Dung Doughnutfruit,1000,false
 Durian Custard,1000,false
-Ectoplasm Nachos,1000,false
+Ectoplasm Nachos,1050,false
 Egg Gelatin,1000,false
 Electric Blue Slushie,1000,false
 Faerie Artichoke,1000,false
 Faerie Fondue,1000,false
 Faerie Leaves Hot Dog,1000,false
 Fire and Ice Slushie,1000,false
-Fire Faerie Breath Mints,1000,false
+Fire Faerie Breath Mints,950,false
 Fire Faerie Fondue,1000,false
 Fire Rice,1000,false
 Flaming Hot Chips,1000,false
@@ -4199,7 +4199,7 @@ Green Apple Slushie,1000,false
 Grenanna Meerca Tail Fruit Tape,1000,false
 Grilled Asparagus,1000,false
 Grilled Negg,1000,false
-Guava Roll,1000,false
+Guava Roll,980,false
 Gurrandrillge,1000,false
 Hammy Cheese Wedge,1000,false
 Haunted Brucicle,1000,false
@@ -4221,8 +4221,8 @@ Jelly Doughnut,1000,false
 Jelly Olive,1000,false
 Jelly Tamale,1000,false
 Jhudora Stocking of Treats,1000,false
-Jumbo Pea Sandwich,1000,false
-Kiwi Milkshake,1000,false
+Jumbo Pea Sandwich,1475,false
+Kiwi Milkshake,1175,false
 Kookith Cookies,1000,false
 Korbat Tea Sandwiches,1000,false
 Krawk Apple,1000,false
@@ -4232,7 +4232,7 @@ Lemint Custard,1000,false
 Lemint Pizza Slice,1000,false
 Lemon,1000,false
 Lemon Chia Wings,1000,false
-Lemon Curd,1000,false
+Lemon Curd,1075,false
 Lentil Stew,1000,false
 Light Faerie Sundae,1000,false
 Limeade,1000,false
@@ -4248,7 +4248,7 @@ Meat Tuskabob,1000,false
 Meepit Juice,1000,false
 Melted Ice Cube,1000,false
 Meridellian Blend Coffee,1000,false
-Mint Chocolate Chip Smore,1000,false
+Mint Chocolate Chip Smore,1900,false
 Moehog Veggie Sandwich,1000,false
 Mummy Spaghetti,1000,false
 Mushroom and Herb Salad,1000,false
@@ -4258,7 +4258,7 @@ Nimmo Cream Cakes,1000,false
 Nimmo Sheppards Pie,1000,false
 Office Catering,1000,false
 Ogrin Fruit Salad,1000,false
-Onion and Sliced Mushroom Soup,1000,false
+Onion and Sliced Mushroom Soup,2100,false
 Onion Cola,1000,false
 Orange Ixi Drink,1000,false
 Organic Carrot Juice,1000,false
@@ -4368,15 +4368,15 @@ Voidberry Cobbler,1000,false
 Warm Caramel Latte,1000,false
 Wheaty Kyrii Sandwich,1000,false
 Yooyuball Rice Ball,1000,false
-1/3 Green Pepper Omelette,990,false
+1/3 Green Pepper Omelette,700,false
 A Smatter of Butter,990,false
-Authentic Tyrannian Coffee,990,false
-Banana Sundae,990,false
+Authentic Tyrannian Coffee,450,false
+Banana Sundae,2000,false
 Blueberry Roll,990,false
-Chokato Toasty,990,false
+Chokato Toasty,1600,false
 Elderly Hot Dog,990,false
 Fresh Faerie Fruit Parasol Punch,990,false
-Jelly Stars,990,false
+Jelly Stars,1125,false
 Kreludan Jelly Cupcake,990,false
 Light Faerie Cookie Sandwich,990,false
 Lussion Fruit,990,false
@@ -4404,7 +4404,7 @@ Blueberry Kyrii Slushie,980,false
 Caramalised Blunkabean,980,false
 Chokato Mash Jacket Potato,980,false
 Double Mustard Double Bacon Hot Dog,980,false
-Fire Faerie Cupcake,980,false
+Fire Faerie Cupcake,1350,false
 Flaming Hot Chilli Bowl,980,false
 Gelert Day Cereal,980,false
 Gooseberry Shake,980,false
@@ -4412,24 +4412,24 @@ Ice Milk Red Tea,980,false
 Icy Fried Chicken,980,false
 Jelly Pecan,980,false
 Kiko Cola,980,false
-Kiko Fudge Sundae,980,false
+Kiko Fudge Sundae,940,false
 Kiwi and Cucumber Sandwich,980,false
 Lesser Bearded Plantfruit,980,false
-Rainbow Chia Pop,980,false
+Rainbow Chia Pop,520,false
 Strawberry Flotsam Day Shake,980,false
 Tofu Pumpkin,980,false
 Twirly Fruit Shoyru Ice Cream,980,false
 Vegetable Dip Platter,980,false
-Bacon Deluxe Hot Dog,970,false
+Bacon Deluxe Hot Dog,900,false
 Black Licorice,970,false
 Cheese and Beans Jacket Potato,970,false
 Chicken Curry,970,false
 Coffee Slushie,970,false
-Fried Hot Dog,970,false
+Fried Hot Dog,760,false
 Grape Chia Wings,970,false
 Harris Vegan Platter,970,false
 Nova Defender Cereal,970,false
-Peanut Berry Trail Mix,970,false
+Peanut Berry Trail Mix,750,false
 Peanut Butter Toast,970,false
 Pineapple Juice Bottle,970,false
 Pot Of Peanuts,970,false
@@ -4438,13 +4438,13 @@ Cheese Skeith,960,false
 Chocolate Taquitos,960,false
 Flaming Hot Burrito,960,false
 Organic Baby Carrots,960,false
-Pant Devil Lunch Box,960,false
+Pant Devil Lunch Box,1300,false
 Peach Chia Wings,960,false
-Skarl Kebab,960,false
+Skarl Kebab,900,false
 TNT Coffee Mug,960,false
 Treasure Chest Cake,960,false
-2/3 Green Pepper Omelette,950,false
-Bluecheese Dressing,950,false
+2/3 Green Pepper Omelette,200,false
+Bluecheese Dressing,500,false
 Brown Ixi Acorn,950,false
 Buzz Meatloaf,950,false
 Carved Cantaloupe,950,false
@@ -4468,7 +4468,7 @@ Marshmallow Milkshake,950,false
 Marshmallow Sweet Potato,950,false
 Mega Tonu Day Burger,950,false
 Natural Gum,950,false
-Orange Roll,950,false
+Orange Roll,1000,false
 Pound Cake and Frosting Sandwich,950,false
 Rainbow Shaved Ice,950,false
 Screlon Gormball Sandwich,950,false
@@ -4489,12 +4489,12 @@ Bronto Bite,930,false
 Dinner Hot Dog,930,false
 Epple Sandwich,930,false
 Fava Beans,930,false
-Golden Florange,930,false
+Golden Florange,920,false
 Half-Eaten Chicken Pie,930,false
 Lime Ruki Sundae,930,false
 Lychee Slushie,930,false
 Meat Kebab,930,false
-Minty Flotsam Day Shake,930,false
+Minty Flotsam Day Shake,840,false
 Peanut Dash Cookie,930,false
 Potato and Sweetcorn Soup,930,false
 Pteri Sundae,930,false
@@ -4510,9 +4510,9 @@ Kacheek Vanilla Pudding,920,false
 Mop n Slop,920,false
 Potato Jacket Dog,920,false
 Prickly Merato Sandwich,920,false
-Sparkling Blue New Year Juice,920,false
+Sparkling Blue New Year Juice,28000,false
 Clown Chia Zeenana Ice Cream,910,false
-Ham,910,false
+Ham,600,false
 Red Bean Bubble Green Tea,910,false
 Spherical Cherry,910,false
 Bat Cookie,900,false
@@ -4533,38 +4533,38 @@ Dark Faerie Sundae,900,false
 Decaf Espresso,900,false
 Deep-Fried Fried Fishsticks,900,false
 Deluxe Chocolate Fondue,900,false
-Dr. Backwash,900,false
+Dr. Backwash,600,false
 Dried Duoroot,900,false
 Earth Faerie Sundae,900,false
 Edible Purple Socks,900,false
-Fake Blumaroo Steak,900,false
+Fake Blumaroo Steak,570,false
 Fresh Chicken Broth,900,false
 Freshwater Kiko Taffy,900,false
 Fruity Faerie Fingers,900,false
 Golden Stalk,900,false
-Gooseberry Juice,900,false
+Gooseberry Juice,600,false
 Green Oat Cereal,900,false
 Honeyplume,900,false
-Ice Milk Green Tea,900,false
+Ice Milk Green Tea,940,false
 Jicama,900,false
 Joint of Ham,900,false
-Kookith Vegan Platter,900,false
+Kookith Vegan Platter,1375,false
 Lemint Muffin,900,false
-Lemon Brucicle,900,false
+Lemon Brucicle,230,false
 Mac and Cheese,900,false
 Meat Lasagne,900,false
-Meatless Meatballs,900,false
+Meatless Meatballs,380,false
 Multi-scoop Ice Cream,900,false
 Negg Slushie,900,false
 Neo Taco,900,false
 Orange Chia Wings,900,false
-Organic Cucumber,900,false
+Organic Cucumber,800,false
 Origami Donut,900,false
 Pea Chia Wings,900,false
 Pickled Eel,900,false
 Pigalicious Ham Sandwich,900,false
 Pineapple Chia Wings,900,false
-Pirate Potato Crisps,900,false
+Pirate Potato Crisps,2,false
 Plate of Smores,900,false
 Potato Chips on a Paper Plate,900,false
 Quiggle Pasta Salad,900,false
@@ -4610,7 +4610,7 @@ Cheese Puffs,880,false
 Faerie Meatloaf,880,false
 Gnome Crunch Deluxe Cereal,880,false
 Grarrl Cheese Slices,880,false
-Low Fat Milk,880,false
+Low Fat Milk,1000,false
 Marshmallow Grundo,880,false
 Peanut Butter and Pickles,880,false
 Raspberry Mocha Candy Bar,880,false
@@ -4647,13 +4647,13 @@ Delicious Custard Brulee,850,false
 Draik Cracker Sandwich,850,false
 Filling Skeith Steak,850,false
 Grapefruit Tea,850,false
-Haunted Hummus,850,false
-Jelly Corn on the Cob,850,false
+Haunted Hummus,500,false
+Jelly Corn on the Cob,550,false
 Mangcage,850,false
 Organic Tofu,850,false
 Paper-Wrapped Cheese,850,false
 Peach Ice Cream,850,false
-Quiggle Foot Wrap,850,false
+Quiggle Foot Wrap,740,false
 Raspberry Cranberry Juice,850,false
 Red Eggs on Toast,850,false
 Squid Slushie,850,false
@@ -4668,15 +4668,15 @@ Organic Dark Chocolate,840,false
 Peachy Tea,840,false
 Plasma Slushie,840,false
 Purple Ixi Acorn,840,false
-Rock Baby Cabbages,840,false
+Rock Baby Cabbages,200,false
 Seaweed Wrapped Cake,840,false
-Shenkuu Tea Bowl,840,false
+Shenkuu Tea Bowl,680,false
 Skeem on Toast,840,false
 Smelly Sardine Wrap,840,false
 Waffle Sandwich,840,false
 Biscuit Hot Dog,830,false
 Chicken Bread Bowl,830,false
-Chocolate Deluxe Flotsam Day Shake,830,false
+Chocolate Deluxe Flotsam Day Shake,800,false
 Chomate Triple Decker,830,false
 Plaid Cheese,830,false
 Crabby Borovan,820,false
@@ -4686,7 +4686,7 @@ Real Cheese Cheesecake,820,false
 Sack of Potatoes,820,false
 Tangleberry Slorg Slime,820,false
 Flotsam Rice Cracker,810,false
-Glowing Green Soup,810,false
+Glowing Green Soup,2000,false
 Lentil Cookies,810,false
 Strawberry Nimmo Ice Lolly,810,false
 Angry Marshmallows,800,false
@@ -4697,17 +4697,17 @@ Berry Buzz Ice Cream,800,false
 Caramel Baby Cabbage,800,false
 Carton of Orange Juice,800,false
 Celery Salad,800,false
-Cheesy Jetsam Sandwich,800,false
+Cheesy Jetsam Sandwich,690,false
 Cherry Faerie Bubble,800,false
 Coffee-Filled Pear,800,false
-Crab Salad,800,false
+Crab Salad,1200,false
 Dark Faerie Cookie Sandwich,800,false
 Dried Lemoran,800,false
 Faerie Rock Candy,800,false
 Fishy Poogle Pate,800,false
 Flaming Hot Hot Dog,800,false
 Ice Milk Coffee,800,false
-Ice Sickle Pop,800,false
+Ice Sickle Pop,4400,false
 Jelly Parsley,800,false
 Kiwi Slushie,800,false
 Knit Glass Cozy,800,false
@@ -4778,17 +4778,17 @@ Whoot Cookies,780,false
 Blue Orange Chia Pop,770,false
 Chicken Tuskabob,770,false
 Creamy Sutek Bean Soup,770,false
-Flaming Hot Banana,770,false
+Flaming Hot Banana,630,false
 Plain Sloth Day Burger,770,false
 Pterducken,770,false
-Raptraphant Leg,770,false
+Raptraphant Leg,950,false
 Zafara Hot Chocolate,770,false
 Creamy Carrot Soup,760,false
 Half Eaten Cranberry Jelly,760,false
 Pomegranate Iced Tea,760,false
 Wocky Tacos,760,false
 Baggus Dip,750,false
-Blueberry Jelly Draik Head,750,false
+Blueberry Jelly Draik Head,1400,false
 Bottled Droolik Drool,750,false
 Chocolate Fish,750,false
 Cocolatte Slorg Slime,750,false
@@ -4797,7 +4797,7 @@ Freeze-Dried Holiday Meal,750,false
 Fresh Lemint Juice,750,false
 Furry Chocomint Cheese,750,false
 Gooseberry Jelly,750,false
-Inkade,750,false
+Inkade,1000,false
 Meepit Veggie Sandwich,750,false
 Mugless Iced Coffee,750,false
 Pasta Nest,750,false
@@ -4812,7 +4812,7 @@ Unwanted Fruit Cake,750,false
 Veggie Poogle Wrap,750,false
 Deceptive Salad,740,false
 Enoki-n-Cheese Plank,740,false
-Fire Fondue,740,false
+Fire Fondue,3000,false
 Flower Latte,740,false
 Maggot Salad,740,false
 Spicy Mystery Island Coffee,740,false
@@ -4822,8 +4822,8 @@ Lunch Cereal,730,false
 Neopian Central Dog,730,false
 Plain Eyrie Souffle,730,false
 Sroom Fruit on Toast,730,false
-Chilli Stir Fry,720,false
-Chrysanberry Latte,720,false
+Chilli Stir Fry,4,false
+Chrysanberry Latte,740,false
 Durian Biscuit,720,false
 Durian Chia Wings,720,false
 Frosty Pomegranate Latte,720,false
@@ -4868,7 +4868,7 @@ Spotty Cheese Wedge,690,false
 Veggie Flower Cracker,690,false
 Bleumaroo Cheese,680,false
 Breakfast Croissant,680,false
-Ice Cream Machine Sundae,680,false
+Ice Cream Machine Sundae,640,false
 Illusens Green Goddess Potato Salad,680,false
 Jalapeno Pretzel,680,false
 Scrampi Salad,680,false
@@ -4876,17 +4876,17 @@ Checkered Steak,670,false
 Fresh Melon Cubes,670,false
 Gnome Shroom,670,false
 Pumpkin Chip Surprise,670,false
-Roasted Beet Salad,670,false
+Roasted Beet Salad,770,false
 Snowagercone,670,false
 Spherical Lemon,670,false
 Tombscones,670,false
 Coconut Chia Wings,650,false
-Kiwi Cookies,650,false
+Kiwi Cookies,800,false
 Molten Ice Cream Cone,650,false
 Plain Omurice,650,false
 Sketch Loaf,650,false
 Sketch Roast Chicken,650,false
-Slithering Snake Taco,650,false
+Slithering Snake Taco,2500,false
 Strawberry Poogle Cupcake,650,false
 Symol Dinner,650,false
 Tuna Sub,650,false
@@ -4898,11 +4898,11 @@ Nimmo Rice Ball,640,false
 Organic Dill Pickles,640,false
 Organic Pasta,640,false
 That Fruit Basket You Forgot About,640,false
-Cherimoya,630,false
+Cherimoya,320,false
 Garlic Butter Hot Dog,630,false
-Lime Brucicle,630,false
+Lime Brucicle,290,false
 Plain Cheesicle,630,false
-Plain Negg Neggnog,630,false
+Plain Negg Neggnog,1200,false
 Spherical Strawberry,630,false
 Strawberry Chia Wings,630,false
 Ultimate Bulls Eye II Shish Kabob,630,false
@@ -4914,14 +4914,14 @@ Baby Tomatoes,600,false
 Beans with Sausages,600,false
 Burnt Gingerbread Cookies,600,false
 Carrot Chia Wings,600,false
-Chocolate Chip Zafara Cookie,600,false
+Chocolate Chip Zafara Cookie,1000,false
 Chocolate Dipped Ruki Lolly,600,false
 Crystal Negg,600,false
 Fire Faerie Cookie Sandwich,600,false
 Fire Faerie Muffin,600,false
 Frosty Doughnut,600,false
 Grackle-Stuffed Turkey,600,false
-Grarrl Breakfast Platter,600,false
+Grarrl Breakfast Platter,1000,false
 Jalapeno Popper,600,false
 Lenny Casserole,600,false
 Magenorb,600,false
@@ -4935,7 +4935,7 @@ Sprinkling of Oregano,600,false
 Tasty Turnip Tartar,600,false
 Vaeolus Iced Cookie,600,false
 Volcano Chews,600,false
-Flaming Fire Faerie Pizza,590,false
+Flaming Fire Faerie Pizza,500,false
 Fried Ginger,590,false
 River Wave Breeze,590,false
 Savoury Grundo Veggieballs,590,false
@@ -4945,16 +4945,16 @@ Celery Achyfi,580,false
 Celery Stuffed Orange,580,false
 Chamomile Tea,580,false
 Cheesy Krawk Pot,580,false
-Gingerbread Slushie,580,false
-Roast Gargapple,580,false
+Gingerbread Slushie,230,false
+Roast Gargapple,350,false
 Shadow Usul Flask,580,false
 Tomato Dipped Chocolate Bar,580,false
-Blue Raspberry Shaved Ice,570,false
+Blue Raspberry Shaved Ice,1725,false
 Borovan Ice Cream Scoop,570,false
 Buried Burger,570,false
 Checkered Ice Cream,570,false
 Chocolate Baby Cabbage,570,false
-Gruel Pizza,570,false
+Gruel Pizza,500,false
 Warty Blue Cheese,570,false
 Grape and Lime Rock Stick,560,false
 1/3 Bacon and Broccoli Omelette,550,false
@@ -4965,15 +4965,15 @@ Custard Parfait,550,false
 Deviled Delight,550,false
 Faerie Candy Floss,550,false
 Ghastly Stew,550,false
-Mint Chocolate Chip JubJub Sundae,550,false
+Mint Chocolate Chip JubJub Sundae,320,false
 Negg Hunt Box Lunch,550,false
-Slug Flakes,550,false
+Slug Flakes,180,false
 Thornberry Java with Cream,550,false
 Vegetarian Krawk Day Pie,550,false
 Wocky Veggies and Dip,550,false
 Carnapepper Finger Sandwiches,540,false
 Cinnamon Granola Bar,540,false
-Fajita Chips,540,false
+Fajita Chips,120,false
 Goparokko Crunch Cereal,540,false
 Snow Banana,540,false
 Tyrannian Holiday Cookies,540,false
@@ -4986,7 +4986,7 @@ Cheese Tortilla,520,false
 Disgruntled Candy Corn,520,false
 Pant Devil Sandwich,520,false
 Raspberries,520,false
-Bacon Omelette,500,false
+Bacon Omelette,330,false
 Bowl-O-Bones,500,false
 Bubbling Snot Cheese,500,false
 Candy Keys,500,false
@@ -4994,15 +4994,15 @@ Cantelope Fruit Cup,500,false
 Chilled Eyes with Clam Sauce,500,false
 Corn Corndog,500,false
 Flattened Durian,500,false
-Fried Something,500,false
+Fried Something,550,false
 Gooseberry Jam Sandwich,500,false
 Grape Chia Pop,500,false
 Gravel Cereal,500,false
 Green Cabbage,500,false
 Green Ixi Acorn,500,false
-Grey Peach Pie,500,false
+Grey Peach Pie,930,false
 Grunion Fruit Shaved Ice,500,false
-Harffel Flavoured Milk,500,false
+Harffel Flavoured Milk,550,false
 Jelly Cereal,500,false
 Lemon Faerie Bubble,500,false
 Lemonberry Ice Lolly,500,false
@@ -5017,13 +5017,13 @@ Organic Melon Yogurt,500,false
 Peophin Frozen Yogurt,500,false
 Pickled Keno Eggs,500,false
 Pitcher of Water,500,false
-Poogle Steak Left-Overs,500,false
+Poogle Steak Left-Overs,200,false
 Ptolymelon,500,false
 Pulsating Brain Custard,500,false
 Roasted Chestnuts,500,false
 Rock Stew,500,false
-Snot Split,500,false
-Sophies Bowl of Stew,500,false
+Snot Split,1000,false
+Sophies Bowl of Stew,440,false
 Strawberry Artichoke,500,false
 Tavis Tea,500,false
 Tigersquash Corn Dog,500,false
@@ -5033,7 +5033,7 @@ Tooth Faerie Ice Lolly,500,false
 Twirly Fruit,500,false
 Week Old Glass of Milk,500,false
 1/3 Cheese and Onion Omelette,490,false
-Baby Kougra Custard,490,false
+Baby Kougra Custard,1000,false
 Chilli Chia Hot Sauce,490,false
 Eye Candy,490,false
 Meat and Vegetables Tube,490,false
@@ -5041,7 +5041,7 @@ Raspberry Fyora Pop,490,false
 Tigersquash Crepe,490,false
 Tofu and Veggie Sandwich,490,false
 2/3 Chokato Omelette,480,false
-Cheese and Onion Omelette,480,false
+Cheese and Onion Omelette,300,false
 Delicious Ruki Crackers,480,false
 Frucumber,480,false
 Golden Ivy Leaves,480,false
@@ -5052,13 +5052,13 @@ Scurvy-B-Gone,480,false
 Tangella on Toast,480,false
 Basket of Peanuts,470,false
 Gammon Dinner,470,false
-Kau Kau Farm Cheddar Cheese Brick,470,false
+Kau Kau Farm Cheddar Cheese Brick,750,false
 Plate of Peanuts,470,false
 Scorchio Banana Cake,470,false
 Baby Chomby Cookie,460,false
 Blueberries,460,false
 Cackleberry,460,false
-Dried Squid on a Stick,460,false
+Dried Squid on a Stick,1375,false
 Flaming Hot coffee,460,false
 Meaty Pot Pie,460,false
 Molten Hot Chilli,460,false
@@ -5069,9 +5069,9 @@ Berry Topped Frozen Yogurt,450,false
 Captain Scarblade Crunch Cereal,450,false
 Cherry Granola Bar,450,false
 Chocolate Skeith Cone,450,false
-Coltzans Shrine Ice Cream Cone,450,false
+Coltzans Shrine Ice Cream Cone,220,false
 Green Tea Custard,450,false
-Ixi Cheese Basket,450,false
+Ixi Cheese Basket,260,false
 Java Jive,450,false
 Leek,450,false
 Lentil Pie,450,false
@@ -5089,19 +5089,19 @@ White Chocolate Baby Cabbage,450,false
 Wocky Pot Pie,450,false
 1/3 Sausage and Pepperoni Omelette,440,false
 JubJub Blueberry Juice,440,false
-Pretty Fizzy Fruit Drink,440,false
+Pretty Fizzy Fruit Drink,900,false
 Rhuby Fruit,440,false
 Rhuby Fruit Jam Hot Dog,440,false
 Cheese Crumb,430,false
-Coffee,430,false
-Delicious Negg Slices,430,false
+Coffee,150,false
+Delicious Negg Slices,800,false
 Ghostly Soup,430,false
 Sausage and Cheese Roll,430,false
 Split Pea Soup Bowl,430,false
 Stramberry Coconut Milk,430,false
-Crunchy Kacheek Cereal,420,false
+Crunchy Kacheek Cereal,740,false
 Illusen Day Drink,420,false
-Negg Nobody Found Last Year,420,false
+Negg Nobody Found Last Year,200,false
 Qando Sundae,420,false
 Tekels Questionable Stew,420,false
 Sand Banana,410,false
@@ -5126,7 +5126,7 @@ Mouldy Potato,400,false
 Mulled Fruit Juice,400,false
 Organic Plain Yogurt,400,false
 Pepper Chia Wings,400,false
-Primordial Thing,400,false
+Primordial Thing,200,false
 Quadruple Fudge Cheese,400,false
 Rancid Old Meat,400,false
 Sabre-Xs Egg Salad,400,false
@@ -5142,16 +5142,16 @@ Tasty Bag of Mutant Grundo Marshmallows,400,false
 What the Aisha Dragged In,400,false
 Woo Woo Grub,400,false
 Bloody Finger Hotdog,390,false
-Can of Neocola,390,false
+Can of Neocola,380,false
 Chocolate Covered Tomato,390,false
 Jammy Courgette Slice,390,false
 Lunch Tray,390,false
-Meridell Pudding,390,false
+Meridell Pudding,210,false
 Shrimp Kebab,390,false
 Superior Fir Cookies,390,false
 Tomato and Pepper Omelette,390,false
 Blueberry Chia Pop,380,false
-Elderberry Achyfi,380,false
+Elderberry Achyfi,1025,false
 Half Eaten Pirate Jelly,380,false
 Iced Fish Cake,380,false
 Jelly Asparagus,380,false
@@ -5160,7 +5160,7 @@ Potato Chia Wings,380,false
 Radish,380,false
 Snowberry Chia Pop,380,false
 Alabriss Food,370,false
-Desert Candy Cane,370,false
+Desert Candy Cane,230,false
 Honey Filled Olive,370,false
 Vanilla Milkshake,370,false
 Wicked Wocky Wobble Sandwich,370,false
@@ -5191,14 +5191,14 @@ Tropical Noodle Surprise,350,false
 Yurble Pasta,350,false
 Curried Mussels,340,false
 Giant Turmac Omelette,340,false
-Jelly Nova,340,false
+Jelly Nova,300,false
 Organic Grapefruit Yogurt,340,false
-Recycled Candy Corn,340,false
+Recycled Candy Corn,290,false
 Thornberry Fruit Grog,340,false
 Tyrannian Dung Cheese,340,false
 Bag of Nuts,330,false
 Frubix Cube on Toast,330,false
-Haunted Milk,330,false
+Haunted Milk,200,false
 Icy Hot Berry Iced Tea,330,false
 Lutaya,330,false
 Ruki Juicebox,330,false
@@ -5211,7 +5211,7 @@ Ghostly Hot Dog,320,false
 Peanut,320,false
 Symol White Cheddar Cheese Ball,320,false
 Yullie Log Cake,320,false
-Aisha Toffee Apple,310,false
+Aisha Toffee Apple,290,false
 Cornupepper Jelly,310,false
 Jelly Berries,310,false
 Lemon Jelly,310,false
@@ -5221,18 +5221,18 @@ Nautilus,310,false
 Raspberry Jelly,310,false
 Strawberry Jelly,310,false
 Toe Nail Soup,310,false
-2/3 Veggie Delight Omelette,300,false
+2/3 Veggie Delight Omelette,75,false
 Asparagus Delight Slushie,300,false
 Bacon and Broccoli Omelette,300,false
-BBQ Sauce Omelette,300,false
+BBQ Sauce Omelette,400,false
 Box of Leftover Muffins,300,false
 Chocolate Scorchio Ice Cream Sundae,300,false
 Chokato Crisps,300,false
-Citrus Usul Shake,300,false
+Citrus Usul Shake,700,false
 Citrusquash Fruit,300,false
-Deli Turkey Slices,300,false
+Deli Turkey Slices,100,false
 Easy-to-make Insta-meal,300,false
-Festering Coffee,300,false
+Festering Coffee,100,false
 Florg Ice Cream,300,false
 Goparokko Sugar Cubes,300,false
 Islandberry Fruit Kebab,300,false
@@ -5245,8 +5245,8 @@ Nacho Cheese Stuffed Hot Dog,300,false
 Noil Tea,300,false
 Pyracone,300,false
 Qando Pita,300,false
-Rose-Flavoured Coffee,300,false
-Sand Shake,300,false
+Rose-Flavoured Coffee,980,false
+Sand Shake,330,false
 Sausage Omelette,300,false
 Sludge Pie,300,false
 Small Fruit Basket,300,false
@@ -5263,12 +5263,12 @@ Up For Grabs Lunch Leftovers,300,false
 Blandfish,290,false
 Furanga Fruit,290,false
 Green Pepper Omelette,290,false
-Hot Dog with Mustard & Relish,290,false
+Hot Dog with Mustard & Relish,120,false
 Mortog Stew,290,false
 Turkey and Cranberry Omelette,290,false
 Turkey With Candy Cane Stuffing,290,false
 Bori Veggie Special,280,false
-Checkerboard Pizza,280,false
+Checkerboard Pizza,800,false
 Clove Covered Orange,280,false
 Extreme Holiday Potato,280,false
 Mutton Stew,280,false
@@ -5283,8 +5283,8 @@ Ultimate Bullseye II Crispie Rice Treat,270,false
 Doughnutfruit Sandwich,260,false
 Lime Snow Puff,260,false
 2/3 Mushroom Omelette,250,false
-Bluehamberry Burger,250,false
-Bruno’s Burnt Christmas Cake,250,false
+Bluehamberry Burger,420,false
+Bruno’s Burnt Christmas Cake,680,false
 Chokato Kougra Pudding,250,false
 Chunky Meaty Stew,250,false
 Gooey Jetsam Sandwich,250,false
@@ -5303,13 +5303,13 @@ Echtooh Melon on Toast,240,false
 Fresh Seaweed Pie,240,false
 Molten Lasagne,240,false
 Mynci Meat Pie,240,false
-Soft Tyrannian Cheese and Crackers,240,false
+Soft Tyrannian Cheese and Crackers,400,false
 Azzle Fruit Leather Socks,230,false
 Braku Berries,230,false
 Cherry Milkshake,230,false
-Cherry-tastic Faerie Pie,230,false
+Cherry-tastic Faerie Pie,300,false
 Citadel Stew Spice,230,false
-Crablett,230,false
+Crablett,360,false
 Gooey Bug Soup,230,false
 Gruel Cake,230,false
 Gruisberry,230,false
@@ -5342,7 +5342,7 @@ Florange Jam,200,false
 Grapple,200,false
 Green Herb Dressing,200,false
 Half Rainbow Jelly,200,false
-Hot Fly Cocoa,200,false
+Hot Fly Cocoa,220,false
 Ice Cheese,200,false
 Mutant Ummagine,200,false
 Orange Jelly Sandwich,200,false
@@ -5350,8 +5350,8 @@ Plain Mashed Potato,200,false
 Prawn Cocktail Achyfi,200,false
 Sand Apple,200,false
 Santa Skarl Cookie Crumbs,200,false
-Snowmuncher Salad,200,false
-Space Fungus Sundae,200,false
+Snowmuncher Salad,430,false
+Space Fungus Sundae,60,false
 Spicy Chicken Burrito,200,false
 Spine Cone,200,false
 Strawberry Stone Doughnuts,200,false
@@ -5360,24 +5360,24 @@ Toffee Ice Cream,200,false
 Veggie Hot Dog,200,false
 Cheops Plant,190,false
 Cherry JubJub Fruit Leather,190,false
-Grundo Stix,190,false
+Grundo Stix,25,false
 Hanging Fruit Basket,190,false
 Marracado,190,false
 Organic Tuna Olive Salad,190,false
-Petpetpet Crackers,190,false
+Petpetpet Crackers,250,false
 Puntec Fruit Pasta,190,false
 Snow Coconut,190,false
 Spirulina and Laver Candy,190,false
 Artificially Flavoured Strawberry Snacks,180,false
 B-B-Q Pork,180,false
-Bang Bang Negg,180,false
+Bang Bang Negg,200,false
 Cheops Juice,180,false
 Cup of Frozen Borovan,180,false
 Giant Chocolette,180,false
 Green Apple,180,false
 Lice Rice,180,false
 Marshmallows On A Stick,180,false
-Mutant Tchea,180,false
+Mutant Tchea,190,false
 Pineapple Tarts,180,false
 Ruki Veggie Sandwich,180,false
 Spider Licorice,180,false
@@ -5385,23 +5385,23 @@ Water Faerie Apple,180,false
 Chokato Petpet Food,170,false
 Desert Kiko Snacks,170,false
 Fruity Kiko Necklace,170,false
-Moon Bori,170,false
+Moon Bori,400,false
 Salted Seaweed,170,false
 Turnip Gruel,170,false
 Groggy Grog Nogg,160,false
 Raw Potato,160,false
-Roasted Tchea Fruit,160,false
+Roasted Tchea Fruit,240,false
 Abominable Snowball Borovan,150,false
 Astronaut Meal,150,false
-Beef and Veg Baby Food,150,false
-Buttered Jacket Potato,150,false
+Beef and Veg Baby Food,40,false
+Buttered Jacket Potato,100,false
 Cheese Omelette,150,false
-Cheesy Meat Wrap,150,false
+Cheesy Meat Wrap,100,false
 Ghost Wrap,150,false
 Jumbleberry Achyfi,150,false
 Moon Crunch Cereal,150,false
 Pirate Hot Dog,150,false
-Salmon Fishwich,150,false
+Salmon Fishwich,750,false
 Sand Shroom,150,false
 Scorched Grackle-Stuffed Turkey,150,false
 Scrawnyfish,150,false
@@ -5420,7 +5420,7 @@ Spung,140,false
 Stack of Slightly Used Carrots,140,false
 Symol Bread,140,false
 Thornberry Crepe,140,false
-2/3 Marshmallow Omelette,130,false
+2/3 Marshmallow Omelette,75,false
 2/3 Tangy Tigersquash Omelette,130,false
 Apple Fruit Pancakes,130,false
 Cherry Twist Lollypop,130,false
@@ -5443,16 +5443,16 @@ Sour Cream Hot Dog,120,false
 1/3 Plain Omelette,110,false
 Banan,110,false
 Blueberry Fruit Pancakes,110,false
-Brown Rice,110,false
+Brown Rice,75,false
 Coco NeoCrunch,110,false
-Icy Brucicle,110,false
+Icy Brucicle,50,false
 Lemon Meringue Baby Food,110,false
 Orange,110,false
 Spiked Dariberry,110,false
 Strypedillo,110,false
 1/3 Black Currant Omelette,100,false
 1/3 Clay Omelette,100,false
-1/3 Marshmallow Omelette,100,false
+1/3 Marshmallow Omelette,60,false
 2/3 Ham and Cheese Omelette,100,false
 2/3 Little Fishy Omelette,100,false
 2/3 Meat Feast Omelette,100,false
@@ -5460,18 +5460,18 @@ Strypedillo,110,false
 Adhesive Tape Tostada,100,false
 Artisan Bread,100,false
 Brain Hot Dog,100,false
-Caramel Acara On A Stick,100,false
+Caramel Acara On A Stick,95,false
 Cherries,100,false
 Chocolate Gum Drops,100,false
 Chocolate Milkshake,100,false
 Chomby Head Cupcake,100,false
 Christmas Tree Rice Dumplings,100,false
-Corn and Jelly Ball,100,false
-Crispies,100,false
+Corn and Jelly Ball,45,false
+Crispies,20,false
 Eggs on Rock,100,false
 Endless Salad and Bread Sticks,100,false
 Flaming BBQ Crisps,100,false
-Flat Bread,100,false
+Flat Bread,65,false
 Forest Fruit Baby Food,100,false
 Furanga Brucicle,100,false
 Grackle Bug Steak,100,false
@@ -5496,7 +5496,7 @@ Poogle Shish Kabob,100,false
 Pyramibread,100,false
 Sand Grapes,100,false
 Scorched Chomato,100,false
-Snowager Negg,100,false
+Snowager Negg,110,false
 Stick-O-Sap,100,false
 Teal Juppie,100,false
 Tri-Nana,100,false
@@ -5508,7 +5508,7 @@ Chocolate Korbat Ice Lolly,95,false
 Chokato Omelette,95,false
 Flaming Blooble Fruit Jam,95,false
 Grackle Bug on a Stick,95,false
-Little Fishy Omelette,95,false
+Little Fishy Omelette,75,false
 Meridellian Potato,95,false
 Pineapple,95,false
 Sand Pita,95,false
@@ -5519,8 +5519,8 @@ Yeasty Bread,95,false
 Berry Cola Slushie,90,false
 Delectable Mould Garden,90,false
 Flaming Burnumup,90,false
-Fried Chicken Breast,90,false
-Half Lime Trifle,90,false
+Fried Chicken Breast,55,false
+Half Lime Trifle,40,false
 Half Smelly Jelly,90,false
 Lesser Spotted Burble,90,false
 Maggoty Egg Roll,90,false
@@ -5544,7 +5544,7 @@ Spicy Red Pepper Omelette,85,false
 Spicy Snow Rolls,85,false
 1/3 Chocolate Omelette,80,false
 2/3 Ugga Melon Omelette,80,false
-Chocolate Chip Cookie Slushie,80,false
+Chocolate Chip Cookie Slushie,95,false
 Corn Bread,80,false
 Cranberry Jelly,80,false
 Fish and Chips,80,false
@@ -5564,10 +5564,10 @@ Carawool,75,false
 Flower Cake,75,false
 Grenelon,75,false
 Holiday Dinner In A Can,75,false
-Icestorm Negg,75,false
+Icestorm Negg,190,false
 Jipple Pear,75,false
 Lemon and Lime Fish Pop,75,false
-Meat Wrap,75,false
+Meat Wrap,15,false
 Minced Beef Pretzel,75,false
 Pasta And Eyes,75,false
 Peanut Butter and Pickle Sandwich,75,false
@@ -5581,11 +5581,11 @@ Worm Infested Cheese,75,false
 1/3 Little Fishy Omelette,70,false
 1/3 Pizza Omelette,70,false
 1/3 Twirly Fruit Omelette,70,false
-1/3 Veggie Delight Omelette,70,false
+1/3 Veggie Delight Omelette,45,false
 2/3 Strawberry Omelette,70,false
 Bite Size Celery,70,false
 Chocopie Slice,70,false
-Fresh Kiwi,70,false
+Fresh Kiwi,390,false
 Fresh-Squeezed Grenelon Juice,70,false
 Snot Snake,70,false
 Spinach Feta Omelette,70,false
@@ -5594,16 +5594,16 @@ Strawberry Fruit Pancakes,70,false
 Twirly Fruit Omelette,70,false
 Undead Turnip,70,false
 Beefy Broccoli,65,false
-Cherry Onion Blossom,65,false
+Cherry Onion Blossom,5,false
 Gadgads Bowl,65,false
 Infested Peach,65,false
-Marshmallow Omelette,65,false
+Marshmallow Omelette,70,false
 Pumpkin Slice,65,false
 1/3 Spicy Red Pepper Omelette,60,false
 Chocolate Ice Cream with Pickle Syrup,60,false
-Drillaroot,60,false
-Duck Neck,60,false
-Durbage,60,false
+Drillaroot,5,false
+Duck Neck,40,false
+Durbage,30,false
 Hot Onion Salad,60,false
 Icky Fruit,60,false
 Illusens Cream Cookie,60,false
@@ -5619,7 +5619,7 @@ Dung Taco,55,false
 Grarrl Saliva Soup,55,false
 Grondik Root,55,false
 Orfaberry,55,false
-Paint Chips and Salsa,55,false
+Paint Chips and Salsa,50,false
 Pizza Omelette,55,false
 Scorched Cheops Plant,55,false
 Snowager Cake,55,false
@@ -5639,9 +5639,9 @@ Carved King Hagan Echtooh Melon,50,false
 Cheesy Potato Stuffed Doughnut,50,false
 Cherry Apple,50,false
 Corn On The Cob,50,false
-Cranberries,50,false
+Cranberries,20,false
 Crunchy Skullberry,50,false
-Festive Haunted Woods Cider,50,false
+Festive Haunted Woods Cider,80,false
 Fresh Fruit Surprise Omelette,50,false
 Fried Chicken and Waffles,50,false
 Fruit Fly Surprise,50,false
@@ -5654,7 +5654,7 @@ Lavender Ice Cream,50,false
 Layered Snot Gobstopper,50,false
 Lime Chilli Gum,50,false
 Mashed Potato With Gravy,50,false
-Negg Latte,50,false
+Negg Latte,15,false
 Pesto Banana Burger,50,false
 Purblare,50,false
 Purple Grasper,50,false
@@ -5669,7 +5669,7 @@ Blumaroo Steak,45,false
 Bullseye Pie,45,false
 Burnt Red Eye Egg,45,false
 Chocolate Cone Witch Hat,45,false
-Dandan Sashimi Sushi,45,false
+Dandan Sashimi Sushi,50,false
 Echtooh Melon,45,false
 Eliv Thade Chips,45,false
 Fresh Skeem Fruit Salad,45,false
@@ -5688,7 +5688,7 @@ Crater Fruit,40,false
 Dandergum,40,false
 Freshly Tinned Carrots,40,false
 Half Banana Jelly,40,false
-Half Queela Jelly,40,false
+Half Queela Jelly,25,false
 Half Squished Jelly,40,false
 Half Vanilla and Passion Fruit Jelly,40,false
 Hot Apple Cider,40,false
@@ -5699,7 +5699,7 @@ Minty Rock Ice Cream,40,false
 Pack of Snot-Flavoured Gum,40,false
 Plateau Berries,40,false
 Plushers,40,false
-Pumpkin Pie,40,false
+Pumpkin Pie,10,false
 Raw Wartroot,40,false
 Sakhmetian Grapes,40,false
 Scorched Rhuby,40,false
@@ -5724,16 +5724,16 @@ Half Lemon Jelly,35,false
 Half Peanut Butter Jelly,35,false
 Lime Milkshake,35,false
 Maggot and Cheese Burger,35,false
-Melon Berry Apple,35,false
+Melon Berry Apple,20,false
 Mini Egg Taco,35,false
 Phtlygon Wing,35,false
 Plain Faerie Cake,35,false
-Rainbow Burger with Cheese,35,false
+Rainbow Burger with Cheese,5,false
 Rancid Dung Coffee,35,false
 Rotten Queela Fruit,35,false
 Ruined Ptolymelon,35,false
 Scorched Pyramicake,35,false
-Smoked Tuna on Chocolate Toast,35,false
+Smoked Tuna on Chocolate Toast,30,false
 Squashed Tchea Fruit,35,false
 Strawberry and Cheese Milkshake,35,false
 Surfing Slushie,35,false
@@ -5748,7 +5748,7 @@ Blue Berry Apple,30,false
 Blueberry Fish Pop,30,false
 Callenuella,30,false
 Carrot Stuffed Pepper,30,false
-CoffChai Blended Tea,30,false
+CoffChai Blended Tea,8,false
 Egg In Stone Cup,30,false
 Egg Salad and Cheese Sandwich,30,false
 Fermented Fish Tart,30,false
@@ -5784,7 +5784,7 @@ Waterfish,30,false
 Zombie Marshmallows,30,false
 Ant Soup,25,false
 Apple and Cheese Sandwich,25,false
-Bagguss,25,false
+Bagguss,180,false
 Bunch of Tomatoes,25,false
 Buried Treasure Crackers,25,false
 Burnt Grackle Bug on a Stick,25,false
@@ -5809,18 +5809,18 @@ Half Carnapepper Jelly,25,false
 Half Fish Jelly,25,false
 Half Frozen Jelly,25,false
 Half Nuts and Bolts Jelly,25,false
-Haunted Apple,25,false
+Haunted Apple,4,false
 Ice Cream and Fries,25,false
 Icy Snowager Noodles,25,false
-Kau Ice Lolly,25,false
+Kau Ice Lolly,18,false
 Ketchup Ice Cream,25,false
 Larfle,25,false
 Mashed Potatoes and Mud,25,false
 Negg Noodles,25,false
 Organic Korbat Pumpkins,25,false
 Pea Stuffed Pepper,25,false
-Peanut Butter and Jelly Egg Cabbage,25,false
-Pickled Moehog Feet,25,false
+Peanut Butter and Jelly Egg Cabbage,35,false
+Pickled Moehog Feet,13,false
 Screlon,25,false
 Stuffed Dorkle Pepper,25,false
 Toasted Pyramibread,25,false
@@ -5872,7 +5872,7 @@ Cracked Mummified Pepper,18,false
 Frozen Block of Sustenance,18,false
 Fruit and Vegetable Hand Roll,18,false
 Green Slime and Eggs Delight,18,false
-Grubwich,18,false
+Grubwich,5,false
 Haunted Woods Chocolate Milk Glass,18,false
 Iced Iceberg Salad,18,false
 Rotten Puntec Fruit,18,false
@@ -5892,13 +5892,13 @@ Super Juicy Berry,17,false
 Tempura-Fried Worms,17,false
 Tyrannian Flat Bread,17,false
 Blueberry Beetle Cracker,16,false
-Buttered Watermelon,16,false
+Buttered Watermelon,12,false
 Cheese Jelly,16,false
 Double-Decker Smore,16,false
 Greasy Bread Spread,16,false
-Grub Waffles,16,false
+Grub Waffles,10,false
 Half Eaten Glowing Jelly,16,false
-Imposter Apple,16,false
+Imposter Apple,12,false
 Korbat Seasonal Fruit Basket,16,false
 Meatballs and Worms,16,false
 Strawberry Trifle,16,false
@@ -5906,7 +5906,7 @@ Beetroot and Cream Smores,15,false
 Bone Soup,15,false
 Chocolate Beef Custard,15,false
 Chocolate Faerie Cake,15,false
-Cocoa Juppie,15,false
+Cocoa Juppie,8,false
 Dandelion and Burdock Drink,15,false
 Delightful Petpetpet Medley,15,false
 Glaring Eye Wrap,15,false
@@ -5914,7 +5914,7 @@ Green Tea,15,false
 Half Cheese Jelly,15,false
 Half Tigersquash Jelly,15,false
 Lemon Trifle,15,false
-Lime Trifle,15,false
+Lime Trifle,9,false
 Muntando Apple,15,false
 Onion Puff,15,false
 Peanut Butter Spiders,15,false
@@ -5952,7 +5952,7 @@ Mug of Apple Bobbing Water,13,false
 Paint Milkshake,13,false
 Pear Jelly,13,false
 Pease Porridge,13,false
-Pine Apple,13,false
+Pine Apple,9,false
 Sardine Prune Parfait,13,false
 Scorched Pleto,13,false
 Skeith Juice Cocktail,13,false
@@ -5977,7 +5977,7 @@ Most Delicious Ice Cream Ever,12,false
 Octornapie,12,false
 Operatic Apple,12,false
 Rotten Wormy Apple,12,false
-Sand Cherries,12,false
+Sand Cherries,11,false
 Scorched Gobi Fruit,12,false
 Tonu Rock Cake,12,false
 Treasure Map Negg,12,false
@@ -6005,7 +6005,7 @@ Sprout Borovan,11,false
 Squashed Salisbury Steak,11,false
 Tyrannian Water Beans,11,false
 Altadorian Bread,10,false
-Barnacle Burrito,10,false
+Barnacle Burrito,7,false
 Beetroot Ice Cream,10,false
 Bucket Of Slops,10,false
 Conkerberry,10,false
@@ -6035,7 +6035,7 @@ Sun Dried Techo Claw,10,false
 Water Ice Cream,10,false
 White Apple,10,false
 Apple-Free Apple Cobbler,9,false
-Avocado Baby Food,9,false
+Avocado Baby Food,6,false
 Desert Kabob,9,false
 Elppa Apple,9,false
 Frozen Dinner,9,false
@@ -6080,7 +6080,7 @@ Lupe Snack Pack,8,false
 Old Croutons,8,false
 Rotten Wocky Day Cupcake,8,false
 Scorched Suti Fruit,8,false
-Shadow Usul Ice Lolly,8,false
+Shadow Usul Ice Lolly,35,false
 Suti Fruit,8,false
 Toasted Quiggle Legs,8,false
 Whole Tigersquash Jelly,8,false
@@ -6103,19 +6103,19 @@ Neo Crackers,7,false
 Raspberry Jelly Half,7,false
 Rotten Negg and Onion Quesadilla,7,false
 Salmon Mousse Tea,7,false
-Sand Dabs,7,false
-Sardine Vinegar Gum,7,false
+Sand Dabs,8,false
+Sardine Vinegar Gum,6,false
 Water Jelly,7,false
 Baked Beans,6,false
-Cheese Covered Caramel Apple,6,false
+Cheese Covered Caramel Apple,3,false
 Chocolate Kougra Pudding,6,false
-Coconut Cream Steak,6,false
+Coconut Cream Steak,5,false
 Half Robo Jelly,6,false
 Jug of Fresh Phearade,6,false
 Lint Jelly,6,false
 Moldy Pancakes,6,false
 Pickled Feet,6,false
-Rotten Apple,6,false
+Rotten Apple,3,false
 Rotten Egg Salad,6,false
 Silver Apple,6,false
 Titanic Giant Squid,6,false
@@ -6124,7 +6124,7 @@ Zonutuk Fruit Bowl,6,false
 1/3 Rice Omelette,5,false
 Basket of Gross Berries,5,false
 Box of Trifle Mix,5,false
-Breadfish,5,false
+Breadfish,3,false
 Broken Corn Pyramid,5,false
 Buttered Toast,5,false
 Chilli Prawn Juice,5,false
@@ -6133,19 +6133,19 @@ Crabby Apple,5,false
 Cup of Stagnant Water,5,false
 Designer Blackened Potato,5,false
 Dung Cream Sandwich,5,false
-Edible Smelly Gym Socks,5,false
+Edible Smelly Gym Socks,6,false
 Fire Jelly,5,false
 Flatfruit Lollypop,5,false
 Half Eaten Cornupepper Jelly,5,false
 Madfish,5,false
 Nightsteed Cake,5,false
-Onion Sorbet,5,false
+Onion Sorbet,10,false
 Organic Peanut,5,false
 Purple Felberry,5,false
 Sand Sandwich,5,false
 Slime Sundae,5,false
 Slimesicle,5,false
-Smiley Cake Negg,5,false
+Smiley Cake Negg,2,false
 Square Gelatin,5,false
 Starry Crunch,5,false
 Super Energy Blast Drink,5,false
@@ -6157,15 +6157,15 @@ Beaten Old Apple,4,false
 Coconut Skull Scorchipepper Juice,4,false
 Disappearing Plate of Biscuits,4,false
 Doomfish,4,false
-Fish Jelly,4,false
+Fish Jelly,7,false
 Fishberry,4,false
-Galaxy Energy Drink,4,false
+Galaxy Energy Drink,8,false
 Glowing Jelly,4,false
 Grarrl Keno Negg,4,false
 Gummy Baby Space Fungus,4,false
-Hasee Puff Cereal,4,false
+Hasee Puff Cereal,6,false
 Homemade Marmalade,4,false
-Jhudora Rotten Negg,4,false
+Jhudora Rotten Negg,1,false
 Maraquan Apple,4,false
 Meteor Bites,4,false
 Mortogberry,4,false
@@ -6186,14 +6186,14 @@ Zeenana Peel,4,false
 Alien Aisha Splurgles,3,false
 Butterfish,3,false
 Dented Can of Neocola,3,false
-Dirt Pie,3,false
-Eyefish,3,false
+Dirt Pie,1,false
+Eyefish,2,false
 Fresh Clam Jam,3,false
 Ixi Hoof Soup,3,false
 Meat Cake,3,false
 Melowhirl,3,false
 Meridell Gravy,3,false
-Mud n Mayo Dip,3,false
+Mud n Mayo Dip,2,false
 Nurako,3,false
 Pickled Leeches,3,false
 Pimplepepper,3,false
@@ -6209,19 +6209,19 @@ Bombfish,2,false
 Corn Balls,2,false
 Cubefish,2,false
 Dried Mango,2,false
-Dung Jelly,2,false
+Dung Jelly,5,false
 Esophagor Bowl of Slimy Stew,2,false
 Fractalpus,2,false
 Funnydew Melon,2,false
 Giant Giant Squid,2,false
-Grumblebug Pie,2,false
+Grumblebug Pie,5,false
 Gummy Pirate Candies,2,false
 Nutritional Blockberry,2,false
 Oil and Grease Jelly,2,false
 Radarfish,2,false
 Robo Jelly,2,false
 Rocket Fizzy Drink,2,false
-Small Giant Squid,2,false
+Small Giant Squid,1,false
 Squished Tomato,2,false
 Vampire Apple,2,false
 Chaosfish,1,false
@@ -6265,8 +6265,8 @@ Blue Yurble Sandwich,(r101),false
 Brains a la Tree,(r110),false
 Burnt Shadow Shoyru Grilled Sandwich,(r101),false
 Bushel of Illusen Apples,(r101),false
-Camouflage Poogle Fizzy Drink,(r101),false
-Capn Threelegs Cutlass Crusade,(r100),false
+Camouflage Poogle Fizzy Drink,1500000,false
+Capn Threelegs Cutlass Crusade,1200000,false
 Carburnujelly Sandwich,(r101),false
 Carburnup Pepper,(r180),false
 Chocolate Coated Blue Cheese,(r99),false
@@ -6437,10 +6437,10 @@ Sushi Boat,Inflation Notice,false
 Luxury Cabbage Cake,Inflation Notice,false
 Cloud Meerca Cocoa,Inflation Notice,false
 Four Layer Carrot Cake,Inflation Notice,false
-Roast Pork,Inflation Notice,false
-Geopeppers,Inflation Notice,false
+Roast Pork,1800000,false
+Geopeppers,2000000,false
 Zeenana,Inflation Notice,false
-Blood Mole Plant,Inflation Notice,false
+Blood Mole Plant,4000000,false
 Marafalop,Inflation Notice,false
 TeaLeef,Inflation Notice,false
 Platinum Negg,Inflation Notice,false
@@ -6489,24 +6489,24 @@ Negg Neocola,Inflation Notice,false
 Cloudberry Doughnutfruit,Inflation Notice,false
 Spyder Ice Cream Sundae,Inflation Notice,false
 Sunset on the Beach,Inflation Notice,false
-Altador Cup Cake,Inflation Notice,false
+Altador Cup Cake,430000,false
 Double Chocolate Ice Cream,Inflation Notice,false
-Fiery Seasonal HOT Chocolate,Inflation Notice,false
-Shenkuu Faerie Mushroom,Inflation Notice,false
+Fiery Seasonal HOT Chocolate,60000,false
+Shenkuu Faerie Mushroom,49400,false
 Pink Spooky Ice Cream,Inflation Notice,false
 Flying Holiday Neggnog,Inflation Notice,false
 Limited Edition Altador Cup Krawkade,Inflation Notice,false
-Brain Ice Cream,Inflation Notice,false
+Brain Ice Cream,14000,false
 Kelps Signature Ice Cream,Inflation Notice,false
 Iced Techo Cupcake,Inflation Notice,false
 Scabergy,Inflation Notice,false
 Garlic Mynci Pizza,Inflation Notice,false
 Strawberry Salmon,Inflation Notice,false
 Lemwart Fizz,Inflation Notice,false
-Haunted Salad,Inflation Notice,false
+Haunted Salad,17000,false
 Cone-Shaped Orange,Inflation Notice,false
 Pineapple Totem Espresso,Inflation Notice,false
-Scarblade Negg,Inflation Notice,false
+Scarblade Negg,166000,false
 Rock Slushie,Inflation Notice,false
 The Blue Chomby Burger,Inflation Notice,false
 Yooyu Treats,Inflation Notice,false
@@ -6529,9 +6529,9 @@ Snowflake Cupcake,Inflation Notice,false
 Negg Juice,Inflation Notice,false
 Usuki Head Stew,Inflation Notice,false
 Lamb Chop,Inflation Notice,false
-Ghost Mashed Potato,Inflation Notice,false
+Ghost Mashed Potato,10000,false
 Jar of Jubble Bubble,Inflation Notice,false
-Chocolate Jack-O-Lantern Chip Cookie,Inflation Notice,false
+Chocolate Jack-O-Lantern Chip Cookie,4000,false
 Stadium of Food,Inflation Notice,false
 Deluxe Organic Salad,Inflation Notice,false
 Spotted Pudding with Custard,Inflation Notice,false
@@ -6858,7 +6858,7 @@ Assassin Plushie,25700,false
 Assorted Fruit Blocks,2175,false
 Assorted Gummy Dice,2975,false
 Assorted Gummy Quiggles,2900,false
-Assorted Jelly Beans,2300,false
+Assorted Jelly Beans,2000,false
 Assorted Mini Biscuits,12,false
 Assorted Neodrops,1000,false
 Assorted Pear Drops,6450,false
@@ -7791,7 +7791,7 @@ Chomato Pudding Cake,1200,false
 Chomby Biscuit,2100,false
 Chomby Day Cupcake,1150,false
 Chomby Fruit Tart,2050,false
-Chomby Pate,1950,false
+Chomby Pate,1025,false
 Chomby Rock Cake,470,false
 Christmas Acara Plushie,2000,false
 Christmas Babaa Plushie,23700,false
@@ -7967,7 +7967,7 @@ Cuddly Grarrl Plushie,865000,false
 Cuddly Kacheek Plushie,860000,false
 Cuddly Lupe Plushie,960000,false
 Cuddly Shoyru Plushie,(r101),false
-Cuddly Wocky Plushie,860000,false
+Cuddly Wocky Plushie,980000,false
 Cui Codestone Plushie,6000,false
 Cup of Borovan Plushie,350,false
 Cupcake Plushie,Inflation Notice,false
@@ -8646,7 +8646,7 @@ Grape Arnold Lolly,1300,false
 Grape Blumaroo Gummy Die,2450,false
 Grape Bruce Muffin,2000,false
 Grape Candy Rock,1850,false
-Grape Grarrl Gummy,1700,false
+Grape Grarrl Gummy,2050,false
 Grape Gummy Book,3350,false
 Grape Gummy Gem,1525,false
 Grape Gummy Mallet,1000,false
@@ -9273,7 +9273,7 @@ Kougra Sugar Skull,10700,false
 Kougrachio Plushie,75000,false
 Koyle Snorkle Lollypop,1525,false
 Krakuberry Mince Pie,3350,false
-Krakuberry Shake,170,false
+Krakuberry Shake,150,false
 Krawk Cheese Quiche,1125,false
 Krawk Island Altador Cup Team Yooyu Plushie,64000,false
 Krawk Paw Cookie,1000,false
@@ -10150,7 +10150,7 @@ Orange Chocolate JubJub,3500,false
 Orange Chocolate Kacheek,5950,false
 Orange Chocolate Kau,630,false
 Orange Chocolate Kiko,950,false
-Orange Chocolate Koi,1375,false
+Orange Chocolate Koi,890,false
 Orange Chocolate Korbat,25,false
 Orange Chocolate Kougra,3000,false
 Orange Chocolate Lupe,2850,false
@@ -10305,7 +10305,6 @@ Petpet Mints,1400,false
 Petty Crewmate Plushie,4975,false
 Phnard Plushie,5000,false
 Piece of my Heart Gingerbread Cookies,11800,false
-Pinata Candy,,false
 Pinceron Plushie,3300,false
 Pinchit Plushie,3850,false
 Pine Cone Cake,11400,false
@@ -10583,7 +10582,7 @@ Purple Hissi Plushie,630,false
 Purple Juppie Pudding,1600,false
 Purple Kau Plushie,200000,false
 Purple Kiko Cookie,(r101),false
-Purple Koi Cake,1250,false
+Purple Koi Cake,1000,false
 Purple Koi Plushie,85500,false
 Purple Korbat Plushie,8300,false
 Purple Kougra Cookie Paw,1875,false
@@ -10989,7 +10988,6 @@ Scordrax Plushie,(r101),false
 Scrambled Egg on Toast,18,false
 Scrambled Egg Pie,2200,false
 Scrambled Egg Sandwich,20000,false
-Scrambled Neggs,,false
 Scrap Plushie,61000,false
 Scratchcard Kiosk Wocky Plushie,500,false
 Screlon Gnorlolly,4000,false
@@ -11232,3 +11230,5 @@ Spaghetti and Meatballs Pizza,6900,false
 Spaghetti and Meatballs Pizza Slice,11100,false
 Spam Shenkuu Sushi,Inflation Notice,false
 Spardel Plushie,4500,false
+Pinata Candy,,false
+Scrambled Neggs,,false
