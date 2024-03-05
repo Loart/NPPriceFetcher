@@ -1,12 +1,12 @@
 original,replacement,edited
-Faerie Slingshot,600000000,false
+Faerie Slingshot,Inflation Notice,false
 Ice Dice,500000000,false
 Bottle Of Magic Sand,250000000,false
 Wand of the Dark Faerie,280000000,false
 Ghostkersword,230000000,false
-Greater Staff of the Earth Faerie,200000000,false
+Greater Staff of the Earth Faerie,220000000,false
 Thyoras Tear,200000000,false
-Leaded Elemental Vial,100000000,false
+Leaded Elemental Vial,Inflation Notice,false
 Bony Grarrl Club,55000000,false
 Blaze,Inflation Notice,false
 Clawed Shield,30000000,false
@@ -18,7 +18,7 @@ Flame Reflectozap,20000000,false
 Mega U-Bend,20000000,false
 Ubikiberry Bag,20000000,false
 Maractite Dimensional Trap,13000000,false
-Ultimate Dark Reflectorb,17000000,false
+Ultimate Dark Reflectorb,20000000,false
 Sword of Lameness,15500000,false
 Acara Transmogrification Potion,15000000,false
 Desert Lutari Morphing Potion,15000000,false
@@ -27,9 +27,9 @@ Fan of Swords,15000000,false
 Stealthy Lutari Morphing Potion,15000000,false
 Gemmed Sword of Light,14000000,false
 Royal Wedding Ring,13000000,false
-Ultra Dual Shovel,14000000,false
+Ultra Dual Shovel,Inflation Notice,false
 Pirate Captains Cutlass,13000000,false
-Illusens Staff,10000000,false
+Illusens Staff,9000000,false
 Lutari Transmogrification Potion,12000000,false
 Twin Faerie Blades,11500000,false
 Glittery Faerie Dust,11000000,false
@@ -37,7 +37,7 @@ Maraquan Kacheek Morphing Potion,10000000,false
 A Shovel,10000000,false
 Air Faerie Crown,10000000,false
 Faerie Ixi Morphing Potion,8000000,false
-Faerie Lutari Morphing Potion,10000000,false
+Faerie Lutari Morphing Potion,12000000,false
 Grey Draik Morphing Potion,8000000,false
 Hubrids Puzzle Box,10000000,false
 Rainbow Scorchstone,10000000,false
@@ -50,7 +50,7 @@ Cloak of the Night,8000000,false
 Faerie Shoyru Morphing Potion,9000000,false
 Hissi Transmogrification Potion,9000000,false
 Plushie Aisha Morphing Potion,9000000,false
-Plushie Cybunny Morphing Potion,9000000,false
+Plushie Cybunny Morphing Potion,15000000,false
 Potion of Healing,9000000,false
 Wheel Shield,9000000,false
 Combo Battle Mirror,8000000,false
@@ -64,7 +64,7 @@ Pirate Lutari Morphing Potion,11000000,false
 Hubrid Nox Memorial Shield,7400000,false
 Faerie Tabard,7300000,false
 Ghostkerbomb,7200000,false
-Green Lutari Morphing Potion,7000000,false
+Green Lutari Morphing Potion,11000000,false
 Heavy Blue Tunic,7000000,false
 Kauvaras Potion,7000000,false
 Maraquan Krawk Morphing Potion,8000000,false
@@ -77,7 +77,7 @@ Ultra Bubble Gun,6500000,false
 Cybunny Transmogrification Potion,6000000,false
 Faerie Cybunny Morphing Potion,6000000,false
 Faerie Poogle Morphing Potion,6000000,false
-Halloween Cybunny Morphing Potion,6000000,false
+Halloween Cybunny Morphing Potion,7000000,false
 Plushie Grundo Morphing Potion,6000000,false
 Plushie Jetsam Morphing Potion,6000000,false
 Skarls Hasty Mace,6000000,false
@@ -102,7 +102,7 @@ Maraquan Ixi Morphing Potion,5000000,false
 Plushie Gnorbu Morphing Potion,5000000,false
 Plushie Kougra Morphing Potion,5000000,false
 Plushie Usul Morphing Potion,4000000,false
-Poogle Transmogrification Potion,5000000,false
+Poogle Transmogrification Potion,8000000,false
 Red Cybunny Morphing Potion,5000000,false
 Shadow Cybunny Morphing Potion,5000000,false
 Speckled Cybunny Morphing Potion,9000000,false
@@ -110,7 +110,7 @@ Spyder Potion,(r101),false
 Starry Cybunny Morphing Potion,Inflation Notice,false
 Vandagyre Transmogrification Potion,3500000,false
 Faerie Ruki Morphing Potion,4000000,false
-Yellow Cybunny Morphing Potion,4800000,false
+Yellow Cybunny Morphing Potion,Inflation Notice,false
 Glowing Battle Dung,4500000,false
 Halloween Hissi Morphing Potion,4000000,false
 Icy Chia Goggles,4500000,false
@@ -120,11 +120,11 @@ Plushie Grarrl Morphing Potion,3500000,false
 Plushie Korbat Morphing Potion,4500000,false
 Stealthy Blumaroo Morphing Potion,4500000,false
 Woodland Cybunny Morphing Potion,Inflation Notice,false
-Wraith Shoyru Morphing Potion,4500000,false
+Wraith Shoyru Morphing Potion,3200000,false
 Faerie Meerca Morphing Potion,4300000,false
 Pirate Captains Hat,4200000,false
 Baby Draik Morphing Potion,4000000,false
-Blue Cybunny Morphing Potion,4000000,false
+Blue Cybunny Morphing Potion,6000000,false
 Chia Mites,3000000,false
 Darigan Skeith Tongue,4000000,false
 Faerie Bori Morphing Potion,4000000,false
@@ -139,16 +139,16 @@ Lenny Transmogrification Potion,4000000,false
 Magical Marbles of Mystery,4000000,false
 Maraquan Grarrl Morphing Potion,4000000,false
 Maraquan Meerca Morphing Potion,4000000,false
-Maraquan Usul Morphing Potion,4000000,false
+Maraquan Usul Morphing Potion,7500000,false
 Plushie Chomby Morphing Potion,4000000,false
 Plushie Kiko Morphing Potion,3800000,false
 Plushie Skeith Morphing Potion,4000000,false
-Purple Draik Morphing Potion,4000000,false
+Purple Draik Morphing Potion,3500000,false
 Rainbow Cybunny Morphing Potion,6000000,false
 Ring of the Lost,4000000,false
 Royal Girl Kyrii Morphing Potion,4000000,false
 Wraith Krawk Morphing Potion,4800000,false
-Xweetok Transmogrification Potion,3600000,false
+Xweetok Transmogrification Potion,4000000,false
 Desert Aisha Morphing Potion,3500000,false
 Desert Krawk Morphing Potion,3500000,false
 Faerie Hissi Morphing Potion,2600000,false
@@ -160,7 +160,7 @@ Maraquan Korbat Morphing Potion,3500000,false
 Maraquan Mynci Morphing Potion,3500000,false
 Red Kacheek Morphing Potion,3500000,false
 Yellow Kacheek Morphing Potion,5000000,false
-Halloween Uni Morphing Potion,3400000,false
+Halloween Uni Morphing Potion,3200000,false
 Wocky Transmogrification Potion,2600000,false
 Baby Aisha Morphing Potion,3000000,false
 Grey Mynci Morphing Potion,3200000,false
@@ -174,8 +174,8 @@ Baby Kougra Morphing Potion,3000000,false
 Bracelet of Kings,(r200),false
 Darigan Kau Morphing Potion,3000000,false
 Desert Blumaroo Morphing Potion,2500000,false
-Disco Kacheek Morphing Potion,3000000,false
-Everlasting Crystal Apple,3000000,false
+Disco Kacheek Morphing Potion,4000000,false
+Everlasting Crystal Apple,3500000,false
 Faerie Fog,2500000,false
 Freezing Potion,2000000,false
 Green Gelert Morphing Potion,2000000,false
@@ -188,26 +188,26 @@ Halloween Grundo Morphing Potion,3000000,false
 Halloween Kau Morphing Potion,3000000,false
 Maractite Hissi Morphing Potion,3000000,false
 Maractite Krawk Morphing Potion,2500000,false
-Maraquan Techo Morphing Potion,3000000,false
+Maraquan Techo Morphing Potion,2400000,false
 Plushie Ixi Morphing Potion,3000000,false
 Plushie Yurble Morphing Potion,3000000,false
 Pteri Transmogrification Potion,2600000,false
-Rainbow Swirly Potion,3000000,false
+Rainbow Swirly Potion,2500000,false
 Red Jetsam Morphing Potion,3000000,false
-Shield of Faerieland,2500000,false
+Shield of Faerieland,2100000,false
 Short Sleeved Yellow Tunic,1700000,false
 Skeith Transmogrification Potion,3000000,false
 Spotted Gelert Morphing Potion,3000000,false
-Spotted Jetsam Morphing Potion,3000000,false
-Spotted Kau Morphing Potion,3000000,false
+Spotted Jetsam Morphing Potion,4000000,false
+Spotted Kau Morphing Potion,3200000,false
 Starry Kacheek Morphing Potion,3000000,false
 Stealthy Kyrii Morphing Potion,3000000,false
 Striped Jetsam Morphing Potion,4000000,false
-Varia is the Bomb,3000000,false
+Varia is the Bomb,3200000,false
 White Ixi Morphing Potion,2500000,false
 Chilli Sword,2900000,false
 Fire Blumaroo Morphing Potion,2600000,false
-Plushie Buzz Morphing Potion,2800000,false
+Plushie Buzz Morphing Potion,Inflation Notice,false
 Plushie Kau Morphing Potion,2800000,false
 Woodland Uni Morphing Potion,3000000,false
 Cloud Gelert Morphing Potion,2000000,false
@@ -225,13 +225,13 @@ Ghost Hissi Morphing Potion,2000000,false
 Green Chia Morphing Potion,2500000,false
 Green Draik Morphing Potion,2500000,false
 Green Jetsam Morphing Potion,2500000,false
-Grey JubJub Morphing Potion,2500000,false
+Grey JubJub Morphing Potion,3000000,false
 Island Gelert Morphing Potion,2500000,false
 Island Kacheek Morphing Potion,2500000,false
 Maractite Draik Morphing Potion,2500000,false
 Purple Chia Morphing Potion,2400000,false
 Speckled Kau Morphing Potion,2500000,false
-Spotted Lupe Morphing Potion,2500000,false
+Spotted Lupe Morphing Potion,Inflation Notice,false
 Darigan Acara Morphing Potion,2400000,false
 Darigan Wocky Morphing Potion,2400000,false
 Faerie Kau Morphing Potion,2700000,false
@@ -246,23 +246,23 @@ Baby Buzz Morphing Potion,2000000,false
 Baby Chomby Morphing Potion,2000000,false
 Baby Hissi Morphing Potion,2000000,false
 Baby JubJub Morphing Potion,2000000,false
-Baby Koi Morphing Potion,2000000,false
+Baby Koi Morphing Potion,1400000,false
 Baby Korbat Morphing Potion,2000000,false
 Baby Meerca Morphing Potion,2000000,false
 Baby Uni Morphing Potion,2000000,false
 Bag of Lenny Healing Seeds,2000000,false
 Blue Chia Morphing Potion,2000000,false
 Blue Gelert Morphing Potion,2000000,false
-Blue Jetsam Morphing Potion,2000000,false
+Blue Jetsam Morphing Potion,Inflation Notice,false
 Blue Kau Morphing Potion,2000000,false
-Blue Lupe Morphing Potion,2000000,false
+Blue Lupe Morphing Potion,Inflation Notice,false
 Blue Usul Morphing Potion,2000000,false
 Brown Ixi Morphing Potion,2000000,false
 Camouflage Chia Morphing Potion,2000000,false
 Camouflage Krawk Morphing Potion,2000000,false
 Checkered Kiko Morphing Potion,2000000,false
 Christmas Chia Morphing Potion,2000000,false
-Christmas Gelert Morphing Potion,2000000,false
+Christmas Gelert Morphing Potion,2500000,false
 Christmas Kacheek Morphing Potion,2800000,false
 Clay Aisha Morphing Potion,Inflation Notice,false
 Crisp Blue Tunic,2000000,false
@@ -278,7 +278,7 @@ Dusty Magic Broom,2000000,false
 Eventide Hissi Morphing Potion,2000000,false
 Faerie Blumaroo Morphing Potion,2000000,false
 Faerie Bruce Morphing Potion,2000000,false
-Faerie Lenny Morphing Potion,2000000,false
+Faerie Lenny Morphing Potion,2500000,false
 Faerie Usul Morphing Potion,2000000,false
 Faerie Yurble Morphing Potion,2000000,false
 Fire Chia Morphing Potion,2000000,false
@@ -287,7 +287,7 @@ Fire Faerie Token,2000000,false
 Fire Ixi Morphing Potion,2000000,false
 Flask of Rainbow Fountain Water,2000000,false
 Golden Coltzan Statue,2000000,false
-Green Kau Morphing Potion,2000000,false
+Green Kau Morphing Potion,2500000,false
 Green Krawk Morphing Potion,2000000,false
 Grey Grarrl Morphing Potion,2000000,false
 Grey Sword,2000000,false
@@ -296,16 +296,16 @@ Halloween Bori Morphing Potion,1800000,false
 Halloween Chia Morphing Potion,2000000,false
 Halloween Eyrie Morphing Potion,2000000,false
 Halloween Ixi Morphing Potion,2000000,false
-Halloween Kyrii Morphing Potion,2000000,false
+Halloween Kyrii Morphing Potion,1900000,false
 Halloween Xweetok Morphing Potion,2000000,false
 Ice Scorchstone,2000000,false
 Illusens Gems,2000000,false
-Irritable Genie-in-a-Bottle,2000000,false
+Irritable Genie-in-a-Bottle,3000000,false
 Island Bruce Morphing Potion,2000000,false
 Island JubJub Morphing Potion,1900000,false
 Island Krawk Morphing Potion,2000000,false
 Island Lupe Morphing Potion,2000000,false
-Island Quiggle Morphing Potion,2000000,false
+Island Quiggle Morphing Potion,1900000,false
 Island Uni Morphing Potion,2000000,false
 Lucky Uni Charm,2000000,false
 Maractite Peophin Morphing Potion,2000000,false
@@ -348,11 +348,11 @@ Wraith Ogrin Morphing Potion,2000000,false
 Wraith Pteri Morphing Potion,2000000,false
 Yellow Draik Morphing Potion,2000000,false
 Yellow Gelert Morphing Potion,2000000,false
-Yellow Jetsam Morphing Potion,2000000,false
-Yellow Kau Morphing Potion,2000000,false
+Yellow Jetsam Morphing Potion,Inflation Notice,false
+Yellow Kau Morphing Potion,2500000,false
 Yurble Transmogrification Potion,2000000,false
 Baby Chia Morphing Potion,1900000,false
-Fire Lupe Morphing Potion,1900000,false
+Fire Lupe Morphing Potion,Inflation Notice,false
 Green Lupe Morphing Potion,1900000,false
 Island Hissi Morphing Potion,1900000,false
 Jar of Spiders,1900000,false
@@ -367,18 +367,18 @@ Grey Lenny Morphing Potion,1700000,false
 Halloween Lenny Morphing Potion,1400000,false
 Island Grundo Morphing Potion,1800000,false
 Plushie Techo Morphing Potion,1800000,false
-Shadow Peophin Morphing Potion,1800000,false
+Shadow Peophin Morphing Potion,2000000,false
 Shadow Ruki Morphing Potion,2000000,false
 Striped Shoyru Morphing Potion,1800000,false
 Wraith Grundo Morphing Potion,3500000,false
-Yellow Chia Morphing Potion,1800000,false
+Yellow Chia Morphing Potion,2000000,false
 Yellow Krawk Morphing Potion,1800000,false
 Plushie Bruce Morphing Potion,7000000,false
 Blue Krawk Morphing Potion,1700000,false
 Electric Ixi Morphing Potion,1700000,false
 Halloween Korbat Morphing Potion,1700000,false
 Pastel Gnorbu Morphing Potion,1100000,false
-Pink Draik Morphing Potion,1700000,false
+Pink Draik Morphing Potion,3000000,false
 Rainbow Lupe Morphing Potion,3000000,false
 Shuriken,1500000,false
 Transparent Lenny Morphing Potion,1500000,false
@@ -386,14 +386,14 @@ Wraith Scorchio Morphing Potion,1700000,false
 Island Zafara Morphing Potion,1760000,false
 Green Usul Morphing Potion,1600000,false
 Purple Scorchstone,1600000,false
-Striped Xweetok Morphing Potion,1600000,false
+Striped Xweetok Morphing Potion,1500000,false
 Yellow Hissi Morphing Potion,1600000,false
 Baby Scorchio Morphing Potion,2000000,false
 Blue Chomby Morphing Potion,1500000,false
 Blue Zafara Morphing Potion,2000000,false
 Bori Transmogrification Potion,1500000,false
 Brown Bruce Morphing Potion,1500000,false
-Chia Transmogrification Potion,1500000,false
+Chia Transmogrification Potion,2000000,false
 Christmas Chomby Morphing Potion,1500000,false
 Christmas Lupe Morphing Potion,1500000,false
 Darigan Bori Morphing Potion,1500000,false
@@ -401,15 +401,15 @@ Darigan Buzz Morphing Potion,1500000,false
 Darigan Eyrie Morphing Potion,1500000,false
 Darigan Kyrii Morphing Potion,1500000,false
 Darigan Techo Morphing Potion,1500000,false
-Dimensional Aisha Morphing Potion,1500000,false
+Dimensional Aisha Morphing Potion,2000000,false
 Elixir of the Pirate,1500000,false
-Eventide Draik Morphing Potion,1500000,false
+Eventide Draik Morphing Potion,2000000,false
 Faerie Quiggle Morphing Potion,1500000,false
 Glowing Lupe Morphing Potion,1500000,false
 Gnorbu Transmogrification Potion,1500000,false
 Green Chomby Morphing Potion,1500000,false
 Green Ixi Morphing Potion,1200000,false
-Green Zafara Morphing Potion,1500000,false
+Green Zafara Morphing Potion,2000000,false
 Grundo Transmogrification Potion,1500000,false
 Halloween Nimmo Morphing Potion,1400000,false
 Island Bori Morphing Potion,2000000,false
@@ -417,9 +417,9 @@ Island Ixi Morphing Potion,1500000,false
 Kaylas Super Special Potion,1500000,false
 Maractite Aisha Morphing Potion,1500000,false
 Maraquan Buzz Morphing Potion,1500000,false
-Plushie Flotsam Morphing Potion,1500000,false
+Plushie Flotsam Morphing Potion,1300000,false
 Purple Zafara Morphing Potion,1500000,false
-Red Ixi Morphing Potion,1500000,false
+Red Ixi Morphing Potion,1700000,false
 Red Kiko Morphing Potion,1500000,false
 Red Lupe Morphing Potion,Inflation Notice,false
 Red Zafara Morphing Potion,1500000,false
@@ -435,38 +435,38 @@ Water Usul Morphing Potion,1500000,false
 Wraith Korbat Morphing Potion,2000000,false
 Yellow Chomby Morphing Potion,2000000,false
 Yellow Kiko Morphing Potion,1500000,false
-Yellow Lupe Morphing Potion,1500000,false
+Yellow Lupe Morphing Potion,2000000,false
 Yellow Usul Morphing Potion,1500000,false
 Yellow Zafara Morphing Potion,1500000,false
-Christmas Kiko Morphing Potion,1400000,false
+Christmas Kiko Morphing Potion,2000000,false
 Eventide Ixi Morphing Potion,999999,false
-Island Usul Morphing Potion,1400000,false
-Mysterious Swirly Potion,1400000,false
-Pink Ruki Morphing Potion,1400000,false
+Island Usul Morphing Potion,2000000,false
+Mysterious Swirly Potion,2000000,false
+Pink Ruki Morphing Potion,2000000,false
 Red Draik Morphing Potion,1400000,false
-Red Kau Morphing Potion,1400000,false
+Red Kau Morphing Potion,2500000,false
 Red Krawk Morphing Potion,1400000,false
 Snow Usul Morphing Potion,1400000,false
 Transparent Elephante Morphing Potion,1400000,false
 Altador Strength Potion,1300000,false
 Baby Usul Morphing Potion,2000000,false
 Blade of Supernova,1300000,false
-Disco Chomby Morphing Potion,1300000,false
+Disco Chomby Morphing Potion,2000000,false
 Dr. Sloths Personal Bath Buddy,1300000,false
 Eventide Aisha Morphing Potion,1300000,false
-Faerie Aisha Morphing Potion,1300000,false
+Faerie Aisha Morphing Potion,1800000,false
 Halloween Meerca Morphing Potion,1300000,false
 Island Poogle Morphing Potion,1300000,false
-Rainbow JubJub Morphing Potion,1300000,false
+Rainbow JubJub Morphing Potion,1800000,false
 Revive Potion,1300000,false
 Sledge Shield,1300000,false
 Starry Zafara Morphing Potion,1300000,false
 Apple Jelly Club,1250000,false
 JubJub Transmogrification Potion,975000,false
-Sorcerers Potion Set,1100000,false
+Sorcerers Potion Set,999999,false
 Blade of Ultranova,Inflation Notice,false
 Christmas Zafara Morphing Potion,1500000,false
-Elixir of Levelling,1200000,false
+Elixir of Levelling,1100000,false
 Eventide Zafara Morphing Potion,1200000,false
 Fire Kau Morphing Potion,2000000,false
 Meerca Transmogrification Potion,999999,false
@@ -474,59 +474,59 @@ Neovian Strength Potion,1200000,false
 Nimmo Transmogrification Potion,1200000,false
 Ogrin Transmogrification Potion,1200000,false
 Pirate Usul Morphing Potion,1200000,false
-Potion of Strategic Maneuvers,655000,false
-Ruki Transmogrification Potion,1200000,false
+Potion of Strategic Maneuvers,740000,false
+Ruki Transmogrification Potion,1500000,false
 Strawberry Lupe Morphing Potion,Inflation Notice,false
 Striped Ixi Morphing Potion,850000,false
 Tuskaninny Transmogrification Potion,1200000,false
 Blade of the Battle Faerie,1100000,false
 Bruce Transmogrification Potion,1100000,false
 Faerie JubJub Morphing Potion,1100000,false
-Potion of Dexterity,1100000,false
+Potion of Dexterity,1200000,false
 Quiggle Transmogrification Potion,1100000,false
 Scroll Potion,1100000,false
 Shoyru Transmogrification Potion,1100000,false
-The Mystical Tablet,1200000,false
-Void Blade,2000000,false
-Sleep Ray,1200000,false
+The Mystical Tablet,1100000,false
+Void Blade,1900000,false
+Sleep Ray,1100000,false
 Altador Cup Throwing Star,(r101),false
 Blue Poogle Morphing Potion,945000,false
-Christmas Acara Morphing Potion,785000,false
+Christmas Acara Morphing Potion,1500000,false
 Cloud Ruki Morphing Potion,999999,false
 Darigan Quiggle Morphing Potion,999999,false
 Disco Acara Morphing Potion,985000,false
 Downsize Power Plus,999999,false
 Fire Acara Morphing Potion,999999,false
 Fire Ruki Morphing Potion,1200000,false
-Ghost Acara Morphing Potion,999999,false
+Ghost Acara Morphing Potion,1500000,false
 Ghost Shoyru Morphing Potion,1100000,false
-Halloween Techo Morphing Potion,999999,false
+Halloween Techo Morphing Potion,1500000,false
 Illusens Silver Shield,975000,false
-Mynci Transmogrification Potion,999999,false
-Pot of Darkness,999999,false
+Mynci Transmogrification Potion,1400000,false
+Pot of Darkness,900000,false
 Potion of Doldrums,930000,false
 Shadow Axe,1700000,false
 Shadow Uni Morphing Potion,Inflation Notice,false
 Starry Usul Morphing Potion,1300000,false
 Tech Bow,999999,false
-Uni Hoof Magnet,999999,false
+Uni Hoof Magnet,640000,false
 Yellow Ixi Morphing Potion,980000,false
 Fire Sceptre,999999,false
 BattleGlowJewel,999999,false
-Blumaroo Transmogrification Potion,990000,false
+Blumaroo Transmogrification Potion,1900000,false
 Brown Ruki Morphing Potion,1500000,false
 Pirate Ixi Morphing Potion,930000,false
 Shadow Korbat Morphing Potion,895000,false
 Earth Faerie Token,999999,false
-Island Wocky Morphing Potion,985000,false
+Island Wocky Morphing Potion,1100000,false
 Blue Acara Morphing Potion,980000,false
 Pink Shoyru Morphing Potion,745000,false
-Pirate Hissi Morphing Potion,243000,false
-Air Sceptre,975000,false
+Pirate Hissi Morphing Potion,400000,false
+Air Sceptre,(r101),false
 Desert Mynci Morphing Potion,975000,false
-Island Eyrie Morphing Potion,975000,false
+Island Eyrie Morphing Potion,870000,false
 Plushie Pteri Morphing Potion,995000,false
-Disco Bruce Morphing Potion,970000,false
+Disco Bruce Morphing Potion,1500000,false
 Strength Serum,735000,false
 Checkered Acara Morphing Potion,965000,false
 Cloud Grundo Morphing Potion,865000,false
@@ -538,10 +538,10 @@ Grarrl Transmogrification Potion,745000,false
 Blue Ruki Morphing Potion,1200000,false
 Brown Uni Morphing Potion,915000,false
 Green Ruki Morphing Potion,1500000,false
-Faerie Tuskaninny Morphing Potion,915000,false
-Scary Dark Potion,915000,false
+Faerie Tuskaninny Morphing Potion,900000,false
+Scary Dark Potion,999999,false
 Rainbow Grundo Morphing Potion,905000,false
-Sinister Scythe,615000,false
+Sinister Scythe,505000,false
 Cloud Acara Morphing Potion,950000,false
 Curved Wocky Sabre,980000,false
 Green Skeith Morphing Potion,820000,false
@@ -550,77 +550,77 @@ Water Sceptre,999999,false
 Green Acara Morphing Potion,Inflation Notice,false
 Snowflake Pendant,Inflation Notice,false
 Sunshine Shield,645000,false
-Woodland Peophin Morphing Potion,895000,false
+Woodland Peophin Morphing Potion,890000,false
 Earth Sceptre,955000,false
-Fire Bori Morphing Potion,860000,false
+Fire Bori Morphing Potion,999999,false
 Plushie Tonu Morphing Potion,870000,false
 Yellow Acara Morphing Potion,999999,false
 Woodland Grundo Morphing Potion,990000,false
-Tonu Transmogrification Potion,880000,false
-Aisha Totem,875000,false
+Tonu Transmogrification Potion,750000,false
+Aisha Totem,900000,false
 Christmas Grundo Morphing Potion,999000,false
 Eventide Kougra Morphing Potion,950000,false
 Pink Peophin Morphing Potion,875000,false
 Pirate Kougra Morphing Potion,999999,false
-Plushie Mynci Morphing Potion,870000,false
-Woodland Acara Morphing Potion,750000,false
+Plushie Mynci Morphing Potion,530000,false
+Woodland Acara Morphing Potion,1400000,false
 Island Blumaroo Morphing Potion,970000,false
 Buzz Transmogrification Potion,590000,false
-Kyrii Transmogrification Potion,850000,false
+Kyrii Transmogrification Potion,955000,false
 Starry Ruki Morphing Potion,Inflation Notice,false
-Blue Grundo Morphing Potion,670000,false
-Christmas Kougra Morphing Potion,990000,false
-Red Peophin Morphing Potion,835000,false
+Blue Grundo Morphing Potion,999999,false
+Christmas Kougra Morphing Potion,950000,false
+Red Peophin Morphing Potion,985000,false
 Swamp Gas Ogrin Morphing Potion,720000,false
 Pirate Spear,455000,false
-Cloud Peophin Morphing Potion,820000,false
+Cloud Peophin Morphing Potion,865000,false
 Red Ruki Morphing Potion,Inflation Notice,false
 Ghost Peophin Morphing Potion,999999,false
 Baby Grundo Morphing Potion,935000,false
 Jhudoras Bewitched Ring,620000,false
 Yellow Ruki Morphing Potion,Inflation Notice,false
 Desert Grundo Morphing Potion,999000,false
-Greater Earthen Potion,690000,false
-Palace Guard Sword,800000,false
+Greater Earthen Potion,999999,false
+Palace Guard Sword,1250000,false
 Scorchio Transmogrification Potion,1500000,false
 Kiko Transmogrification Potion,999999,false
 Pirate Poogle Morphing Potion,790000,false
-Rainbow Koi Morphing Potion,785000,false
-Island Aisha Morphing Potion,940000,false
-Green Hissi Morphing Potion,525000,false
+Rainbow Koi Morphing Potion,810000,false
+Island Aisha Morphing Potion,835000,false
+Green Hissi Morphing Potion,132000,false
 Red Acara Morphing Potion,1500000,false
-Cloud Bori Morphing Potion,760000,false
+Cloud Bori Morphing Potion,900000,false
 Desert Scorchio Morphing Potion,970000,false
-Skarl Royal Flag,770000,false
+Skarl Royal Flag,780000,false
 Snow Bruce Morphing Potion,940000,false
-Brown Grundo Morphing Potion,655000,false
+Brown Grundo Morphing Potion,885000,false
 Desert Yurble Morphing Potion,890000,false
 Pirate Grundo Morphing Potion,795000,false
 Slorg Flakes,765000,false
-Starry Grundo Morphing Potion,725000,false
-Baby Shoyru Morphing Potion,890000,false
+Starry Grundo Morphing Potion,900000,false
+Baby Shoyru Morphing Potion,999999,false
 Faerie Nimmo Morphing Potion,990000,false
 Fire Xweetok Morphing Potion,990000,false
-Uni Charm,740000,false
+Uni Charm,990000,false
 Padded Cybunny Sword,735000,false
 White Skeith Morphing Potion,870000,false
 Wraith Bruce Morphing Potion,705000,false
 Baby Poogle Morphing Potion,600000,false
-Desert Flotsam Morphing Potion,890000,false
-Disco Shoyru Morphing Potion,975000,false
+Desert Flotsam Morphing Potion,1500000,false
+Disco Shoyru Morphing Potion,Inflation Notice,false
 Black Long Sleeved Cape,770000,false
-Light Sceptre,995000,false
-Snow Blumaroo Morphing Potion,715000,false
+Light Sceptre,999999,false
+Snow Blumaroo Morphing Potion,999999,false
 Yellow Peophin Morphing Potion,750000,false
 Baby Peophin Morphing Potion,865000,false
 Blue Peophin Morphing Potion,855000,false
 Potato Potion,700000,false
-Energising Elixir,705000,false
+Energising Elixir,670000,false
 Meridellian Potion of Defence,700000,false
-Spotted Grundo Morphing Potion,700000,false
+Spotted Grundo Morphing Potion,790000,false
 Cloud Ixi Morphing Potion,999999,false
 Ghost Grarrl Morphing Potion,660000,false
-Woodland Lenny Morphing Potion,700000,false
+Woodland Lenny Morphing Potion,620000,false
 Brain Tree Knife,670000,false
 Island Korbat Morphing Potion,665000,false
 Air Faerie Token,770000,false
@@ -628,55 +628,55 @@ Baby Blumaroo Morphing Potion,765000,false
 Dimensional Shoyru Morphing Potion,850000,false
 Skarl Royal Crown,665000,false
 Purple Grundo Morphing Potion,999999,false
-Red Shoyru Morphing Potion,680000,false
+Red Shoyru Morphing Potion,770000,false
 Magic Tiki Mask,915000,false
 Desert Peophin Morphing Potion,900000,false
-Snow Aisha Morphing Potion,530000,false
+Snow Aisha Morphing Potion,525000,false
 Apple Jelly Helmet,735000,false
 Feel Better Soup,715000,false
 Yellow Grundo Morphing Potion,900000,false
-Boots of Jumping,655000,false
-Roxtons Trusty Bowie Knife,605000,false
+Boots of Jumping,Inflation Notice,false
+Roxtons Trusty Bowie Knife,540000,false
 Sketch Peophin Morphing Potion,999999,false
 Skunk Eyrie Morphing Potion,Inflation Notice,false
 Green Shoyru Morphing Potion,695000,false
 Purple Peophin Morphing Potion,999999,false
 Striped Aisha Morphing Potion,510000,false
 Green Peophin Morphing Potion,750000,false
-Island Peophin Morphing Potion,870000,false
+Island Peophin Morphing Potion,999999,false
 Pink Uni Morphing Potion,795000,false
-Christmas Blumaroo Morphing Potion,475000,false
+Christmas Blumaroo Morphing Potion,980000,false
 Christmas Shoyru Morphing Potion,675000,false
 Pirate Slingshot,450000,false
 Bone Sword,850000,false
-Draik Transmogrification Potion,425000,false
+Draik Transmogrification Potion,620000,false
 Faerie Skeith Morphing Potion,825000,false
-Glaive of Verdancy,480000,false
+Glaive of Verdancy,Inflation Notice,false
 Island Skeith Morphing Potion,999999,false
-Purple Shoyru Morphing Potion,620000,false
+Purple Shoyru Morphing Potion,920000,false
 Island Koi Morphing Potion,565000,false
 Silver Peophin Morphing Potion,910000,false
 Swamp Gas Techo Morphing Potion,650000,false
-Eventide Korbat Morphing Potion,610000,false
-Fire Shoyru Morphing Potion,590000,false
+Eventide Korbat Morphing Potion,850000,false
+Fire Shoyru Morphing Potion,960000,false
 Dimensional Kougra Morphing Potion,970000,false
-Eventide Tonu Morphing Potion,695000,false
+Eventide Tonu Morphing Potion,965000,false
 Techo Transmogrification Potion,500000,false
-Zombie Aisha Morphing Potion,920000,false
-Dacardian Swords of Valor,595000,false
+Zombie Aisha Morphing Potion,845000,false
+Dacardian Swords of Valor,930000,false
 Starry Hissi Morphing Potion,285000,false
 Storm Amulet,945000,false
 Pirate Krawk Morphing Potion,500000,false
 Twisted Potion of Strength,575000,false
-Xweetok Battle Batons,320000,false
+Xweetok Battle Batons,495000,false
 Fire Skeith Morphing Potion,900000,false
 Fire Stone Gem,600000,false
 Flaming Torch,455000,false
 Yellow Quiggle Morphing Potion,990000,false
-Brown Aisha Morphing Potion,595000,false
+Brown Aisha Morphing Potion,850000,false
 Sack of Garlic Powder,550000,false
 Yellow Skeith Morphing Potion,985000,false
-Island Xweetok Morphing Potion,885000,false
+Island Xweetok Morphing Potion,850000,false
 Eventide Poogle Morphing Potion,725000,false
 Ultra Fire Gem,550000,false
 Zapatron 2000,355000,false
@@ -684,19 +684,19 @@ Rainbow Wocky Morphing Potion,565000,false
 White Peophin Morphing Potion,940000,false
 Bubbling Lupe Potion,750000,false
 Fire Wocky Morphing Potion,750000,false
-Snow Bori Morphing Potion,999999,false
+Snow Bori Morphing Potion,1500000,false
 Island Techo Morphing Potion,800000,false
-Monoceraptors Toenail,535000,false
-Yellow Wocky Morphing Potion,244000,false
+Monoceraptors Toenail,945000,false
+Yellow Wocky Morphing Potion,680000,false
 Cloud Shoyru Morphing Potion,995000,false
 JubJub Foot Hardening Lotion,755000,false
 Starry Bori Morphing Potion,690000,false
 Starry Shoyru Morphing Potion,745000,false
-Striped Skeith Morphing Potion,830000,false
+Striped Skeith Morphing Potion,990000,false
 Bottled Uni Essence,Inflation Notice,false
-Disco Moehog Morphing Potion,525000,false
+Disco Moehog Morphing Potion,915000,false
 Elephante Transmogrification Potion,800000,false
-Faerie Krawk Morphing Potion,540000,false
+Faerie Krawk Morphing Potion,420000,false
 Faerie Uni Morphing Potion,850000,false
 Fire Aisha Morphing Potion,385000,false
 Galems Cloak,600000,false
@@ -706,39 +706,39 @@ Coltzans Battle Sceptre,425000,false
 Fearsome Gladius,640000,false
 White Shoyru Morphing Potion,765000,false
 Green Flotsam Morphing Potion,975000,false
-Island Tuskaninny Morphing Potion,232000,false
+Island Tuskaninny Morphing Potion,750000,false
 Ghost Korbat Morphing Potion,575000,false
-Lenny Ray Gun of Freezing,270000,false
+Lenny Ray Gun of Freezing,239000,false
 Light Faerie Dust,990000,false
 Christmas Uni Morphing Potion,530000,false
 Illusens Really Sharp Stick,530000,false
-Island Shoyru Morphing Potion,710000,false
+Island Shoyru Morphing Potion,890000,false
 Rainbow Bori Morphing Potion,895000,false
 Starry Skeith Morphing Potion,920000,false
 Aquatic Gem,470000,false
 Rainbow Poogle Morphing Potion,285000,false
-Warriors Might,225000,false
+Warriors Might,400000,false
 Zombie Korbat Morphing Potion,515000,false
-Lightweight Bori Sword,435000,false
+Lightweight Bori Sword,425000,false
 Wooden Krawk Staff,520000,false
-Blue Lenny Morphing Potion,241000,false
+Blue Lenny Morphing Potion,765000,false
 Silver Korbat Amulet,445000,false
 Greater Air Potion,320000,false
 Bag of Sand,545000,false
 Cursed Elixir,Inflation Notice,false
 Moehog Crossbow,425000,false
 Speckled Bori Morphing Potion,985000,false
-Tyrannian Gnorbu Morphing Potion,450000,false
+Tyrannian Gnorbu Morphing Potion,750000,false
 Blue Shoyru Morphing Potion,850000,false
 Water Gnorbu Morphing Potion,600000,false
 Yellow Poogle Morphing Potion,480000,false
 Pirate Shoyru Morphing Potion,935000,false
-Barbed Buzz Dagger,365000,false
-Ruby Encrusted Sceptre,395000,false
+Barbed Buzz Dagger,295000,false
+Ruby Encrusted Sceptre,775000,false
 Tyrannian JubJub Morphing Potion,430000,false
 Spotted Shoyru Morphing Potion,845000,false
 Highland Chia Battle Shield,425000,false
-Pirate Lenny Morphing Potion,360000,false
+Pirate Lenny Morphing Potion,455000,false
 Rainbow Shoyru Morphing Potion,780000,false
 Healing Ankh of the Nimmo,375000,false
 Lupe Chia Bomb,455000,false
@@ -746,44 +746,44 @@ Water Flotsam Morphing Potion,460000,false
 JubJub Flame Ball,450000,false
 Purple Tonu Morphing Potion,920000,false
 Snow Flame,245000,false
-Striped Korbat Morphing Potion,325000,false
+Striped Korbat Morphing Potion,720000,false
 Blue Bori Morphing Potion,990000,false
 Disco Mynci Morphing Potion,385000,false
-Dung Catapult,530000,false
+Dung Catapult,Inflation Notice,false
 Island Nimmo Morphing Potion,370000,false
 Lutari Battle Torch,150000,false
-Rainbow Korbat Morphing Potion,255000,false
+Rainbow Korbat Morphing Potion,Inflation Notice,false
 Red Korbat Morphing Potion,990000,false
 Red Skeith Morphing Potion,965000,false
-Starry Korbat Morphing Potion,249000,false
+Starry Korbat Morphing Potion,Inflation Notice,false
 Checkered Shoyru Morphing Potion,675000,false
 Pteri Dagger,385000,false
-Christmas Bruce Morphing Potion,425000,false
+Christmas Bruce Morphing Potion,980000,false
 Spotted Bori Morphing Potion,815000,false
 Yellow Lenny Morphing Potion,400000,false
-Full Blumaroo Armour,270000,false
-Illusens Hip Blade,385000,false
-Dimensional Poogle Morphing Potion,425000,false
-Full JubJub Armour,395000,false
-Island Lenny Morphing Potion,380000,false
+Full Blumaroo Armour,420000,false
+Illusens Hip Blade,310000,false
+Dimensional Poogle Morphing Potion,460000,false
+Full JubJub Armour,575000,false
+Island Lenny Morphing Potion,560000,false
 Pirate Bori Morphing Potion,525000,false
 Silver Kacheek Armour,345000,false
 Woodland Pteri Morphing Potion,Inflation Notice,false
 Yellow Bori Morphing Potion,380000,false
 Full Korbat Armour,212000,false
 Gold Shoyru Morphing Potion,695000,false
-Hand Carved Blumaroo Bow,350000,false
+Hand Carved Blumaroo Bow,320000,false
 Pirate Pteri Morphing Potion,830000,false
 Potion of Good Dreams,390000,false
 Yellow Bruce Morphing Potion,910000,false
 Cloud Eyrie Morphing Potion,685000,false
 Florbix Blaster,370000,false
 Highland Chia War Paint,365000,false
-Oasis Tonic,500000,false
+Oasis Tonic,211000,false
 Pteri Throwing Feathers,223000,false
 Purple Poogle Morphing Potion,365000,false
 Faerie Buzz Morphing Potion,500000,false
-Pirate Wocky Morphing Potion,535000,false
+Pirate Wocky Morphing Potion,885000,false
 Shadow Shoyru Morphing Potion,860000,false
 Triple Slushie Mix,350000,false
 Billion Degree Sword,345000,false
@@ -793,163 +793,163 @@ Blue Skeith Morphing Potion,985000,false
 Brynns Legendary Sword of Wraith Smiting,305000,false
 Cloud Bruce Morphing Potion,Inflation Notice,false
 Ghost Lenny Morphing Potion,340000,false
-Green Lenny Morphing Potion,350000,false
+Green Lenny Morphing Potion,500000,false
 Starry Bruce Morphing Potion,Inflation Notice,false
-Green Korbat Morphing Potion,345000,false
+Green Korbat Morphing Potion,790000,false
 Maraquan Aisha Bow,325000,false
 Wooden Krawk Mallet,233000,false
-Yurble Forest Blade,345000,false
+Yurble Forest Blade,640000,false
 Bowling Ball of Lost Cities,745000,false
 Speckled Shoyru Morphing Potion,930000,false
-Spotted Korbat Morphing Potion,340000,false
-Bow of the Water Faerie,550000,false
+Spotted Korbat Morphing Potion,Inflation Notice,false
+Bow of the Water Faerie,985000,false
 Icy Bruce Boomerang Of Doom,248000,false
-Blue Bruce Morphing Potion,500000,false
-Glowing Korbat Morphing Potion,325000,false
+Blue Bruce Morphing Potion,965000,false
+Glowing Korbat Morphing Potion,Inflation Notice,false
 Zombie Eyrie Morphing Potion,330000,false
 Blood Grub,325000,false
 Cracked Negg,420000,false
-Pink Kyrii Morphing Potion,247000,false
+Pink Kyrii Morphing Potion,600000,false
 Green Bruce Morphing Potion,Inflation Notice,false
-Dimensional Moehog Morphing Potion,320000,false
+Dimensional Moehog Morphing Potion,400000,false
 Fire Yurble Morphing Potion,750000,false
 Rejuvenating Jar of Brains,545000,false
-Yellow Korbat Morphing Potion,700000,false
+Yellow Korbat Morphing Potion,995000,false
 Bouncy Kiko Ball of Doom,226000,false
 Blue Korbat Morphing Potion,Inflation Notice,false
-Red Lenny Morphing Potion,305000,false
-Bow of the Light Faerie,305000,false
-Kaylas Hat,247000,false
+Red Lenny Morphing Potion,460000,false
+Bow of the Light Faerie,Inflation Notice,false
+Kaylas Hat,Inflation Notice,false
 Makeshift Ships Hammer,211000,false
-Master Wizards Cape,350000,false
+Master Wizards Cape,260000,false
 Ornate Buzz Stinger,Inflation Notice,false
-Pink Koi Morphing Potion,300000,false
-Plushie JubJub Morphing Potion,800000,false
+Pink Koi Morphing Potion,285000,false
+Plushie JubJub Morphing Potion,880000,false
 Red Yurble Morphing Potion,Inflation Notice,false
 Salve for the Bruised Petpet,820000,false
 Staff of Righteous Fury,270000,false
 Ultra Eyrie Eye Mask,290000,false
 Blue Acara Bow,233000,false
 Ethereal Sword,385000,false
-Full Uni Armour,315000,false
+Full Uni Armour,275000,false
 Chia Ray Gun,330000,false
 Christmas Pteri Morphing Potion,Inflation Notice,false
 Electric Grarrl Morphing Potion,290000,false
 Essence of Mortog,290000,false
 Glowing Poogle Morphing Potion,695000,false
-Purple Eyrie Morphing Potion,290000,false
-Striped Blumaroo Morphing Potion,234000,false
+Purple Eyrie Morphing Potion,655000,false
+Striped Blumaroo Morphing Potion,345000,false
 Striped Meerca Morphing Potion,955000,false
 Wooden Kau Wand,194000,false
 Fire Kyrii Morphing Potion,Inflation Notice,false
-Island Buzz Morphing Potion,246000,false
-JubJub Tickler,285000,false
-Purple Uni Morphing Potion,285000,false
-White Linen Tunic,295000,false
-Yellow Buzz Morphing Potion,285000,false
+Island Buzz Morphing Potion,440000,false
+JubJub Tickler,350000,false
+Purple Uni Morphing Potion,550000,false
+White Linen Tunic,325000,false
+Yellow Buzz Morphing Potion,275000,false
 Blue Clockwork Kiko,265000,false
-Blumaroo Health Potion,192000,false
-Brown Clockwork Grundo,240000,false
+Blumaroo Health Potion,525000,false
+Brown Clockwork Grundo,370000,false
 Checkered Poogle Morphing Potion,520000,false
-Christmas Korbat Morphing Potion,485000,false
+Christmas Korbat Morphing Potion,960000,false
 Dangerous Maraquan Yo-yo,400000,false
 Entangling Lenny Lasso,242000,false
 Full Lutari Armour,215000,false
 Gelert Blade of Frozen Wrath,265000,false
 Parachuting First Aid kit,380000,false
 Sack Of Kougranip,320000,false
-Skunk Flotsam Morphing Potion,210000,false
+Skunk Flotsam Morphing Potion,345000,false
 Snow Eyrie Morphing Potion,999999,false
-Blue Wocky Morphing Potion,270000,false
+Blue Wocky Morphing Potion,430000,false
 Lag-B-Gone Serum,295000,false
 Snow Techo Morphing Potion,275000,false
 Staff of Garlicness,220000,false
-Brilliant Poogle Wand,92000,false
+Brilliant Poogle Wand,620000,false
 Camouflage Lenny Morphing Potion,390000,false
 Maractite Scimitar,248000,false
 Rusty Lamppost,202000,false
-Shadow Tonu Morphing Potion,248000,false
-Water Buzz Morphing Potion,270000,false
+Shadow Tonu Morphing Potion,Inflation Notice,false
+Water Buzz Morphing Potion,520000,false
 Blue Quiggle Morphing Potion,Inflation Notice,false
 Island Ogrin Morphing Potion,390000,false
 Snow Ogrin Morphing Potion,330000,false
-Chia Apple Bomb,530000,false
-Purple Yurble Morphing Potion,535000,false
+Chia Apple Bomb,955000,false
+Purple Yurble Morphing Potion,Inflation Notice,false
 Toast Shield,199000,false
 Cloud Lenny Morphing Potion,375000,false
 Fire Pteri Morphing Potion,Inflation Notice,false
 Purple Aisha Morphing Potion,315000,false
 Rainbow Uni Morphing Potion,495000,false
 Brown Lenny Morphing Potion,445000,false
-Cloud Elephante Morphing Potion,217000,false
-Enhanced Acara Potion,475000,false
+Cloud Elephante Morphing Potion,315000,false
+Enhanced Acara Potion,940000,false
 Full Tonu Armour,990000,false
-Golden Scarab Shield,60000,false
+Golden Scarab Shield,Inflation Notice,false
 Halloween Tonu Morphing Potion,480000,false
-Moehog Transmogrification Potion,196000,false
+Moehog Transmogrification Potion,270000,false
 Pirate Draik Morphing Potion,380000,false
-Plushie Poogle Morphing Potion,184000,false
+Plushie Poogle Morphing Potion,240000,false
 Sakhmetian Spear,241000,false
 Faerie Eyrie Morphing Potion,335000,false
-Green Wocky Morphing Potion,310000,false
-Checkered Aisha Morphing Potion,550000,false
-Blue Blumaroo Morphing Potion,500000,false
+Green Wocky Morphing Potion,370000,false
+Checkered Aisha Morphing Potion,565000,false
+Blue Blumaroo Morphing Potion,955000,false
 Camouflage Scorchio Morphing Potion,305000,false
-Golden Bori Staff,246000,false
+Golden Bori Staff,995000,false
 Ixi Elixir of the Woods,Inflation Notice,false
-Jar of Forest Earth,200000,false
-Moehog Bristle Dagger,150000,false
+Jar of Forest Earth,230000,false
+Moehog Bristle Dagger,255000,false
 Neutralising Ray,188000,false
-Scary Spider,137000,false
+Scary Spider,290000,false
 Potion of Purest Red,246000,false
-Tyrannian Sceptre,250000,false
-Enchanted Kiko Squeeze Toy,285000,false
+Tyrannian Sceptre,400000,false
+Enchanted Kiko Squeeze Toy,150000,false
 Full Bori Armour,248000,false
-Gelert Transmogrification Potion,244000,false
+Gelert Transmogrification Potion,345000,false
 Green Quiggle Morphing Potion,930000,false
-Ruby Krawk Shield,165000,false
+Ruby Krawk Shield,Inflation Notice,false
 Blue Tonu Morphing Potion,Inflation Notice,false
 Full Usul Armour,280000,false
 Green Yurble Morphing Potion,Inflation Notice,false
 Altadorian Crest Buckler,125000,false
-Red Hissi Morphing Potion,360000,false
-Pink Eyrie Morphing Potion,430000,false
-Kiko Throwing Plasters,140000,false
-8-bit Power-Up Potion,150000,false
+Red Hissi Morphing Potion,127000,false
+Pink Eyrie Morphing Potion,355000,false
+Kiko Throwing Plasters,630000,false
+8-bit Power-Up Potion,141000,false
 Blue Scorchio Morphing Potion,Inflation Notice,false
 Faerie Flotsam Morphing Potion,440000,false
-Green Shoyru Tail Armour,170000,false
+Green Shoyru Tail Armour,241000,false
 King Kelpbeards Blessing,185000,false
 Maraquan Draik Dagger,150000,false
-Pink Clockwork Poogle,175000,false
+Pink Clockwork Poogle,530000,false
 Full Cybunny Armour,95000,false
 Snowy Flotsam Morphing Potion,211000,false
 Spotted Blumaroo Morphing Potion,300000,false
 Poogle Fang Amulet,220000,false
 Yellow Tonu Morphing Potion,Inflation Notice,false
-Full Lenny Armour,195000,false
-Greater Healing Scroll,Inflation Notice,false
+Full Lenny Armour,600000,false
+Greater Healing Scroll,290000,false
 Pirate Gnorbu Morphing Potion,435000,false
-Pretty Negg Shield,230000,false
+Pretty Negg Shield,241000,false
 Red Wocky Morphing Potion,355000,false
 Force Shield,490000,false
-Red Bruce Morphing Potion,610000,false
+Red Bruce Morphing Potion,Inflation Notice,false
 Emerald Krawk Sword,209000,false
 Starry Pteri Morphing Potion,Inflation Notice,false
-Full Grundo Armour,225000,false
-Unlockable Ice Treasure,162000,false
+Full Grundo Armour,300000,false
+Unlockable Ice Treasure,465000,false
 Red Scorchio Morphing Potion,Inflation Notice,false
 Green Tonu Morphing Potion,Inflation Notice,false
 Rainbow Quiggle Morphing Potion,Inflation Notice,false
-Ghost Techo Morphing Potion,148000,false
+Ghost Techo Morphing Potion,425000,false
 Skeith Destructo Horn,193000,false
 Fiery Wand,450000,false
 Water Faerie Bubbles,205000,false
 Cloud Scorchio Morphing Potion,290000,false
 Eventide Lenny Morphing Potion,300000,false
-Bullseye Potion,94500,false
+Bullseye Potion,155000,false
 Full Lupe Armour,142000,false
-Tyrannian Flotsam Morphing Potion,214000,false
+Tyrannian Flotsam Morphing Potion,320000,false
 Bubbling Ruki Elixir,170000,false
 Magic Gridlock Gun,400000,false
 Cloud Poogle Morphing Potion,345000,false
@@ -959,109 +959,109 @@ Golden Lupe Bone Sword,415000,false
 Wax Covered Candlestick,207000,false
 Rainbow Frost Cannon,219000,false
 Leather Xweetok Helmet,330000,false
-Christmas Magic Hat,260000,false
+Christmas Magic Hat,765000,false
 Kyrii Swordhammer,95000,false
-Helm of Recovery,550000,false
+Helm of Recovery,305000,false
 Icy Blade of Terror Mountain,161000,false
-Maraquan Draik Cloak,255000,false
-Skunk Kyrii Morphing Potion,400000,false
-Flying Fireball,179000,false
-Greater Elemental Potion,185000,false
-Winged Shoyru Spear,200000,false
+Maraquan Draik Cloak,565000,false
+Skunk Kyrii Morphing Potion,435000,false
+Flying Fireball,Inflation Notice,false
+Greater Elemental Potion,880000,false
+Winged Shoyru Spear,590000,false
 Gold Scorchio Morphing Potion,Inflation Notice,false
 Orange Yurble Morphing Potion,Inflation Notice,false
 Red Yurble Ear Guards,89500,false
 Dehydration Potion,415000,false
 Hand Carved Draik Slingshot,130000,false
-Kaylas Golden Brew,260000,false
+Kaylas Golden Brew,855000,false
 Pink Ogrin Morphing Potion,400000,false
-Potion of Night,200000,false
+Potion of Night,355000,false
 Full Ixi Armour,165000,false
 Christmas Wocky Morphing Potion,335000,false
-Scarab Medallion,179000,false
+Scarab Medallion,260000,false
 Yellow Yurble Morphing Potion,Inflation Notice,false
-Ice Sceptre,196000,false
+Ice Sceptre,205000,false
 Cursed Elixir of Neovia,350000,false
 Poogle Liquid Freeze Potion,197000,false
 Starry Yurble Morphing Potion,530000,false
-Fire Nimmo Morphing Potion,168000,false
+Fire Nimmo Morphing Potion,270000,false
 Striped Grarrl Morphing Potion,270000,false
 Fire Quiggle Morphing Potion,Inflation Notice,false
-Ghost Elephante Morphing Potion,173000,false
+Ghost Elephante Morphing Potion,315000,false
 Cobrall Utility Blade,189000,false
 Kitchen Quest Chopping Board,191000,false
-Full Draik Armour,205000,false
+Full Draik Armour,Inflation Notice,false
 Poisonous Flower,310000,false
 Ylanas Blaster,143000,false
-Qasalan Throwing Axe,205000,false
+Qasalan Throwing Axe,490000,false
 Golden Moehog Tusk Guards,158000,false
 Water Kyrii Morphing Potion,285000,false
-Blue Uni Morphing Potion,186000,false
+Blue Uni Morphing Potion,320000,false
 Full Skeith Armour,115000,false
 Green Kougra Morphing Potion,Inflation Notice,false
-Hand Stitched Usul Dagger,185000,false
-Sinsis Sword,182000,false
-Starry Nimmo Morphing Potion,200000,false
-White Flotsam Morphing Potion,185000,false
+Hand Stitched Usul Dagger,280000,false
+Sinsis Sword,180000,false
+Starry Nimmo Morphing Potion,455000,false
+White Flotsam Morphing Potion,207000,false
 Ruby Krawk Stun Ray,189000,false
-Christmas Scorchio Morphing Potion,217000,false
+Christmas Scorchio Morphing Potion,Inflation Notice,false
 Green Aisha Morphing Potion,315000,false
 Green Blumaroo Morphing Potion,Inflation Notice,false
-Spotted Kau Shield,135000,false
+Spotted Kau Shield,110000,false
 Super Sand Grain,Inflation Notice,false
-Buzz Hive Bomb,180000,false
-Highland Chia War Hammer,202000,false
-Snot Spear,102000,false
+Buzz Hive Bomb,430000,false
+Highland Chia War Hammer,300000,false
+Snot Spear,Inflation Notice,false
 Spotted Scorchio Morphing Potion,Inflation Notice,false
 Team Faerieland Altador Cup Shield,178000,false
 Glowing Tuskaninny Wand,140000,false
-Starry Scorchio Morphing Potion,237000,false
+Starry Scorchio Morphing Potion,Inflation Notice,false
 Wocky Slingshot,Inflation Notice,false
 Shadow Ogrin Morphing Potion,420000,false
-Red Blumaroo Morphing Potion,215000,false
-Enchanted Ixi Wand,172000,false
-Fire Buzz Morphing Potion,172000,false
+Red Blumaroo Morphing Potion,525000,false
+Enchanted Ixi Wand,545000,false
+Fire Buzz Morphing Potion,300000,false
 Ornate Violet Cloak,205000,false
 Hand Stitched Usul Hammer,127000,false
 Camouflage Wocky Morphing Potion,170000,false
 Fire Poogle Morphing Potion,320000,false
-Gilded Ruki Flail,170000,false
+Gilded Ruki Flail,229000,false
 Golden Candy Cane Sword,147000,false
-Golden Qasalan Chestpiece,105000,false
+Golden Qasalan Chestpiece,177000,false
 Kaylas Magic Cloak,495000,false
 Claw of the Ancient Bori,Inflation Notice,false
-Split Lenny Morphing Potion,275000,false
-Red Kyrii Morphing Potion,160000,false
-Striped Flotsam Morphing Potion,167000,false
-Zombie Buzz Morphing Potion,230000,false
-Striped Nimmo Morphing Potion,124000,false
+Split Lenny Morphing Potion,400000,false
+Red Kyrii Morphing Potion,175000,false
+Striped Flotsam Morphing Potion,165000,false
+Zombie Buzz Morphing Potion,405000,false
+Striped Nimmo Morphing Potion,310000,false
 Zombie JubJub Morphing Potion,255000,false
 Rainbow Gnorbu Morphing Potion,Inflation Notice,false
-Tyrannian Nimmo Morphing Potion,121000,false
+Tyrannian Nimmo Morphing Potion,190000,false
 Blue Yurble Morphing Potion,Inflation Notice,false
-Hand Carved Shoyru Wand,226000,false
+Hand Carved Shoyru Wand,Inflation Notice,false
 Furry Lupe Staff,350000,false
 Blue Kougra Morphing Potion,Inflation Notice,false
-Desert Kyrii Morphing Potion,300000,false
+Desert Kyrii Morphing Potion,315000,false
 Mirror Mote,Inflation Notice,false
-Red Clockwork Grundo,113000,false
+Red Clockwork Grundo,122000,false
 Christmas Gnorbu Morphing Potion,420000,false
-Fire Techo Morphing Potion,189000,false
-Sakhmetian Axe,173000,false
+Fire Techo Morphing Potion,230000,false
+Sakhmetian Axe,305000,false
 Sakhmetian Shield,155000,false
 Strawberry Pteri Morphing Potion,Inflation Notice,false
-Thistleberry Pingrenade,275000,false
-Bubbling Fungus,160000,false
+Thistleberry Pingrenade,255000,false
+Bubbling Fungus,155000,false
 Lightweight Xweetok Spear,265000,false
 Regal Draik Wand,130000,false
-Starry Uni Morphing Potion,385000,false
+Starry Uni Morphing Potion,600000,false
 Battle Duck,143000,false
 Shoyru Totem,90000,false
-Skeith Inferno Spell,192000,false
+Skeith Inferno Spell,270000,false
 Full Scorchio Armour,355000,false
 Red Eyrie Morphing Potion,144000,false
 Molten Boulder,224000,false
-Illusens Forest Essence,152000,false
+Illusens Forest Essence,345000,false
 Island Pteri Morphing Potion,Inflation Notice,false
 Christmas Koi Morphing Potion,156000,false
 Flotsam Amulet of the Champion,115000,false
@@ -1069,47 +1069,47 @@ Glowing Koi Morphing Potion,143000,false
 Heavy Robe of Thievery,Inflation Notice,false
 Mango Jelly Club,270000,false
 Plush Gelert Collar,120000,false
-Portable Cloud,450000,false
+Portable Cloud,275000,false
 Swirling Seaweed Orb,Inflation Notice,false
 Wooden Krawk Shield,145000,false
-Yellow Clockwork Lupe,146000,false
+Yellow Clockwork Lupe,Inflation Notice,false
 Checkered Koi Morphing Potion,97500,false
 Fire Gnorbu Morphing Potion,380000,false
-Horned Grarrl Slingshot,117000,false
-Korbat Power Blaster,82000,false
-White Kyrii Morphing Potion,213000,false
-Yellow Aisha Morphing Potion,197000,false
-Green Nimmo Morphing Potion,130000,false
-Blue Tuskaninny Morphing Potion,131000,false
-Full Chomby Armour,129000,false
-Full Poogle Armour,146000,false
-Green Koi Morphing Potion,95000,false
+Horned Grarrl Slingshot,227000,false
+Korbat Power Blaster,204000,false
+White Kyrii Morphing Potion,650000,false
+Yellow Aisha Morphing Potion,435000,false
+Green Nimmo Morphing Potion,340000,false
+Blue Tuskaninny Morphing Potion,125000,false
+Full Chomby Armour,435000,false
+Full Poogle Armour,Inflation Notice,false
+Green Koi Morphing Potion,224000,false
 Hydro Hammer,135000,false
-Ixi Hoof Blade,89000,false
-Uni Healing Crown,147000,false
-Bow of the Air Faerie,150000,false
+Ixi Hoof Blade,390000,false
+Uni Healing Crown,221000,false
+Bow of the Air Faerie,395000,false
 Desert Gnorbu Morphing Potion,Inflation Notice,false
-Skunk Buzz Morphing Potion,171000,false
-Poogle Lightning Boots,139000,false
-Blumaroo Pepper Shaker,153000,false
-Bzzapper,132000,false
+Skunk Buzz Morphing Potion,380000,false
+Poogle Lightning Boots,156000,false
+Blumaroo Pepper Shaker,230000,false
+Bzzapper,184000,false
 Purple Pteri Morphing Potion,Inflation Notice,false
 Fiery Battle Duck,148000,false
 Green Pteri Morphing Potion,Inflation Notice,false
 P-Bomb,120000,false
 Sharpened Hook,850000,false
 Brilliant Poogle Buckler,120000,false
-Full Eyrie Armour,129000,false
+Full Eyrie Armour,130000,false
 Ghost Gnorbu Morphing Potion,Inflation Notice,false
 Mano Root Elixir,159000,false
-Mysterious Red Potion,106000,false
-Ornate Buzz Chestplate,100000,false
+Mysterious Red Potion,99500,false
+Ornate Buzz Chestplate,112000,false
 Blue Buzz Morphing Potion,199000,false
 Emerald Krawk Jacket,450000,false
 Ghost Tuskaninny Morphing Potion,140000,false
-Golden Full Kacheek Armour,85000,false
-Icy Glove,137000,false
-Red Aisha Morphing Potion,138000,false
+Golden Full Kacheek Armour,129000,false
+Icy Glove,850000,false
+Red Aisha Morphing Potion,295000,false
 Snotty Hammer,Inflation Notice,false
 Full Gelert Armour,134000,false
 Full Jetsam Armour,170000,false
@@ -1117,69 +1117,69 @@ Full Moehog Armour,120000,false
 Koi Full Armour,110000,false
 Handy Office WeaPen,142000,false
 Yellow Nimmo Morphing Potion,Inflation Notice,false
-Blue Nimmo Morphing Potion,196000,false
-Dark Faerie Bow,162000,false
+Blue Nimmo Morphing Potion,370000,false
+Dark Faerie Bow,480000,false
 Full Buzz Armour,325000,false
 Green Clockwork Hissi,147000,false
 Scarblades Pirate Hat,104000,false
 Blue Aisha Morphing Potion,214000,false
 Meerca Speed Potion,Inflation Notice,false
-Ornate Jetsam Hammer,110000,false
+Ornate Jetsam Hammer,255000,false
 Foreman Cudgel,124000,false
 Wooden Krawk Bow,130000,false
 Yellow Moehog Morphing Potion,115000,false
-Full Kiko Armour,86000,false
+Full Kiko Armour,430000,false
 Full Peophin Armour,260000,false
 Lightweight Buzz Axe,100000,false
-Golden Bori Bow,89500,false
-Kikovision Goggles,130000,false
+Golden Bori Bow,130000,false
+Kikovision Goggles,110000,false
 Mini Throwing Toasts,275000,false
 Mystical Nimmo Amulet,120000,false
-Rainbow Grarrl Morphing Potion,124000,false
-Wooden Meerca Mallet,70000,false
-Aisha Acorn Darts,100000,false
+Rainbow Grarrl Morphing Potion,151000,false
+Wooden Meerca Mallet,Inflation Notice,false
+Aisha Acorn Darts,140000,false
 Full Hissi Armour,345000,false
 Gilded Kougra Chestplate,130000,false
 Spotted Nimmo Morphing Potion,242000,false
-Brass Bruce Horn Of Deafening,125000,false
-Brilliant Sun and Moon Potion,185000,false
-Leaded Light Vial,140000,false
+Brass Bruce Horn Of Deafening,210000,false
+Brilliant Sun and Moon Potion,164000,false
+Leaded Light Vial,620000,false
 Full Aisha Armour,121000,false
 Full Kau Armour,109000,false
 Full Krawk Armour,120000,false
 Full Shoyru Armour,130000,false
-Control Rod Apparatus,125000,false
+Control Rod Apparatus,102000,false
 Flaming Toaster,124000,false
-Red Flotsam Morphing Potion,120000,false
-Red Grarrl Morphing Potion,119000,false
-Tribal Desert Garb,106000,false
+Red Flotsam Morphing Potion,189000,false
+Red Grarrl Morphing Potion,105000,false
+Tribal Desert Garb,360000,false
 Full Bruce Armour,121000,false
 Greater Fire Potion,Inflation Notice,false
-Spellseeker Vial of Power,123000,false
-Spiked Eyrie Band,217000,false
+Spellseeker Vial of Power,200000,false
+Spiked Eyrie Band,495000,false
 Eyrie Pocket Catapult,122000,false
-Fiery Spine of Death,163000,false
+Fiery Spine of Death,Inflation Notice,false
 Full Meerca Armour,90000,false
 Red Tonu Morphing Potion,Inflation Notice,false
 Chomby Lucky Charm Bracelet,95000,false
 Frozen Scroll,Inflation Notice,false
-Zombie Squirt Gun,121000,false
+Zombie Squirt Gun,96500,false
 Moehog Slingshot,150000,false
-Potion of Skeith Scales,120000,false
-Full Gnorbu Armour,156000,false
+Potion of Skeith Scales,208000,false
+Full Gnorbu Armour,Inflation Notice,false
 Skunk Mynci Morphing Potion,200000,false
 Toothbrush Sword,110000,false
-Full Chia Armour,134000,false
+Full Chia Armour,255000,false
 Striped Tuskaninny Morphing Potion,100000,false
-Acara Gladiator Boots,102000,false
+Acara Gladiator Boots,110000,false
 Dark Faerie Token,Inflation Notice,false
 Full Grarrl Armour,107000,false
 Honey Goo Blaster,120000,false
-Black Frost Cannon,125000,false
-Enchanted Kougra Pendant,116000,false
+Black Frost Cannon,335000,false
+Enchanted Kougra Pendant,700000,false
 Floud Bomb,Inflation Notice,false
 Sticky Quiggle Flicky Thing,95000,false
-Camouflage Meerca Morphing Potion,122000,false
+Camouflage Meerca Morphing Potion,295000,false
 Gelert Frostweaver Shield,90000,false
 Jam Filled Battle Biscuit,126000,false
 Poogle Slingshot,105000,false
@@ -1190,128 +1190,128 @@ Camouflage JubJub Morphing Potion,143000,false
 Starry Koi Morphing Potion,103000,false
 Starry Xweetok Morphing Potion,Inflation Notice,false
 Desert Ogrin Morphing Potion,190000,false
-Full Ruki Armour,95000,false
-Silver Draik Wing Guards,65000,false
+Full Ruki Armour,180000,false
+Silver Draik Wing Guards,139000,false
 Hardened Ruki Claws,88500,false
 Purple Techo Morphing Potion,134000,false
-Spotted Flotsam Morphing Potion,145000,false
+Spotted Flotsam Morphing Potion,135000,false
 Blue Gnorbu Morphing Potion,Inflation Notice,false
 Acara Twin Blade,90000,false
-Sophies Elixir,108000,false
-Techo Dagger Of Speed,73500,false
+Sophies Elixir,96500,false
+Techo Dagger Of Speed,260000,false
 Blue Koi Morphing Potion,335000,false
-Exploding Blumaroo Dice,99500,false
+Exploding Blumaroo Dice,95000,false
 Full Acara Armour,135000,false
 Green Grarrl Morphing Potion,125000,false
 Icy Battle Duck,117000,false
-Tuskaninny Personal Cannon,60000,false
-Tuskaninny Raiders Helm,106000,false
+Tuskaninny Personal Cannon,80000,false
+Tuskaninny Raiders Helm,Inflation Notice,false
 Full Kougra Armour,280000,false
 Full Tuskaninny Armour,80000,false
 Ornate Jetsam Battle Helmet,55000,false
 Painted Techo Club,90000,false
 Cloud Pteri Morphing Potion,Inflation Notice,false
-Faerie Totem,103000,false
-Green Techo Morphing Potion,105000,false
+Faerie Totem,88500,false
+Green Techo Morphing Potion,95000,false
 Leaded Water Vial,170000,false
 Yellow Kougra Morphing Potion,Inflation Notice,false
 Desert Tuskaninny Morphing Potion,93500,false
 Full Ogrin Armour,105000,false
-Golden Kougra Slingshot,71000,false
+Golden Kougra Slingshot,285000,false
 Yurble Forest Shield,100000,false
 Full Xweetok Armour,97500,false
 Green Techo Bow,Inflation Notice,false
-Psellias Blessing,219000,false
+Psellias Blessing,320000,false
 Bubbling Flotsam Elixir,92000,false
 Desert Buzz Morphing Potion,156000,false
-Gelert Spiked Shield,100000,false
-Kacheek Life Potion,99500,false
-Ornate Jetsam Bow,92000,false
+Gelert Spiked Shield,315000,false
+Kacheek Life Potion,94500,false
+Ornate Jetsam Bow,350000,false
 Pirate Meerca Morphing Potion,Inflation Notice,false
 Pumpkin Club,246000,false
 Red Gnorbu Morphing Potion,Inflation Notice,false
-Rustic Aisha Blade,87500,false
-Sparkling Acara Shield,90000,false
+Rustic Aisha Blade,197000,false
+Sparkling Acara Shield,200000,false
 Spotted Pteri Morphing Potion,Inflation Notice,false
-Winged Scarab,410000,false
+Winged Scarab,143000,false
 Wocky Battle Mallet,95000,false
 Shoyru Sword,68000,false
 Dark Battle Duck,183000,false
 Red Koi Morphing Potion,180000,false
-Fire Hammer,98500,false
+Fire Hammer,193000,false
 Golden Scorchstone,320000,false
 Stealthy Nimmo Boots,95500,false
-Emerald Hissi Breastplate,90000,false
+Emerald Hissi Breastplate,184000,false
 Green Gnorbu Morphing Potion,Inflation Notice,false
 Green Tuskaninny Morphing Potion,100000,false
-Zero-G Scout Pack,98000,false
+Zero-G Scout Pack,233000,false
 Red Yurble Breast Plate,85000,false
 Thumburts Cane,159000,false
 Camouflage Tuskaninny Morphing Potion,100000,false
 Orange Kougra Morphing Potion,Inflation Notice,false
 Red Pteri Morphing Potion,Inflation Notice,false
-Silver Draik Chestplate,90000,false
+Silver Draik Chestplate,Inflation Notice,false
 Snotty Sword,Inflation Notice,false
 Split Flotsam Morphing Potion,125000,false
-Starry Wocky Morphing Potion,150000,false
-Cooling Balm of the Warrior,72000,false
+Starry Wocky Morphing Potion,233000,false
+Cooling Balm of the Warrior,96500,false
 Fire Flotsam Morphing Potion,98000,false
-Pearl Koi Slingshot,77500,false
-Ultra Supreme Kiko Walker,90000,false
-Meerca Tail Shield,96000,false
-Pteri Battle Whistle,72000,false
+Pearl Koi Slingshot,116000,false
+Ultra Supreme Kiko Walker,305000,false
+Meerca Tail Shield,75000,false
+Pteri Battle Whistle,320000,false
 Yellow Gnorbu Morphing Potion,Inflation Notice,false
-Full Nimmo Armour,124000,false
+Full Nimmo Armour,120000,false
 Green Moehog Morphing Potion,95000,false
 Iscas Wand,50000,false
-Speckled Xweetok Morphing Potion,103000,false
-Green Meerca Morphing Potion,106000,false
+Speckled Xweetok Morphing Potion,275000,false
+Green Meerca Morphing Potion,Inflation Notice,false
 Team Terror Mountain Altador Cup Shield,96000,false
 Randomly Firing Freeze Ray,89500,false
 Red Yurble Gauntlets,80000,false
 Villager Pitchfork,98000,false
 Hissing Techo Staff,92000,false
 Magic Potion,175000,false
-Sands of the Dark Faerie,18500,false
-Tangle Net Gun,75000,false
-Ticking Eyrie Bomb,63500,false
+Sands of the Dark Faerie,2500,false
+Tangle Net Gun,200000,false
+Ticking Eyrie Bomb,90000,false
 Full Flotsam Armour,95000,false
 Tuskaninny Battle Trumpet,82500,false
 Christmas Elephante Morphing Potion,90500,false
 Chomby Staff,220000,false
 Creeping Shadow Hammer,75500,false
-Fire Tuskaninny Morphing Potion,75000,false
-Korbat Wing Blade,60000,false
+Fire Tuskaninny Morphing Potion,122000,false
+Korbat Wing Blade,104000,false
 Yellow Pteri Morphing Potion,Inflation Notice,false
 Blue Meerca Morphing Potion,400000,false
 Maractite Acara Shield,175000,false
 Blue Grarrl Morphing Potion,156000,false
-Golden Korbat Charm,135000,false
+Golden Korbat Charm,Inflation Notice,false
 Red Elephante Morphing Potion,168000,false
 Red Nimmo Morphing Potion,300000,false
 Yellow Grarrl Morphing Potion,95000,false
 Electric Tuskaninny Morphing Potion,90000,false
 Full Zafara Armour,137000,false
 Rainbow Tuskaninny Morphing Potion,94000,false
-Rings of Fire,144000,false
-Stone Snowflake,71000,false
+Rings of Fire,Inflation Notice,false
+Stone Snowflake,Inflation Notice,false
 Orange Tuskaninny Morphing Potion,83000,false
-Green JubJub Morphing Potion,80000,false
+Green JubJub Morphing Potion,98500,false
 Padded Cybunny Gloves,98000,false
 Fire Whip,161000,false
 Yurble Forest Cloak,95000,false
 Bomberry Elixir,139000,false
 Fire Ogrin Morphing Potion,107000,false
-Acara Ear Guards,45000,false
+Acara Ear Guards,206000,false
 Fire Ball Staff,99500,false
 Full Yurble Armour,181000,false
-Meerca Gloves of Agility,83000,false
-Starry Flotsam Morphing Potion,94000,false
+Meerca Gloves of Agility,102000,false
+Starry Flotsam Morphing Potion,290000,false
 Cloud Grarrl Morphing Potion,232000,false
 E-Z Brand My First Death Axe,66000,false
-Jagged Krawk Blade,60000,false
-Maractite Shell Shield,75500,false
-Red Buzz Morphing Potion,84000,false
+Jagged Krawk Blade,83500,false
+Maractite Shell Shield,Inflation Notice,false
+Red Buzz Morphing Potion,Inflation Notice,false
 Sword of Fallen Twigs,75000,false
 Full Kyrii Armour,95000,false
 Grarrl Claw,73000,false
@@ -1319,106 +1319,106 @@ Maractite Mace,200000,false
 Accursed Mittens,114000,false
 Battle Torch,50000,false
 Wand of the Moon,84500,false
-Scorchio Molten Battle Shield,83500,false
-Altadorian Swordbreaker,105000,false
+Scorchio Molten Battle Shield,208000,false
+Altadorian Swordbreaker,57000,false
 Full Techo Armour,110000,false
-Honeycomb Buzz Shield,80000,false
-Ice Hissi Morphing Potion,51000,false
+Honeycomb Buzz Shield,345000,false
+Ice Hissi Morphing Potion,42500,false
 Iron Lupe Collar,61000,false
 Red JubJub Morphing Potion,79000,false
 Snowager Crystal,93000,false
 Team Darigan Altador Cup Shield,75000,false
-Zombie Flotsam Morphing Potion,87000,false
+Zombie Flotsam Morphing Potion,210000,false
 Frost Bow,79500,false
 Blue Scorchstone,94000,false
-Uni Horn Wand,62000,false
-Yellow Mynci Morphing Potion,84500,false
+Uni Horn Wand,116000,false
+Yellow Mynci Morphing Potion,97000,false
 Gelert Healing Remedy,80000,false
-Negg Plasma Bottle,75000,false
+Negg Plasma Bottle,71500,false
 Golden Kougra Chest Plate,74000,false
 Pteri Egg Shot,111000,false
-Green Mynci Morphing Potion,77500,false
+Green Mynci Morphing Potion,75000,false
 Green Shoyru Wing Armour,57000,false
-Noil Gem,100000,false
+Noil Gem,80000,false
 Spotted Kau Sword,115000,false
-White Grarrl Morphing Potion,109000,false
+White Grarrl Morphing Potion,179000,false
 Dwoobaphone,140000,false
-Aisha Feathered Charm,146000,false
-Frozen Water Daggers,125000,false
-Yellow Flotsam Morphing Potion,76000,false
+Aisha Feathered Charm,999999,false
+Frozen Water Daggers,175000,false
+Yellow Flotsam Morphing Potion,Inflation Notice,false
 Meowclops Claws,70000,false
-Superior Shield of Lightning,81000,false
+Superior Shield of Lightning,69500,false
 Amulet of Inevitable Betrayal,67000,false
 Blue Flotsam Morphing Potion,Inflation Notice,false
 Christmas Ogrin Morphing Potion,70000,false
 Scarab Ring,16300,false
-Shimmering Acara Breastplate,75000,false
+Shimmering Acara Breastplate,98500,false
 The Scimitar of Lyra,175000,false
-Mighty Techo Hammer,40000,false
-Camouflage Kyrii Morphing Potion,72500,false
+Mighty Techo Hammer,Inflation Notice,false
+Camouflage Kyrii Morphing Potion,Inflation Notice,false
 Balteus of the Sun,62500,false
-Devious Top Hat and Cane,72000,false
+Devious Top Hat and Cane,31000,false
 JubJub Padded Paws,250000,false
 Kyrii Spoonapult,40000,false
-Peophin Emblazoned Maractite Shield,72000,false
+Peophin Emblazoned Maractite Shield,Inflation Notice,false
 Red Meerca Morphing Potion,Inflation Notice,false
 Regulation Chainmail,71000,false
 Camouflage Mynci Morphing Potion,83000,false
 Elephante Unguent,82500,false
-Essence of Drackonack,140000,false
-Eyrie Tail Guard,67000,false
+Essence of Drackonack,100000,false
+Eyrie Tail Guard,108000,false
 Fire Flail,93000,false
 Forest Sling,66000,false
-Full Elephante Armour,85000,false
+Full Elephante Armour,233000,false
 Grape Jelly Shield,60000,false
-Kougra Wing Collar,39300,false
+Kougra Wing Collar,78500,false
 Light Faerie Staff,89500,false
-Rainbow Ogrin Morphing Potion,80000,false
+Rainbow Ogrin Morphing Potion,193000,false
 Vial of Fragrant Oil,48000,false
-Blue Mynci Morphing Potion,69500,false
-Palace Guard Helmet,69500,false
+Blue Mynci Morphing Potion,75000,false
+Palace Guard Helmet,240000,false
 Squibble Berry Potion,69500,false
 Desert Crossbow,69000,false
 Studded Bruce Bow Of Protection,90000,false
-Pickle Spear,68500,false
+Pickle Spear,86000,false
 Blue Pteri Morphing Potion,Inflation Notice,false
 Pteri Precision Helmet,66000,false
-Geraptiku Attack Leaf,68500,false
+Geraptiku Attack Leaf,44500,false
 Ghost Ogrin Morphing Potion,71000,false
 Green Buzz Morphing Potion,94000,false
 Sonic Melter,155000,false
 Xweetok Boots Of Speed,470000,false
-Blumaroo Slingshot,66000,false
+Blumaroo Slingshot,190000,false
 Flotsam Shell Shield,45500,false
 Ghostly Jetsam Sword,71500,false
 Lupe Grabber Jaw,163000,false
 Team Meridell Altador Cup Shield,75000,false
 Warm Amber Ointment,48500,false
-Blue Techo Morphing Potion,80500,false
+Blue Techo Morphing Potion,115000,false
 Golden Ruki Brooch,49000,false
 Heavy Wooden Kau Shield,71000,false
 Nightsteed Mace,67000,false
 Ornate Jetsam Shield,77000,false
 Full Pteri Armour,430000,false
 Ancient Eyrie Battle Mask,77000,false
-Full Quiggle Armour,85000,false
-Palace Guard Tunic,63000,false
+Full Quiggle Armour,147000,false
+Palace Guard Tunic,115000,false
 Blue Eyrie Morphing Potion,74000,false
 Blumaroo Battle Staff,68500,false
-Red Uni Morphing Potion,62000,false
-Kougra Power Sword,60000,false
+Red Uni Morphing Potion,84500,false
+Kougra Power Sword,84500,false
 Sophies Wooden Spoon,64000,false
 Steel Chomby Sword,70000,false
 Strawberry Mynci Morphing Potion,66000,false
 Team Kiko Lake Altador Cup Shield,61000,false
 Tyrannian Ogrin Morphing Potion,69000,false
-Decorative Maractite Battleaxe,51000,false
-Fire Grarrl Morphing Potion,72000,false
+Decorative Maractite Battleaxe,28500,false
+Fire Grarrl Morphing Potion,100000,false
 Gold Spectre Battlecard,99000,false
 Green Attack Stilts,102000,false
-Pirate Ogrin Morphing Potion,70000,false
+Pirate Ogrin Morphing Potion,132000,false
 Sakhmetian Dagger,200000,false
-Sun and Moon Chakram,34000,false
+Sun and Moon Chakram,15100,false
 Team Maraqua Altador Cup Shield,53000,false
 Team Moltara Altador Cup Shield,55000,false
 Altadorian Body Armour,55500,false
@@ -1431,120 +1431,120 @@ Eleskeleton 3000,125000,false
 Palace Guard Bracers,93500,false
 Royal Blue Cape,91500,false
 Mighty Techo Chest Plate,52000,false
-Padded Bruce Jacket,53500,false
+Padded Bruce Jacket,52500,false
 Slushie Ice Pack,45700,false
-Yellow Kyrii Morphing Potion,96000,false
+Yellow Kyrii Morphing Potion,143000,false
 Coral Koi Slingshot,Inflation Notice,false
 Starry Tuskaninny Morphing Potion,45000,true
-Padded Mynci Gloves,55000,false
+Padded Mynci Gloves,198000,false
 Sword of Trumpeting,50000,false
 Yellow Koi Morphing Potion,129000,false
-Spotted Eyrie Morphing Potion,71000,false
+Spotted Eyrie Morphing Potion,84500,false
 Spotted Grarrl Morphing Potion,98000,false
 Battle Faerie Shield,79000,false
 Dark Scroll,49000,false
-Earth Faerie Autumn Leaf Shield,55000,false
-Enchanted Kiko Shield,31700,false
+Earth Faerie Autumn Leaf Shield,56500,false
+Enchanted Kiko Shield,55000,false
 Negg of Everlasting Fire,60000,false
 Fire Extinguisher of Diversion,49400,false
 Decorative Maractite Sword,45500,false
 Magic Key,112000,false
-Red Mynci Morphing Potion,75000,false
-Yellow Techo Morphing Potion,61500,false
+Red Mynci Morphing Potion,150000,false
+Yellow Techo Morphing Potion,86500,false
 Duelist Dagger,38500,false
 Jazan Shield,49400,false
 Red Yurble Boots,45000,false
-Ice Cream Potion,52000,false
+Ice Cream Potion,51500,false
 Lutari Battle Chestplate,51500,false
-Glowing Maractite Wand,38000,false
-Honey Potion,82000,false
-Nimmo Totem,51000,false
+Glowing Maractite Wand,29000,false
+Honey Potion,60000,false
+Nimmo Totem,90000,false
 Seti Hilt Sword,80000,false
 Potion of Meridell Castle,48700,false
 Frosty Maractite Bow,47800,false
 Full Mynci Armour,Inflation Notice,false
-Jhudoras Dark Collar,50000,false
+Jhudoras Dark Collar,52000,false
 Nimmo Elixir of Healing,115000,false
 Platinum Tech Bow,39400,false
 Sunblade Replica,50000,false
 Tooth Necklace,56000,false
-Yellow Elephante Morphing Potion,91000,false
+Yellow Elephante Morphing Potion,110000,false
 Mega Fire Shield,88000,false
-Pebble Snowball,49600,false
+Pebble Snowball,51500,false
 Twisted Dark Dagger,54500,false
 Team Brightvale Altador Cup Shield,48800,false
 Yellow Tuskaninny Morphing Potion,79500,false
 Ultimate Negg Hammer,69000,false
 Starry Techo Morphing Potion,47800,false
 Spiked Negg Mace,43200,false
-Sophies Magic Hat,47800,false
+Sophies Magic Hat,49800,false
 Forest Ixi Amulet,51500,false
 Feathered Pteri Cloak,70000,false
 Team Altador Altador Cup Shield,46400,false
 Team Mystery Island Altador Cup Shield,44700,false
 Camouflage Techo Morphing Potion,35400,false
-Peophin Maractite Helm,28500,false
-Shoyru Battle Shield,40000,false
-Cherry Jelly Shield,45000,false
+Peophin Maractite Helm,34600,false
+Shoyru Battle Shield,87000,false
+Cherry Jelly Shield,31000,false
 Jagged Stone Spear,45000,false
-Poison Muffin,45000,false
-Staff of Dark Nova,40000,false
+Poison Muffin,40000,false
+Staff of Dark Nova,45000,false
 Team Virtupets Altador Cup Shield,40500,false
 Sceptre of the Winged Sun,45400,false
 Bow of Earth,42000,false
 Mystical Ixi Hooded Cape,36600,false
 Red Techo Morphing Potion,65000,false
 Team Haunted Woods Altador Cup Shield,44900,false
-Lutari Lance,43500,false
+Lutari Lance,33000,false
 Blue Moehog Morphing Potion,90000,false
-Feathered Bruce Helm,37100,false
-Poisonous Mushroom Tea,63000,false
+Feathered Bruce Helm,107000,false
+Poisonous Mushroom Tea,45000,false
 Taelias Token,49600,false
 Team Shenkuu Altador Cup Shield,42700,false
-Cloak of the Moon,75000,false
-Sword of the Dead,90000,false
+Cloak of the Moon,60000,false
+Sword of the Dead,86500,false
 Brown Techo Morphing Potion,66000,false
 Caustic Yooyu Tears,42200,false
 Rejuvenating Negg Serum,18000,false
 Dagger of the Lost Sands,41000,false
-Zombie Blumaroo Morphing Potion,97000,false
+Zombie Blumaroo Morphing Potion,79500,false
 Emerald Krawk Boots,107000,false
 Gilded Winged Helm,Inflation Notice,false
-Haunted Shield,41300,false
+Haunted Shield,43900,false
 Maractite Battle Hammer,50000,false
 Blue Kyrii Morphing Potion,96500,false
 Golden Lupe Mask,42000,false
 Padded Cybunny Claw,35000,false
-Full Wocky Armour,20000,false
+Full Wocky Armour,23500,false
 Luperus Jaw,40000,false
 Emerald Hissi Shield,75000,false
 Sharp Fire Disc,78500,false
 Padded Cybunny Shield,43300,false
 Yellow Uni Morphing Potion,71000,false
 Blue Elephante Morphing Potion,67000,false
-Scroll of Knowledge,21000,false
+Scroll of Knowledge,9900,false
 Venomous Potion,41700,false
 Haunted Jetsam Shield,50000,false
 Battle Faerie Staff,38000,false
 Qasalan Trident of Pain,39000,false
 Team Roo Island Altador Cup Shield,35000,false
 Lucky Vandagyre Feather,27000,false
-Elestone,38800,false
-Sturdy Battle Shield,45200,false
-Ultrasteel Helmet,38500,false
+Elestone,38400,false
+Sturdy Battle Shield,45000,false
+Ultrasteel Helmet,39000,false
 Apple Jelly Shield,40000,false
-Scorchio Molten Tail Guard,31200,false
-Spectral Forest Bow,39000,false
-Grape Jelly Helmet,26500,false
+Scorchio Molten Tail Guard,108000,false
+Spectral Forest Bow,39300,false
+Grape Jelly Helmet,25000,false
 Bow of the Fire Faerie,34800,false
 Elegant Qasalan Falchion,37200,false
-Pyramid Mace,46200,false
-Darkness Faerie Axe,44600,false
-Negg Faerie Negg Bomb,25600,false
-Poogle Cloak,37000,false
+Pyramid Mace,44500,false
+Darkness Faerie Axe,44000,false
+Negg Faerie Negg Bomb,39800,false
+Poogle Cloak,36400,false
 Blue Nimmo Boots,Inflation Notice,false
 Yellow JubJub Morphing Potion,58500,false
-Enchantment,42800,false
+Enchantment,44000,false
 Fish Bone Bruce Sword,24000,false
 Chilli Chucks,52000,false
 Golden Handled Long Sword,33500,false
@@ -1555,34 +1555,34 @@ Kacheek Extinguisher,81500,false
 Luxurious Purple Cape,48000,false
 Trilo Shield,44000,false
 Water Jelly Shield,58000,false
-Fur Boots,46000,false
+Fur Boots,35000,false
 Golden Aisha Helmet,22200,false
 Evil Bow,32700,false
 Ominous Clockwork Negg,35900,false
 Snot Bomb,34500,false
 Flaming Bow Of Fire,49600,false
-Frozen Wand of Crystals,28500,false
+Frozen Wand of Crystals,49800,false
 Wand of Ultranova,31000,false
 Curved Golden Staff,58000,false
 Enchanted Draik Cape,54500,false
 Stocking Full of Coal,34700,false
-Warriors Spatha,27000,false
-Enchanted Koi Shield,33200,false
+Warriors Spatha,24500,false
+Enchanted Koi Shield,25000,false
 Altadorian Halberd,38000,false
-Destruct-O Shield,39500,false
+Destruct-O Shield,40000,false
 Yellow Xweetok Morphing Potion,33000,false
 Ixi Wooden Blocking Shield,40500,false
 Cloud Charm,45000,false
-Checkered Techo Morphing Potion,65000,false
-Maractite Acara Battle Mask,40900,false
+Checkered Techo Morphing Potion,62500,false
+Maractite Acara Battle Mask,33200,false
 Split Grarrl Morphing Potion,44400,false
 Team Kreludor Altador Cup Shield,32500,false
-Engraved Chakram,74500,false
-Nebula Force Field Generator,76000,false
+Engraved Chakram,50000,false
+Nebula Force Field Generator,61500,false
 Jhudoras Vile Vial,29900,false
 Prickly Potion,39000,false
 Red Xweetok Morphing Potion,35000,false
-Scroll of Freezing,Inflation Notice,false
+Scroll of Freezing,24700,false
 Team Tyrannia Altador Cup Shield,36500,false
 Potion of Brightvale Castle,27000,false
 Tyrannian Flaming Pumpkin,26000,false
@@ -1602,7 +1602,7 @@ Rock Potion,30000,false
 Telescope Lens,32500,false
 Green Shoyru Chest Protector,49000,false
 Dark Longblade Axe,30800,false
-Bubble Wands,14000,false
+Bubble Wands,27400,false
 Mighty Cobrall Mace,30000,false
 Ornate Maractite Sword,Inflation Notice,false
 Qasalan Double Bladed Staff,51000,false
@@ -1615,38 +1615,38 @@ Speckled Moehog Morphing Potion,34000,false
 Flaming Scorchio Battle Boots,28600,false
 Cybunny Shield,57000,false
 Flotsam Harpoon Helmet,32900,false
-Iron Lupe Sword,28000,false
+Iron Lupe Sword,32000,false
 Qasalan Blunt Battle Axe,28000,false
 Supple Moehog Sandals,Inflation Notice,false
 Yellow Eyrie Morphing Potion,36000,false
-Brown Moehog Morphing Potion,27700,false
+Brown Moehog Morphing Potion,30000,false
 Ice JubJub Snowball,28000,false
 Ixi Slingshot,35000,false
 Ornate Regal Robes,28000,false
-Selket Shield,47700,false
+Selket Shield,48800,false
 Egg Slingshot,28000,false
 Padded Cybunny Boots,47600,false
 Ice Usul Totem,28900,false
 Slorg Slime,27200,false
 Battle Hammer,30000,false
-Cloudy Wand of Storms,26500,false
+Cloudy Wand of Storms,30000,false
 Dagger of the Desert,25000,false
 Frost Healing,36500,false
 Golden Cobrall Shield,24500,false
 Golden Lupe Helm,54500,false
 Bouncy Green Shoyru Boots,39400,false
 Enchanted Pudao,72000,false
-Flaming Scorchio Battle Helm,26900,false
-Frozen Slorg Helm,21400,false
+Flaming Scorchio Battle Helm,29500,false
+Frozen Slorg Helm,13000,false
 Winged Boomerang,25000,false
 Earth Spell,28700,false
 Green Xweetok Morphing Potion,42000,false
 Jagged Stone Sword,29400,false
-Mini Bori Dagger,22500,false
+Mini Bori Dagger,24500,false
 Mango Jelly Shield,26000,false
-Red Poogle Morphing Potion,19000,false
+Red Poogle Morphing Potion,15000,false
 Intricate Needlework Cape,28300,false
-Mighty Peophin Helmet,26500,false
+Mighty Peophin Helmet,28000,false
 Crescent Moon Axe,25000,false
 Ixi Chest Plate,25000,false
 Deadly Pugio,Inflation Notice,false
@@ -1654,11 +1654,11 @@ Aisha Helmet,40000,false
 Battle Faerie Amulet,30000,false
 Golden Throwing Scarabs,26500,false
 Golden Bow of Qasala,25400,false
-Uncomfortably Large Rock of Pain,24000,false
+Uncomfortably Large Rock of Pain,21000,false
 Dark Nimmo Shield,46000,false
 Minty Snowball,50000,false
 Ancient Eyrie Crest Shield,23800,false
-Blanking Ray,24500,false
+Blanking Ray,23400,false
 Bruce Icicle Spear,24400,false
 Fancy Desert Headdress,22700,false
 Fitted Velvet Cloak,33700,false
@@ -1671,130 +1671,130 @@ Magtile Staff,32800,false
 Nurias Fire Amulet,24900,false
 Pearly Koi Bubble Net,24500,false
 Tuskaninny Chariot,25000,false
-Voidberry Potion,20900,false
+Voidberry Potion,18000,false
 Red Tassled Cloak,30000,false
-Mynci Helmet,45000,false
-Ancient Eyrie Longsword,24700,false
-Kyrii Golden Apple of Healing,24500,false
+Mynci Helmet,48500,false
+Ancient Eyrie Longsword,16800,false
+Kyrii Golden Apple of Healing,21300,false
 Acara Horn Guards,Inflation Notice,false
-Green Eyrie Morphing Potion,49100,false
-Mighty Techo Shield,27700,false
+Green Eyrie Morphing Potion,48500,false
+Mighty Techo Shield,26300,false
 Yurble Blocking Shield,Inflation Notice,false
 Koi Battle Net,20000,false
-Maractite Water Cannon,23500,false
+Maractite Water Cannon,Inflation Notice,false
 Bottled Scorchio Breath,Inflation Notice,false
 Air Faerie Shield,19000,false
 Amulet of Lost Souls,59000,false
 Hardened Tonu Boots,16000,false
 Ice Grundo Totem,22400,false
-Regal Black Robe,54000,false
+Regal Black Robe,40000,false
 Snot JubJub Snowball,32500,false
-Green Velvet Cape,22700,false
+Green Velvet Cape,23400,false
 Koi Amulet,18000,false
 Patched Magic Hat,29800,false
-Worn Tuskaninny Shoulder Guard,39700,false
+Worn Tuskaninny Shoulder Guard,45300,false
 Shining Celesta Sword,17000,false
 Sturdy Qasalan Sword,24000,false
 Leaded Darkness Vial,27800,false
-Expert Bow,22500,false
+Expert Bow,18500,false
 Water Spell,25000,false
-Gold Handled Katana,22100,false
+Gold Handled Katana,28100,false
 Chakram of the Air Faerie,32000,false
-Earth Faerie Slingshot,20000,false
+Earth Faerie Slingshot,22000,false
 Leaf Shield,20000,false
 Team Lost Desert Altador Cup Shield,27000,false
-Wand of Dark Nova,29000,false
-Psellias Fighting Fan,25000,false
-Whirling Mopper,21000,false
-Cloak of the Deep Forest,20600,false
-Royal Purple Tunic and Cape,21100,false
+Wand of Dark Nova,24000,false
+Psellias Fighting Fan,27000,false
+Whirling Mopper,19000,false
+Cloak of the Deep Forest,18800,false
+Royal Purple Tunic and Cape,15500,false
 Chainmail Mote,15000,false
-Battle Faerie Dual Swords,20800,false
-Magical Poogle Potion,22000,false
-Radiant Illusen Shield,15800,false
-Archers Tunic,19900,false
-Bony Boomerang,23700,false
+Battle Faerie Dual Swords,28000,false
+Magical Poogle Potion,34500,false
+Radiant Illusen Shield,26500,false
+Archers Tunic,17500,false
+Bony Boomerang,24000,false
 Knights Shield,20000,false
 Mango Jelly Axe,19500,false
 JubJub Totem,20000,false
-Rusty Pitchfork,20000,false
-Spyder Stone Necklace,18000,false
-Greater Acara Shield,20200,false
+Rusty Pitchfork,22700,false
+Spyder Stone Necklace,16000,false
+Greater Acara Shield,19500,false
 Scaly Shoyru Wings,10300,false
-Golden Draik Boomerang,20100,false
-Air Spell,35000,false
-Dazzling Steel Lenny Wings,39500,false
+Golden Draik Boomerang,9950,false
+Air Spell,36000,false
+Dazzling Steel Lenny Wings,75000,false
 Flotsam Water Flame Sword,18500,false
 Gelert Flying Disc Attack,24000,false
-Grasped Claw Ring,20000,false
+Grasped Claw Ring,33000,false
 Grey Linen Cloak,17000,false
-Holiday Memories,8000,false
+Holiday Memories,12300,false
 Hollybottle,13000,false
-Leaded Air Vial,24200,false
+Leaded Air Vial,24000,false
 Mad Umbrella,9250,false
 Majestic Jetsam Trident,26500,false
 Meerca Shield of Champions,19000,false
-Nurias Golden Dagger,20000,false
+Nurias Golden Dagger,19000,false
 Sand Blade,27000,false
 Seasonal Battle Duck,15000,false
 Space Scrap Shield,10000,false
-Spicy Snowball,20000,false
-Tyrannian Fangs,12500,false
+Spicy Snowball,21300,false
+Tyrannian Fangs,14000,false
 Sturdy Bori Hammer,30000,false
-Lair Beast Claw,24700,false
-Sir Cheekalot Ultimate Battle Shield,19700,false
-Terror Stone,20000,false
-Golden Aisha Wand,19500,false
-Holiday Light String Lasso,19500,false
+Lair Beast Claw,32000,false
+Sir Cheekalot Ultimate Battle Shield,14800,false
+Terror Stone,18300,false
+Golden Aisha Wand,18900,false
+Holiday Light String Lasso,24600,false
 Ice Cybunny Totem,17900,false
-Rugged Zafara Shield,19000,false
-Water Whip,30000,false
+Rugged Zafara Shield,20000,false
+Water Whip,44500,false
 Desert Arrow,30000,false
-Golden Cobrall Spear,13000,false
-Oaken Kacheek Shield,19100,false
+Golden Cobrall Spear,11500,false
+Oaken Kacheek Shield,22700,false
 Ancient Gnarled Wand,21600,false
-Glowing Maractite Trident,15800,false
+Glowing Maractite Trident,22900,false
 Math Slingshot,19000,false
 Mighty Peophin Flute,27000,false
-Mystical Tea Caddy,20500,false
-Skeith Freeze Mask,19000,false
+Mystical Tea Caddy,22000,false
+Skeith Freeze Mask,10700,false
 Winged Spear,19800,false
 Yooyuball Goalie Armour,18900,false
 Mipsys Charm Bracelet,18000,false
 Amulet of Chaos,24900,false
 Dream Orb,16000,false
 Golden Shoyru Battle Helmet,16700,false
-Night Katana,36700,false
+Night Katana,19500,false
 Worn Leather Shield,16900,false
 Pike Pike,15000,false
-Evil Eye Ring,18000,false
+Evil Eye Ring,20000,false
 Brilliant Star Potion,14000,false
 Chia Healstone,23300,false
 Enamel Elephante Shield,18000,false
 Golden Pteri Shield,6000,false
-Revenge Shield,18000,false
+Revenge Shield,18900,false
 Mynci Banana Blade,15000,false
-Silver Elephante Helmet,17500,false
-Blackened Hand Painted Scimitar,16200,false
+Silver Elephante Helmet,18200,false
+Blackened Hand Painted Scimitar,14600,false
 Bottle of Wraiths Breath,29000,false
 Kunai,17300,false
 Powder of Everlasting Wit,14000,false
-Pteri Egg Amulet,17500,false
+Pteri Egg Amulet,14400,false
 Staff of Nova,17400,false
-Turtum Shell Quiggle Chestplate,16000,false
+Turtum Shell Quiggle Chestplate,17000,false
 Yellow Clockwork Grundo,8400,false
 Ancient Lupe Wand,17000,false
-Ghost Buzz Morphing Potion,17300,false
-Professional Bow,17300,false
-Red Velvet Cloak,19000,false
+Ghost Buzz Morphing Potion,24000,false
+Professional Bow,13000,false
+Red Velvet Cloak,18000,false
 Cherry Jelly Sword,18900,false
-Christmas Ixi Morphing Potion,24000,false
-Dung Snowflake,17000,false
+Christmas Ixi Morphing Potion,55000,false
+Dung Snowflake,24000,false
 Fire Spell,27400,false
 Furry Chia Spear,12200,false
 JubJub Speed Boots,16400,false
 Rugged Zafara Helmet,17000,false
-Usul Lemon Bomb,9500,false
+Usul Lemon Bomb,6850,false
 Golden Garfir Helm,16500,false
 Green Uni Morphing Potion,19500,false
 Sterling Greaves,17600,false
@@ -1802,75 +1802,75 @@ JubJub Helmet of Doom,15200,false
 Fiery Dream Catcher,4400,false
 Kacheek Totem,30000,false
 Pearly Koi Mask,16000,false
-Shining Armour,16500,false
+Shining Armour,14200,false
 Volleyball on Fire,23900,false
 Blumaroo Tail of Doom,20000,false
-Glowing Fire Axe,17600,false
+Glowing Fire Axe,20000,false
 Bologna Pimento Glove,17400,false
 Pteri Egg Wand,7350,false
 Earth Faerie Bow,23800,false
-Enamel Elephante Face Mask,17300,false
+Enamel Elephante Face Mask,16000,false
 Maractite Peophin Armoured Top,9800,false
 Fiery Ruby Balm,15900,false
-Bow of Vileness,15800,false
+Bow of Vileness,15000,false
 Chia Crayon Sword,28000,false
 Orange Flavoured Tea,19300,false
-Blue Clockwork Grundo,26000,false
-Blueberry Jelly Shield,15500,false
-Curious Sticks of Lethal Wax,15500,false
+Blue Clockwork Grundo,33300,false
+Blueberry Jelly Shield,10000,false
+Curious Sticks of Lethal Wax,18500,false
 Gelert Ear Guards,9500,false
 Leftover Fridge Food,12700,false
 Ornate Usul Sword,15000,false
-Dazzling Steel Lenny Mask,11000,false
+Dazzling Steel Lenny Mask,5500,false
 Ice Aisha Totem,15100,false
 Bundle of Burning Birch Branches,21000,false
 Chomby Power Helmet,18400,false
-Djuti Scythe,15000,false
+Djuti Scythe,14500,false
 Elixir of Happiness,15500,false
 Frozen Ogrin Tail Flail,14900,false
-Gelert Throwing Bone,13000,false
+Gelert Throwing Bone,14000,false
 Hand Carved Kau Blade,8500,false
 K-BOMB,12700,false
 Leather Chia Gloves,15000,false
-Lupe Wand,15000,false
-Mighty JubJub Sword,15000,false
-Mynci Suit,15000,false
-Pencil Crossbow,15000,false
+Lupe Wand,15800,false
+Mighty JubJub Sword,11000,false
+Mynci Suit,21000,false
+Pencil Crossbow,20000,false
 Splendid Buzz Helmet,15000,false
-Strange Marking Stone Necklace,14700,false
+Strange Marking Stone Necklace,12300,false
 Team Krawk Island Altador Cup Shield,24000,false
-The Power of Friendship,8900,false
-Throwing Cupcakes,15000,false
+The Power of Friendship,9800,false
+Throwing Cupcakes,15500,false
 Twisted Tonu Tail Guard,9950,false
-Warriors Cloak of Wit,16000,false
-Water Faerie Shield,16000,false
-Blueberry Jelly Sword,18500,false
+Warriors Cloak of Wit,16700,false
+Water Faerie Shield,16900,false
+Blueberry Jelly Sword,22200,false
 Jhudora Hourglass,12000,false
-Nimmo Throwing Star,16400,false
+Nimmo Throwing Star,34900,false
 Staff of the Bewed,10000,false
-Blunted Qasalan Gladius Sword,19500,false
+Blunted Qasalan Gladius Sword,16000,false
 Gelert Helmet,16800,false
 Acara Shield,9950,false
-Frozen Ogrin Mane,14500,false
-Stone Boomerang,20000,false
+Frozen Ogrin Mane,15000,false
+Stone Boomerang,20500,false
 Throwing Cutlass,14500,false
 Pyon Stinger Mace,13200,false
-Tuskaninny Battlesticks,15000,false
-Corrosive Spear Wand,25000,false
-Kazeriu Whip,15000,false
-Purple Plasma Sword,14000,false
+Tuskaninny Battlesticks,14900,false
+Corrosive Spear Wand,23000,false
+Kazeriu Whip,25900,false
+Purple Plasma Sword,12300,false
 Rugged Zafara Short Sword,7700,false
 Korbat Sword,8000,false
-Scorchio Armour,13900,false
+Scorchio Armour,11800,false
 Enchanted Robe,19900,false
-Ivy Laced Cloak,17800,false
-Earth Faerie Shield,14000,false
+Ivy Laced Cloak,19500,false
+Earth Faerie Shield,17500,false
 Energy Blaster,9750,false
 Faerie Healing Dust,Inflation Notice,false
-Splendid Buzz Sword,13700,false
-Flaming Log Launcher,7900,false
+Splendid Buzz Sword,13500,false
+Flaming Log Launcher,9000,false
 Grarrl Claws of Doom,9000,false
-Shadow Scimitar,13000,false
+Shadow Scimitar,12500,false
 Golden Qasalan Shield,16300,false
 Mighty Techo Helmet,10000,false
 Tyrannian Front Claws,10000,false
@@ -1878,44 +1878,44 @@ Bronze Scorchstone,7500,false
 Exploding Clockwork Yooyu Replica,13900,false
 Precise Throwing Cards,13600,false
 Fiery Acara Goggles,17400,false
-Strawberry Wocky Morphing Potion,30000,false
+Strawberry Wocky Morphing Potion,11300,false
 Kaylas Silver Brew,8950,false
-Blue Draping Cloak,10000,false
+Blue Draping Cloak,9900,false
 Instant Invisible Armour Potion,13300,false
 Negg Cream Potion,20000,false
 Vial of Vile,10000,false
 Frozen Leaf Shuriken,9000,false
-Throwing Nachos,17900,false
+Throwing Nachos,15000,false
 Advanced Grundo Helmet,12800,false
-Kacheek Ice Cannon,12600,false
-Brain Tree Mace,12500,false
-Dark Faerie Shield,28100,false
+Kacheek Ice Cannon,13000,false
+Brain Tree Mace,9300,false
+Dark Faerie Shield,20000,false
 Falcata Replica Sword,12000,false
 Orb of the Earth Faerie,10900,false
-Snow Tiger Egg,12300,false
+Snow Tiger Egg,11300,false
 Studded Leather Armour,11900,false
 Wand of Supernova,14000,false
-Hidden Dagger Gikerot,12300,false
+Hidden Dagger Gikerot,12000,false
 Space Faeries Shield,4950,false
 Dark Winged Axe,10700,false
-Silver Uni Boots,12200,false
+Silver Uni Boots,13100,false
 Thin Bamboo Staff,12500,false
-Sinsis Helm,12100,false
+Sinsis Helm,8300,false
 Cherry Jelly Club,15000,false
 Dual Batons of Katsuo,11000,false
 Enamel Elephante Body Armour,11000,false
-Kyrii Bouncy Boots,9700,false
+Kyrii Bouncy Boots,15500,false
 Pack of Holding,12100,false
 Potion of Pestilence,20500,false
-Qasalan Throwing Spear,10000,false
+Qasalan Throwing Spear,25000,false
 Ruby Elixir,13700,false
 Shoyru Helmet,8800,false
 Sparkling Bonbori Hammers,8600,false
 Tattered Hissi Cloak,14000,false
 Kyrii Battle Helmet,11000,false
-Maractite Peophin Helmet,11900,false
+Maractite Peophin Helmet,7150,false
 Virtupets Circuit Board Shield,12000,false
-Doorknob of Power,18000,false
+Doorknob of Power,Inflation Notice,false
 Halo of Devilpuss,20000,false
 Light Faerie Sword,24800,false
 Sturdy Blow Gun,11500,false
@@ -1923,28 +1923,28 @@ Fire Faerie Sword,15000,false
 Grarrl Gilded Helm,9000,false
 Rotten Egg Stink Bomb,10300,false
 Blue Xweetok Morphing Potion,25000,false
-Silver Minitheus Helm,12700,false
-Weapon Formerly Known As Desert Axe Weapon,10000,false
-Elegant Qasalan Helmet,11900,false
+Silver Minitheus Helm,13800,false
+Weapon Formerly Known As Desert Axe Weapon,7800,false
+Elegant Qasalan Helmet,23400,false
 Golden Rimmed Grarrl Shield,8500,false
 Golden Shield,7750,false
 Grarrl Shield Of Terror,10300,false
 Life Giver,13200,false
-Pteri Battle Goggles,11500,false
+Pteri Battle Goggles,10800,false
 Qasalan Cobrall Staff,14000,false
-Regal Mynci Stars,11000,false
+Regal Mynci Stars,7700,false
 Rusty Cleaver,11100,false
 Smile Helmet,10600,false
 Sword of Elements,8700,false
-Ancient Elephante Bracelet,10800,false
+Ancient Elephante Bracelet,9800,false
 Blurgah Shield,9500,false
 Hissi Dagger,9000,false
-Kougra Collar,10800,false
+Kougra Collar,6250,false
 Shining Sabatons,11500,false
 Silver Draik Helmet,9700,false
-Starry Grarrl Morphing Potion,14500,false
+Starry Grarrl Morphing Potion,9000,false
 Amulet of Pie,10500,false
-Bruce Shield of Resistance,10500,false
+Bruce Shield of Resistance,10000,false
 Forest Hat,3850,false
 Negg Shield,11500,false
 Scuzzys Comb,9250,false
@@ -1953,46 +1953,46 @@ Ultrasteel Attack Tusks,10000,false
 Lupe Moon Charm,10900,false
 Grundo Shield Projector,9400,false
 Peophin Leg Shields,9750,false
-Scarabug Hilt Sword,10100,false
+Scarabug Hilt Sword,13000,false
 Serrated Tooth Shield,10000,false
-Carafe of Corruption,11900,false
+Carafe of Corruption,9550,false
 Deep Space Armour,10000,false
 Egg Bomb,10000,false
 Finned Maractite Helm,8500,false
 Flotsam Ice Shell,10500,false
-Flotsam Tail Armour,10000,false
+Flotsam Tail Armour,9400,false
 High Tech Candle,Inflation Notice,false
 Mighty Robo-Hammer,10000,false
 Multi Barbed Ice Spear,8500,false
 Mystical Hook Sword,8950,false
 Scaly Shoyru Feet,8150,false
-Sinsis Gauntlet,10000,false
+Sinsis Gauntlet,8000,false
 Stone Helmet,29500,false
 Wand of the Air Faerie,8950,false
 Water Bazooka,32000,false
-Bottled Good Will,9950,false
-Fake Plastic Figurine,17000,false
-Shoyru Grappling Hook,34500,false
+Bottled Good Will,9900,false
+Fake Plastic Figurine,16500,false
+Shoyru Grappling Hook,19800,false
 Skeletal Armoured Claws,11000,false
 Sturdy Iron Lupe Boots,9300,false
 Ancient Cursed Mirror,9700,false
 Grarrl Boot,8750,false
 Sinsis Grail,11800,false
-Snowglobe Staff,9900,false
+Snowglobe Staff,6100,false
 Striped Hammer,7500,false
 Jade Elixir,8350,false
 Wraith Pteri Chakram,12000,false
-Accurate Flotsam Darts,9800,false
-Peophin Ear Guards,Inflation Notice,false
+Accurate Flotsam Darts,7900,false
+Peophin Ear Guards,24000,false
 Staff of the Earth Faerie,15000,false
 Jetsam Maractite Armoured Gloves,9700,false
 Lava Arrow,6500,false
-Meerca Battle Helmet,9750,false
+Meerca Battle Helmet,9900,false
 Meerca Propeller Hat,14000,false
 Sturdy Steel Pudao,9000,false
-Super Hemlock Dart,9700,false
+Super Hemlock Dart,19000,false
 Zombie Fist on a Stick,10500,false
-Shenkuu Spikes,8900,false
+Shenkuu Spikes,8750,false
 Star Balls,9900,false
 Chocolate Cherry Bombs,15700,false
 Emerald Eyrie Shield,9750,false
@@ -2000,21 +2000,21 @@ Ice Cube Mace,17900,false
 Jetsam Maractite Armoured Top,13000,false
 Mynci Basher Helmet,22000,false
 Faerie Pteri Chakram,11000,false
-Meerca Battle Fangs,8150,false
-Snotty Bow,9400,false
+Meerca Battle Fangs,8450,false
+Snotty Bow,9000,false
 Thunderbolt,10000,false
-Elegant Desert Sword,13200,false
+Elegant Desert Sword,10800,false
 Uni Attack Pods,11800,false
 Jetsam Maractite Armoured Tail Guard,8000,false
 Scaly Shoyru Tail,8000,false
 Solar Burrito,19500,false
 Nuranna with Laserbeams,8700,false
-Banana Blade Mynci Sword,9000,false
+Banana Blade Mynci Sword,11000,false
 Blumaroo Face Mask,18900,false
 Carved Qasalan Blowgun,6500,false
 Christmas Aisha Morphing Potion,5250,false
 Extract of Plum,11000,false
-Golden Elephante Morphing Potion,11500,false
+Golden Elephante Morphing Potion,12900,false
 Personal Force Field Shield,13400,false
 Scaly Shoyru Three Heads,8000,false
 Stunning Smile,9000,false
@@ -2023,46 +2023,46 @@ Grey Faerie Potion,10000,false
 Mighty Techo Sword,8000,false
 Polished Stone Chokato Charm,9900,false
 Shield of the Setting Sun,8950,false
-Silver Sai,8400,false
-Stone Club,20000,false
-Elegant Ray Gun,Inflation Notice,false
+Silver Sai,9000,false
+Stone Club,19500,false
+Elegant Ray Gun,20000,false
 Flotsam Star Blade,13000,false
 Mystical Bomb,7550,false
-Vial of the Deep Forest,8800,false
-Xweetok Pie Slingshot,8800,false
-Korbat Helmet,12300,false
+Vial of the Deep Forest,10000,false
+Xweetok Pie Slingshot,8900,false
+Korbat Helmet,10600,false
 Ghostkerchief Hammer,4100,false
 Parchment Cloak,6500,false
 Fire Gormball Snowball,10000,false
-Snappy Poogle Keyring Thingy,8550,false
-Amulet of the Dark Faerie,8500,false
+Snappy Poogle Keyring Thingy,6900,false
+Amulet of the Dark Faerie,8000,false
 Flotsam Plasma Helmet,9200,false
 Majestic Jetsam Shield,9700,false
 Scaly Shoyru Body,7500,false
 Tonu Golden Blade,5250,false
 Leather Exercise Ball,7900,false
-Zafara Tail Shield,9150,false
+Zafara Tail Shield,8000,false
 Zafara Torch,7500,false
 Bon-bombs,13800,false
-Kacheek Chrome Helmet,10000,false
+Kacheek Chrome Helmet,9250,false
 Magical Tea Kettle,7500,false
-Flotsam Trident,17000,false
+Flotsam Trident,13500,false
 Uni Face Shield,7600,false
-Wand of Nova,8300,false
-Bubbling Cauldron OF DOOM,8950,false
+Wand of Nova,7500,false
+Bubbling Cauldron OF DOOM,7200,false
 Faerie Kougra Totem,8900,false
 Moehog Battle Cape,11200,false
 Axe of Guilt,2900,false
 Illusens Cream Cookie Bombs,7850,false
 Kau Knight Shield,8500,false
-Flaming Blooble Potion,8500,false
-Lightweight Black Tunic,8050,false
+Flaming Blooble Potion,7950,false
+Lightweight Black Tunic,12000,false
 Darksplash Negg Bomb,9000,false
 Elementalists Robes,10700,false
 Ice Cave Crystal,3900,false
 Jetsam Maractite Armoured Trousers,9250,false
 Kyrii Slingshot,4950,false
-Nimmo Apple Bomb,6950,false
+Nimmo Apple Bomb,5000,false
 Orange Koi Morphing Potion,10500,false
 Ornate Fighting Fan,4750,false
 Seaweed Necklace,9900,false
@@ -2070,171 +2070,171 @@ Spooky Rubber Axe,3375,false
 Swift Darkfire Negg Bomb,10000,false
 Velms Healing Potion,11800,false
 Chomby Glove,7400,false
-Scroll of Three Wishes,12500,false
+Scroll of Three Wishes,10600,false
 Sticky Quiggle Shield,5900,false
 Brilliant Blade of Brightvale,7900,false
-Grarrl Helmet,11800,false
+Grarrl Helmet,12800,false
 Maractite Peophin Tailguard,7600,false
 Orb of the Water Faerie,11100,false
 Grarrl Tailspike,8450,false
 Bruce Fish Slingshot,7700,false
 Fiery Battle Carrot,7950,false
 Tooth of Terask,7650,false
-Darkness Potion,7750,false
+Darkness Potion,24000,false
 Jungle Arrow,5250,false
 Mynci Gloves,10000,false
 Scroll of Forgotten Promises,6550,false
 Amulet of Life,6750,false
-Symol Flail,39600,false
+Symol Flail,21000,false
 Blackened Pyramid Mace,15000,false
-Ultra Rainbow Flash,7450,false
-Purple JubJub Morphing Potion,6800,false
+Ultra Rainbow Flash,9450,false
+Purple JubJub Morphing Potion,8400,false
 Dark Nimmo Glove,11800,false
-Glowing Pebble Potion,7300,false
+Glowing Pebble Potion,5400,false
 Maractite Peophin Armoured Gloves,6900,false
 Ruby Krawk Sword,6750,false
-Jetsam Chestplate,9150,false
+Jetsam Chestplate,8750,false
 Jumbleberry Potion,5700,false
 Staff of the Deep Forest,8300,false
-The Moar Blade,6250,false
+The Moar Blade,1350,false
 Velvet Ixi Battle Cloak,7500,false
-Silver Draik Sword,13000,false
+Silver Draik Sword,9450,false
 Engraved Broad Sword,5300,false
 Altadorian Leather Armour,8900,false
-Circlet of the Air Faerie,9500,false
-Ham Helm,11000,false
+Circlet of the Air Faerie,12000,false
+Ham Helm,11300,false
 Jetsam Maractite Armoured Helmet,9900,false
-Kougra Mask,7000,false
+Kougra Mask,4150,false
 Moehog Armour,9000,false
-Ornate Usul Collar,7000,false
+Ornate Usul Collar,4700,false
 Shining Shoulderpiece,8750,false
-Silver Scorchstone,7000,false
+Silver Scorchstone,8300,false
 Lucky Robots Foot,9000,false
 Ornate Usul Gloves,5950,false
 Snowager Sword,6500,false
 Jetsam Maractite Armoured Boots,9650,false
-Ixi Indestructible Shield,10400,false
-Shoyru Battle Sabre,6450,false
+Ixi Indestructible Shield,8700,false
+Shoyru Battle Sabre,6550,false
 Acara Helm,6000,false
-Air Faerie Sceptre,6800,false
-Enamel Elephante Sword,6800,false
+Air Faerie Sceptre,5500,false
+Enamel Elephante Sword,5900,false
 Korbat Tail Spike,6700,false
 Usul Tea Whip,9500,false
 Ancient Poogle Face Shield,6600,false
 Rainbow Scroll,2900,false
-Ancient Eyrie Power Wand,11000,false
-Meerca Squirt Bottle,6700,false
+Ancient Eyrie Power Wand,10000,false
+Meerca Squirt Bottle,4425,false
 Holiday Nova,4500,false
 Titanium Poogle Teeth,16500,false
-Aisha Chucks,6500,false
+Aisha Chucks,4750,false
 Amethyst Acara Medallion,10500,false
 Ancient Repeating Crossbow,7500,false
 Condensed Faerie Essence,5500,false
 Peophin Battle Saddle,7000,false
-Peophin Ultra Battle Mask,6500,false
+Peophin Ultra Battle Mask,4850,false
 Snotty Mace,9000,false
 Tyrannian Back Claws,10000,false
-Bubbling Ethereal Potion,6450,false
+Bubbling Ethereal Potion,5300,false
 Cybunny Collar,8450,false
 Anti Gravity Boots,6400,false
 Ice Conker,4000,false
-Marrowblade,6400,false
+Marrowblade,6300,false
 Quiggle Tongue Whip,5350,false
-Silver Uni Kite Shield,7000,false
-Golden Lupe Tooth Blade,20000,false
+Silver Uni Kite Shield,6900,false
+Golden Lupe Tooth Blade,17500,false
 Skeith Club,5200,false
-Grundo Sword of Justice,5800,false
+Grundo Sword of Justice,5500,false
 Korbat Wing Armour,6400,false
 Curved Scorchio Wing Blade,9500,false
-Glowing Battle Claw,6600,false
-Wocky Helmet,8150,false
+Glowing Battle Claw,6300,false
+Wocky Helmet,7800,false
 Emerald Sword,8200,false
-Krawk Terror Mask,10000,false
-Aisha Claw,6150,false
-Exploding Die,9000,false
+Krawk Terror Mask,9050,false
+Aisha Claw,7700,false
+Exploding Die,8950,false
 Helm of Despair,6000,false
-Lenny Shield,9800,false
+Lenny Shield,9650,false
 Merciless Idiom,8900,false
 Moehog Eye Guards,9500,false
-Orb of the Fire Faerie,10800,false
+Orb of the Fire Faerie,10500,false
 Purple Negg Shoulder Armour,6200,false
-Silver Butter Knife,6000,false
+Silver Butter Knife,5400,false
 Skeith Sword,7950,false
 Skeith Tail Mace,9000,false
 Tonu Leather Shield,5950,false
-Vanishing Potion,8200,false
-Virtublaster 1000,6000,false
+Vanishing Potion,3400,false
+Virtublaster 1000,5750,false
 Zafara Bomb,5900,false
-Gilded Kougra Mask,10000,false
-Usul Winged Boots,5700,false
+Gilded Kougra Mask,8550,false
+Usul Winged Boots,6250,false
 Anti-Slorg Hand Cannon,9950,false
-Blumaroo Shield,4800,false
-Mysterious Hemlock Dart,5900,false
+Blumaroo Shield,4200,false
+Mysterious Hemlock Dart,3000,false
 Parachute Dynamite,6600,false
 Poogle Chest Plate,5900,false
-Sky Boots,5900,false
-Altadorian Throwing Axe,5750,false
+Sky Boots,5450,false
+Altadorian Throwing Axe,3600,false
 Ultimate Battle Yoyo,3650,false
 Gelert Battle Blade,4450,false
-JubJub Goggles,5800,false
-Fluffy Cybunny Slippers,7150,false
+JubJub Goggles,5150,false
+Fluffy Cybunny Slippers,6350,false
 Evil Pink Turbo Slippers,8500,false
-Brain Of Mirgle,4900,false
+Brain Of Mirgle,4750,false
 Gleaming Qasalan Crossbow,2350,false
 Maractite Throwing Shells,5350,false
-Regal Mynci Blade,7000,false
-Scrams Yoyo,5750,false
+Regal Mynci Blade,6850,false
+Scrams Yoyo,5700,false
 Sir Cheekalot Battle Shield,1650,false
-Sroom Fruit Potion,16000,false
-Flotsam Body Armour,9900,false
-Frozen Scarf Whip,5350,false
+Sroom Fruit Potion,14100,false
+Flotsam Body Armour,7450,false
+Frozen Scarf Whip,4925,false
 Meerca Mesh Net,18000,false
 Elixir of Intellect,4900,false
-Earth Potion,5250,false
-Sceptre of Lost Time,4850,false
+Earth Potion,3850,false
+Sceptre of Lost Time,5950,false
 Wooden Flail,8500,false
-Ancient Chia Helm,5200,false
+Ancient Chia Helm,5900,false
 Dangling Potion Bottle,3850,false
-Uni Spying Wand,6050,false
-Tyrannian Lupe Tooth,12000,false
+Uni Spying Wand,5250,false
+Tyrannian Lupe Tooth,33000,false
 Elephante Stunray,12300,false
-Grarrl Gauntlet,5050,false
+Grarrl Gauntlet,4350,false
 Quiggle Battle Armour,6000,false
 Spacial Galactic Gloves,10000,false
 Bloodberry Elixir,4000,false
-Blumaroo Bouncing Boots,13300,false
-Bubble Blaster,5500,false
-Buzz Poison Blaster,12000,false
+Blumaroo Bouncing Boots,10000,false
+Bubble Blaster,5000,false
+Buzz Poison Blaster,11400,false
 Fire Bomb,5000,false
 Gold Capara Battlecard,800,false
 Golden Wocky Helmet,9950,false
 Gruesome Skeith Lunch Box,12000,false
-Kacheek Inviso-Cloth,5000,false
+Kacheek Inviso-Cloth,4600,false
 Oaken Kacheek Wand,5250,false
 Orb of the Dark Faerie,2750,false
-Silver Draik Armour,5000,false
+Silver Draik Armour,4475,false
 Silver Uni Helm,4400,false
 Space Scrap Helmet,6000,false
-Spiked Chomby Helmet,5000,false
+Spiked Chomby Helmet,4800,false
 Split Mynci Morphing Potion,5000,false
 Spooky Slime,3875,false
 Striped Balloons,4500,false
-Amulet of Darkness,1200,false
+Amulet of Darkness,650,false
 Bone Mace,4500,false
-Kacheek Plunger,4975,false
+Kacheek Plunger,4950,false
 Kiko Sludge Bomb,8500,false
-Ceremonial Qasalan Dagger,9000,false
-Fighting Folder,5450,false
+Ceremonial Qasalan Dagger,7500,false
+Fighting Folder,4200,false
 Flotsam Seaweed Lasso,9450,false
-Orb of the Light Faerie,4950,false
+Orb of the Light Faerie,4050,false
 Popcorn Bomb,15400,false
-Quiggle Boomerang,4525,false
+Quiggle Boomerang,4900,false
 Christmas Magic Wand,8000,false
 Grey Lance,22500,false
-Icy Nimmo Battle Helmet,5000,false
+Icy Nimmo Battle Helmet,4800,false
 Negg Helmet,5000,false
-Scorchio Wing Shields,7000,false
-Tuskaninny Power Blade,4900,false
+Scorchio Wing Shields,5950,false
+Tuskaninny Power Blade,2150,false
 Buzz Bomb Bag,4950,false
 Lenny Cape,4475,false
 Regal Skeith Shield,5200,false
@@ -2242,34 +2242,34 @@ Speed Beads,6200,false
 Crooked Quiggle Sword,4800,false
 Essence of Symol,4900,false
 Koi Battle Helmet,8800,false
-Rusty Garden Hoe,4725,false
-Turnip Tonic,10000,false
-Greater Kiko Sword,4700,false
-Ixi Indestructible Helmet,4700,false
+Rusty Garden Hoe,5000,false
+Turnip Tonic,17000,false
+Greater Kiko Sword,4550,false
+Ixi Indestructible Helmet,5250,false
 Kyrii Tank Top,4875,false
 Sturdy Chomby Helmet,6850,false
-Coltzans Necklace,3350,false
+Coltzans Necklace,2000,false
 Flotsam Shell Helm,4900,false
 Grand Lightning Beam,9750,false
 Grey Staff,29400,false
 Ice Knuckles,4775,false
-Underwater Maractite Catapult,4600,false
-Ixi Battle Gem,7800,false
+Underwater Maractite Catapult,3975,false
+Ixi Battle Gem,6400,false
 Korbat Wing Guards,6800,false
-Lightning Scroll,1400,false
+Lightning Scroll,1000,false
 Magic Hat,4725,false
 Skeletal Fire Gun,5000,false
 Skull and Crossbow,2400,false
 Staff of Brain,4200,false
 Talinias Whittling Knife,4950,false
 Quill Sword,3600,false
-Pirate Aisha Morphing Potion,5550,false
+Pirate Aisha Morphing Potion,4950,false
 Battle Bones,980,false
-Fur Lined Bracers,10000,false
-Scorchio Slingshot,4400,false
+Fur Lined Bracers,5500,false
+Scorchio Slingshot,3950,false
 Wocky Wand of Darkness,3900,false
-Tyrannian Snowball,900,false
-Thief Dagger,4325,false
+Tyrannian Snowball,800,false
+Thief Dagger,8450,false
 Luperus Teeth,6900,false
 Maractite Pauldrons,3000,false
 Grey Shield,1200,false
@@ -2279,13 +2279,13 @@ Bow of the Hegelob,11500,false
 Popcorn Darts,10800,false
 Chomby Boots of Might,5500,false
 Slime Mega Blaster,5000,false
-Mynci Slip Na-Na,4125,false
+Mynci Slip Na-Na,3500,false
 Lutari Battle Shield,3525,false
 Illusens Blade,3500,false
 Reinforced Ruki Shield,8000,false
-Ixi Indestructible Blade,4025,false
-Bottled Candlelight,3500,false
-Golden Dual Blade Aisha Sword,6700,false
+Ixi Indestructible Blade,3950,false
+Bottled Candlelight,2550,false
+Golden Dual Blade Aisha Sword,6400,false
 Koi Seaweed Amulet,4000,false
 Leather Chomby Boots,4950,false
 Majestic Jetsam Sword,5500,false
@@ -2301,65 +2301,65 @@ Scorchio Horn Guard,3950,false
 Dark Nimmo Sword,28500,false
 Elephante Battle Drums,6250,false
 JubJub Battle Shield,3500,false
-Silver Elephante Boot,3900,false
+Silver Elephante Boot,3050,false
 Usul Helmet,7750,false
 Chia Belt,3850,false
 Jar of Symol Fur,2500,false
 Moehog Healing Root,4900,false
-Metallic Kougra Shield,18900,false
+Metallic Kougra Shield,16900,false
 Paper Dagger,50,false
 Regal Skeith Helmet,3625,false
-Wood Axe,4250,false
+Wood Axe,4200,false
 Fire Faerie Shield,3675,false
-Koi Tail Armour,3750,false
+Koi Tail Armour,1950,false
 Lavaball,4100,false
 Ornate Usul Shield,5950,false
 Jetsam Helmet,3600,false
-Abominable Snowflake,3900,false
+Abominable Snowflake,3800,false
 Green Kyrii Morphing Potion,10000,false
 Lightweight Maractite Spear,3300,false
 Dazzling Steel Lenny Sword,10000,false
 Kacheek Fire Cannon,5000,false
 Blumaroo Mask,3650,false
 Candy Cane Dragon Star,2950,false
-Meerca Boots Of Flight,3550,false
+Meerca Boots Of Flight,2000,false
 Peophin Lightning Hooves,3525,false
-Gold Fernypoo Battlecard,7000,false
+Gold Fernypoo Battlecard,1600,false
 JubJub Power Arm,2000,false
 Minor Healing Scroll,3750,false
 Yooyuball Goal Net Shield,2900,false
 Blackened Ancient Scimitar,5000,false
 Rejuvenating Skeith Sack Lunch,6150,false
-Angry Techo Fist,11900,false
+Angry Techo Fist,13500,false
 Armoured Ruki Bow,5550,false
-Fierce Hissi Blade,3400,false
+Fierce Hissi Blade,2775,false
 Ghoulish Mask,2400,false
 Jetsam Sword,1950,false
-Space Fungus Healing Potion,3400,false
+Space Fungus Healing Potion,5000,false
 Sparkle Potion,5500,false
 Ultimate Negg of Destruction,10000,false
-Red Neocola Token,3175,false
+Red Neocola Token,3150,false
 Quiggle Helmet,2850,false
-Tartan Snowball,3300,false
+Tartan Snowball,3400,false
 Gold Little Timmy Battlecard,1000,false
 Moehog Helmet,6500,false
-Blue Fur Lined Cloak,3250,false
-Poogle Scimitar,10000,false
+Blue Fur Lined Cloak,2475,false
+Poogle Scimitar,10500,false
 Uni Body Armour,6450,false
 Jagged Chia Sword,3100,false
-Moehog Lance,3200,false
+Moehog Lance,3000,false
 Regal Skeith Staff,4650,false
 Ancient Chomby Shield,4000,false
-Usul Water Balloon Attack,10600,false
-Ancient Negg Amulet,3125,false
+Usul Water Balloon Attack,9800,false
+Ancient Negg Amulet,3075,false
 Forest Arrow,1900,false
-Shiny Shoal Shell Shield,3100,false
+Shiny Shoal Shell Shield,1800,false
 Golden Wocky Blade,8250,false
 Black Fan of Shenkuu,2500,false
 Blizzard Ring,2225,false
 Blumaroo Battle Gloves,2500,false
 Buzz Wing Guards,3000,false
-Flower Tonic,3000,false
+Flower Tonic,2800,false
 Kyrii Rocket Boots,3000,false
 Mega Carrot Blaster,3000,false
 Mighty Techo Gloves,2850,false
@@ -2367,215 +2367,215 @@ Million Degree Sword,2125,false
 Moehog Battle Mask,3425,false
 Mynci Nana-Chucks,2950,false
 Negg Shooter,2600,false
-Rotten Jack-O-Lantern Bomb,2775,false
-Shimmering Chomby Shield,3000,false
+Rotten Jack-O-Lantern Bomb,2000,false
+Shimmering Chomby Shield,2950,false
 Spearmint,13300,false
 Studded Tonu Belt,3000,false
 Transporter Helmet,3000,false
-Tuskaninny Slingshot,3000,false
+Tuskaninny Slingshot,1750,false
 Uni Horn Guard,2500,false
 Usul Cookie Dough Bomb,3000,false
-Wand of the Light Faerie,3875,false
+Wand of the Light Faerie,2000,false
 Wraith Scroll,4950,false
 Scarab Stone Slingshot,2350,false
-Curved Ruki Dagger,2950,false
+Curved Ruki Dagger,3100,false
 Haunted Skull Fan,2000,false
 Silver Draik Gauntlets,3500,false
-Buzz Globule Dart,2925,false
+Buzz Globule Dart,3000,false
 Jetsam Fin of Terror,8850,false
-Bleached Bone Staff,2900,false
-Cybunny Battle Pen,2900,false
-Hard Leather Bracers,2900,false
+Bleached Bone Staff,1900,false
+Cybunny Battle Pen,2750,false
+Hard Leather Bracers,2450,false
 Ice Sword,2900,false
-Mynci Tail Guard,2900,false
+Mynci Tail Guard,2200,false
 Tuskaninny Battle Mask,2950,false
 Golden Buzz Helmet,3800,false
 Grundo Defender,2375,false
 Silver Uni Wing Guards,5400,false
 Lupe Reflector Shield,5100,false
 Trishulatops,13800,false
-Scroll of the Scholar,3300,false
+Scroll of the Scholar,4500,false
 Scythe of Eternal Darkness,2900,false
 Wocky Shield of Truth,3400,false
 Kyrii Protectogoggles,1350,false
-Grundo Communication Helmet,2950,false
+Grundo Communication Helmet,4000,false
 Pteri Sword,2250,false
-Uni Gem,2700,false
+Uni Gem,1700,false
 Leminty Elixir of Healing,9000,false
-Plushie Mote,3450,false
-Silver Draik Shield,2600,false
-Blue Ogrin Morphing Potion,2850,false
-Chain Spear,2500,false
-Chia Defence Cloak,2500,false
-Fizzy Ummagine Potion,1350,false
-Light Footed Lenny Boot,2500,false
+Plushie Mote,2850,false
+Silver Draik Shield,3150,false
+Blue Ogrin Morphing Potion,4750,false
+Chain Spear,1600,false
+Chia Defence Cloak,2950,false
+Fizzy Ummagine Potion,1325,false
+Light Footed Lenny Boot,1500,false
 Soul Stone,2500,false
 Super Luperus Tooth,500,false
 Yellow Ogrin Morphing Potion,2000,false
-Gelert Helm,2450,false
+Gelert Helm,4700,false
 Kyrii Shocker,1950,false
-Pocket Grarrl Gnashers,2450,false
-Steel Kiko Helmet,2450,false
-Icy Nimmo Sword,2425,false
-Festive Holiday Scroll,1225,false
+Pocket Grarrl Gnashers,1675,false
+Steel Kiko Helmet,1875,false
+Icy Nimmo Sword,1950,false
+Festive Holiday Scroll,500,false
 Jewelled Battle Collar,1850,false
 Nimmo Power Staff,2275,false
 Scroll of The Dark Star,2375,false
-Silver Arm Plate,2400,false
-Steam Jug,2175,false
+Silver Arm Plate,3000,false
+Steam Jug,2000,false
 Wood Scimitar,2400,false
-Bracers of Fury,2375,false
-Kau Helmet,2375,false
+Bracers of Fury,2650,false
+Kau Helmet,2250,false
 Negg Scroll,3000,false
-Tonu Lightning Horn,2375,false
+Tonu Lightning Horn,2350,false
 Ancient Scimitar,3000,false
-Lupe Battle Claw,2350,false
+Lupe Battle Claw,1700,false
 Ornate Maractite Dagger,2375,false
-Cooty Crossbow,20500,false
-Rainbow Aisha Morphing Potion,1400,false
+Cooty Crossbow,24800,false
+Rainbow Aisha Morphing Potion,1100,false
 Scroll of Sadness,990,false
-Tuskaninny Tail Guard,2325,false
+Tuskaninny Tail Guard,2300,false
 Cybunny Utility Belt,4000,false
-Homing Mine,4775,false
+Homing Mine,3000,false
 Rugged Zafara Staff,2300,false
-Wooden Scythe,2300,false
-Blue Neocola Token,2000,false
-Bruce Body Armour,2250,false
+Wooden Scythe,2250,false
+Blue Neocola Token,2700,false
+Bruce Body Armour,2225,false
 Decanter of Death,1100,false
-Sand Snowflake,2250,false
+Sand Snowflake,1600,false
 Solar Flare Gun,2000,false
 Golden Wocky Wand,5100,false
 Jewelled Peophin Face Mask,2475,false
 Meerca Boomerang,4950,false
-Gelert Tail Armour,2200,false
+Gelert Tail Armour,2150,false
 Korbat Chestplate,2000,false
 Light Faerie Shield,1950,false
-Magical Wheel Potion,2200,false
+Magical Wheel Potion,1200,false
 Spiked Skeith Boomerang,2250,false
 Virtupets Megacon Helmet,1125,false
 Alchemy Experimenter,2550,false
 Icy Magic Hat,6350,false
 Pearly Koi Bubble Wand,2175,false
-Bori Helmet,2150,false
-Regal Mynci Boots,2150,false
-Regal Skeith Blade,2125,false
+Bori Helmet,1325,false
+Regal Mynci Boots,1350,false
+Regal Skeith Blade,2250,false
 Velvet Eyrie Cloak,6000,false
-Bruce Battle Blade,2075,false
-Chomby Rocket Belt,2050,false
-Ornate Fur Trimmed Robe,2050,false
-Scroll of Flame Strike,880,false
+Bruce Battle Blade,1725,false
+Chomby Rocket Belt,950,false
+Ornate Fur Trimmed Robe,1400,false
+Scroll of Flame Strike,1500,false
 Usul Axe,2500,false
-Buzz Antennae,2025,false
-Buzz Gauntlet,2000,false
+Buzz Antennae,2050,false
+Buzz Gauntlet,1900,false
 Chomby Slingshot,1825,false
 Chomby Thunder Boot,2000,false
 Cobrall Cannon,3000,false
-Coconut Flake Snowball,2000,false
-Deadly Treasure Chest,900,false
+Coconut Flake Snowball,2500,false
+Deadly Treasure Chest,1450,false
 Gold Blade of the Peophin,3150,false
-Green Neocola Token,2050,false
+Green Neocola Token,2000,false
 Ice Scimitar,1700,false
 JubJub Shoes of Flight,5550,false
 Kau Knight Boots,2000,false
-Kiko Water Cannon,3700,false
+Kiko Water Cannon,3000,false
 Kyrii Cork Gun,2000,false
-Kyrii Power Puncher,2000,false
+Kyrii Power Puncher,1500,false
 Maractite Gauntlets,650,false
-Meerca Tail Whip,2000,false
-MegaTon Bracelet,1400,false
+Meerca Tail Whip,1000,false
+MegaTon Bracelet,1450,false
 Negg Chucks,2000,false
 Negg Smoke Bomb,1200,false
 Negg Sword,2000,false
-Padded Acara Gloves,2000,false
+Padded Acara Gloves,1400,false
 Pink Gormball Snowball,5000,false
-Scroll of Radiance,2000,false
+Scroll of Radiance,300,false
 Scroll of the Fool,1400,false
 Scroll of the Wise,1500,false
-Super Sharp Korbat Boots,2000,false
-Ugga Marbleshield,4600,false
-Zeenana Potion,1200,false
+Super Sharp Korbat Boots,2300,false
+Ugga Marbleshield,4725,false
+Zeenana Potion,2500,false
 Altadorian Battle Helmet,1900,false
-Heavyweight Boxing Gloves,9900,false
+Heavyweight Boxing Gloves,8000,false
 King Hagan Cloud Potion,1300,false
 Pyramid Dagger,1450,false
 Basic Dryer,2100,false
 Cybunny Rotten Carrot Attack,3000,false
-Eight Point Paper Star,2175,false
+Eight Point Paper Star,1025,false
 Four Point Paper Star,1800,false
 Kau Mouth Blade,1825,false
 King Skarl Cloud Potion,2000,false
-Scorchio Fire Marble,5650,false
-Green Ogrin Morphing Potion,1925,false
-Kiko Battle Legs,2300,false
-Scorchio Wand,1925,false
+Scorchio Fire Marble,5550,false
+Green Ogrin Morphing Potion,2000,false
+Kiko Battle Legs,2350,false
+Scorchio Wand,1425,false
 Flame Reflector,2150,false
 Hypnotic Scroll,500,false
-Maraquan Commanders Helm,1200,false
+Maraquan Commanders Helm,9300,false
 Poogle Battle Helmet,2650,false
 Scroll of the Battlefield,1700,false
-Starlight Potion,2000,false
+Starlight Potion,2025,false
 Boomerang Sword,1900,false
-Wocky Hair Grenade,1875,false
-Chia Bubble Gun,1850,false
+Wocky Hair Grenade,1775,false
+Chia Bubble Gun,2775,false
 Minor Defence Scroll,540,false
 Carved Sansetsukon,1500,false
 Ice Club,1625,false
 Stone Battle Helmet,1825,false
-Xweetok Acorn Helmet,1825,false
-Capn Threelegs Training Sword,1800,false
+Xweetok Acorn Helmet,2000,false
+Capn Threelegs Training Sword,1425,false
 Chest Armour,1800,false
 Corn Sword,1500,false
 Fyoras Elixir,3100,false
-Red Moehog Morphing Potion,2200,false
+Red Moehog Morphing Potion,1600,false
 Spiked Shoe Flail,1800,false
 Spork Sword,1875,false
 Ya Tchea Fruit Bomb,820,false
-Kiko Claws,1725,false
-Arm Shield,1700,false
+Kiko Claws,1975,false
+Arm Shield,1600,false
 MAGAXs Menacing Sledgehammer,2100,false
-Skeith Attack Gloves,1700,false
+Skeith Attack Gloves,1600,false
 Wakey Wakey Juice,1700,false
-Container of Glade Leaves,200,false
+Container of Glade Leaves,1750,false
 Elegant Jewelled Robe,1650,false
 Fire Snow,1800,false
 Krawk Tail Armour,9900,false
-Mallard Tape,1650,false
+Mallard Tape,1700,false
 Potion of Corruption,8500,false
 Silver Spectre Battlecard,6250,false
-Icy Nimmo Shield,1625,false
-Black Leather Helmet,1600,false
+Icy Nimmo Shield,1500,false
+Black Leather Helmet,1750,false
 Gold Chuffer Bob Battlecard,1100,false
 Illusens Bottled Magic,1200,false
-Korbat Whip,1600,false
-Krawk Battle Claw,1600,false
-Yurble Broad Sword,1600,false
-Spiked Poogle Helmet,1575,false
-Chomby Battle Goggles,1550,false
+Korbat Whip,1500,false
+Krawk Battle Claw,1300,false
+Yurble Broad Sword,1675,false
+Spiked Poogle Helmet,1750,false
+Chomby Battle Goggles,1200,false
 Electro Shield,1525,false
 Golden Qasalan Boots,1700,false
 Kau Hoof Guards,1550,false
-Roboto Shoulders,1550,false
+Roboto Shoulders,1700,false
 Shield of Reflection,2450,false
-Simple Burlap Cloak,2425,false
+Simple Burlap Cloak,2150,false
 Spicy Snowflake,1700,false
 Blumaroo Ear Guards,1175,false
-Buzz Tail Mace,1500,false
-Cloud Wocky Morphing Potion,2300,false
+Buzz Tail Mace,1325,false
+Cloud Wocky Morphing Potion,1600,false
 Dual Battle Mirror,900,false
-Frozen Wave Scimitar,780,false
-Kaylas Home Remedy,3100,false
+Frozen Wave Scimitar,500,false
+Kaylas Home Remedy,1450,false
 Red Bomb,4750,false
 Seek Visor,1500,false
 Tuskaninny Eye Goggles,1500,false
 Wooden Practice Fan,2400,false
 Battle Mirror,1700,false
 Faerie Portrait,1200,false
-Kau Knight Helmet,1475,false
-Kiko Armour,1475,false
+Kau Knight Helmet,630,false
+Kiko Armour,1175,false
 Enchanted Peophin Blinkers,1125,false
 Gelert Boots,1150,false
-Ghostkerchief Bag,1450,false
-Grenegg,1000,false
+Ghostkerchief Bag,1425,false
+Grenegg,2000,false
 Kau Battle Horns,1700,false
 Lost Desert Wrist Plate,1200,false
 Rohanes Armour Polish,3150,false
@@ -2583,7 +2583,7 @@ Techo Gauntlets,1450,false
 Bloated Bag,730,false
 Rotten Negg Soup,900,false
 Fire Mask,1000,false
-Gauntlets of the Sun,1000,false
+Gauntlets of the Sun,1450,false
 Gilded Elephante Claw,1375,false
 Ruby Sword,1900,false
 Frost Mote,1450,false
@@ -2592,225 +2592,225 @@ Kiko Sword,1500,false
 Razumi Mace,950,false
 Curling Blade,1000,false
 Dirty Snow,2100,false
-Earth Faerie Darts,1300,false
+Earth Faerie Darts,1000,false
 Fire Rock Torso Shield,870,false
 Flaming Bronze Helm,1875,false
-Fragrant Battle Charm,1300,false
-Ghostkerchief Dagger,1300,false
-Ornate Pteri Sash,1300,false
+Fragrant Battle Charm,900,false
+Ghostkerchief Dagger,590,false
+Ornate Pteri Sash,970,false
 Gold Kalora Battlecard,1125,false
-Oaken Kacheek Helm,1275,false
-Sticky Quiggle Glove,1275,false
+Oaken Kacheek Helm,90,false
+Sticky Quiggle Glove,1850,false
 Genie Orb,3200,false
 Gold Branston Battlecard,1000,false
-Lyins Dagger,1250,false
-Minty Snowflake,1250,false
+Lyins Dagger,2000,false
+Minty Snowflake,970,false
 U-Bend,1650,false
 Christmas JubJub Morphing Potion,1000,false
-Fire Sword,1225,false
+Fire Sword,1000,false
 Night Stone,1200,false
-Wooden Grarrl Club,1225,false
+Wooden Grarrl Club,1125,false
 Bottled Holiday Spirit,1000,false
 Buckled Leather Tunic,810,false
 Fire Jug,1050,false
 Grudge Keeper,3000,false
-Kougra Claws,1200,false
-Mighty Peophin Shield,1200,false
-Scroll of Benevolence,1200,false
-Scroll of the Earth,1200,false
+Kougra Claws,2000,false
+Mighty Peophin Shield,1850,false
+Scroll of Benevolence,1600,false
+Scroll of the Earth,720,false
 Magic Vial,1200,false
 Jade Staff,1000,false
-Maractite Cord,700,false
+Maractite Cord,1000,false
 Mortog Serum,2800,false
 Snow Faerie Darts,1000,false
 Usul Armour,750,false
 Bucket o Water,1075,false
-Clockwork Quiggle,1125,false
-Essence of Esophagor,1125,false
-Faerie Kougra Sword,1125,false
+Clockwork Quiggle,380,false
+Essence of Esophagor,890,false
+Faerie Kougra Sword,1100,false
 Hawk Wand,1000,false
-Accelerator Helmet,1275,false
-Red Ogrin Morphing Potion,2975,false
-Tuskaninny Power Paw,1100,false
+Accelerator Helmet,1000,false
+Red Ogrin Morphing Potion,4900,false
+Tuskaninny Power Paw,900,false
 Dark Faerie Cloud Racer Helmet,940,false
-Meerca Healing Potion,1075,false
+Meerca Healing Potion,880,false
 Ruki Battle Staff,630,false
 Cybunny Helmet,1550,false
 Electrical Mote,990,false
-Exploding Pizza Pasty,1050,false
-Golden Grarrl Shield,1050,false
-Slippery Floor Potion,1050,false
-Stream of Light,1000,false
+Exploding Pizza Pasty,1025,false
+Golden Grarrl Shield,1875,false
+Slippery Floor Potion,230,false
+Stream of Light,1150,false
 Koi Defensive Goggles,1850,false
-Ocularimplant,1025,false
+Ocularimplant,1800,false
 Roo Island Crystal,500,false
 Ancient JubJub Mask,1000,false
 Blue Sticky Hand,450,false
 Broken Mirror Shield,900,false
-Cape of the Sun,1000,false
-Caustic Potion,500,false
-Electric Moehog Morphing Potion,500,false
+Cape of the Sun,1200,false
+Caustic Potion,200,false
+Electric Moehog Morphing Potion,1200,false
 Elephante Sword,1125,false
 Enchanted Cobweb,1000,false
 Fiery Snowball,1400,false
 Fire Ball,890,false
 Fire Potion,850,false
 Flotsam Battle Horn,1000,false
-Frozen Collar,1000,false
+Frozen Collar,1900,false
 Furry Chia Shield,1000,false
 Glowing Snow Wurm,640,false
 Gnorbu Battle Helm,500,false
-Gold Handled Short Sword,1000,false
+Gold Handled Short Sword,2000,false
 Grundox 4000,1850,false
 Ice Mote,360,false
-Iron Lupe Helm,1000,false
+Iron Lupe Helm,1400,false
 Kaylas Potion Of Freezing,350,false
-Lenny Grenade,1000,false
-Lenny Healing Stone,1000,false
-Lightning Gun,1800,false
-Lightweight Nimmo Boxing Gloves,1000,false
-Pirate Eyrie Morphing Potion,1000,false
-Puppyblew Ice Shield,1000,false
-Purple Invisihat,1100,false
+Lenny Grenade,990,false
+Lenny Healing Stone,1650,false
+Lightning Gun,1500,false
+Lightweight Nimmo Boxing Gloves,840,false
+Pirate Eyrie Morphing Potion,2450,false
+Puppyblew Ice Shield,600,false
+Purple Invisihat,1075,false
 Quiggle Brass Knuckles,1000,false
 QX-92 Neutrino Blaster,950,false
 Rancid Faerie Potion,980,false
 Scroll of the Depths,550,false
 Shooting Star Muffin,1200,false
 Silver Little Timmy Battlecard,400,false
-Spiky Snowball,1000,false
+Spiky Snowball,780,false
 Spirit Bottle,1000,false
-Super Ice Sword,1000,false
+Super Ice Sword,4600,false
 Super U-Bend,1000,false
 Superior Elephante Shield,1125,false
 Underwater Oven Gloves,500,false
 Vicious Mote,2000,false
-Whoot Necklace,1000,false
+Whoot Necklace,2125,false
 Tears of the Water Faerie,700,false
-17-Pound Trout,980,false
+17-Pound Trout,650,false
 Gnorbu Battle Greaves,600,false
 Skeith Shield,690,false
 Dung Mote,1550,false
 Fire Gem,1175,false
-Pirate Techo Morphing Potion,970,false
-Ruki Battle Helm,970,false
-Battle Spade,950,false
-Cybunny X Ray Glasses,950,false
-Lesser Defence Scroll,950,false
+Pirate Techo Morphing Potion,960,false
+Ruki Battle Helm,940,false
+Battle Spade,2100,false
+Cybunny X Ray Glasses,850,false
+Lesser Defence Scroll,930,false
 Nanka Bottle,700,false
-Scroll of the Western Winds,950,false
+Scroll of the Western Winds,980,false
 Gold Brucey B Battlecard,960,false
 Good Luck Ankh,1100,false
 Kazeriu Bow,880,false
 Sparkling Sky Potion,1900,false
 Von Roo Dice,230,false
-Emerald Hissi Helmet,1400,false
+Emerald Hissi Helmet,620,false
 Boneflake,1400,false
 Fierce Grarrl Helmet,840,false
 Gelert Lightning Speed Boots,1400,false
 Gold 00 Hog Battlecard,1000,false
 Golden Kougra Shield,530,false
 Hail Mote,310,false
-Koi Battle Gloves,900,false
+Koi Battle Gloves,1850,false
 Large Flaming Log,850,false
-Maractite Sling,900,false
+Maractite Sling,1200,false
 Mighty JubJub Shield,900,false
 Neopian Mote,1100,false
 Purple Blob Potion,400,false
-Scroll of Despair,400,false
-Starry Eyrie Morphing Potion,1000,false
-Strawberry Tuskaninny Morphing Potion,550,false
+Scroll of Despair,290,false
+Starry Eyrie Morphing Potion,990,false
+Strawberry Tuskaninny Morphing Potion,800,false
 Faerie Crash Helmet,1000,false
 Jar of Meepit Eyes,600,false
 Molten Rock,1100,false
 Desert Headdress,1450,false
 Foil Wrapped Mystery Food Ball,1000,false
 Malice Potion,500,false
-Burning Potion,850,false
-Buzz Blaster,850,false
+Burning Potion,450,false
+Buzz Blaster,1800,false
 Golden Wocky Shield,450,false
 Ice Crystal Ball,330,false
-Red Suede Boots,850,false
-Dee Mote,450,false
+Red Suede Boots,500,false
+Dee Mote,400,false
 Earthen Wand of Stone,500,false
 Sapphire Ring of the Xendriks,820,false
 Scroll of Virtue,840,false
 Tomato Smasher,1000,false
-Autumn Leaves Snowball,830,false
-Bottled Volcano Steam,830,false
+Autumn Leaves Snowball,390,false
+Bottled Volcano Steam,550,false
 Shoyru Shield,690,false
-Grundo X2000 Chestplate,820,false
-Splendid Buzz Shield,810,false
-Flyweight Nimmo Boxing Gloves,800,false
-Gelert Body Armour,800,false
+Grundo X2000 Chestplate,700,false
+Splendid Buzz Shield,740,false
+Flyweight Nimmo Boxing Gloves,1100,false
+Gelert Body Armour,1000,false
 Jagged Ice Ring,400,false
 Scroll of Disorientation,400,false
-Stone Draik Shield,1175,false
+Stone Draik Shield,980,false
 Air Mote,1000,false
 Iced Wand,3000,false
 Hawk Bracelet,300,false
 Iceray Bracelet,1500,false
-Lenny Paper Mask,780,false
-Bronze Mote,770,false
-Snowball Club,770,false
+Lenny Paper Mask,300,false
+Bronze Mote,420,false
+Snowball Club,1550,false
 Dark Reflectorb,1000,false
 Enchanted Maraquan Necklace,120,false
-Flaming Scorchio Battle Yoyo,750,false
+Flaming Scorchio Battle Yoyo,470,false
 Green Rocket,50,false
-Level 2 Bubble Beam,750,false
-Maractite Scroll,750,false
+Level 2 Bubble Beam,1000,false
+Maractite Scroll,800,false
 Super Snow Tiger Egg,980,false
 Utensil of Deadly Utensils,500,false
 Weak Bottled Light Faerie,400,false
 Zen Mote,750,false
-Dark Faerie Darts,740,false
+Dark Faerie Darts,1000,false
 Lost Desert Dagger,1325,false
 Shard of The Obelisk,1050,false
 Elephante Peanut Shield,730,false
 Feather Tickler,370,false
-Koi Trident,700,false
-Scroll of The Clouds,700,false
-Scroll of Three Curses,700,false
+Koi Trident,570,false
+Scroll of The Clouds,1050,false
+Scroll of Three Curses,680,false
 Silver 00 Hog Battlecard,520,false
-Stone Snowball,1000,false
+Stone Snowball,2000,false
 Turbo Flame Reflector,610,false
 Wooden Practice Staff,1400,false
-Puce Elixir,690,false
-Fire Walking Boots,350,false
+Puce Elixir,400,false
+Fire Walking Boots,300,false
 Flaming Shield Of Fire,120,false
-Golden Cobrall Glove,850,false
-Golden Kougra Earmuffs,650,false
-Moderately Evil Staff,650,false
-Obedience Medallion,440,false
+Golden Cobrall Glove,180,false
+Golden Kougra Earmuffs,1000,false
+Moderately Evil Staff,500,false
+Obedience Medallion,100,false
 Furry Gnorbu Hammer,400,false
-Liquid Goo,640,false
+Liquid Goo,1000,false
 Double Dryer,630,false
 Festive Cutlass,470,false
-Spectre Battlecard,630,false
+Spectre Battlecard,1000,false
 Steel Chomby Chestplate,930,false
-Assassins Tunic,620,false
-Firestorm Bottle,500,false
-Greater Defence Scroll,600,false
+Assassins Tunic,430,false
+Firestorm Bottle,320,false
+Greater Defence Scroll,6700,false
 Mighty Peophin Blade,390,false
 Moon Staff,3250,false
-Strawberry Techo Morphing Potion,890,false
-Tonu Face Mask,600,false
-Gold Mote,350,false
-Padded Quiggle Cloak,590,false
-Scorchio Helmet,590,false
-Scroll of Trickery,570,false
+Strawberry Techo Morphing Potion,1000,false
+Tonu Face Mask,470,false
+Gold Mote,1000,false
+Padded Quiggle Cloak,500,false
+Scorchio Helmet,1000,false
+Scroll of Trickery,410,false
 Fiery Hissi Amulet,790,false
 Winged Hammer,220,false
 Silver Capara Battlecard,340,false
 Mud Mote,500,false
-Tomato Spitter,550,false
-Battle Ready Pencil Box,550,false
+Tomato Spitter,500,false
+Battle Ready Pencil Box,180,false
 Pocket Feather,790,false
 Hair Mote,890,false
 Sword of Knowledge,Inflation Notice,false
 Mallow Launcher,580,false
 Moehog Sword,190,false
-Regal Mynci Cloak,510,false
+Regal Mynci Cloak,330,false
 Bat Pack,300,false
 Battered Grundo Battle Helmet,300,false
 Dinner Table Cutlery,200,false
@@ -2819,7 +2819,7 @@ Ee Mote,850,false
 Fading Bottled Earth Faerie,370,false
 Fire Tipped Spear,270,false
 Floral Battle Dung,400,false
-Ghostkerchief Bracers,500,false
+Ghostkerchief Bracers,950,false
 Hand Painted Scarab,410,false
 Levatato Ray,270,false
 Meerca Negg Bomb,420,false
@@ -2827,35 +2827,35 @@ Menacing Grarrl Gauntlet,440,false
 Necklace of the Water Faerie,20,false
 Red Sticky Hand,500,false
 Silver Branston Battlecard,400,false
-Silver Helmet,500,false
-Staff of Impenetrable Gloom,500,false
+Silver Helmet,540,false
+Staff of Impenetrable Gloom,900,false
 Super Poison Dart,470,false
 Superior Shovel,690,false
 Supersize Ultimate,340,false
-Bori Slingshot,1000,false
-Magma Snowflake,980,false
-Essence of Everlasting Apple,300,false
+Bori Slingshot,750,false
+Magma Snowflake,880,false
+Essence of Everlasting Apple,500,false
 Fading Bottled Fire Faerie,380,false
-Scamander Blade,480,false
-Spider on a String,480,false
+Scamander Blade,340,false
+Spider on a String,470,false
 00 Hog Battlecard,430,false
-Desert Arrow Launcher,300,false
-Jagged Chomby Blade,470,false
+Desert Arrow Launcher,220,false
+Jagged Chomby Blade,340,false
 Paper Helmet,440,false
-Korbat Ear Shields,460,false
+Korbat Ear Shields,800,false
 Attack Fork,430,false
-Blue Ruki Dagger,900,false
+Blue Ruki Dagger,30,false
 Desert Robe,80,false
-Fading Bottled Dark Faerie,450,false
-Kyrii Leather Helmet,450,false
-Flaming Oven Gloves,440,false
+Fading Bottled Dark Faerie,650,false
+Kyrii Leather Helmet,230,false
+Flaming Oven Gloves,390,false
 Maractite Throwing Net,1025,false
-Radioactive Muffin,440,false
+Radioactive Muffin,300,false
 Amiras Staff,250,false
-Asparagus Powered Ray Gun,430,false
-Fading Bottled Air Faerie,350,false
-Fading Bottled Light Faerie,300,false
-Jade Helmet of the Ogrin,430,false
+Asparagus Powered Ray Gun,530,false
+Fading Bottled Air Faerie,650,false
+Fading Bottled Light Faerie,730,false
+Jade Helmet of the Ogrin,100,false
 Pink Squirt Flower,1150,false
 Pressurised Water,440,false
 Silver Fernypoo Battlecard,400,false
@@ -2863,10 +2863,10 @@ Silver Kalora Battlecard,430,false
 Brain Tree Splinters,800,false
 Hanso Charisma Charm,450,false
 Brain Tree Root,800,false
-Fading Bottled Water Faerie,400,false
+Fading Bottled Water Faerie,650,false
 Fake Hand,190,false
 Garlic Shield,360,false
-Ice Shield,1000,false
+Ice Shield,640,false
 Knotty Wooden Blade,270,false
 Laser Pointer,320,false
 Poogle Sword,400,false
@@ -2876,18 +2876,18 @@ Stink Bomb,250,false
 Web Claw,950,false
 Deadly Snail Brooch,1125,false
 Night Mote,350,false
-Bubbling Healing Goo,380,false
+Bubbling Healing Goo,500,false
 Snidberry Dew,130,false
 Silver Brucey B Battlecard,950,false
-Sinsis Crown,370,false
+Sinsis Crown,190,false
 Tooled Leather Boots,390,false
-Yellow Frost Cannon,900,false
+Yellow Frost Cannon,830,false
 Green Invisihat,250,false
 Scroll of Flight,380,false
-Bone Breastplate,350,false
+Bone Breastplate,230,false
 Brucey B Battlecard,400,false
-Demonic Bow,350,false
-Howling Axe,350,false
+Demonic Bow,1225,false
+Howling Axe,780,false
 Kaylas Little Pick Me Up,800,false
 Parasol of Unfortunate Demise,210,false
 Pumpkin Shield,500,false
@@ -2897,34 +2897,34 @@ Chuffer Bob Battlecard,400,false
 Downpour Bottle,160,false
 Silver Chuffer Bob Battlecard,550,false
 Simple Wooden Fighting Staff,290,false
-Fire Faerie Darts,85,false
-Fruit Cake Brick,230,false
-Metallic Sun Staff,320,false
+Fire Faerie Darts,250,false
+Fruit Cake Brick,75,false
+Metallic Sun Staff,100,false
 Moehog Tusk,410,false
 Magical Battle Paste,230,false
 Nimmo Helmet,680,false
 Silver Leg Armour,320,false
 Stone Arm Shield,310,false
-Bandolaro,300,false
+Bandolaro,380,false
 Basic Shovel,1125,false
 Brain Tree Branch,550,false
 Branston Battlecard,340,false
 Cherry Tomato Darts,480,false
 Elastic Band Gun,1075,false
-Fiery Sun Scroll,300,false
-Grarrl Terror Blade,300,false
-Grey Faerie Shield,300,false
+Fiery Sun Scroll,250,false
+Grarrl Terror Blade,100,false
+Grey Faerie Shield,2000,false
 Jetsam Fish Bone Saw,900,false
 Kalora Battlecard,300,false
 Radioactive Snow,220,false
-Simple Techo Slingshot,300,false
+Simple Techo Slingshot,280,false
 Snow Mudball,900,false
 Techo Wand of Smiting,270,false
 Coltzans Ring,350,false
 Emerald Chomby Axe,390,false
 Green Potion,130,false
 Poison Dart,200,false
-Scroll of Dark Nova,10,false
+Scroll of Dark Nova,50,false
 Small Metal Shield,100,false
 Special Snowflake,290,false
 Day Mote,100,false
@@ -2936,34 +2936,34 @@ Pteri Combat Jacket,50,false
 Fish Scale Breastplate,290,false
 Ornament Launcher,260,false
 Blue Ruki Spear,230,false
-Bombaberry Elixir,250,false
+Bombaberry Elixir,50,false
 Bone Sceptre,110,false
-Fiery Bone Bow,100,false
+Fiery Bone Bow,200,false
 Hand Buzzer,230,false
 Steaming Skeem Potion,65,false
 Super Strength Healing Potion,420,false
-Tinsel Trident,170,false
+Tinsel Trident,90,false
 Dark Fire Potion,200,false
 Inflated Hammer,450,false
 Rock Mote,1000,false
-Tangella Tonic,240,false
-Hardened Leather Kau Helm,150,false
+Tangella Tonic,250,false
+Hardened Leather Kau Helm,500,false
 Scorchio Battle Wand,300,false
 Dewberry Reviver,200,false
 Frozen Snowball,150,false
 Top of the Mountain Crystal,220,false
 Wooden Shield,750,false
-Eye Of Mortog,210,false
+Eye Of Mortog,170,false
 Lair Beast Tooth Shield,200,false
 Sir Cheekalot Trials Shield,1450,false
 Snowball Slingshot,210,false
-Artisans Lens,180,false
+Artisans Lens,1000,false
 Candy Cane Sword,100,false
 Coral Orb,500,false
-Cork Gun,340,false
+Cork Gun,370,false
 Emerald Krawk Shield,95,false
 Expert Lens,500,false
-Golden Coin Amulet,140,false
+Golden Coin Amulet,130,false
 Golden Snowflake,100,false
 Jetsam Fin Guard,700,false
 Leaded Fire Vial,100,false
@@ -2972,76 +2972,76 @@ Magic Branch,1000,false
 Meerca Water Mine,830,false
 Mighty Vegan Cheese Log,170,false
 Moehog Mud Bomb,300,false
-Molten Icicle,200,false
-Plains Arrow,200,false
+Molten Icicle,80,false
+Plains Arrow,210,false
 Plastic Butter Knife,40,false
 Scroll of Moon Light,1100,false
-Striped Gnorbu Lance,450,false
+Striped Gnorbu Lance,440,false
 Thermal Explosive Device,1,false
 Ultra Dark Reflectorb,150,false
-Utility Backpack,200,false
+Utility Backpack,210,false
 Weak Bottled Air Faerie,14,false
 Battle Biscuit,210,false
 Bronze Short Sword,190,false
 Double Pointed Spear,70,false
-Lutari Healing Potion,180,false
+Lutari Healing Potion,360,false
 Palace Guard Sandals,150,false
 Salt Mote,300,false
-Spinning Snow Mound,180,false
-Sweet Nightmares Curse,400,false
-Yurble Battle Yoyo,300,false
+Spinning Snow Mound,200,false
+Sweet Nightmares Curse,1750,false
+Yurble Battle Yoyo,360,false
 Bronze Shield,2000,false
 Coltzans Burning Gem,400,false
-Dust Mote,170,false
+Dust Mote,110,false
 Elephante Peanut Bomb,150,false
 Orange Invisihat,50,false
-Rotten Onion,120,false
+Rotten Onion,70,false
 Chucklass,80,false
 Interstellar Spring Shoes,200,false
-Sturdy Blue Sword,160,false
-Balsa Wood Shield,85,false
+Sturdy Blue Sword,380,false
+Balsa Wood Shield,50,false
 Clay Slingshot,170,false
 Dirt Mote,25,false
 Evil Fuzzle Blaster,770,false
-Firebolas,150,false
+Firebolas,600,false
 Giant Goo Blaster,160,false
 Ice Shard,90,false
-Ridiculously Heavy Battle Hammer,50,false
+Ridiculously Heavy Battle Hammer,100,false
 Silver Mote,330,false
-Studded Ixi Battle Boots,220,false
+Studded Ixi Battle Boots,190,false
 Trapped Snow Wurm,50,false
-Volcanic Blow Gun,150,false
-Engraved Short Sword,270,false
+Volcanic Blow Gun,80,false
+Engraved Short Sword,330,false
 Fire Rock Helmet,140,false
 Grand Marbled Armour,350,false
 Helm of Darkness,140,false
 Marrow Tonic Water,130,false
 Silver Chest Plate,85,false
-Molten Branch Sword,130,false
+Molten Branch Sword,180,false
 Sir Cheekalot Training Shield,130,false
 Daemon Goggles,100,false
-Jade Sword of the Ogrin,110,false
+Jade Sword of the Ogrin,100,false
 Basic Wooden Shield,1750,false
-Evil Snowball Wand,100,false
+Evil Snowball Wand,200,false
 Fire Utility Belt,80,false
 Flamestrike Bottle,280,false
 Flaming Catapult,100,false
 Hissi Sticks,320,false
 Ice Ring,100,false
-Itsy Bitsy Tiny Snowball,100,false
-Jhudoras Cursed Coin,100,false
+Itsy Bitsy Tiny Snowball,150,false
+Jhudoras Cursed Coin,6000,false
 Luperus Tooth,100,false
 Magic Wand,45,false
-Ring of the Sway,35,false
+Ring of the Sway,3,false
 Robot Mote,100,false
-Tornado in a Bottle,100,false
-Weak Bottled Dark Faerie,100,false
-Inflatable Kyrii Bat,95,false
-Stone Fire Body Basher,100,false
+Tornado in a Bottle,340,false
+Weak Bottled Dark Faerie,150,false
+Inflatable Kyrii Bat,100,false
+Stone Fire Body Basher,70,false
 Sword of Domar,330,false
 Jelly Mote,95,false
 Techo Boomerang,80,false
-Earthen Scorchstone,400,false
+Earthen Scorchstone,890,false
 Jade Shield of the Ogrin,19,false
 Lump Of Wood,80,false
 Blue Frost Cannon,240,false
@@ -3056,39 +3056,39 @@ Jittery Jipple Pear Potion,35,false
 Sandstone Boots,20,false
 Seedless Skeem Potion,30,false
 Weak Bottled Earth Faerie,60,false
-Asparatwigs,130,false
+Asparatwigs,120,false
 Freaky Factory Slingshot,45,false
 Laugh Grenade,40,false
 Auto Targeting Telescope,50,false
 Carved Carrot Helmet,25,false
-Cheap Earth Ring,400,false
+Cheap Earth Ring,150,false
 Clay Sword,180,false
 Enhanced Solar Gauntlet,35,false
 Exploding Potion,20,false
 Healing Springs Residue,1,false
-Icy Muffin,50,false
+Icy Muffin,30,false
 Immense Rubber Axe of Doom,140,false
 Potion of Concealment,50,false
 Unidentifiable Weak Bottled Faerie,40,false
 Bony Bracers,130,false
-Bullseye Snowball,45,false
-Dark Dagger,30,false
+Bullseye Snowball,190,false
+Dark Dagger,12,false
 Flaming Gauntlet,45,false
 Gold Trimmed Tunic,2,false
-Moehog Battle Goggles,45,false
+Moehog Battle Goggles,75,false
 Shaken-up Can of Neocola,300,false
-Spyder Web Gun,45,false
-Weak Bottled Fire Faerie,200,false
-Flask of Liquid Fire,40,false
+Spyder Web Gun,100,false
+Weak Bottled Fire Faerie,45,false
+Flask of Liquid Fire,75,false
 Golden Geraptiku Talisman,200,false
 Amulet of Fire,50,false
 Bag of Infinite Neggs,35,false
-Virtupets X-514 Super Shield,20,false
+Virtupets X-514 Super Shield,10,false
 Cheap Fire Ring,80,false
-Flaming Dagger Of Fire,30,false
-Ice Mirror,11,false
+Flaming Dagger Of Fire,200,false
+Ice Mirror,120,false
 Jelly Muffin,20,false
-Poison Snowball Wand,11,false
+Poison Snowball Wand,15,false
 Wet Snowball Wand,90,false
 Wood Mote,20,false
 Hand Painted Scimitar,10,false
@@ -3103,12 +3103,12 @@ Dry Ice Snowball,8,false
 Green Sticky Hand,800,false
 Really Big Chunk of Ice,5,false
 Rotten Parsnip,20,false
-Trumpet Of Blasting,20,false
+Trumpet Of Blasting,100,false
 Scroll of Ultranova,3,false
 Yoyo Bomb,18,false
 Bubble Beam,65,false
 Poison Tipped Dagger,20,false
-Weak Bottled Water Faerie,18,false
+Weak Bottled Water Faerie,95,false
 Basic Lightning Beam,16,false
 Battle Faerie Dagger,2,false
 Virtupets BX-288 Boots,40,false
@@ -3119,14 +3119,14 @@ Chocolate Chip Battle Biscuit,12,false
 Cobrall Dagger,9,false
 Forgotten Ice Sword,4,false
 Frozen Snow Shovel,3,false
-Helm-mounted Laser Beam,12,false
-Ice Lolly of Doom,12,false
+Helm-mounted Laser Beam,1,false
+Ice Lolly of Doom,60,false
 Amulet of Reflection,100,false
 Black Velvet Cloak,1,false
 Snow Mote,50,false
-Supersize Gargantuplex,11,false
+Supersize Gargantuplex,8,false
 Amber Sword,13,false
-Boots of Leaping,9,false
+Boots of Leaping,6,false
 Electro Sword,3,false
 Lava Mote,150,false
 Moehog Hoof Pad,4,false
@@ -3136,40 +3136,40 @@ Shoulder Armour,9,false
 Space Faerie Sword,200,false
 Spooky Ring,3,false
 Trumpet Of Deafening,70,false
-Basic Rubber Axe,1,false
+Basic Rubber Axe,9,false
 Dung Shield,4,false
 Leaded Earth Vial,120,false
 Mud Mixture,7,false
 Obsidian Dagger,55,false
 Sparkshooter,95,false
-Dark Nova,8,false
-Fire Muffin,8,false
+Dark Nova,4,false
+Fire Muffin,5,false
 Green Frost Cannon,6,false
-Lime Elixir,8,false
+Lime Elixir,2,false
 Pink Faerie Snowball,2,false
-Sturdy Blue Shield,4,false
+Sturdy Blue Shield,5,false
 Capara Battlecard,10,false
-Icy Snowball,30,false
+Icy Snowball,1,false
 Lightning Wand,5,false
 Manacle Mace,4,false
 Rubber Power Axe,5,false
 Blueberry Snowflake,3,false
-Cursed Wand of Shadow,6,false
+Cursed Wand of Shadow,4,false
 Exploding Snowball,4,false
 Golden Muffin,4,false
 Illusens Potion,5,false
 Large Metal Shield,4,false
 Quintilc Throwing Star,25,false
-Scroll of the Sea,5,false
-Battle Muffin,2,false
+Scroll of the Sea,3,false
+Battle Muffin,5,false
 Heavy Round Shield,5,false
 Ice Dagger,5,false
-Scamander Shield,5,false
+Scamander Shield,100,false
 Smelly Dung Muffin,8,false
-Wet Snowflake,5,false
+Wet Snowflake,6,false
 Wooden Practice Shield,2,false
 Basic Shield of Flight,3,false
-Cheap Air Ring,4,false
+Cheap Air Ring,45,false
 Darigan Muffin,5,false
 Frost Bite Egg,2,false
 Frost Glove,5,false
@@ -3177,22 +3177,22 @@ Gelert Wand,12,false
 Glowing Snowflake,2,false
 Grape Snowflake,12,false
 Jhudoras Snowball,5,false
-Laughing Potion,8,false
-Light Acara Hood,4,false
+Laughing Potion,50,false
+Light Acara Hood,2,false
 Peach Snowflake,3,false
 Peanut Butter and Jam Shield,3,false
 Rainbow Gun,4,false
 Red Frost Cannon,12,false
 Rustic Wooden Shield,2,false
 Shield of the North Wind,4,false
-Steel Snowball,4,false
+Steel Snowball,5,false
 Bucket Of Mud,3,false
 Dark Vine Potion,2,false
 Diamond Snowball,6,false
 Elephante Attack Peanut,2,false
-Exploding Snowflake,3,false
+Exploding Snowflake,6,false
 Extra Evil Snowball,11,false
-Failed Snowball,3,false
+Failed Snowball,4,false
 Frozen Scarf,3,false
 Heavy Blocking Shield,1,false
 Icy Eye Snowball,10,false
@@ -3203,13 +3203,13 @@ Nova,1,false
 Pale Elixir,3,false
 Peach Snowball,3,false
 Perfectly Flat Rock Shield,2,false
-Remote Control Virtupets Snowball,5,false
+Remote Control Virtupets Snowball,1,false
 Rotten Carrot,2,false
 Sand Snowball,2,false
 Smoke Mote,3,false
 Spooky Looking Dark Potion,3,false
 Stone Muffin,3,false
-Supersize Mega Ultra Plus,3,false
+Supersize Mega Ultra Plus,14,false
 Tortured Snowball,6,false
 Ugly Snowball,5,false
 Ultranova,3,false
@@ -3218,7 +3218,7 @@ Altadorian Initiate Sword,1,false
 Astral Blade of The Space Station,100,false
 Brown Snowball,2,false
 Bubble Mote,2,false
-Cobrall In A Can,2,false
+Cobrall In A Can,1,false
 Elephante Peanut Launcher,3,false
 Evil Snowball,2,false
 Evil Snowflake,2,false
@@ -3228,23 +3228,23 @@ Glowing Meteor Rock,2,false
 Hairy Snowball,5,false
 Juicy Elixir,2,false
 MechaBerry Bomb,4,false
-Meteor Bomb,2,false
+Meteor Bomb,1,false
 Meteor Rock,2,false
 Pottery Shard Dagger,2,false
 Rotten Artichoke,2,false
-Scroll of Supernova,2,false
+Scroll of Supernova,1,false
 Space Fungus Spore,1,false
-Space Goggle Helmet,2,false
+Space Goggle Helmet,1,false
 Spy Glasses,2,false
-Sticky Snowflake,2,false
-Ubikiberry Elixir,55,false
+Sticky Snowflake,7,false
+Ubikiberry Elixir,4,false
 Ultra Bubble Beam,2,false
-Virtupets Energy Sabre,1,false
+Virtupets Energy Sabre,3,false
 Void Snowball,7,false
 Warriors Round Shield,1,false
 Water Faerie Water Blaster,1,false
 Water Muffin,3,false
-Yellow Snowball,2,false
+Yellow Snowball,4,false
 Yellow Snowflake,2,false
 Altadorian Practice Helmet,1,false
 Ancient Shenkuu Cannon,1,false
@@ -3261,12 +3261,12 @@ Proto-force 5000 Helmet,1,false
 Rotten Beetroot,1,false
 Rotten Radish,1,false
 Serf Lens,1,false
-Sticky Snowball,1,false
+Sticky Snowball,2,false
 Stone Shield,1,false
 Supernova,1,false
 Tomato Bomb,6,false
 Unnerving Hat,1,false
-Water Faerie Halberd,500,false
+Water Faerie Halberd,2,false
 Water Mote,1,false
 Wet Snowball,2,false
 Wooden Blocking Shield,1,false
@@ -3591,9 +3591,9 @@ Zaptwig,(r180),false
 Zombie Hatchet,(r101),false
 Super Attack Pea,(r101),false
 Kings Lens,Inflation Notice,false
-Thunder Sticks,140000000,false
+Thunder Sticks,200000000,false
 Mysterious Amulet,Inflation Notice,false
-Maractite Bomb,Inflation Notice,false
+Maractite Bomb,115000000,false
 Banana Sword,Inflation Notice,false
 Face Mace,Inflation Notice,false
 Kacheek Flour,Inflation Notice,false
@@ -3612,10 +3612,10 @@ Esophagor Shield,Inflation Notice,false
 Glowing Jetsam Morphing Potion,Inflation Notice,false
 Split Lupe Morphing Potion,Inflation Notice,false
 Flotsam Transmogrification Potion,900000,false
-Darigan Grarrl Morphing Potion,Inflation Notice,false
+Darigan Grarrl Morphing Potion,2000000,false
 Eventide Gelert Morphing Potion,2000000,false
 Tower Shield,4000000,false
-Blue Draik Morphing Potion,Inflation Notice,false
+Blue Draik Morphing Potion,2600000,false
 Giant Spyder Web,Inflation Notice,false
 Island Chomby Morphing Potion,Inflation Notice,false
 Kacheek Transmogrification Potion,Inflation Notice,false
@@ -3626,7 +3626,7 @@ Fire Chomby Morphing Potion,Inflation Notice,false
 Nova Blade,1200000,false
 Winged Shoyru Amulet,2000000,false
 Woodland Tonu Morphing Potion,1500000,false
-Zafara Transmogrification Potion,Inflation Notice,false
+Zafara Transmogrification Potion,3000000,false
 Zombie Usul Morphing Potion,Inflation Notice,false
 Red Chomby Morphing Potion,Inflation Notice,false
 Transparent Wocky Morphing Potion,Inflation Notice,false
@@ -3659,20 +3659,20 @@ Christmas Peophin Morphing Potion,975000,false
 Taelias Snowball,999999,false
 Island Mynci Morphing Potion,485000,false
 Therapeutic Swamp Water,Inflation Notice,false
-Light Faerie Token,Inflation Notice,false
+Light Faerie Token,990000,false
 Green Grundo Morphing Potion,Inflation Notice,false
 Blue Acara Slingshot,740000,false
-Sword of Apocalypse,Inflation Notice,false
+Sword of Apocalypse,735000,false
 Green Poogle Morphing Potion,395000,false
 Disco Korbat Morphing Potion,Inflation Notice,false
 Mistletoe Potion,Inflation Notice,false
-Fire Moehog Morphing Potion,Inflation Notice,false
+Fire Moehog Morphing Potion,685000,false
 Strawberry Bruce Morphing Potion,Inflation Notice,false
 Christmas Bori Morphing Potion,Inflation Notice,false
 Green Bori Morphing Potion,Inflation Notice,false
 Tears of Caylis,Inflation Notice,false
 Red Bori Morphing Potion,Inflation Notice,false
-Lightning in a Bottle,Inflation Notice,false
+Lightning in a Bottle,200000,false
 Mystical Health Potion,Inflation Notice,false
 Snow Wocky Morphing Potion,Inflation Notice,false
 Exceptionally Tiny Laser Cannon,Inflation Notice,false
@@ -3680,7 +3680,7 @@ Checkered Bori Morphing Potion,Inflation Notice,false
 Wanderers Cloak,Inflation Notice,false
 Last Avocado Bomb,Inflation Notice,false
 Pirate Yurble Morphing Potion,Inflation Notice,false
-Camouflage Shoyru Morphing Potion,Inflation Notice,false
+Camouflage Shoyru Morphing Potion,750000,false
 Kougra Wool Bomb,310000,false
 Icy Snowflake,Inflation Notice,false
 Fire Bruce Morphing Potion,Inflation Notice,false
@@ -3691,7 +3691,7 @@ Cloak of Night,375000,false
 Pink Korbat Morphing Potion,500000,false
 Split Bruce Morphing Potion,Inflation Notice,false
 Virtublaster 5000,380000,false
-Clockwork Nimmo,880000,false
+Clockwork Nimmo,570000,false
 Dice-Chucks,890000,false
 Green Scorchstone,Inflation Notice,false
 Snot Helmet,Inflation Notice,false
@@ -3702,9 +3702,9 @@ Tyrannian Eyrie Morphing Potion,205000,false
 Christmas Lenny Morphing Potion,Inflation Notice,false
 Red Kougra Morphing Potion,Inflation Notice,false
 Brown Kougra Morphing Potion,Inflation Notice,false
-Speckled Bruce Morphing Potion,Inflation Notice,false
-Woodland Brew,160000,false
-Chia Totem,Inflation Notice,false
+Speckled Bruce Morphing Potion,995000,false
+Woodland Brew,Inflation Notice,false
+Chia Totem,300000,false
 Melting Mirror,Inflation Notice,false
 Strawberry Meerca Morphing Potion,Inflation Notice,false
 Craftsmans Lens,Inflation Notice,false
@@ -3719,8 +3719,8 @@ Green Vandagyre Morphing Potion,Inflation Notice,false
 Red Quiggle Morphing Potion,Inflation Notice,false
 Shadow Armour,Inflation Notice,false
 Greater Water Potion,Inflation Notice,false
-Seeking Arrow,Inflation Notice,false
-Striped Scorchio Morphing Potion,Inflation Notice,false
+Seeking Arrow,214000,false
+Striped Scorchio Morphing Potion,565000,false
 Yellow Meerca Morphing Potion,Inflation Notice,false
 Not So Brilliant Sun and Moon Potion,99000,false
 Flotsam Chestplate of the Champion,Inflation Notice,false
@@ -3728,25 +3728,25 @@ Blue JubJub Morphing Potion,Inflation Notice,false
 Ramtors Spellbook,95000,false
 Kiko Skull Pirate Hat,124000,false
 Claw Gloves,Inflation Notice,false
-Kacheek Pebble Lobber,Inflation Notice,false
+Kacheek Pebble Lobber,365000,false
 Studded Leather Cuirass,Inflation Notice,false
 Solar Flare Shield,Inflation Notice,false
 Chia Skunk Tail,45400,false
 Candy Cane Prison Shank,Inflation Notice,false
 Striped Hat,23000,false
 Mad Clock,66000,false
-Barbat Throwing Star,30500,false
-Taleks Chest Piece,Inflation Notice,false
+Barbat Throwing Star,21000,false
+Taleks Chest Piece,200000,false
 Hansos Legitimately Acquired Dagger,Inflation Notice,false
 Mad Hat,28300,false
 Green Pirate Sash,22500,false
 Forest Cloak,Inflation Notice,false
-Tonu Golden Horn,Inflation Notice,false
-Dangerous Dodgeball,Inflation Notice,false
+Tonu Golden Horn,20000,false
+Dangerous Dodgeball,83500,false
 Krawk Battle Shield,Inflation Notice,false
 Kiko Shield,Inflation Notice,false
-Downsize!,5200,false
-Look A Hasee!,1500,false
+Downsize!,5000,false
+Look A Hasee!,1800,false
 Supersize!,30,false
 Basic Dueling Glove,,false
 Blow Torch,,false
@@ -3756,3 +3756,4 @@ Enchanted Dueling Glove,,false
 Fiery Dueling Glove,,false
 Rusty Helm,,false
 Sticky Net,,false
+Zombie Mynci Morphing Potion,(r99),false
