@@ -72,7 +72,7 @@ Grimtooth Stamp,20000000,false
 Enchanted Ixi,20000000,false
 Altador Cup VI Commemorative Stamp,12000000,false
 Anklet of the Deep,12000000,false
-Techo Fanatic Stamp,12000000,false
+Techo Fanatic Stamp,18000000,false
 Altador Cup VII Commemorative Stamp,10000000,false
 Count Von Roo Stamp,11000000,false
 Draconus Maximus,20000000,false
@@ -133,7 +133,7 @@ Fire Breathing Scorchio Stamp,3000000,false
 Gors The Mighty Stamp,Inflation Notice,false
 Haunted Terror Mountain Amulet,2500000,false
 Mipsy Stamp,Inflation Notice,false
-Neopets 24th Cake Charm,1800000,false
+Neopets 24th Cake Charm,2000000,false
 Sparkleback Collectable Scarab,3000000,false
 Team Dacardia Stamp,3000000,false
 Shiny Monoceraptor Stamp,2600000,false
@@ -234,11 +234,11 @@ Diadem of the Deep,999999,false
 Scowling Sloth Coin,1100000,false
 Hubrid Nox,999999,false
 Lutari Uni Stamp,950000,false
-Lunchtime,990000,false
+Lunchtime,999999,false
 Book Coin,965000,false
 Silver Buzzer Coin,785000,false
 Streaked Maractite Coin,935000,false
-Candychan Stamp,219000,false
+Candychan Stamp,179000,false
 Gedda Happycheek,Inflation Notice,false
 Margoreth,999999,false
 Negg-Gazer Charm,735000,false
@@ -271,22 +271,22 @@ Neggnapper Stamp,295000,false
 The Krawken Stamp,400000,false
 Wheel of Monotony Stamp,214000,false
 Krawk card,300000,false
-Ring of Sloth Stamp,300000,false
+Ring of Sloth Stamp,295000,false
 Blue and Gold Tube Shell,Inflation Notice,false
-Mr. Krawley Stamp,400000,false
+Mr. Krawley Stamp,465000,false
 New Faerieland Stamp,460000,false
 Moltara Town Hall Stamp,Inflation Notice,false
 Astronaut Kari Charm,330000,false
-Lava Monster Stamp,167000,false
-Chomby Stamp,168000,false
+Lava Monster Stamp,163000,false
+Chomby Stamp,186000,false
 Altador Cup X Commemorative Stamp,305000,false
 Chocolate Factory Coin,350000,false
 Super Bright Rainbow Pool Stamp,130000,false
 Fire Breathing Meerca,92000,false
 Tyrannian Elephante Stamp,203000,false
 The Brain Tree,Inflation Notice,false
-Sticks and Stones,114000,false
-Gatekeeper Stamp,79500,false
+Sticks and Stones,109000,false
+Gatekeeper Stamp,80000,false
 Stamp of Spring Charm,214000,false
 Korosu Crestscar,162000,false
 Shyanna,100000,false
@@ -302,11 +302,11 @@ Florin Stamp,140000,false
 Remnok the Nomad,96500,false
 Mutant Grundo Stamp,36900,false
 Baby Aisha Stamp,82000,false
-Boris Stamp,Inflation Notice,false
+Boris Stamp,92500,false
 Princess Sankara,123000,false
 Fyora Faerie Doll Stamp,Inflation Notice,false
-Dark Faerie Stamp,200000,false
-Lady Blurg Stamp,95000,false
+Dark Faerie Stamp,285000,false
+Lady Blurg Stamp,100000,false
 Buried Treasure Stamp,58000,false
 Scurvy Island Stamp,57500,false
 Scarab Stamp,35700,false
@@ -314,15 +314,15 @@ Sentient Headstones Stamp,80000,false
 Santa Skarl Stamp,77500,false
 Sunblade Stamp,84500,false
 Peaceful Coexistence Stamp,85000,false
-Usukiland Stamp,99500,false
+Usukiland Stamp,94000,false
 Blue Spiral Seashell,32000,false
-Jelly Pop Stamp,27000,false
+Jelly Pop Stamp,30000,false
 Tylix Stamp,80500,false
 Usul-in-waiting Stamp,60000,false
 Spotted Red Collectable Scarab,178000,false
 Guardian of Ice Magic,135000,false
 N-4 Information Retrieval Bot Coin,84500,false
-Chasm Beast Stamp,52500,false
+Chasm Beast Stamp,26400,false
 Castle Defender Stamp,119000,false
 Chocolate Factory Stamp,63500,false
 Plump Petpets Stamp,88000,false
@@ -342,8 +342,8 @@ Destruction of Faerieland Stamp,Inflation Notice,false
 Tuskaninny Day Stamp,29800,false
 Snowman Slushie Stamp,50000,false
 The Drenched Stamp,67000,false
-Glowing Brain Tree Stamp,83000,false
-Meridell Gardens Stamp,17900,false
+Glowing Brain Tree Stamp,60500,false
+Meridell Gardens Stamp,17200,false
 Green Patterned Collectable Scarab,32200,false
 Trestin Stamp,14500,false
 Roast Gargapple Coin,66500,false
@@ -351,16 +351,16 @@ Reginald Christmas Stamp,32000,false
 Silver Concert Hall Coin,44000,false
 Faerie Bubbles Stamp,16500,false
 Charms Stamp,56500,false
-Holographic Sakhmet City Stamp,37600,false
+Holographic Sakhmet City Stamp,38000,false
 Reina Collectable Card,48000,false
 Neopian Hospital Stamp,35000,false
-Sword of Skardsen Stamp,6400,false
+Sword of Skardsen Stamp,4650,false
 Maths Nightmare,Inflation Notice,false
 Celestial Talisman Stamp,29000,false
 Eraser of the Dark Faerie Stamp,74500,false
 Edna the Zafara Stamp,189000,false
-Wand Of The Dark Faerie Stamp,46000,false
-NeoQuest II Logo Stamp,15000,false
+Wand Of The Dark Faerie Stamp,57500,false
+NeoQuest II Logo Stamp,13000,false
 Tazzalor Stamp,48000,false
 Arcade Stamp,34000,false
 Garin To The Rescue Stamp,127000,false
@@ -371,16 +371,16 @@ Kou-Jong Tile Stamp,30000,false
 The Black Pawkeet Stamp,28400,false
 Coronet of the Deep,43400,false
 105 Castle Secrets Stamp,25000,false
-Charybdis Seashell,124000,false
+Charybdis Seashell,250000,false
 Princess Vyssa,28800,false
-Tyrannian Plateau Stamp,28100,false
+Tyrannian Plateau Stamp,25000,false
 Stamp of Neopia,47000,false
-Purple Collectable Scarab,25000,false
+Purple Collectable Scarab,20000,false
 Grey Faerie Card,38100,false
 Kolvars Stamp,40000,false
 Mystery Island Travel Stamp,55000,false
 Commander Garoo Card,Inflation Notice,false
-Greater Green Collectable Scarab,14400,false
+Greater Green Collectable Scarab,10600,false
 Faleinn,24000,false
 Teatime in Neovia Stamp,74000,false
 Deserted Fairground Card,29000,false
@@ -400,14 +400,14 @@ SHFISS Stamp,5650,false
 Ghi Pharun,41500,false
 Splat-A-Sloth Stamp,7000,false
 Brown Striped Murex Shell,9050,false
-Electro Shield Coin,Inflation Notice,false
+Electro Shield Coin,33000,false
 Eureka,21100,false
 Maraquan Charger Stamp,34000,false
 Meuka,20000,false
 Librarian Stamp,16000,false
 Splat A Sloth Coin,20500,false
 Buzz Avenger,18600,false
-Gargaroxs Recipe Book Coin,100000,false
+Gargaroxs Recipe Book Coin,11700,false
 Mayor of Moltara Stamp,37000,false
 Rohanes Mother Stamp,20000,false
 The Masked Intruder,28800,false
@@ -417,7 +417,7 @@ Hubrid Noxs Mountain Fortress Stamp,32100,false
 The Snowager,37000,false
 Ixi Lancer,13500,false
 Seasonal Stamp,39900,false
-Uncommon Blue Collectable Scarab,35300,false
+Uncommon Blue Collectable Scarab,27000,false
 LDPBSTSCC,16500,false
 Armlet of the Deep,8200,false
 Faerie Wings Shell,24800,false
@@ -427,16 +427,16 @@ Star Fish Shell,30000,false
 Plushie Slorg Stamp,45000,false
 Goregas Stamp,24000,false
 Armin the Small,19100,false
-Exploding Acorns Stamp,21000,false
+Exploding Acorns Stamp,16000,false
 Lightning Lenny,12000,false
 Velm Stamp,10000,false
 Pile of Dung Stamp,4500,false
 Seaweed Necklace Stamp,2600,false
 Hannah Stamp,36000,false
 Bringer of Night Stamp,25700,false
-Mellow Marauders Plushie Stamp,30000,false
+Mellow Marauders Plushie Stamp,16900,false
 A Light Faerie,19000,false
-Draik Paladin,14400,false
+Draik Paladin,15000,false
 Qasalan Mummy Stamp,Inflation Notice,false
 Red Lined Shell,11100,false
 Pink Curly Shell,18400,false
@@ -465,23 +465,23 @@ Triangular Maractite Coin,8600,false
 Illusens Staff Stamp,2000,false
 Rusty Sloth Clone Maractite Coin,7700,false
 Yes-Boy Ice Cream Stamp,9000,false
-Faerie Foods Stamp,5000,false
+Faerie Foods Stamp,4825,false
 Imperius Flare,7350,false
 Galem Darkhand,16700,false
 Chomby and the Fungus Balls,8400,false
 Faerieland Justice Stamp,5200,false
 Geb Stamp,6800,false
-Deluxe Money Tree Stamp,5800,false
+Deluxe Money Tree Stamp,6750,false
 Judge Hog,8500,false
-Snowglobe Faerie Stamp,26800,false
+Snowglobe Faerie Stamp,15000,false
 Maractite Koi Maractite Coin,8000,false
-Altador Food Stamp,29300,false
-Faerie City Stamp,2750,false
+Altador Food Stamp,3325,false
+Faerie City Stamp,2675,false
 Kelland Stamp,5300,false
 Altadorian Farmer Stamp,2500,false
 Christmas Meerca Stamp,5800,false
 Niten Hiroru,4700,false
-Princess Sankara Stamp,5200,false
+Princess Sankara Stamp,4450,false
 Wintery Bruce Stamp,3350,false
 Scorchio Mummy Stamp,39400,false
 Lady Frostbite Stamp,7000,false
@@ -489,7 +489,7 @@ Molten Morsels Stamp,5550,false
 Coco Stamp,4500,false
 Docked Ship Stamp,9000,false
 Garon the Lupe,6850,false
-Snow Faerie Stamp,11000,false
+Snow Faerie Stamp,9000,false
 Jeran Stamp,8150,false
 Crumpetmonger Stamp,6450,false
 Draik Guard Stamp,5100,false
@@ -500,8 +500,8 @@ Deep Seashell,22100,false
 Qasalan Tablet Stamp,5500,false
 Long Headed Collectable Scarab,4800,false
 Cream Heart Sea Shell,5900,false
-Daedelon,5450,false
-Peopatra Stamp,3650,false
+Daedelon,5000,false
+Peopatra Stamp,3875,false
 Zygorax Stamp,3800,false
 Merouladen and Heermeedjet,6450,false
 Luperus,6300,false
@@ -511,14 +511,14 @@ Senator Palpus,5300,false
 Shenkuu Bridge Stamp,4000,false
 Faerieland Petpet Shopkeeper Stamp,3900,false
 Camouflage Scallop Shell,4825,false
-Ruins of Faerieland Stamp,4725,false
+Ruins of Faerieland Stamp,5300,false
 Crimson Spotted Shell,5000,false
 Giant Grackle Bug,6400,false
-Grinning Sloth Stamp,2800,false
+Grinning Sloth Stamp,2700,false
 Mutant Usul Stamp,3875,false
 Pirate Troops Stamp,5600,false
 Seasonal Evil Coconut,4900,false
-Shield Of Pion Troect Stamp,3000,false
+Shield Of Pion Troect Stamp,4600,false
 Thyoras Tear Stamp,3000,false
 Tyrannian Grarrl Stamp,2950,false
 Family Portrait Stamp,6150,false
@@ -526,7 +526,7 @@ Krawk Island Governor Stamp,5600,false
 Mutant Aisha Twins,4200,false
 Mutant Techo Plushie Stamp,4900,false
 Trapped Tomos Stamp,6200,false
-Dr_Death,6100,false
+Dr_Death,5250,false
 Gadgadsbogen Festival,9800,false
 Bronze Mystery Island Coin,26000,false
 Gordos Stamp,3000,false
@@ -534,7 +534,7 @@ Lost Desert Sphinx Stamp,2000,false
 Enchanted Pudao Stamp,4000,false
 Carnival of Terror Stamp,4500,false
 King Skarl Stamp,6300,false
-Mysterious Aisha Sorceress,3900,false
+Mysterious Aisha Sorceress,3450,false
 Worn Maractite Coin,5900,false
 Zafara Princess Stamp,3425,false
 Marak Stamp,3800,false
@@ -544,11 +544,11 @@ Pomanna Stamp,3100,false
 Qasalan Coffee Set Stamp,4800,false
 Monoceraptor Claw Stamp,8000,false
 The Fontaine Sisters,5750,false
-Underwater Chef Stamp,5150,false
+Underwater Chef Stamp,5300,false
 Maelstra The Dark Faerie,5000,false
 Easter Treats Stamp,150,false
 Hair Clip of the Deep,5050,false
-Piraket Stamp,3900,false
+Piraket Stamp,1900,false
 Bone Chair Stamp,3125,false
 Darigan Elemental Stamp,3675,false
 King Roos Nemesis,4800,false
@@ -561,11 +561,11 @@ Petty Crewmate Stamp,3050,false
 Sword of the Air Faerie Stamp,6400,false
 Yiko Stamp,3300,false
 Attack Pea Stamp,1375,false
-Bonju Stamp,5000,false
+Bonju Stamp,4600,false
 Osiris Pottery Stamp,2000,false
 Hasee Bounce Card,4450,false
-Senator Barca Stamp,4250,false
-Spirit of Slumber Stamp,8300,false
+Senator Barca Stamp,4850,false
+Spirit of Slumber Stamp,9000,false
 Brain Tree Stamp,4000,false
 Delina Stamp,3900,false
 Soup Faerie Stamp,2000,false
@@ -585,7 +585,7 @@ Korbats Lab Card,4300,false
 2 Gallon Hatz,4850,false
 Capara,4000,false
 Chen-Ra Son of the Sun,4400,false
-Sakhmet Palace Stamp,3900,false
+Sakhmet Palace Stamp,3000,false
 Guard Zomutt Stamp,2775,false
 Attack of the Slorgs Stamp,3200,false
 Quiggle Scout Stamp,2800,false
@@ -597,7 +597,7 @@ Kasuki Lu,3900,false
 Bushy Antennae Collectable Scarab,2475,false
 Flashy Winged Collectable Scarab,4975,false
 Guardian of Life Magic,2150,false
-N4 Bot Stamp,4000,false
+N4 Bot Stamp,3350,false
 Rusty Door Stamp,4500,false
 Scratch Card Kiosk Wocky,4200,false
 Keergo,4000,false
@@ -618,7 +618,7 @@ Plesio Stamp,3300,false
 Gragarex the Grarrl Trooper,3200,false
 Grand Theft Ummagine Stamp,2650,false
 Rock Stamp,3100,false
-Lady Osiri,3500,false
+Lady Osiri,3650,false
 Tonunishiki,3325,false
 Choras Tillie,3100,false
 Magma Pool Stamp,2500,false
@@ -634,7 +634,7 @@ Advert Attack Stamp,1775,false
 Jerdana Stamp,1400,false
 Fruit Machine Stamp,4375,false
 Gallion Stamp,1700,false
-Golden Orb Stamp,2550,false
+Golden Orb Stamp,2500,false
 King Coltzan III,3000,false
 Large Black and White Collectable Scarab,2000,false
 Slime Titan Stamp,2650,false
@@ -646,7 +646,7 @@ Frosty Snowman Stamp,2000,false
 Morax Dorangis,2950,false
 Mr Irgo,2625,false
 Neopian Tank Patrol 45,2975,false
-Zafara Hero,3300,false
+Zafara Hero,3425,false
 Riches of Krawk Island Stamp,1775,false
 Bacheek,2925,false
 Myncha,3000,false
@@ -670,7 +670,7 @@ Lenny Curator,2500,false
 Rock Beast,3400,false
 Two Rings Archmagus,2375,false
 Uugbah Sharp Spear,2275,false
-Tangerine Trumpet Shell,2625,false
+Tangerine Trumpet Shell,2425,false
 Gog,2725,false
 Grarrl Battlemaster,2800,false
 Lavender,3100,false
@@ -683,11 +683,11 @@ Captain of Fyoras Guards Stamp,2400,false
 The Wall,2625,false
 Frostburn the Chia,2275,false
 Gutan Kai,2800,false
-Kyrii Native,2550,false
+Kyrii Native,2475,false
 Library Faerie Stamp,1850,false
 Lord Luparn,2175,false
 Lustra the Golden Peophin,3100,false
-Orange Spotted Collectable Scarab,2200,false
+Orange Spotted Collectable Scarab,1775,false
 Ryshu,2575,false
 Tehuti,2100,false
 Trapped,2475,false
@@ -732,10 +732,10 @@ Ruali,2200,false
 Shoonee,2300,false
 The Navigator,4200,false
 The Stuff Collectable Card,3000,false
-Uggaroo,2000,false
+Uggaroo,2200,false
 Money Tree,2425,false
 Orange Skeith Stamp,2000,false
-Florg the Devourer,2150,false
+Florg the Devourer,2250,false
 A Two Rings Crusader,2025,false
 Breadoch Big Foot,2300,false
 Chimi Magi,2075,false
@@ -797,12 +797,12 @@ Shadow Usul,890,false
 Geirrod Sternhoof,2000,false
 Sir Wockilan the Brave,1550,false
 Striped Blue Collectable Scarab,1600,false
-Boraxis the Healer,1900,false
+Boraxis the Healer,1925,false
 Doirn,1900,false
 Grundo Chef,1500,false
 Leirobas Stamp,1500,false
 Advisor Wessle Stamp,1125,false
-Bazri The Grundo,1750,false
+Bazri The Grundo,1775,false
 Destruct-O-Match Stamp,890,false
 Plesio,1700,false
 Scorchio Mage,1600,false
@@ -836,7 +836,7 @@ Sarkif,1575,false
 Sharpeye,1525,false
 Doctor,1400,false
 Entrance to Moltara Stamp,1000,false
-Haiku Stamp,850,false
+Haiku Stamp,570,false
 Halloween Ona Stamp,400,false
 Tyrannian Korbat Stamp,1600,false
 Wesley Clearheart,1700,false
@@ -856,7 +856,7 @@ Rotting Skeleton Stamp,1150,false
 Tyrannian JubJub Stamp,1600,false
 Boraxis the Healer Stamp,1400,false
 Usinda,1000,false
-The Phantom,1400,false
+The Phantom,1500,false
 Darien,1700,false
 Money Tree Stamp,1700,false
 Stone Armchair Stamp,1000,false
@@ -869,7 +869,7 @@ Meerca Menace,1175,false
 Scorchio Mummy,1000,false
 Wintery Petpet Shop Stamp,980,false
 Battle Eyrie Stamp,1300,false
-Edna the Witch,1950,false
+Edna the Witch,1800,false
 Healing Springs Stamp,920,false
 Kazeriu Stamp,1375,false
 Master Vex Stamp,500,false
@@ -889,13 +889,13 @@ Blarthrox,1200,false
 Midas,1400,false
 Captain Threelegs,1900,false
 Faerie Techo Plushie Stamp,1000,false
-Chiazilla,1675,false
+Chiazilla,1100,false
 Anshu Stamp,1000,false
 Basic Yellow Collectable Scarab,1000,false
 Everlasting Crystal Apple Stamp,460,false
 Gelert Prince Stamp,75,false
 Golden Khamette Stamp,1050,false
-Grackle Bug Stamp,1100,false
+Grackle Bug Stamp,1400,false
 Halloween Aisha Stamp,630,false
 Korbats Lab Stamp,12,false
 Lhika Burrtail,1000,false
@@ -919,7 +919,7 @@ H4000 Helmet Coin,200,false
 Moonlit Esophagor Stamp,50,false
 Grundo Veggieballs Coin,300,false
 Assorted Fruits Stamp,100,false
-General Crustygums,75,false
+General Crustygums,100,false
 Lord Darigan Stamp,2000,false
 Mystery Island Hut Stamp,240,false
 Captain Tuan Stamp,210,false
@@ -937,17 +937,17 @@ Half Maractite Coin,180,false
 Maraquan Kau Maractite Coin,550,false
 Gormball Coin,100,false
 Ryshu Stamp,50,false
-Cosmic Cheese Stars Coin,130,false
+Cosmic Cheese Stars Coin,120,false
 Seaweed Design Maractite Coin,80,false
 Grundo Warehouse Coin,90,false
-Shiny Purple Cowry Shell,190,false
+Shiny Purple Cowry Shell,75,false
 Triangular Flotsam Stamp,100,false
 Tiara of the Deep,15,false
 Ancient Peophin Maractite Coin,9,false
-Captain of the Guard Stamp,100,false
+Captain of the Guard Stamp,12,false
 Grobleen Salad Coin,25,false
 Bangles of the Deep,12,false
-Bug Eye McGee,12,false
+Bug Eye McGee,17,false
 Round Maractite Coin,16,false
 Circlet of the Deep,12,false
 Maraquan Troops Stamp,4,false
@@ -1062,7 +1062,7 @@ Greater Yellow Collectable Scarab,Inflation Notice,false
 Luperus Centre Head Stamp,Inflation Notice,false
 Altador Magic Stamp,Inflation Notice,false
 Mallow Coin,Inflation Notice,false
-Shumi Telescope Stamp,335000,false
+Shumi Telescope Stamp,345000,false
 Royal Orange Cowry Shell,Inflation Notice,false
 Hagar Mountbane,515000,false
 Tiny Golden Shell,Inflation Notice,false
@@ -1073,17 +1073,17 @@ Meridell Castle Stamp,Inflation Notice,false
 The Academy Stamp,Inflation Notice,false
 Luperus Left Head Stamp,Inflation Notice,false
 King Roo,Inflation Notice,false
-Official Ghoul Catchers Stamp,165000,false
+Official Ghoul Catchers Stamp,189000,false
 Haunted Mansion Stamp,Inflation Notice,false
 Gargarox Isafuhlarg Stamp,Inflation Notice,false
 Exquisite Peophin Ring of the Deep,Inflation Notice,false
 Large Maractite Coin,Inflation Notice,false
 Rainbow Pool Stamp,Inflation Notice,false
-Green Knight Stamp,150000,false
+Green Knight Stamp,Inflation Notice,false
 Stan the Kyrii,Inflation Notice,false
 Goo Blaster Coin,Inflation Notice,false
 Cancelled Stamp,80000,false
-Dorak Stamp,495000,false
+Dorak Stamp,330000,false
 Spyder Stamp,Inflation Notice,false
 Super Nova Coin,505000,false
 Kreai Stamp,Inflation Notice,false
@@ -1133,16 +1133,16 @@ GX-4 Oscillabot Coin,67500,false
 Matching Pastel Shells,Inflation Notice,false
 Caylis Stamp,Inflation Notice,false
 Evil Fuzzles Stamp,Inflation Notice,false
-Flying Korbats Stamp,59500,false
+Flying Korbats Stamp,33500,false
 Eleus Stamp,Inflation Notice,false
-Cyodrakes Gaze Logo Stamp,16700,false
+Cyodrakes Gaze Logo Stamp,8900,false
 Shop Wizard Stamp,7300,false
 Stocking Stamp,3400,false
 Jhudoras Bewitched Ring Stamp,43500,false
 Dubloon-O-Matic Stamp,Inflation Notice,false
-Hubrid Nox Stamp,24000,false
+Hubrid Nox Stamp,15500,false
 Ski Lodge Stamp,Inflation Notice,false
-Meridell Shield Stamp,49400,false
+Meridell Shield Stamp,76500,false
 Rink Runner Stamp,Inflation Notice,false
 Igloo Garage Sale Stamp,4450,false
 Super Happy Icy Fun Snow Shop Card,14000,false
@@ -1153,41 +1153,45 @@ Commemorative Defenders Stamp #2,1500,false
 Commemorative Defenders Stamp #1,1200,false
 Fetch! Stamp,770,false
 Commemorative Defenders Stamp #4,Inflation Notice,false
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Otona""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Protector of the Seas""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",2075
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Xenia""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Master Prankster""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",1925
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Brack""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Cactus Farmer""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",1200
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Cherlops""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Protector of Garn""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",Inflation Notice
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Otona""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Protector of the Seas""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",2075
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Xenia""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Master Prankster""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",1925
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Brack""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Cactus Farmer""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",1200
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Cherlops""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Protector of Garn""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",Inflation Notice
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Otona""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Protector of the Seas""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",2075
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Otona""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Protector of the Seas""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",2000
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Xenia""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Master Prankster""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",1925
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Brack""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Cactus Farmer""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",1200
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Brack""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Cactus Farmer""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",900
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Cherlops""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Protector of Garn""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",Inflation Notice
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Otona""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Protector of the Seas""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",2000
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Xenia""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Master Prankster""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",1925
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Xenia""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Master Prankster""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",1950
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Brack""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Cactus Farmer""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",900
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Cherlops""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Protector of Garn""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",Inflation Notice
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Otona""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""Protector of the Seas""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",2000
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Xenia""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""Master Prankster""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",1950
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Brack""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""Cactus Farmer""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",900
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Cherlops""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""Protector of Garn""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",Inflation Notice
-"""""""""""""""""""""""""""""""Otona""""""""""""""","""""""""""""""Protector of the Seas""""""""""""""""""""""""""""""",2000
-"""""""""""""""""""""""""""""""Xenia""""""""""""""","""""""""""""""Master Prankster""""""""""""""""""""""""""""""",1950
-"""""""""""""""""""""""""""""""Brack""""""""""""""","""""""""""""""Cactus Farmer""""""""""""""""""""""""""""""",1050
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Brack""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""Cactus Farmer""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",1050
 Jhudora Stamp,1200000,false
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Cherlops""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""Protector of Garn""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",Inflation Notice
+"""""""""""""""""""""""""""""""Otona""""""""""""""","""""""""""""""Protector of the Seas""""""""""""""""""""""""""""""",2400
+"""""""""""""""""""""""""""""""Xenia""""""""""""""","""""""""""""""Master Prankster""""""""""""""""""""""""""""""",1975
+"""""""""""""""""""""""""""""""Brack""""""""""""""","""""""""""""""Cactus Farmer""""""""""""""""""""""""""""""",1550
 """""""""""""""""""""""""""""""Cherlops""""""""""""""","""""""""""""""Protector of Garn""""""""""""""""""""""""""""""",Inflation Notice
-"""""""""""""""Otona""""""","""""""Protector of the Seas""""""""""""""",2400
+"""""""""""""""Otona""""""","""""""Protector of the Seas""""""""""""""",2125
 """""""""""""""Xenia""""""","""""""Master Prankster""""""""""""""",1975
 """""""""""""""Brack""""""","""""""Cactus Farmer""""""""""""""",1550
 """""""""""""""Cherlops""""""","""""""Protector of Garn""""""""""""""",Inflation Notice
 """""""Otona""","""Protector of the Seas""""""",2125
 """""""Xenia""","""Master Prankster""""""",1975
 """""""Brack""","""Cactus Farmer""""""",1550
+Captain Bloodhook Stamp,(r89),false
 """""""Cherlops""","""Protector of Garn""""""",Inflation Notice
 """Otona","Protector of the Seas""",2125
 """Xenia","Master Prankster""",1975
 """Brack","Cactus Farmer""",1550
-Captain Bloodhook Stamp,(r89),false
 """Cherlops","Protector of Garn""",Inflation Notice
 "Otona, Protector of the Seas",2125,false
-"Xenia, Master Prankster",1975,false
+"Xenia, Master Prankster",2100,false
 "Brack, Cactus Farmer",1550,false
 "Cherlops, Protector of Garn",Inflation Notice,false
