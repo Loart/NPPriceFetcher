@@ -21,10 +21,10 @@ Jiggybug,4000000,false
 Pofew,6000000,false
 Slorgclops,6000000,false
 Bartamus,Inflation Notice,false
-Elderly Rock,5000000,false
+Elderly Rock,3500000,false
 Feloreena,Inflation Notice,false
 Flosset,6000000,false
-Glack,5000000,false
+Glack,5500000,false
 Grey Candychan,5300000,false
 Mutant Powtry,5000000,false
 Short Fuse,5000000,false
@@ -40,7 +40,7 @@ Gulper,3500000,false
 Island Rock,4000000,false
 Pink Babaa,900000,false
 Snailien,3500000,false
-Zebie,4000000,false
+Zebie,Inflation Notice,false
 Birthday Faellie,Inflation Notice,false
 Fleaf,3800000,false
 Grey Snowbunny,(r180),false
@@ -114,10 +114,10 @@ Grumblebug,1800000,false
 Halloween Antwerph,(r101),false
 Halloween Faellie,2000000,false
 Halloween Spardel,(r101),false
-Itchi,1900000,false
+Itchi,1800000,false
 Jermite,2000000,false
 Moffit,2000000,false
-Moquot,2000000,false
+Moquot,Inflation Notice,false
 Mutant Niptor,(r101),false
 Rainbow Angelpuss,2000000,false
 Rainbow Noil,1800000,false
@@ -128,11 +128,11 @@ Rock,1700000,false
 Stealthy Candychan,2000000,false
 Vacumatic 9000,3000000,false
 Woolypapith,2000000,false
-Wormoeba,2000000,false
+Wormoeba,Inflation Notice,false
 Zomutt,2000000,false
 Zumagorn,2000000,false
 Birthday Ona,1900000,false
-Faerie Bluna,1900000,false
+Faerie Bluna,(r101),false
 Captive Shadow Wraith,3000000,false
 Greevix,1900000,false
 Squippit,1800000,false
@@ -146,9 +146,9 @@ Halloween Angelpuss,1600000,false
 Royal Turmac,1500000,false
 White Meowclops,1600000,false
 Birthday Noil,1500000,false
-Birthday Plumpy,999999,false
+Birthday Plumpy,975000,false
 Black Furwitch,1500000,false
-Christmas Baby Blu,245000,false
+Christmas Baby Blu,(r101),false
 Darigan Angelpuss,1500000,false
 Faerie Feepit,1500000,false
 Faerie Ghostkerchief,1800000,false
@@ -158,10 +158,10 @@ Faerie Polarchuck,2000000,false
 Halloween Mazzew,(r101),false
 Larnikin,1200000,false
 Pandaphant,1500000,false
-Scriblet,1400000,false
+Scriblet,1600000,false
 Skritch,1900000,false
-Spotted Snowbunny,970000,false
-Turmac,999999,false
+Spotted Snowbunny,995000,false
+Turmac,805000,false
 Yellow Yooyu,(r101),false
 Faerie Warf,(r101),false
 White Weewoo,1500000,false
@@ -172,43 +172,43 @@ Spring Slorg,1000000,false
 Halloween Whoot,(r101),false
 White Lutra,(r101),false
 Birthday Bowla,Inflation Notice,false
-Black Baby Fireball,990000,false
+Black Baby Fireball,999999,false
 Black Delfin,(r101),false
 Black Uggatrip,999999,false
-Blue Alkenore,940000,false
-Blue Doglefox,(r101),false
+Blue Alkenore,910000,false
+Blue Doglefox,999999,false
 Blue Hopso,999999,false
 Blue Icklesaur,999999,false
 Blue Noil,(r101),false
 Blue Pawkeet,999999,false
 Blue Pinklet,999999,false
 Blue Tigermouse,999999,false
-Brown Kookith,995000,false
-Brown Slorg,995000,false
-Brown Slugawoo,995000,false
-Christmas Orbulon,765000,false
+Brown Kookith,999999,false
+Brown Slorg,999999,false
+Brown Slugawoo,975000,false
+Christmas Orbulon,795000,false
 Christmas Schnelly,(r101),false
-Cloud Baby Fireball,970000,false
+Cloud Baby Fireball,890000,false
 Cloud Droolik,985000,false
 Cloud Naleap,980000,false
-Cloud Spardel,965000,false
+Cloud Spardel,975000,false
 Disco Albat,(r101),false
 Disco Angelpuss,999999,false
 Disco Harris,(r101),false
 Disco Tanizard,999999,false
-Eventide Gobbler,(r101),false
+Eventide Gobbler,995000,false
 Eventide Mallard,(r101),false
 Eventide Slogmok,999999,false
 Fire Blurgah,(r101),false
-Fire Dragoyle,995000,false
+Fire Dragoyle,950000,false
 Fire Felly,999999,false
 Fire Magaral,999999,false
 Fire Melvie,995000,false
 Fire Meturf,995000,false
 Fire Ownow,995000,false
 Fire Quadrone,995000,false
-Fire Slorg,995000,false
-Fire Spardel,995000,false
+Fire Slorg,999999,false
+Fire Spardel,999999,false
 Fire Wibreth,995000,false
 Ghost Baby Fireball,935000,false
 Ghost Meturf,990000,false
@@ -217,13 +217,13 @@ Green Bearog,(r101),false
 Green Bika,(r101),false
 Green Bloop,999999,false
 Green Carmariller,(r101),false
-Green Floud,900000,false
+Green Floud,995000,false
 Green Fungree,(r180),false
 Green Gruslen,(r101),false
-Green Meekins,(r101),false
+Green Meekins,999999,false
 Green Mibblie,999999,false
 Green Nedler,(r101),false
-Green Plathydon,999999,false
+Green Plathydon,900000,false
 Green Quadrone,995000,false
 Green Quetzal,999999,false
 Green Rashpid,(r101),false
@@ -237,39 +237,39 @@ Halloween Goldy,Inflation Notice,false
 Island Alkenore,(r101),false
 Island Anubis,(r101),false
 Maractite Buzzler,960000,false
-Maractite Gallion,930000,false
+Maractite Gallion,995000,false
 Maractite Ramosan,999999,false
-Orange Hasee,740000,false
+Orange Hasee,775000,false
 Orange Pfish,555000,false
-Pink Snowbunny,995000,false
+Pink Snowbunny,930000,false
 Pirate Gallion,999999,false
-Pirate Slorg,875000,false
-Plushie Ona,490000,false
+Pirate Slorg,999999,false
+Plushie Ona,570000,false
 Plushie Rock,800000,false
-Red Arkmite,(r101),false
+Red Arkmite,999999,false
 Red Babyca,(r101),false
 Red Bubblebee,(r101),false
 Red Dua,(r101),false
-Red Fangy,999999,false
+Red Fangy,(r101),false
 Red Frillabon,(r101),false
 Red Jinjah,999999,false
-Red Pikis,995000,false
+Red Pikis,(r101),false
 Red Taigar,(r101),false
 Robot Boween,999999,false
 Robot Cobrall,995000,false
 Robot Reptillior,(r101),false
 Robot Snorkle,(r101),false
-Royal Mortog,840000,false
+Royal Mortog,880000,false
 Snorlkin,2000000,false
-Spotted Noilkeet,990000,false
+Spotted Noilkeet,965000,false
 Spotted Nuranna,985000,false
-Spotted Slorg,975000,false
+Spotted Slorg,990000,false
 Starry Ghostkerchief,999999,false
 Starry Goople,999999,false
-Starry Intesteen,999999,false
+Starry Intesteen,995000,false
 Starry Mortog,999999,false
 Starry Polarchuck,999999,false
-Starry Slorg,999999,false
+Starry Slorg,995000,false
 Water Drugal,(r101),false
 Water Gwalla,(r101),false
 Water Symol,(r101),false
@@ -290,7 +290,7 @@ Yellow Greeble,(r101),false
 Yellow Gwalla,999999,false
 Yellow Horus,(r101),false
 Yellow Teemyte,(r101),false
-Yellow Triffin,999999,false
+Yellow Triffin,(r101),false
 Yellow Uggatrip,999999,false
 Zombie Beekadoodle,995000,false
 Zombie Meepit,1300000,false
@@ -310,7 +310,7 @@ Blue Crokabek,(r101),false
 Blue Gabar,(r101),false
 Blue Ganuthor,(r101),false
 Blue Hornsby,995000,false
-Blue Horus,995000,false
+Blue Horus,(r101),false
 Blue Mallard,999999,false
 Blue Miamouse,999999,false
 Blue Pfish,(r101),false
@@ -318,16 +318,16 @@ Blue Polarchuck,(r101),false
 Blue Poppit,995000,false
 Blue Quadrapus,995000,false
 Blue Symol,995000,false
-Brown Ghoti,990000,false
-Brown Kimbi,999999,false
-Brown Lellefisk,960000,false
+Brown Ghoti,950000,false
+Brown Kimbi,950000,false
+Brown Lellefisk,930000,false
 Brown Manjeer,970000,false
 Brown Ona,999999,false
-Brown Puppyblew,970000,false
+Brown Puppyblew,995000,false
 Brown Pwerko,995000,false
 Clay Scamander,995000,false
-Cloud Altachuck,970000,false
-Cloud Seti,975000,false
+Cloud Altachuck,955000,false
+Cloud Seti,950000,false
 Desert Boween,(r101),false
 Desert Dribblet,(r101),false
 Desert Snorkle,(r101),false
@@ -336,10 +336,10 @@ Disco Carma,(r101),false
 Disco Nuranna,(r101),false
 Disco Polarchuck,995000,false
 Disco Sklyde,(r101),false
-Disco Tenna,995000,false
+Disco Tenna,(r101),false
 Drackobunny,995000,false
-Fire Abominable Snowball,930000,false
-Fire Albat,995000,false
+Fire Abominable Snowball,900000,false
+Fire Albat,999999,false
 Fire Blobagus,995000,false
 Fire Boween,995000,false
 Fire Cheerlub,995000,false
@@ -347,12 +347,12 @@ Fire Donksaur,995000,false
 Fire Duocorn,895000,false
 Fire Gallion,(r101),false
 Fire Goople,995000,false
-Fire Jinjah,965000,false
+Fire Jinjah,995000,false
 Fire Muyang,995000,false
 Fire Navibot,995000,false
 Fire Noil,990000,false
 Fire Snicklebeast,995000,false
-Fire Snorkle,995000,false
+Fire Snorkle,999999,false
 Fire Swabby,995000,false
 Fire Turtum,995000,false
 Fire Uniocto,995000,false
@@ -362,7 +362,7 @@ Ghost Talpidat,(r101),false
 Ghost Wadjet,975000,false
 Glowing Erisim,960000,false
 Glowing Grackle Bug,820000,false
-Green Angelpuss,999999,false
+Green Angelpuss,(r101),false
 Green Avabot,(r101),false
 Green Baby Space Fungus,(r101),false
 Green Blibble,(r101),false
@@ -383,20 +383,20 @@ Green Quintilc,999999,false
 Green Spardel,995000,false
 Green Symol,999999,false
 Green Uniocto,995000,false
-Maractite Bika,885000,false
-Maractite Blurgah,825000,false
-Maractite Dartail,995000,false
-Maractite Melton,945000,false
+Maractite Bika,920000,false
+Maractite Blurgah,970000,false
+Maractite Dartail,920000,false
+Maractite Melton,920000,false
 Maractite Noil,920000,false
-Maraquan Albat,990000,false
-Maraquan Babaa,965000,false
-Maraquan Blobagus,965000,false
+Maraquan Albat,995000,false
+Maraquan Babaa,995000,false
+Maraquan Blobagus,995000,false
 Maraquan Buzzer,995000,false
 Maraquan Carma,995000,false
 Maraquan Floud,995000,false
 Maraquan Gallion,995000,false
-Maraquan Griefer,945000,false
-Maraquan Gruslen,950000,false
+Maraquan Griefer,995000,false
+Maraquan Gruslen,995000,false
 Maraquan Harris,995000,false
 Maraquan Hasee,995000,false
 Maraquan Mazzew,995000,false
@@ -408,24 +408,24 @@ Maraquan Spyder,995000,false
 Maraquan Stego,995000,false
 Maraquan Turtum,995000,false
 Maraquan Weewoo,995000,false
-Orange Drugal,855000,false
+Orange Drugal,785000,false
 Orange Primella,730000,false
 Pink Angelpuss,890000,false
-Pink Bluna,995000,false
-Pink Greeble,995000,false
-Pink Karren,995000,false
+Pink Bluna,950000,false
+Pink Greeble,950000,false
+Pink Karren,900000,false
 Pink Nuranna,990000,false
-Pink Ona,995000,false
+Pink Ona,850000,false
 Pirate Meowclops,(r180),false
-Pirate Snowbunny,999999,false
+Pirate Snowbunny,950000,false
 Plushie Scamander,(r101),false
-Red Baby Blu,995000,false
+Red Baby Blu,(r101),false
 Red Baby Space Fungus,(r101),false
 Red Bearog,995000,false
 Red Cobrall,995000,false
 Red Dofrey,(r101),false
 Red Gangee,999999,false
-Red Lellefisk,995000,false
+Red Lellefisk,(r101),false
 Red Lyins,(r101),false
 Red Meturf,995000,false
 Red Nedler,(r101),false
@@ -435,25 +435,25 @@ Red Snoogy,(r101),false
 Red Symol,(r101),false
 Red Tapira,995000,false
 Red Triffin,995000,false
-Red Trunkard,(r101),false
-Red Weewoo,995000,false
+Red Trunkard,950000,false
+Red Weewoo,(r101),false
 Robot Feepit,995000,false
-Robot Harris,(r101),false
+Robot Harris,999999,false
 Robot Poppit,(r101),false
 Robot Uggatrip,(r101),false
 Spotted Acko,995000,false
 Spotted Dofrey,985000,false
-Spotted Ghostkerchief,870000,false
-Spotted Horus,970000,false
-Spotted Spardel,960000,false
-Spotted Symol,860000,false
+Spotted Ghostkerchief,985000,false
+Spotted Horus,980000,false
+Spotted Spardel,950000,false
+Spotted Symol,800000,false
 Spotted Tasu,970000,false
 Spotted Warf,985000,false
 Starry Alkenore,995000,false
-Starry Barlow,995000,false
+Starry Barlow,925000,false
 Starry Gabar,995000,false
 Starry Kepru,995000,false
-Starry Millipod,999999,false
+Starry Millipod,995000,false
 Starry Ombat,900000,false
 Starry Spyder,995000,false
 Starry Spyven,995000,false
@@ -461,26 +461,26 @@ Starry Staragus,995000,false
 Starry Surzard,995000,false
 Starry Symol,995000,false
 Starry Uniocto,995000,false
-Starry Warf,940000,false
+Starry Warf,995000,false
 Water Goople,(r101),false
-Water Snarhook,(r101),false
+Water Snarhook,999999,false
 White Bubblebee,(r101),false
 White Fangy,995000,false
 White Hippalop,995000,false
 White Scarabug,999999,false
 White Selket,(r101),false
-White Stopngo 400,995000,false
+White Stopngo 400,(r101),false
 White Tenna,995000,false
 Yellow Baby Blu,(r101),false
 Yellow Boween,995000,false
 Yellow Calabat,(r101),false
 Yellow Charnie,(r101),false
 Yellow Cirrus,(r101),false
-Yellow Cougi,999999,false
+Yellow Cougi,(r101),false
 Yellow Crabula,(r101),false
-Yellow Drackonack,999999,false
+Yellow Drackonack,(r101),false
 Yellow Erisim,(r101),false
-Yellow Gobbler,995000,false
+Yellow Gobbler,(r101),false
 Yellow Harris,995000,false
 Yellow Jowlard,(r101),false
 Yellow Karren,999999,false
@@ -492,37 +492,37 @@ Yellow Nedler,995000,false
 Yellow Pawkeet,999999,false
 Yellow Peadackle,(r101),false
 Yellow Rotawheel,(r101),false
-Yellow Searex,995000,false
-Yellow Snicklebeast,995000,false
+Yellow Searex,999999,false
+Yellow Snicklebeast,(r180),false
 Yellow Spirkle,(r101),false
 Yellow Stopngo 400,(r101),false
 Yellow Symol,(r101),false
 Yellow Taigar,(r101),false
 Yellow Tapira,(r101),false
-Yellow Tencals,999999,false
+Yellow Tencals,(r101),false
 Yellow Ukali,(r101),false
-Yellow Werhond,(r101),false
-Yellow Whinny,995000,false
+Yellow Werhond,990000,false
+Yellow Whinny,(r101),false
 Zombie Gobbler,995000,false
 Zombie Huggy,950000,false
 Zombie Kepru,995000,false
 Zombie Tyrowbee,995000,false
 Blue Ghoti,(r101),false
-Brown Icklesaur,990000,false
+Brown Icklesaur,945000,false
 Cloud Eizzil,970000,false
-Cloud Slorg,960000,false
-Fire Kazeriu,995000,false
+Cloud Slorg,990000,false
+Fire Kazeriu,950000,false
 Fire Seti,990000,false
 Fire Whinny,995000,false
 Green Uggatrip,(r101),false
 Island Puppyblew,995000,false
 Maractite Magmut,(r101),false
-Maraquan Swabby,945000,false
+Maraquan Swabby,995000,false
 Maraquan Tenna,995000,false
-Pirate Mortog,995000,false
+Pirate Mortog,990000,false
 Red Acko,990000,false
 Red Felly,995000,false
-Red Splyke,970000,false
+Red Splyke,990000,false
 Red Wreathy,995000,false
 Robot Tomamu,995000,false
 Spotted Kookith,(r101),false
@@ -530,8 +530,8 @@ Spotted Ownow,980000,false
 Starry Aroota,995000,false
 Starry Cobrall,990000,false
 White Quadrapus,995000,false
-Yellow Gabar,(r101),false
-Yellow Garooda,990000,false
+Yellow Gabar,990000,false
+Yellow Garooda,995000,false
 Yellow Hoovle,(r101),false
 Yellow Nuranna,(r101),false
 Black Mazzew,999999,false
@@ -539,19 +539,19 @@ Black Stego,(r101),false
 Brown Miamouse,960000,false
 Brown Millipod,970000,false
 Cloud Spyven,970000,false
-Eventide Skelly,995000,false
+Eventide Skelly,999999,false
 Fire Airax,990000,false
-Ghost Catamara,970000,false
+Ghost Catamara,860000,false
 Ghost Droolik,(r101),false
 Ghost Huggy,970000,false
 Green Scarabug,(r101),false
 Maraquan Flowper,995000,false
-Red Teemyte,985000,false
+Red Teemyte,995000,false
 Robot Anubis,(r101),false
-Spotted Babaa,910000,false
+Spotted Babaa,945000,false
 Spotted Baby Blu,920000,false
 Starry Gwalla,995000,false
-Starry Noak,985000,false
+Starry Noak,990000,false
 White Drackonack,999999,false
 White Mirgle,(r101),false
 Yellow Felly,(r101),false
@@ -561,11 +561,11 @@ Blue Donksaur,995000,false
 Fire Antwerph,995000,false
 Fire Fangy,985000,false
 Fire Niptor,955000,false
-Green Gangee,940000,false
+Green Gangee,985000,false
 Green Ganuthor,(r101),false
 Green Poppit,990000,false
-Pirate Crabula,900000,false
-Spotted Polarchuck,950000,false
+Pirate Crabula,975000,false
+Spotted Polarchuck,975000,false
 Starry Gangee,995000,false
 White Bilguss,980000,false
 White Icklesaur,(r101),false
@@ -576,31 +576,31 @@ Custard Scamander,999999,false
 Green Hornsby,999999,false
 Green Seti,975000,false
 Green Tigermouse,990000,false
-Pirate Walking Carpet,805000,false
+Pirate Walking Carpet,999999,false
 Red Ghostkerchief,995000,false
 Starry Yullie,980000,false
 Yellow Feepit,995000,false
 Yellow Tigermouse,970000,false
-Birthday Marafin,710000,false
+Birthday Marafin,Inflation Notice,false
 Disco Bilguss,970000,false
-Green Cheerlub,970000,false
-Magma Baby Fireball,980000,false
+Green Cheerlub,999999,false
+Magma Baby Fireball,975000,false
 Pirate Pawkeet,995000,false
 Robot Uniocto,980000,false
 Starry Babaa,960000,false
 Starry Dribblet,970000,false
 Starry Ettaphant,995000,false
-Black Crabula,995000,false
+Black Crabula,(r101),false
 Blue Wadjet,970000,false
 Brown Pawkeet,965000,false
 Disco Snarhook,995000,false
-Fire Carma,999999,false
-Fire Faellie,995000,false
-Green Horus,970000,false
+Fire Carma,995000,false
+Fire Faellie,999999,false
+Green Horus,995000,false
 Green Kookith,(r101),false
 Green Noil,995000,false
 Green Whinny,(r101),false
-Pirate Epuni,850000,false
+Pirate Epuni,990000,false
 Pirate Seece,999999,false
 Red Angelpuss,995000,false
 Yellow Drugal,995000,false
@@ -609,77 +609,77 @@ Yellow Swabby,965000,false
 Blue Catamara,999999,false
 Fire Teemyte,999999,false
 Pirate Ettaphant,990000,false
-Pirate Poppit,995000,false
-Plushie Candychan,765000,false
+Pirate Poppit,930000,false
+Plushie Candychan,815000,false
 Yellow Mortog,999999,false
-Blue Splyke,955000,false
+Blue Splyke,(r101),false
 Fire Tenna,800000,false
 Pirate Djuti,999999,false
-Pirate Lil Frankie,960000,false
-Pirate Lyins,990000,false
+Pirate Lil Frankie,925000,false
+Pirate Lyins,940000,false
 Pirate Snarhook,999999,false
 Spotted Ona,995000,false
-Blue Angelpuss,965000,false
-Blue Stego,965000,false
+Blue Angelpuss,999999,false
+Blue Stego,990000,false
 Brown Avabot,(r101),false
-Cloud Neotrak,950000,false
-Green Barbat,965000,false
-Red Hippalop,965000,false
+Cloud Neotrak,965000,false
+Green Barbat,985000,false
+Red Hippalop,995000,false
 Red Narwhool,960000,false
 Red Pawkeet,995000,false
 Zombie Gypmu,(r101),false
-Birthday Erisim,680000,false
+Birthday Erisim,605000,false
 Black Snicklebeast,(r180),false
 Cloud Snicklebeast,695000,false
 Fire Kookith,(r101),false
 Green Gabar,945000,false
 Green Noak,945000,false
 Maraquan Cobrall,970000,false
-Pink Puppyblew,990000,false
-Red Avabot,945000,false
+Pink Puppyblew,930000,false
+Red Avabot,995000,false
 Red Bloop,995000,false
-Red Slugawoo,945000,false
+Red Slugawoo,995000,false
 Starry Eizzil,955000,false
 Yellow Gangee,(r101),false
 Yellow Plathydon,980000,false
 Zombie Splyke,999999,false
-Custard Snowbunny,545000,false
+Custard Snowbunny,460000,false
 Darigan Gruslen,900000,false
 Dung Scamander,850000,false
-Fire Alkenore,890000,false
-Magma Magtile,865000,false
-Maraquan Anubis,995000,false
+Fire Alkenore,950000,false
+Magma Magtile,900000,false
+Maraquan Anubis,999999,false
 Purple Fungree,790000,false
 Red Blurtle,995000,false
 Robot Buzzer,995000,false
-Robot Mallard,985000,false
+Robot Mallard,995000,false
 Yellow Slugawoo,985000,false
-Blue Dua,999999,false
-Blue Selket,955000,false
-Brown Angelpuss,965000,false
+Blue Dua,900000,false
+Blue Selket,960000,false
+Brown Angelpuss,985000,false
 Cloud Crokabek,905000,false
 Sketch Meowclops,995000,false
 Blue Harris,995000,false
 Cloud Raindorf,900000,false
 Cloud Snorkle,965000,false
 Green Delfin,930000,false
-Green Khnum,965000,false
+Green Khnum,945000,false
 Halloween Scamander,1750000,false
-Maractite Slorg,995000,false
-Pirate Ghostkerchief,955000,false
+Maractite Slorg,970000,false
+Pirate Ghostkerchief,935000,false
 Spotted Cheerlub,930000,false
 Yellow Reptillior,900000,false
-Fire Babaa,850000,false
+Fire Babaa,950000,false
 Magma Symol,875000,false
 Pirate Jinjah,999999,false
 Royal Cyodrake,630000,false
 Ghost Pikis,860000,false
-Green Sludgy,(r101),false
+Green Sludgy,995000,false
 Maractite Kazeriu,965000,false
-Maraquan Symol,940000,false
+Maraquan Symol,995000,false
 Pirate Baby Blu,985000,false
 Pirate Ona,790000,false
-Plushie Clompkin,725000,false
+Plushie Clompkin,670000,false
 Robot Blobagus,(r101),false
 Robot Warf,995000,false
 Fire Catamara,985000,false
@@ -689,30 +689,30 @@ Fire Weewoo,995000,false
 Magma Alabriss,900000,false
 Maraquan Warf,995000,false
 Pirate Kateil,999999,false
-Pirate Uniocto,910000,false
+Pirate Uniocto,999999,false
 White Wheelie,995000,false
 Fire Lyins,990000,false
 Fire Nuranna,995000,false
-Green Teasqito,(r101),false
+Green Teasqito,995000,false
 Maractite Flishy,950000,false
-Orange Ona,(r101),false
+Orange Ona,885000,false
 Red Barlow,(r101),false
 Red Stego,860000,false
 Rotweilie,930000,false
 Yellow Snomorg,985000,false
-Baraga,950000,false
-Maractite Symol,970000,false
+Baraga,895000,false
+Maractite Symol,935000,false
 White Felf,995000,false
 Birthday Flowper,Inflation Notice,false
 Birthday Slymook,1500000,false
-Cloud Slugawoo,945000,false
+Cloud Slugawoo,970000,false
 Cloud Symol,965000,false
 Disco Warf,995000,false
-Electric Soreen,610000,false
+Electric Soreen,595000,false
 Fire Dua,960000,false
 Fire Raindorf,995000,false
 Fire Tanizard,950000,false
-Ghost Felf,910000,false
+Ghost Felf,935000,false
 Ghost Pawkeet,999999,false
 Green Primella,999999,false
 Red Poppit,995000,false
@@ -721,7 +721,7 @@ Red Scarabug,995000,false
 Starry Gumblesh,975000,false
 Yellow Delfin,920000,false
 Fire Pfish,995000,false
-Fire Sandan,895000,false
+Fire Sandan,995000,false
 Ghost Gallion,995000,false
 Plushie Meowclops,945000,false
 Tyrannian Snomorg,995000,false
@@ -730,10 +730,10 @@ Yellow Taweret,985000,false
 Yellow Uniocto,995000,false
 Birthday Schnelly,850000,false
 Green Catamara,650000,false
-Red Babaa,835000,false
+Red Babaa,935000,false
 Red Boween,840000,false
 Royal Gallion,830000,false
-Starry Screal,990000,false
+Starry Screal,995000,false
 Yellow Cybit,999999,false
 Custard Darblat,875000,false
 Ghost Magtile,985000,false
@@ -742,51 +742,51 @@ Yellow Scarabug,885000,false
 Cloud Snoogy,980000,false
 White Anubis,995000,false
 Birthday Mazzew,Inflation Notice,false
-Brown Fir,875000,false
+Brown Fir,855000,false
 Fire Ona,999999,false
-Snowbunny,985000,false
+Snowbunny,980000,false
 Pirate Mazzew,945000,false
 Plushie Snowbunny,715000,false
 Yellow Snoogy,(r101),false
 Cloud Cheerlub,960000,false
-Glowing Meepit,995000,false
-Pirate Hasee,900000,false
+Glowing Meepit,900000,false
+Pirate Hasee,995000,false
 Birthday Leeble,800000,false
-Plushie Yooyu,960000,false
+Plushie Yooyu,930000,false
 Blue Cobrall,995000,false
 Green Snorkle,999999,false
 Magma Screal,840000,false
-Blue Melvie,990000,false
+Blue Melvie,995000,false
 Fire Hydruplit,995000,false
 Glowing Cheerlub,875000,false
 Magma Slorg,850000,false
-Maractite Naleap,885000,false
-Pirate Tenna,990000,false
+Maractite Naleap,920000,false
+Pirate Tenna,985000,false
 Purple Lutra,995000,false
-Cloud Bearog,675000,false
-Cloud Gwalla,660000,false
+Cloud Bearog,610000,false
+Cloud Gwalla,975000,false
 Yellow Navibot,995000,false
 Magma Werhond,840000,false
 Yellow Babaa,930000,false
-Fire Bowla,995000,false
+Fire Bowla,999999,false
 Magma Babaa,825000,false
-Pirate Abominable Snowball,760000,false
-Pirate Fir,815000,false
-Pirate Polarchuck,875000,false
+Pirate Abominable Snowball,940000,false
+Pirate Fir,995000,false
+Pirate Polarchuck,995000,false
 Spotted Barbat,940000,false
 Fire Scarabug,999999,false
 Ghost Gabar,995000,false
 Ghost Slorg,990000,false
-Spotted Angelpuss,920000,false
-Spotted GX-4 Oscillabot,795000,false
-Christmas Alabriss,425000,false
+Spotted Angelpuss,970000,false
+Spotted GX-4 Oscillabot,660000,false
+Christmas Alabriss,440000,false
 Fire Spyven,995000,false
 Green Ghoti,880000,false
-Magma Mimbi,685000,false
-Maraquan Quetzal,999999,false
+Magma Mimbi,750000,false
+Maraquan Quetzal,995000,false
 Tyrannian Darblat,780000,false
 White Stego,845000,false
-Birthday Barlow,850000,false
+Birthday Barlow,800000,false
 Cloud Mirgle,950000,false
 Cloud Uniocto,920000,false
 Black Khnum,999999,false
@@ -797,21 +797,21 @@ Spotted Airax,955000,false
 Spotted Gruslen,555000,false
 Yellow Mirgle,995000,false
 Fire Ghoti,999999,false
-Ghost Gobbler,990000,false
-Pirate Darpinch,990000,false
+Ghost Gobbler,995000,false
+Pirate Darpinch,995000,false
 Plushie Faellie,950000,false
-Spotted Eizzil,900000,false
+Spotted Eizzil,915000,false
 Yellow Magmut,795000,false
-Electric Dandan,575000,false
-Pirate Peadackle,995000,false
+Electric Dandan,530000,false
+Pirate Peadackle,999999,false
 Sketch Babyca,995000,false
 Birthday Snowickle,870000,false
 Christmas Snowickle,405000,false
 Cloud Tigermouse,965000,false
 Fire Feepit,875000,false
-Glowing Sludgy,770000,false
+Glowing Sludgy,800000,false
 Green Triffin,990000,false
-Maractite Apis,900000,false
+Maractite Apis,935000,false
 Maractite Mallard,915000,false
 Orange Peo,710000,false
 Rotoblur 4000,Inflation Notice,false
@@ -819,67 +819,67 @@ Royal Kadoatie,520000,false
 Spotted Feepit,790000,false
 Starry Wuzzle,999999,false
 Yellow Bluna,990000,false
-Birthday Angelpuss,980000,false
-Electric Slorg,795000,false
-Fire Alabriss,950000,false
-Orange Meekins,790000,false
+Birthday Angelpuss,Inflation Notice,false
+Electric Slorg,605000,false
+Fire Alabriss,995000,false
+Orange Meekins,755000,false
 Pirate Tasu,810000,false
 Red Ghoti,790000,false
 Red Niptor,685000,false
-Tyrannian Meowclops,595000,false
+Tyrannian Meowclops,545000,false
 Yellow Raindorf,800000,false
-Ghost Ganuthor,925000,false
+Ghost Ganuthor,870000,false
 Pirate Candychan,999999,false
 Pwerko,975000,false
 Dung Darblat,900000,false
-Plushie Kadoatie,600000,false
+Plushie Kadoatie,575000,false
 White Wadjet,745000,false
-Christmas Fungree,765000,false
+Christmas Fungree,780000,false
 Ghost Kookith,(r101),false
 Spirkle,945000,false
-Glowing Spyder,800000,false
+Glowing Spyder,910000,false
 Green Doglefox,995000,false
 Starry Feepit,990000,false
 Yellow Narwhool,850000,false
 Yellow Wadjet,950000,false
 Cloud Magaral,970000,false
-Dua,920000,false
+Dua,Inflation Notice,false
 Cloud Taweret,965000,false
 Cloud Walking Carpet,785000,false
 Talpidat,725000,false
 Orange Beekadoodle,785000,false
 Orange Slorg,850000,false
-Birthday Xampher,795000,false
+Birthday Xampher,845000,false
 Brown Wheelie,965000,false
-Cloud Ukali,965000,false
+Cloud Ukali,950000,false
 Fire Puppyblew,695000,false
-Ghost Staragus,980000,false
+Ghost Staragus,995000,false
 Maraquan Ghostkerchief,995000,false
-Pink Wadjet,800000,false
+Pink Wadjet,830000,false
 Red Anubis,800000,false
 Royal Candychan,990000,false
 Sketch Snicklebeast,570000,false
 Blue Warf,945000,false
 Fire Harris,845000,false
-Gwortz,930000,false
-Orange Naalala,885000,false
+Gwortz,Inflation Notice,false
+Orange Naalala,550000,false
 Orange Rashpid,740000,false
-Spotted Teemyte,775000,false
+Spotted Teemyte,995000,false
 Fire Uggatrip,995000,false
 Pirate Faellie,999999,false
-Cloud Doglefox,875000,false
+Cloud Doglefox,800000,false
 Cloud Mallard,955000,false
 Fire Bloop,995000,false
 Ghost Babaa,705000,false
 Darblat,675000,false
-Royal Rock,320000,false
-White Donksaur,770000,false
+Royal Rock,290000,false
+White Donksaur,750000,false
 Pirate Surzard,720000,false
 Green Alkenore,955000,false
 Orange Biyako,715000,false
 Stealthy Bubblebee,715000,false
-Dung Meepit,685000,false
-Orange Mastyxi,805000,false
+Dung Meepit,850000,false
+Orange Mastyxi,770000,false
 Birthday Polarchuck,775000,false
 Ghost Beekadoodle,995000,false
 Orange Gikerot,750000,false
@@ -887,24 +887,24 @@ Orange Seti,675000,false
 Pirate Gobbler,945000,false
 Birthday Quadrapus,770000,false
 Fire Mazzew,675000,false
-Yellow Primella,995000,false
+Yellow Primella,999999,false
 Ghost Tenna,880000,false
 Pirate Kookith,(r101),false
-Pirate Yullie,795000,false
+Pirate Yullie,690000,false
 Cloud Icklesaur,895000,false
 Brown Wadjet,950000,false
 Orange Uniocto,710000,false
 Christmas Meepit,700000,false
 Christmas Mortog,605000,false
 Ghost Wuzzle,999999,false
-Orange Kateil,775000,false
+Orange Kateil,550000,false
 Cloud Anubis,640000,false
 Ghost Faellie,995000,false
 Orange Symol,655000,false
-Spotted Bilguss,870000,false
+Spotted Bilguss,615000,false
 Birthday Turdle,1500000,false
 Cloud Reptillior,965000,false
-Custard Spardel,810000,false
+Custard Spardel,580000,false
 Ghost Arkmite,995000,false
 Ghost Candychan,995000,false
 Ghost Manjeer,950000,false
@@ -916,33 +916,33 @@ Brown Polarchuck,835000,false
 Spotted Harris,855000,false
 Chezzoom,510000,false
 Ghost Melton,930000,false
-Plushie Babaa,625000,false
-Clay Xepru,144000,false
+Plushie Babaa,610000,false
+Clay Xepru,127000,false
 Ghost Whoot,780000,false
 Robot Blurgah,995000,false
 Brown Babaa,740000,false
 Ghost Snorkle,930000,false
-Krawk,425000,false
+Krawk,550000,false
 Purple Meepit,380000,false
 Cloud Horus,920000,false
-Orange Turtum,625000,false
-Red Teasqito,780000,false
+Orange Turtum,645000,false
+Red Teasqito,700000,false
 Yellow N-4 Info Retrieval Bot,895000,false
 Fire Buzzer,985000,false
 Ghost Mauket,995000,false
-Brown Bluna,990000,false
-Birthday Nuranna,805000,false
+Brown Bluna,995000,false
+Birthday Nuranna,780000,false
 Ghost Buzzer,840000,false
 Pirate Frillabon,990000,false
 Pirate Turnali,650000,false
-Purple Mortog,280000,false
-Spring Faellie,700000,false
+Purple Mortog,210000,false
+Spring Faellie,775000,false
 Tyrannian Meepit,535000,false
 Yellow Arkmite,700000,false
 Ghost Tentacle,995000,false
 Ghost Urgoni,995000,false
 Snow Meepit,585000,false
-Ghost Uniocto,790000,false
+Ghost Uniocto,680000,false
 Pirate Biyako,995000,false
 Black Goulblee,585000,false
 Ghost Spardel,999999,false
@@ -959,13 +959,13 @@ Cloud Gruslen,970000,false
 Fire Drackonack,995000,false
 Ghost Lyins,995000,false
 Beepallite,745000,false
-Birthday Grackle,700000,false
+Birthday Grackle,980000,false
 Electric Yullie,525000,false
 Pirate Arkmite,650000,false
-Red Mallard,815000,false
+Red Mallard,995000,false
 Royal Ukali,515000,false
 Brown Quintilc,970000,false
-Christmas Kadoatie,740000,false
+Christmas Kadoatie,470000,false
 Ghost Aroota,995000,false
 Ghost Carma,995000,false
 Ghost Crocalu,795000,false
@@ -980,14 +980,14 @@ Ghost Snuffly,920000,false
 Ghost Tasu,995000,false
 Ghost Vaeolus,960000,false
 Ghost Warf,995000,false
-Green Walking Carpet,800000,false
+Green Walking Carpet,650000,false
 Pirate Harris,780000,false
 Pirate Juma,999999,false
-Orange Staragus,950000,false
-Spotted Khnum,490000,false
+Orange Staragus,760000,false
+Spotted Khnum,500000,false
 Ghost Walking Carpet,885000,false
-Pirate Gruslen,695000,false
-Brown Karren,505000,false
+Pirate Gruslen,710000,false
+Brown Karren,670000,false
 Ghost Anubis,975000,false
 Pirate Baby Space Fungus,995000,false
 Pirate Eizzil,999999,false
@@ -995,14 +995,14 @@ Pirate Gangee,990000,false
 Pirate Hoovle,995000,false
 Pirate Melvie,999999,false
 Pirate Nuranna,995000,false
-Royal Anubis,590000,false
+Royal Anubis,495000,false
 Royal Sklyde,545000,false
-Royal Slorg,980000,false
+Royal Slorg,630000,false
 Pirate Symol,950000,false
-Royal Mauket,715000,false
+Royal Mauket,595000,false
 Sketch Snarhook,475000,false
 Birthday Filamen,470000,false
-Spring Talpidat,990000,false
+Spring Talpidat,945000,false
 Adagio,650000,false
 Brown Warf,600000,false
 Cloud Harris,965000,false
@@ -1010,8 +1010,8 @@ Ghost Greeble,995000,false
 Plushie Gallion,590000,false
 Plushie Spyder,515000,false
 Royal Faellie,705000,false
-Royal Kiiyak,620000,false
-Royal Seece,560000,false
+Royal Kiiyak,545000,false
+Royal Seece,595000,false
 Royal Whinny,525000,false
 Pirate Weewoo,990000,false
 Yellow Catamara,750000,false
@@ -1023,15 +1023,15 @@ Purple Kookith,730000,false
 Royal Gwalla,525000,false
 Royal Juma,510000,false
 Royal Manjeer,490000,false
-Tyrannian Kookith,910000,false
+Tyrannian Kookith,880000,false
 Christmas Staragus,475000,false
 Ghost Harris,935000,false
 Ghost Ona,999999,false
-Pirate Albat,850000,false
-Pirate Puppyblew,835000,false
+Pirate Albat,999999,false
+Pirate Puppyblew,880000,false
 Plushie Griefer,900000,false
-Plushie Surzard,750000,false
-Royal Quetzal,500000,false
+Plushie Surzard,745000,false
+Royal Quetzal,600000,false
 Royal Turtum,510000,false
 Spotted Puppyblew,500000,false
 White Noil,999999,false
@@ -1045,52 +1045,52 @@ Royal Delfin,365000,false
 Royal Dofrey,565000,false
 Royal Fir,495000,false
 Royal Gruslen,495000,false
-Royal Karren,585000,false
+Royal Karren,710000,false
 Royal Mallard,495000,false
-Royal Noil,980000,false
+Royal Noil,465000,false
 Royal Razumi,495000,false
 Royal Seti,510000,false
 Royal Sludgy,495000,false
-Royal Symol,450000,false
-Royal Tralbak,500000,false
+Royal Symol,495000,false
+Royal Tralbak,495000,false
 Fungree,685000,false
 Glowing Feepit,860000,false
 Goulblee,400000,false
 Plushie Doglefox,650000,false
-Red Tenna,980000,false
+Red Tenna,990000,false
 Royal Sandan,495000,false
 Foobug,900000,false
 Spotted Buzzer,985000,false
 Yellow Mibblie,945000,false
-Brown Erisim,555000,false
-Electric Lil Frankie,520000,false
+Brown Erisim,580000,false
+Electric Lil Frankie,535000,false
 Purple Snomorg,965000,false
 Royal Gobbler,510000,false
-Green Bilguss,995000,false
-Meepit,300000,false
+Green Bilguss,990000,false
+Meepit,340000,false
 Plushie Kookith,(r101),false
-Electric Antwerph,630000,false
+Electric Antwerph,545000,false
 Fire Anubis,999999,false
 Pirate Doglefox,950000,false
 Snow Meowclops,670000,false
 Ghost Spyder,999999,false
 Royal Bazatlan,495000,false
-White Cobrall,535000,false
-Christmas Triffin,450000,false
-Glowing Slymook,615000,false
+White Cobrall,999999,false
+Christmas Triffin,510000,false
+Glowing Slymook,790000,false
 Glowing Symol,810000,false
-Orange Stopngo 400,765000,false
-Pirate Bilguss,830000,false
+Orange Stopngo 400,510000,false
+Pirate Bilguss,825000,false
 Zebba,440000,false
 Brown Anubis,950000,false
-Kadoatie,295000,false
+Kadoatie,Inflation Notice,false
 Pirate Warf,490000,false
-Royal Angelpuss,490000,false
+Royal Angelpuss,575000,false
 Red Abominable Snowball,710000,false
 Ghost Alabriss,995000,false
 Plushie Wherfy,735000,false
 Red Khnum,450000,false
-Sketch Sludgy,485000,false
+Sketch Sludgy,580000,false
 Sketch Weewoo,500000,false
 Spotted Bloop,515000,false
 Cloud Karren,760000,false
@@ -1099,30 +1099,30 @@ Plushie GX-4 Oscillabot,535000,false
 Sketch Pawkeet,545000,false
 Brown Ganuthor,745000,false
 Sketch Polarchuck,505000,false
-Ada,375000,false
+Ada,395000,false
 Birthday Boween,275000,false
 Cloud Duocorn,935000,false
-Faerie Kadoatie,280000,false
+Faerie Kadoatie,231000,false
 Pirate Carmariller,655000,false
 Plushie Kiiyak,635000,false
 Plushie Weewoo,810000,false
-Albot,185000,false
+Albot,205000,false
 Electric Ignalce,600000,false
-Fire Cobrall,999999,false
+Fire Cobrall,995000,false
 Geeky Geb,300000,false
 Spotted Ramosan,765000,false
 Birthday Sharky,390000,false
 Orange Sludgy,850000,false
-Sketch Cobrall,435000,false
-Sketch Faellie,700000,false
+Sketch Cobrall,475000,false
+Sketch Faellie,750000,false
 Sketch Triffin,665000,false
-Spotted Abominable Snowball,810000,false
-Spotted Sludgy,770000,false
-Yellow Bilguss,460000,false
+Spotted Abominable Snowball,820000,false
+Spotted Sludgy,950000,false
+Yellow Bilguss,595000,false
 Grey Cobrall,999999,false
 Orange Chumablah,555000,false
 Snow Snowbunny,98000,false
-Spotted Meekins,960000,false
+Spotted Meekins,985000,false
 Electric Alabriss,535000,false
 Electric Charnie,525000,false
 Electric Epuni,525000,false
@@ -1131,16 +1131,16 @@ Electric Symol,595000,false
 Electric Tigermouse,520000,false
 Plushie Lyins,470000,false
 Scamander,770000,false
-Sketch Harris,395000,false
-Snow Teemyte,380000,false
+Sketch Harris,460000,false
+Snow Teemyte,385000,false
 Cloud Dua,999999,false
-Spotted Cobrall,365000,false
-Candy Vampire,460000,false
-Christmas Meowclops,430000,false
-Christmas Naleap,430000,false
+Spotted Cobrall,430000,false
+Candy Vampire,500000,false
+Christmas Meowclops,500000,false
+Christmas Naleap,405000,false
 Plushie Gangee,600000,false
 Romeep 3t3,410000,false
-Christmas Donksaur,375000,false
+Christmas Donksaur,440000,false
 Christmas Gobbler,385000,false
 Christmas Navibot,540000,false
 Plushie Pawkeet,565000,false
@@ -1151,32 +1151,32 @@ Electric Tapira,685000,false
 Green Puppyblew,700000,false
 Sketch Slorg,675000,false
 Spotted Bluna,890000,false
-Vernax,495000,false
-Huggy Bear,395000,false
+Vernax,535000,false
+Huggy Bear,400000,false
 Plushie Icklesaur,465000,false
 Blue Drackonack,400000,false
-Plushie Morkou,540000,false
-Red Bluna,395000,false
+Plushie Morkou,999999,false
+Red Bluna,Inflation Notice,false
 Plushie Goople,605000,false
-Plushie Ownow,580000,false
+Plushie Ownow,600000,false
 Plushie Pfish,340000,false
 Plushie Yullie,670000,false
-Birthday Wherfy,410000,false
+Birthday Wherfy,520000,false
 Christmas Gallion,515000,false
-Christmas Miamouse,315000,false
-Cyodrake,194000,false
+Christmas Miamouse,340000,false
+Cyodrake,158000,false
 Goy,310000,false
 Plushie Dribblet,595000,false
 Plushie Symol,565000,false
 Sketch Symol,345000,false
-Sketch Hermiteese,425000,false
-Christmas Bloopy,450000,false
-Clay Symol,220000,false
+Sketch Hermiteese,465000,false
+Christmas Bloopy,465000,false
+Clay Symol,217000,false
 Sketch Hasee,805000,false
-Snow Cyodrake,600000,false
-Eventide Talpidat,470000,false
-Plushie Magaral,700000,false
-Combobot,360000,false
+Snow Cyodrake,565000,false
+Eventide Talpidat,480000,false
+Plushie Magaral,500000,false
+Combobot,365000,false
 Plushie Slorg,500000,false
 Cloud Barbat,955000,false
 Plushie Kimbi,415000,false
@@ -1185,14 +1185,14 @@ Ultra Mega Bot 2000,535000,false
 Birthday Gruslen,320000,false
 Plushie Dragoyle,730000,false
 Plushie Shocket,585000,false
-Sketch Gruslen,430000,false
+Sketch Gruslen,460000,false
 Sketch Raindorf,310000,false
 Cloud Miamouse,980000,false
 Plushie Chuchuana,670000,false
 Plushie Hasee,750000,false
 Plushie Raindorf,670000,false
 Dung Faellie,400000,false
-Erge,440000,false
+Erge,999999,false
 King Skarl Erisim,370000,false
 Custard Doglefox,340000,false
 Electric Niptor,450000,false
@@ -1200,596 +1200,596 @@ Plushie Buzzer,875000,false
 Plushie Eizzil,725000,false
 Plushie Ponka,700000,false
 Red Yullie,995000,false
-Tootum,580000,false
+Tootum,625000,false
 Yellow Melvie,305000,false
-Dung Ona,305000,false
+Dung Ona,370000,false
 Pirate Babaa,955000,false
 Sketch Pikis,485000,false
-Orbulon,440000,false
+Orbulon,525000,false
 Plushie Sandan,670000,false
-Brown Scarabug,815000,false
+Brown Scarabug,805000,false
 Custard Babaa,565000,false
 Black Wadjet,540000,false
-Plumpy,210000,false
-Plushie Bilguss,740000,false
-Red Wadjet,390000,false
-Wobbly Turtum Toy,415000,false
+Plumpy,187000,false
+Plushie Bilguss,670000,false
+Red Wadjet,500000,false
+Wobbly Turtum Toy,395000,false
 Dung Slorg,296000,false
-Brown Wreathy,445000,false
-Christmas Acko,455000,false
-Sketch Tanizard,265000,false
+Brown Wreathy,505000,false
+Christmas Acko,710000,false
+Sketch Tanizard,495000,false
 Custard Angelpuss,505000,false
 Yellow Donksaur,280000,false
 Glowing Snorkle,500000,false
 Rollatron,Inflation Notice,false
-Plushie Angelpuss,360000,false
+Plushie Angelpuss,400000,false
 Plushie Donksaur,480000,false
 Plushie Huggy,660000,false
 Red Pfish,670000,false
 Christmas Faellie,365000,false
-Yellow Floud,690000,false
+Yellow Floud,705000,false
 Blobikins,194000,false
-Christmas Spardel,315000,false
-Green Warf,460000,false
-Pebble,200000,false
-Plushie Airax,199000,false
+Christmas Spardel,355000,false
+Green Warf,495000,false
+Pebble,500000,false
+Plushie Airax,197000,false
 Plushie Baby Fireball,505000,false
 Plushie Feepit,540000,false
 Plushie Hopso,570000,false
 Plushie Snicklebeast,300000,false
 Plushie Uggatrip,250000,false
-Tyrannian Gallion,265000,false
-Bearclops,136000,false
-Dung Lizark,249000,false
-Plushie Anubis,350000,false
+Tyrannian Gallion,260000,false
+Bearclops,200000,false
+Dung Lizark,271000,false
+Plushie Anubis,435000,false
 Sketch Quadrapus,315000,false
 Cloud Wadjet,Inflation Notice,false
-Red Erisim,380000,false
+Red Erisim,525000,false
 Christmas Sunutek,475000,false
-Plushie Catamara,445000,false
-Invisible Anubis,204000,false
+Plushie Catamara,400000,false
+Invisible Anubis,191000,false
 Tyrannian Snowickle,79000,false
 Custard Slorg,485000,false
 Plushie Gobbler,540000,false
 Plushie Noil,510000,false
-Tyrannian Kadoatie,73500,false
+Tyrannian Kadoatie,66500,false
 Plushie Snorkle,520000,false
 Plushie Polarchuck,250000,false
 Dung Polarchuck,270000,false
 Birthday Raindorf,310000,false
-Teemyte,380000,false
-Brown Blibble,665000,false
+Teemyte,850000,false
+Brown Blibble,660000,false
 Dung Palmplat,213000,false
 Plushie Jinjah,445000,false
 Plushie Peo,410000,false
 Royal Weewoo,335000,false
-Tyrannian Snowbunny,89500,false
-Skootle Bug,475000,false
-Sketch Abominable Snowball,475000,false
-Glowing Mazzew,400000,false
-Mortog,150000,false
+Tyrannian Snowbunny,61500,false
+Skootle Bug,600000,false
+Sketch Abominable Snowball,580000,false
+Glowing Mazzew,295000,false
+Mortog,440000,false
 Purple Snowickle,85000,false
-Nik,106000,false
-Invisible Whinny,255000,false
+Nik,260000,false
+Invisible Whinny,230000,false
 Plushie Harris,265000,false
 Tainted Minion,Inflation Notice,false
-Dung Bika,203000,false
+Dung Bika,231000,false
 Dung Cirrus,289000,false
 Dung Navibot,204000,false
 Dung Walking Carpet,289000,false
-Christmas Nedler,350000,false
-Plushie Mazzew,315000,false
-Dung Warf,225000,false
-Purple Kadoatie,57000,false
+Christmas Nedler,325000,false
+Plushie Mazzew,270000,false
+Dung Warf,495000,false
+Purple Kadoatie,69500,false
 Dung Manjeer,289000,false
 Invisible Warf,275000,false
 Petpetpet Comb,Inflation Notice,false
 Invisible Slorg,480000,false
-Plushie Blobagus,570000,false
-Christmas Nuk,250000,false
-Invisible Angelpuss,286000,false
+Plushie Blobagus,450000,false
+Christmas Nuk,370000,false
+Invisible Angelpuss,204000,false
 Invisible Scarabug,196000,false
-Elderly Hasee,187000,false
+Elderly Hasee,98500,false
 Woodland Mortog,330000,false
 Snow Rock,106000,false
-Droolik,335000,false
+Droolik,246000,false
 Plushie Warf,440000,false
-Plushie Drackonack,580000,false
+Plushie Drackonack,905000,false
 Glowing Miamouse,Inflation Notice,false
 Invisible Ona,375000,false
 Checkered Mazzew,242000,false
 Dung Symol,191000,false
 Christmas Carmariller,395000,false
-Princess Terrana Kookith,125000,false
+Princess Terrana Kookith,186000,false
 Christmas Alkenore,480000,false
 Christmas Hasee,450000,false
 Yellow Puppyblew,535000,false
-Dung Angelpuss,266000,false
-Tyrannian Ona,165000,false
-Checkered Walking Carpet,216000,false
+Dung Angelpuss,267000,false
+Tyrannian Ona,110000,false
+Checkered Walking Carpet,178000,false
 Dung Shocket,200000,false
 Christmas Cirrus,440000,false
-Plushie Miamouse,300000,false
-Invisible Doglefox,272000,false
+Plushie Miamouse,350000,false
+Invisible Doglefox,Inflation Notice,false
 Gold Mauket,Inflation Notice,false
 Stealthy Kookith,Inflation Notice,false
 Purple Ignalce,108000,false
 Christmas Swabby,510000,false
 Ghostkerfish,110000,false
-Checkered Slorg,203000,false
-Snow Kadoatie,34100,false
+Checkered Slorg,221000,false
+Snow Kadoatie,28000,false
 Tyrannian Rock,55500,false
 Purple Ona,107000,false
-Purple Rock,45200,false
+Purple Rock,69000,false
 Christmas Ghostkerchief,650000,false
 Christmas Pawkeet,560000,false
-Checkered Symol,152000,false
-Snow Faellie,223000,false
+Checkered Symol,237000,false
+Snow Faellie,234000,false
 Plushie Puppyblew,495000,false
-Purple Marlock,77500,false
-Snowickle,59500,false
+Purple Marlock,78000,false
+Snowickle,65000,false
 Christmas Lyins,320000,false
 Christmas Ukali,Inflation Notice,false
 Plushie Meekins,247000,false
 Plushie Snarhook,400000,false
 Snow Candychan,119000,false
-Christmas Apis,475000,false
+Christmas Apis,540000,false
 Christmas Symol,Inflation Notice,false
-Checkered Spyder,278000,false
-Christmas Huggy,291000,false
-Birthday Snorkle,225000,false
+Checkered Spyder,275000,false
+Christmas Huggy,365000,false
+Birthday Snorkle,120000,false
 Neotrak,126000,false
 Invisible Meekins,150000,false
 Invisible Mirgle,200000,false
 Invisible Nuranna,200000,false
 Christmas Tyrowbee,Inflation Notice,false
-Birthday Wibreth,203000,false
+Birthday Wibreth,191000,false
 Checkered Antwerph,230000,false
 Weewoo,113000,false
 Snow Weewoo,119000,false
 Christmas Baby Space Fungus,Inflation Notice,false
 Pinklet,100000,false
-Purple Triffin,61000,false
-Beelzebug,300000,false
+Purple Triffin,79500,false
+Beelzebug,193000,false
 Purple Tentacle,272000,false
-Snow Snicklebeast,1275,false
-Snow Swabby,112000,false
+Snow Snicklebeast,910,false
+Snow Swabby,101000,false
 Tyrannian Blurgah,111000,false
 Invisible Babaa,272000,false
 Tyrannian Bloopy,41500,false
-Erisim,145000,false
+Erisim,132000,false
 Birthday Melvie,245000,false
-Christmas Eizzil,251000,false
+Christmas Eizzil,540000,false
 Tyrannian Faellie,265000,false
 Unifox,140000,false
-Christmas Barlow,170000,false
-Tyrannian Gypmu,119000,false
+Christmas Barlow,237000,false
+Tyrannian Gypmu,118000,false
 Christmas Whinny,Inflation Notice,false
-Snow Gypmu,128000,false
-Christmas Trunkard,280000,false
+Snow Gypmu,153000,false
+Christmas Trunkard,450000,false
 Christmas Bubblebee,200000,false
 Fleurbik,285000,false
-Snow Wherfy,81000,false
-Tyrannian Ganuthor,74500,false
-Christmas Gruslen,104000,false
+Snow Wherfy,70000,false
+Tyrannian Ganuthor,75000,false
+Christmas Gruslen,111000,false
 Doglefox,94500,false
-Christmas Puppyblew,199000,false
+Christmas Puppyblew,197000,false
 Christmas Wain,Inflation Notice,false
 Blue Fir,99500,false
 Christmas Chumablah,375000,false
-Eventide Pandaphant,95000,false
+Eventide Pandaphant,120000,false
 Spotted Hopso,109000,false
-Avabot,96500,false
-Cloud Snowbunny,52000,false
-Pink Symol,105000,false
+Avabot,83000,false
+Cloud Snowbunny,50000,false
+Pink Symol,93000,false
 Christmas Noil,275000,false
 Christmas Nuranna,Inflation Notice,false
-Clay Warf,208000,false
+Clay Warf,227000,false
 Purple Bloopy,28800,false
-Airborne Minitheus,70000,false
+Airborne Minitheus,69000,false
 Noilkeet,70000,false
 Purple Warf,11500,false
-Christmas Mazzew,315000,false
+Christmas Mazzew,240000,false
 Christmas Snorkle,Inflation Notice,false
 Christmas Angelpuss,Inflation Notice,false
 Snow Muyang,83000,false
-Robot Bython,129000,false
-Tyrannian Rashpid,36500,false
-Clay Angelpuss,230000,false
+Robot Bython,126000,false
+Tyrannian Rashpid,35000,false
+Clay Angelpuss,300000,false
 Clay Meturf,150000,false
-Purple Gobbler,40000,false
+Purple Gobbler,40900,false
 Purple Momba,54000,false
 Purple Snoogy,49700,false
-Striped Usul Toy-On-A-String,84500,false
+Striped Usul Toy-On-A-String,87500,false
 Glowing Stego,Inflation Notice,false
-Christmas Warf,174000,false
-Purple Beekadoodle,68000,false
-Purple Mimbi,9000,false
+Christmas Warf,211000,false
+Purple Beekadoodle,85000,false
+Purple Mimbi,7400,false
 Christmas Taweret,120000,false
 Christmas Scado,Inflation Notice,false
 Spyrabor,91000,false
-Tyrannian Snarhook,43000,false
-Tyrannian Kimbi,53500,false
+Tyrannian Snarhook,25300,false
+Tyrannian Kimbi,39000,false
 Royal Farnswap,Inflation Notice,false
 Spring Ona,250000,false
 Tyrannian Gobbler,41500,false
-Plushie Abominable Snowball,90000,false
+Plushie Abominable Snowball,91500,false
 Purple Dragoyle,57000,false
 Tyrannian Ettaphant,46400,false
-Tyrannian Gabar,76500,false
-Purple Gikerot,20000,false
+Tyrannian Gabar,63000,false
+Purple Gikerot,5250,false
 Purple Icklesaur,10600,false
 Aboogala Petpet Bed,54000,false
 Krikket,69000,false
 Snow Pawkeet,100000,false
-Christmas Anubis,84500,false
+Christmas Anubis,85000,false
 Christmas Uniocto,Inflation Notice,false
-Purple Bloop,19500,false
-Tyrannian Hasee,24800,false
+Purple Bloop,30000,false
+Tyrannian Hasee,25000,false
 Tyrannian Plathydon,66000,false
 Christmas Peo,300000,false
-Purple Lellefisk,71000,false
-Robot Abominable Snowball,80000,false
-Palmplat,58500,false
+Purple Lellefisk,69000,false
+Robot Abominable Snowball,73000,false
+Palmplat,70000,false
 Purple Meekins,24600,false
 Purple Skelly,24300,false
 Christmas Pikis,201000,false
-Tyrannian Werhond,75000,false
+Tyrannian Werhond,68500,false
 Purple Dofrey,29400,false
 Snow Naleap,84500,false
 Tyrannian Marlock,34000,false
 Tyrannian Snorkle,33500,false
-Tyrannian Dandan,66500,false
+Tyrannian Dandan,65500,false
 Blooky,65000,false
 Purple Kepru,31500,false
 Snow Hopso,60500,false
-Swabby,48000,false
-Purple Noil,30800,false
+Swabby,49500,false
+Purple Noil,29000,false
 Piraket,69000,false
 Clay Snorkle,275000,false
-Purple Horus,20000,false
-Snow Uniocto,61500,false
+Purple Horus,24500,false
+Snow Uniocto,65000,false
 Snow Turtum,76000,false
 Christmas Harris,90000,false
 Krawkadon,96000,false
 Purple Buzzer,17500,false
 Purple Cirrus,26500,false
-Purple Xepru,10100,false
-Tyrannian Seti,52000,false
+Purple Xepru,9000,false
+Tyrannian Seti,33000,false
 Purple Lyins,34500,false
 Purple Miamouse,20800,false
 Tyrannian Bikiwan,53500,false
-Tyrannian Delfin,36000,false
+Tyrannian Delfin,26000,false
 Snow Skelly,73000,false
-Tyrannian Blurtle,48700,false
-Tyrannian Snoogy,57000,false
+Tyrannian Blurtle,53500,false
+Tyrannian Snoogy,60500,false
 Snicklebeast,29500,false
 Snow Aroota,49400,false
 Kiiyak,49300,false
 Tyrannian Narwhool,20000,false
-Stahkee,48000,false
+Stahkee,50000,false
 Christmas Horus,94000,false
 Snow Hasee,51500,false
-Tyrannian Tuceet,42500,false
+Tyrannian Tuceet,42000,false
 Tyrannian Intesteen,34000,false
-Tyrannian Tigermouse,34000,false
-Purple Turtum,47700,false
+Tyrannian Tigermouse,149000,false
+Purple Turtum,51000,false
 Snow Sproing,49600,false
-Tyrannian Apis,91000,false
-Snow Albat,62500,false
-Barlow,61500,false
+Tyrannian Apis,55000,false
+Snow Albat,58500,false
+Barlow,58500,false
 Blurgah,77000,false
-Christmas Rock,25000,false
+Christmas Rock,25300,false
 Plathydon,42100,false
 Snow Ghostkerchief,50000,false
-Winged Kookith,70500,false
+Winged Kookith,73500,false
 Snow Scado,50000,false
 Snow Sklyde,51000,false
-Snow Tyrowbee,75500,false
+Snow Tyrowbee,94000,false
 Triffin,49300,false
 Pawkeet,44000,false
 Green Tentacle,Inflation Notice,false
 Snow Babaa,58000,false
-Tyrannian Slorg,10000,false
-Gypmu,70000,false
-Tyrannian Polarchuck,30000,false
+Tyrannian Slorg,19000,false
+Gypmu,75000,false
+Tyrannian Polarchuck,27200,false
 Snow Drugal,50000,false
 Christmas Spyder,50000,false
 Purple Blorpulous,20000,false
 Purple Tasu,21000,false
-Snow Splyke,56000,false
-Snow Chumablah,53000,false
+Snow Splyke,80000,false
+Snow Chumablah,56000,false
 Purple Charnie,41400,false
 Octorna,67000,false
 Purple Noak,9000,false
-Snow Arkmite,39900,false
-Desert Lyins,44500,false
-Purple Meturf,30000,false
-Snow Wuzzle,50500,false
+Snow Arkmite,37100,false
+Desert Lyins,46000,false
+Purple Meturf,25500,false
+Snow Wuzzle,53000,false
 Snow Gangee,53500,false
 Snow Seti,75500,false
 Tyrannian Nuranna,63500,false
-Christmas Snowbunny,25000,false
-Hegelob,41500,false
-Snow Gruslen,44100,false
-Snow Raindorf,67000,false
-Purple Spardel,26100,false
-Snow Yullie,59500,false
-Tyrannian Bloop,46000,false
+Christmas Snowbunny,25500,false
+Hegelob,40000,false
+Snow Gruslen,45000,false
+Snow Raindorf,63000,false
+Purple Spardel,28900,false
+Snow Yullie,66500,false
+Tyrannian Bloop,12200,false
 Purple Searex,10600,false
-Purple Carmariller,18800,false
-Purple Snorkle,30700,false
-Tyrannian Crabula,66000,false
+Purple Carmariller,17800,false
+Purple Snorkle,30800,false
+Tyrannian Crabula,32000,false
 Tyrannian Felly,35000,false
-Tyrannian Spardel,19500,false
+Tyrannian Spardel,18400,false
 Purple Slogmok,40000,false
-Snow Crabula,42200,false
+Snow Crabula,46400,false
 Snow Symol,38700,false
 Purple Eizzil,25000,false
-Snow Baby Fireball,38000,false
-Snow Noil,44000,false
+Snow Baby Fireball,39000,false
+Snow Noil,45000,false
 Christmas Fir,29500,false
-King Roo Baby Blu,36000,false
-Mauket,63000,false
-Spring Babaa,40000,false
+King Roo Baby Blu,27500,false
+Mauket,45000,false
+Spring Babaa,80000,false
 Purple Gruslen,18000,false
 Snow Mazzew,44000,false
-Tyrannian Nuk,63000,false
-Tyrannian Harris,28000,false
+Tyrannian Nuk,64500,false
+Tyrannian Harris,25300,false
 Snow Snorkle,45900,false
-Snow Niptor,71000,false
-Tyrannian Dartail,22400,false
-Glowing Wadjet,51500,false
+Snow Niptor,225000,false
+Tyrannian Dartail,10000,false
+Glowing Wadjet,54500,false
 Beekadoodle,45000,false
 Snow Marlock,77500,false
 Snow Puppyblew,49400,false
-Snow Warf,42400,false
+Snow Warf,56000,false
 Ganuthor,48900,false
 Christmas Mallard,45000,false
-Snow Snuffly,40000,false
+Snow Snuffly,39200,false
 Purple Doglefox,10000,false
-Tyrannian Doglefox,22800,false
+Tyrannian Doglefox,17500,false
 Christmas Snarhook,93000,false
-Tyrannian Puppyblew,53000,false
+Tyrannian Puppyblew,60000,false
 Snow Wadjet,63500,false
 Purple Stego,8000,false
-Snow Fangy,36800,false
-Snow Fir,41000,false
+Snow Fangy,38500,false
+Snow Fir,41500,false
 Bleamix,35000,false
 Seece,60000,false
-Mechanized Laboratory Assistant,25900,false
+Mechanized Laboratory Assistant,30000,false
 Purple Ramosan,33000,false
-Tyrannian Garooda,25500,false
-Tyrannian Horus,39500,false
+Tyrannian Garooda,11900,false
+Tyrannian Horus,33700,false
 Purple Sludgy,20000,false
 Tyrannian Fir,22000,false
-Puppyblew,27400,false
+Puppyblew,30000,false
 Wheelie Bot,29300,false
-Purple Uniocto,11300,false
+Purple Uniocto,19500,false
 Clay Buzzer,200000,false
 Snow Uggatrip,35000,false
 Christmas Poppit,71000,false
-Tyrannian Carma,19500,false
-Purple Tenna,21800,false
+Tyrannian Carma,18000,false
+Purple Tenna,20000,false
 Purple Baby Blu,9000,false
 Tyrannian Uniocto,25000,false
 Tyrannian Mallard,19500,false
 Urgoni,48300,false
-Tyrannian Spyder,18000,false
-Snow Deaver,45500,false
+Tyrannian Spyder,16800,false
+Snow Deaver,49000,false
 Hydruplit,25300,false
-Whinny,15000,false
+Whinny,9500,false
 Christmas Buzzer,50000,false
-Gingerbread Dandan,15300,false
-Snow Magaral,38500,false
-Tyrannian Alkenore,26000,false
+Gingerbread Dandan,12000,false
+Snow Magaral,47400,false
+Tyrannian Alkenore,24200,false
 Kateil,30000,false
 Tyrannian Miamouse,25300,false
 Tyrannian Noil,31000,false
-Tyrannian Tenna,18000,false
+Tyrannian Tenna,23500,false
 Tyrannian Petoot,25300,false
-Blibble,28800,false
+Blibble,29500,false
 Screal,35000,false
-Snow Cobrall,30000,false
+Snow Cobrall,34500,false
 Spring Uniocto,70000,false
 Snow Angelpuss,39700,false
 Pirakeet,28000,false
-Tyrannian Symol,14800,false
+Tyrannian Symol,12000,false
 Snow Sludgy,39800,false
 Zombie Farnswap,26000,false
-Disco Rotawheel,29500,false
+Disco Rotawheel,18000,false
 Flishy,34100,false
 Dandan,24700,false
-Gabar,31200,false
-Graglop,27500,false
+Gabar,31500,false
+Graglop,26800,false
 Purple Symol,8500,false
-Tyrannian Babaa,11900,false
+Tyrannian Babaa,11000,false
 Acko,23900,false
-Tyrannian Snuffly,14000,false
-Flowper,28900,false
+Tyrannian Snuffly,10000,false
+Flowper,25900,false
 Purple Cobrall,15900,false
 Bython,1150,false
 Magtile,25000,false
-Werhond,24200,false
-Christmas Frowny,15000,false
+Werhond,20800,false
+Christmas Frowny,14500,false
 Clawed Petpet Bath,21500,false
 Muyang,20000,false
 Yellow Abominable Snowball,25000,false
-Yackito,40600,false
-Tyrannian Warf,31000,false
+Yackito,42200,false
+Tyrannian Warf,23800,false
 Tyrannian Anubis,13300,false
-Tyrannian Bearog,10000,false
-Ponka,19500,false
-Electric Dragoyle,43800,false
+Tyrannian Bearog,14000,false
+Ponka,18000,false
+Electric Dragoyle,28000,false
 Goople,25500,false
 Mirgle,22700,false
 Wherfy,18000,false
 Batterfly,23000,false
-Dragoyle,20300,false
+Dragoyle,18000,false
 Lellefisk,19500,false
 Trunkard,22000,false
 Tyrannian Angelpuss,11000,false
 Moink,19000,false
-Purple Babaa,8650,false
-Snow Spyder,25000,false
-Tyrannian Buzzer,24400,false
+Purple Babaa,8000,false
+Snow Spyder,27800,false
+Tyrannian Buzzer,24000,false
 Purple Slorg,9000,false
 Bloopy,2950,false
 Nuk,16500,false
 Crystacat,18900,false
-Manjeer,23000,false
-Purple Harris,16300,false
+Manjeer,15500,false
+Purple Harris,18000,false
 Robot Turmac,10000,false
-Tekkal,18900,false
-Spyven,18000,false
+Tekkal,17000,false
+Spyven,17500,false
 Momba,17000,false
 Juma,16500,false
-Stopngo 400,9650,false
+Stopngo 400,12000,false
 Sauropod,15900,false
 Apis,16900,false
 Dofrey,9200,false
-Grackle Bug,19800,false
+Grackle Bug,19500,false
 Seti,17000,false
 Snoogy,19000,false
-Gratlik,15500,false
-Rainbow Petpet Bath Tub,18000,false
+Gratlik,16500,false
+Rainbow Petpet Bath Tub,18800,false
 Eelika,11700,false
-Antwerph,12500,false
+Antwerph,13500,false
 Purple Abominable Snowball,10000,false
 Gobbler,24500,false
 Gwalla,15000,false
-Hoggir,14000,false
-Starry Symol Bath Tub,16700,false
+Hoggir,13400,false
+Starry Symol Bath Tub,14600,false
 Cheerlub,13700,false
-Wooden Petpet Crate,3975,false
+Wooden Petpet Crate,3800,false
 Vaeolus,14900,false
 Flerper,13900,false
 Bagatelle Petpet Bowl,7000,false
-Snow Buzzer,15000,false
+Snow Buzzer,15800,false
 Froiler,14000,false
 Aboogala Water Bottle,4125,false
 Ultra Pinceron,12900,false
-Hoovle,14000,false
-Wain,12000,false
+Hoovle,13300,false
+Wain,12500,false
 Fleeper,12000,false
 Bazatlan,12200,false
-Sunutek,12500,false
-Sutekh,13100,false
+Sunutek,11500,false
+Sutekh,13300,false
 Taweret,12000,false
-Turtum,11900,false
+Turtum,11500,false
 Vacana,14000,false
 Yellow Pirakeet,11000,false
-Water Turtum,9500,false
+Water Turtum,9750,false
 Razumi,12000,false
 Toy Hammock,10500,false
-Blue Pirakeet,11000,false
-Cuttlebot,10000,false
+Blue Pirakeet,10900,false
+Cuttlebot,9850,false
 Drugal,14900,false
-Bikiwan,15400,false
+Bikiwan,15000,false
 Filamen,11000,false
-Blugar,10700,false
-Huggy,9150,false
-Deluxe Blue Tower,8250,false
+Blugar,10300,false
+Huggy,9300,false
+Deluxe Blue Tower,6700,false
 Blurtle,13000,false
-Charnie,9000,false
-Epuni,10000,false
-Gumblesh,11800,false
+Charnie,9900,false
+Epuni,7150,false
+Gumblesh,12600,false
 Naleap,9400,false
 Phnard,11000,false
-Powtry,9600,false
-Primella,9900,false
-Snowager Petpet Bed,15000,false
+Powtry,9550,false
+Primella,9950,false
+Snowager Petpet Bed,17000,false
 Wibreth,11500,false
 Scarabug Petpet Tree,10000,false
-Aboogala Petpet Cushion,9700,false
+Aboogala Petpet Cushion,9450,false
 Florta,14500,false
 Slugawoo,8100,false
-Green Pirakeet,10400,false
-Slogmok,11900,false
-Red Pirakeet,11000,false
+Green Pirakeet,11000,false
+Slogmok,12500,false
+Red Pirakeet,10000,false
 Tuceet,9650,false
 Gangee,10000,false
-Hopso,15000,false
+Hopso,13700,false
 Island Rotawheel,13000,false
-Coconut Petpet Bath Tub,6800,false
-Disco Petpet Bath Tub,8750,false
+Coconut Petpet Bath Tub,6600,false
+Disco Petpet Bath Tub,9000,false
 Garfir,8400,false
 Hippalop,8500,false
 Ettaphant,9500,false
 Noil,9200,false
 Uniocto,1350,false
-Spallard,9750,false
-Caprior,8600,false
+Spallard,9250,false
+Caprior,8500,false
 Chomper,6350,false
 Disco Petpet Bed,5200,false
-Khamette,8700,false
-Navibot,5850,false
-Wreathy,8000,false
-Tanizard,4975,false
+Khamette,8600,false
+Navibot,6300,false
+Wreathy,6950,false
+Tanizard,6950,false
 Hornsby,10000,false
-Schmoonie,7800,false
+Schmoonie,7850,false
 Drackonack,5450,false
-Mozito Petpet Bed,8350,false
+Mozito Petpet Bed,8950,false
 Rotawheel,5850,false
 Bika,6000,false
 Felly,7350,false
-Bloop,8000,false
+Bloop,7900,false
 Melton,8000,false
-Marlock,7500,false
+Marlock,5600,false
 Pinceron,6000,false
 Sandpoint,7100,false
-Crabula,7500,false
-Crokabek,7900,false
+Crabula,7350,false
+Crokabek,7150,false
 Djuti,7000,false
 Neucloop,5950,false
-Purple Vaeolus,5400,false
+Purple Vaeolus,7000,false
 Soreen,6750,false
 Bubblebee,7000,false
 Kepru,6200,false
-Marbluk,7100,false
+Marbluk,7900,false
 Deluxe Canopy Petpet Bed,6250,false
 Tigermouse,6500,false
-Millipod,5050,false
+Millipod,5500,false
 Eizzil,5250,false
 Squeaky Meepit Toy,6000,false
-Whoot,6050,false
+Whoot,5950,false
 Darpinch,9000,false
 GX-4 Haseebot,4750,false
 Jowlard,6150,false
 Peo,5600,false
 Spooky Petpet Bath Tub,5500,false
 Flipperbot,3925,false
-Wicker Petpet Bath Tub,6000,false
-Aboogala Food Bowl,4650,false
+Wicker Petpet Bath Tub,5950,false
+Aboogala Food Bowl,4225,false
 Jawshell,5700,false
-Spring Magaral,10000,false
+Spring Magaral,13000,false
 Veespa Petpet Scratching Post,4950,false
 Golden Oscillabot,7650,false
 Popblew,8000,false
 Zytch Petpet Tunnel,6000,false
-Anubis,5450,false
+Anubis,5000,false
 Bubblisaur,5700,false
 Deluxe Red Treehouse,5450,false
-Kimbi,7450,false
-Cloud Litter Tray,3300,false
-Veespa Petpet Bed,4875,false
-Meowclops Bed,4800,false
+Kimbi,6700,false
+Cloud Litter Tray,5350,false
+Veespa Petpet Bed,5250,false
+Meowclops Bed,5000,false
 Pepito,4850,false
-Albat,4750,false
+Albat,3950,false
 Buzzler,4500,false
-Horus,5450,false
+Horus,5000,false
 Red Slorg,4900,false
 Scarabug Scratching Post,5200,false
 Spardel,5800,false
-Turtmid,3900,false
+Turtmid,2850,false
 Yellow Tube Toy,5100,false
 Calabat,5250,false
 Rainbow Petpet Food,3175,false
-Blue Spardel Tent,3200,false
-Bowla,5200,false
-Breebly Petpet Bed,4750,false
+Blue Spardel Tent,5500,false
+Bowla,5100,false
+Breebly Petpet Bed,4675,false
 Dribblet,5000,false
-Indestructible Petpet Ball,5300,false
+Indestructible Petpet Ball,5200,false
 Cloud Weewoo,30000,false
 Orp,4000,false
 Pfish,4000,false
@@ -1798,32 +1798,32 @@ Yullie,4000,false
 Pink Domed Petpet Bed,4200,false
 Zomutt Scratching Post,5200,false
 Cubett,4500,false
-Frillabon,4975,false
+Frillabon,4775,false
 Zomutt Petpet Tunnel,5800,false
 Veespa Petpetnip Toy,2975,false
 Haseepuss,8000,false
-Alabriss,4000,false
+Alabriss,4800,false
 Harris,5000,false
 Morkou,5000,false
-Slorg,4875,false
+Slorg,5200,false
 Scout Unit,4750,false
-Yellow Domed Petpet Bed,3300,false
+Yellow Domed Petpet Bed,4225,false
 Christmas Cofferling,2650,false
 Skree,7500,false
 Regal Litter Tray,2550,false
 Tasu,3650,false
 Aroota,5050,false
-Larnikin Petpet Bed,8000,false
+Larnikin Petpet Bed,5050,false
 Springabee Chew Toy,3350,false
-Scarabug Feeding Bowl,4300,false
-Mootix Petpet Bed,3700,false
+Scarabug Feeding Bowl,5400,false
+Mootix Petpet Bed,3100,false
 Snow Talpidat,3000,false
-Cirrus,3950,false
+Cirrus,4875,false
 Green Starry Food Bowl,4450,false
-Intesteen,4600,false
+Intesteen,5000,false
 Lyins,4400,false
 Ombat,3600,false
-Quadrone,1875,false
+Quadrone,1950,false
 Roaderie 1000,4000,false
 Turnali,4500,false
 Electric Litter Tray,5000,false
@@ -1834,109 +1834,109 @@ Disco Scratching Post,4450,false
 Navibot Water Bowl,2950,false
 Daloop,5000,false
 Chew Rope,2850,false
-Flightning Bug,900,false
+Flightning Bug,2750,false
 Hooklen,3500,false
 Wuzzer,3500,false
 Sturdy Petpet Cage,3125,false
-Petpet Ball,3250,false
+Petpet Ball,3175,false
 Taigar,4000,false
 Grobrin,3000,false
 Tyrannian Pawkeet,4400,false
-Blorpulous,2150,false
+Blorpulous,1500,false
 Neonip Garden,1700,false
-Puzzle Treat Ball,3225,false
+Puzzle Treat Ball,3025,false
 Uggazew,1600,false
 Warf,3100,false
 Blobagus,2875,false
 Snuffly Blanket,3000,false
 Chumablah,3225,false
-Disco Play Tent,2000,false
-Snorkle Food Bowl,4925,false
-Alkenore,1625,false
+Disco Play Tent,4450,false
+Snorkle Food Bowl,4950,false
+Alkenore,420,false
 Altalaphus,3000,false
-Chatter,1500,false
-Disco Petpet Bowl,2425,false
-Gnar,3500,false
+Chatter,3000,false
+Disco Petpet Bowl,2450,false
+Gnar,3300,false
 Royal Wadjet,2500,false
 Ona Water Bottle,1000,false
-Kookith Petpet Bed,3725,false
+Kookith Petpet Bed,3800,false
 Rainbow Slorg Squeaky Toy,2000,false
-Warf Food Bowl,2900,false
-Toy Basket,2875,false
+Warf Food Bowl,3525,false
+Toy Basket,9300,false
 Cougi,2950,false
 Nuranna,1750,false
 Valteek,3300,false
 Mastyxi,3000,false
-Fuzzy Bone Rug,2300,false
-Green Tiered Scratching Post,2725,false
-Hot Dog Petpet House,5750,false
-Ownow,2900,false
-Psimouse,2000,false
+Fuzzy Bone Rug,2100,false
+Green Tiered Scratching Post,1750,false
+Hot Dog Petpet House,5550,false
+Ownow,2450,false
+Psimouse,1850,false
 Snorkle,5900,false
 Teek,2300,false
-Rubber Yooyuball,17900,false
-Blue Feather Toy,2550,false
-Disco Tasu,1850,false
+Rubber Yooyuball,5600,false
+Blue Feather Toy,2750,false
+Disco Tasu,1875,false
 Snuffly Petpet Bed,3475,false
 Delfin,9000,false
 Hermiteese,2500,false
-Jinjah,1600,false
-Mummy Baby,1500,false
+Jinjah,1650,false
+Mummy Baby,1775,false
 Polarchuck,2400,false
 Quintilc,3000,false
-Rainbow Abominable Snowball,1500,false
-Tralbak,2500,false
+Rainbow Abominable Snowball,1300,false
+Tralbak,2175,false
 Vacation Food Dish,1800,false
 Veespa Petpet Bowl,2500,false
-Wheelie,2400,false
-Zomutt Food Bowl,4000,false
-Glowing Petpet Bath Tub,4400,false
+Wheelie,2750,false
+Zomutt Food Bowl,3950,false
+Glowing Petpet Bath Tub,3550,false
 Spotted Play Tent,2550,false
 Symol Water Bowl,2000,false
 Zytch Scratching Post,2250,false
-Pink Ona Grooming Kit,1950,false
-Triffin Food Bowl,2425,false
-Snuffly Petpet Bowl,1400,false
+Pink Ona Grooming Kit,1575,false
+Triffin Food Bowl,2150,false
+Snuffly Petpet Bowl,2250,false
 Food and Water Bowl Mat,2000,false
 Ona Activity Center,1350,false
 Narwhool,950,false
-Meturf,2300,false
+Meturf,2500,false
 Rav,4000,false
 Snuffly Wind Up Toy,2750,false
 Gold Frogarott,1325,false
-Meekins,3175,false
-Petpet Pipe Maze,1800,false
-Baby Fireball,2400,false
-Felf,2000,false
+Meekins,2900,false
+Petpet Pipe Maze,1825,false
+Baby Fireball,1600,false
+Felf,1750,false
 Garooda,3750,false
 Green Petpet Sleeping Bag,2200,false
-Invisible Miamouse,4900,false
-Karren,2000,false
+Invisible Miamouse,4950,false
+Karren,1675,false
 Krawk Petpet Bed,2100,false
 Robocrush,1450,false
-Rock Water Dish,2250,false
+Rock Water Dish,2675,false
 Tiny Giant Squid,2000,false
 Christmas Crystacat,2000,false
 Lizark,2000,false
-Hasee,1100,false
-Peadackle,1800,false
-Cardboard Scratching Board,1650,false
+Hasee,1250,false
+Peadackle,1500,false
+Cardboard Scratching Board,3400,false
 Pink Petpet Flying Disc,1850,false
-Cedar Filled Petpet Bed,3400,false
+Cedar Filled Petpet Bed,3200,false
 Splyke,1675,false
-Christmas Pile of Soot,2000,false
+Christmas Pile of Soot,1975,false
 Scratching Driftwood,680,false
-Snow Feepit,3000,false
-Ghost Tyrowbee,1675,false
+Snow Feepit,3350,false
+Ghost Tyrowbee,1575,false
 Orange Fungus Petpet Ball,1200,false
 Ramosan,1900,false
 Khnum,1575,false
 Red Tencals,2025,false
-Slymook,1950,false
+Slymook,2000,false
 Spoppy,1900,false
 Brown Petpet Bed,5000,false
-Kelpflake,1650,false
-Selket,1600,false
+Kelpflake,1600,false
+Selket,1675,false
 Tomamu,2000,false
 Kadoatie Teaser,2000,false
 Multi-level Scratching Post,2350,false
@@ -1948,100 +1948,100 @@ Ettaphant Feeding Station,250,false
 Tyrowbee,1100,false
 Kookith Push-Around,1400,false
 Feepit,800,false
-Water Smiley,3500,false
-Cobrall,1500,false
+Water Smiley,2900,false
+Cobrall,1375,false
 Beat the Blues Bathrobe,2000,false
 Heated Rock,1300,false
 Sludgy,1500,false
 Boween,1200,false
 Cofferling,750,false
 Green Petpet Bed,3800,false
-Purple Ona Water Bowl,670,false
+Purple Ona Water Bowl,750,false
 Sproing,1500,false
 Blechy Squeeze Toy,1200,false
 Lady Blurg Chew Toy,1300,false
 Shocket,1950,false
 Basic Litter Tray,1150,false
-Brick Petpet Bath Tub,800,false
+Brick Petpet Bath Tub,1100,false
 Purple Petpet Ball,1350,false
 Skelly,1225,false
 Slorg Bath Tub,1300,false
 Striped Fuzzy Scratching Post,1250,false
-Buzzer,1000,false
+Buzzer,900,false
 Christmas Arkmite,1300,false
 Christmas Goy,1000,false
 Hot Dog Petpet Mat,1000,false
-Kazeriu,6,false
-Magaral,1450,false
+Kazeriu,4,false
+Magaral,1250,false
 Miamouse,1000,false
-Mutant Petpet Food,800,false
+Mutant Petpet Food,1000,false
 Pyon,1000,false
-Raindorf Petpet Bed,1000,false
-Slorg Feeder,750,false
-Snowy Holiday Tree for Petpets,260,false
-Snuffly,1200,false
-Teasqito,900,false
-Tenna,1000,false
+Raindorf Petpet Bed,1425,false
+Slorg Feeder,1000,false
+Snowy Holiday Tree for Petpets,950,false
+Snuffly,1025,false
+Teasqito,1650,false
+Tenna,980,false
 Urchull,780,false
 Devilpuss,950,false
 Mazzew,280,false
-Pikis,1000,false
+Pikis,620,false
 Hot Dog Water Bowl,1000,false
 Electric Petpet Condo,950,false
 Wadjet,1400,false
-Island Yullie,740,false
+Island Yullie,2000,false
 Petpetpet Travel Cage,950,false
-Christmas Bython,540,false
+Christmas Bython,500,false
 Kadoatie Food Storage,880,false
-Water Goldy,6000,false
+Water Goldy,8250,false
 Symol Exercise Ball,930,false
 Raindorf,140,false
 Snowickle Snacks,270,false
-Walking Carpet,1275,false
-Nedler,1000,false
-Gruslen,730,false
+Walking Carpet,1000,false
+Nedler,700,false
+Gruslen,400,false
 Scarabug Petpet Bed,7200,false
 Sketch Tasu,1050,false
 Rashpid,930,false
-Striped Tunnel Bed,1000,false
-Blue Abominable Snowball,700,false
+Striped Tunnel Bed,990,false
+Blue Abominable Snowball,230,false
 Blue Spotted Food Bowl,1000,false
 Carma,700,false
 Jelly Barlow,630,false
-Oop,700,false
-Wuzzle,480,false
-Floud,740,false
+Oop,780,false
+Wuzzle,350,false
+Floud,750,false
 Blue Spardel Bowl,650,false
 Mallard,780,false
 Glowing Melton,700,false
 Raindorf Feeding Bowl,1000,false
-Spyder,900,false
+Spyder,800,false
 Yellow and Pink Spotted Food Bowl,890,false
 Albat Food Bowl,530,false
-Fancy Bone Pillow,1000,false
-Petoot,540,false
-Angelpuss,560,false
+Fancy Bone Pillow,980,false
+Petoot,600,false
+Angelpuss,650,false
 Blue Scratching Home,1150,false
-Crocalu,530,false
+Crocalu,320,false
 Scarabug,880,false
 Bilguss,700,false
-Petpet Scratching Tree,320,false
-Glowing Baby Space Fungus,990,false
+Petpet Scratching Tree,750,false
+Glowing Baby Space Fungus,1500,false
 Rubber Mozito Bone,630,false
 Slorg Habitat,380,false
 Farnswap,500,false
-Eventide Felly,300,false
-Regal Purple Petpet Cushion,310,false
+Eventide Felly,890,false
+Regal Purple Petpet Cushion,850,false
 Ghostkerchief,990,false
-Snarhook,180,false
+Snarhook,230,false
 Yullie Water Bottle,190,false
-Zomutt Fluffy Ball,290,false
+Zomutt Fluffy Ball,700,false
 Grumblebug Water Bowl,500,false
 Hot Dog Squeaky Toy,630,false
-Bearog,490,false
-Cybit,400,false
+Bearog,260,false
+Cybit,580,false
 Elderly Darpinch,230,false
-Squeaky Larnikin Toy,380,false
+Squeaky Larnikin Toy,350,false
 Hopso Igloo,270,false
 Ettaphant Bouncy Ball,430,false
 Mortog Water Bowl,500,false
@@ -2049,120 +2049,120 @@ Springy Lady Blurg Toy,440,false
 Flying Moquot Toy,330,false
 Lil Frankie,490,false
 Turmac Bouncy Ball,400,false
-Toy Tie Collar,1000,false
-Ghost Walein,550,false
+Toy Tie Collar,500,false
+Ghost Walein,460,false
 Rainblug Chew Toy,190,false
-White Walein,170,false
-Fire Sharky,120,false
+White Walein,85,false
+Fire Sharky,1400,false
 White Mallard,400,false
-Deaver,300,false
-Springy Mootix Toy,210,false
+Deaver,480,false
+Springy Mootix Toy,500,false
 Petpet Bassinet,160,false
 Springy Veespa Toy,600,false
-Gingerbread Dandan Chew Toy,580,false
+Gingerbread Dandan Chew Toy,650,false
 Symol Bouncy Ball,300,false
 Abominable Snowball,300,false
-Checkered Cadro,460,false
+Checkered Cadro,450,false
 Disco Squeaky Petpet Toy,320,false
 Niptor,95,false
-Quadrapus,300,false
+Quadrapus,450,false
 Raindorf Scratching Rug,780,false
 Wintery Petpet Bed,75,false
-Val,600,false
+Val,380,false
 Fir,85,false
 Apple Spyder,180,false
 Blue Walein,360,false
 Symol Sleeping Bag,320,false
-Yellow Bython,16,false
+Yellow Bython,1,false
 Chuchuana,35,false
 Disco Petpet Food,390,false
 Ettaphant Petpet Bed,100,false
 Melvie,120,false
 Woodland Snicklebeast,800,false
-Green Walein,200,false
-Feepit Petpet Bath Bucket,350,false
+Green Walein,100,false
+Feepit Petpet Bath Bucket,320,false
 Sandan,50,false
 Squeaky Moach Toy,500,false
 Woodland Yoakie,80,false
 Ettaphant Petpet Tunnel,200,false
-Baby Space Fungus,130,false
-Fangy,110,false
-Reptillior,100,false
-White Ona,14,false
+Baby Space Fungus,35,false
+Fangy,70,false
+Reptillior,90,false
+White Ona,45,false
 White Petpet Bath Tub,200,false
 Wind Up Zytch,130,false
 Frozen Raindorf,200,false
-Snowbunny Mittens,75,false
+Snowbunny Mittens,500,false
 Clay Bika,100,false
-Starry Baby Space Fungus,500,false
+Starry Baby Space Fungus,65,false
 Petpet Sled,45,false
-Sparky,140,false
+Sparky,50,false
 Bluna,65,false
-Custard Aroota,75,false
+Custard Aroota,45,false
 Babaa,10,false
-Baby Blu,6,false
-Carmariller,65,false
-Christmas Doglefox,3,false
+Baby Blu,25,false
+Carmariller,75,false
+Christmas Doglefox,4,false
 Duocorn,20,false
-Greeble,50,false
+Greeble,40,false
 Leeble,40,false
-Poppit,75,false
-Barbat,15,false
-Catamara,95,false
+Poppit,50,false
+Barbat,18,false
+Catamara,50,false
 Wind Up Cooty,100,false
 Dartail,25,false
 Stego,15,false
 Uggatrip,10,false
-Airax,12,false
-Searex,25,false
-Snow Petpet Food,35,false
-Fire Werhond,2,false
-Nebularis,15,false
-Sand Candy Vampire,10,false
-Cyodrake Scratching Post,1000,false
-Tyrannian Gulper,50,false
-Arkmite,7,false
-Sklyde,7,false
-Snow Slorg,2,false
+Airax,20,false
+Searex,35,false
+Snow Petpet Food,40,false
+Fire Werhond,45,false
+Nebularis,55,false
+Sand Candy Vampire,5,false
+Cyodrake Scratching Post,20,false
+Tyrannian Gulper,19,false
+Arkmite,5,false
+Sklyde,900,false
+Snow Slorg,3,false
 Pirate Altachuck,7,false
 Icklesaur,50,false
-Sand Bogie,7,false
-Sand Orp,10,false
-Ghoti,13,false
-Globilol,2,false
-Tapira,3,false
-Ukali,3,false
-Xepru,14,false
-Biyako,5,false
-Donksaur,15,false
+Sand Bogie,5,false
+Sand Orp,8,false
+Ghoti,25,false
+Globilol,5,false
+Tapira,9,false
+Ukali,15,false
+Xepru,3,false
+Biyako,4,false
+Donksaur,5,false
 GX-4 Oscillabot,1000,false
-Mibblie,1,false
+Mibblie,7,false
 Altachuck,2,false
 Quetzal,4,false
 Scado,14,false
 Symol,45,false
-Lurman,1,false
-Sand Chomper,10,false
-Sand Jawshell,35,false
+Lurman,6,false
+Sand Chomper,6,false
+Sand Jawshell,1,false
 Tyrannian Blibble,230,false
-Ghost Goople,80,false
-Roburg 3T3,3,false
+Ghost Goople,4,false
+Roburg 3T3,4,false
 Yoakie,4,false
 Fire Dofrey,70,false
-Gikerot,2,false
-N-4 Info Retrieval Bot,4,false
-Plushie Tanizard,2,false
-Royal Scarabug,9,false
-Snow Anubis,7,false
+Gikerot,1,false
+N-4 Info Retrieval Bot,5,false
+Plushie Tanizard,1,false
+Royal Scarabug,2,false
+Snow Anubis,1,false
 Splime,1,false
-Tencals,6,false
+Tencals,4,false
 Walein,1,false
 Blue Moon Petpet Bed,1,false
 Griefer,1,false
 Nupie,4,false
-Camelior,1,false
+Camelior,65,false
 Kora,3,false
-Mimbi,2,false
+Mimbi,1,false
 Mouldy Petpet Bed,1,false
 Mundo,2,false
 Noak,3,false
@@ -2352,23 +2352,23 @@ Brown Snowbunny,995000,false
 Brown Zomutt,(r101),false
 Checkered Flosset,(r101),false
 Checkered Pandaphant,(r101),false
-Checkered Zebba,760000,false
+Checkered Zebba,775000,false
 Christmas Babith,(r101),false
 Christmas Feloreena,(r101),false
 Christmas Frogarott,(r180),false
-Christmas Icklesaur,(r101),false
+Christmas Icklesaur,370000,false
 Christmas Khonsu,(r101),false
 Christmas Minitheus,(r101),false
 Christmas Pandaphant,(r101),false
 Christmas Patamoose,(r101),false
-Christmas Splyke,350000,false
+Christmas Splyke,460000,false
 Christmas Zebie,(r101),false
 Christmas Zumagorn,(r101),false
 Clay Blobikins,560000,false
 Clay Flizzardo,(r180),false
 Cloud Babith,(r101),false
 Cloud Drackobunny,(r101),false
-Cloud Kadoatie,(r101),false
+Cloud Kadoatie,870000,false
 Cloud Khonsu,(r101),false
 Cloud Krawk,(r101),false
 Cloud Meowclops,1300000,false
@@ -2435,7 +2435,7 @@ Desert Psimouse,(r101),false
 Desert Pwerko,(r101),false
 Desert Sklyde,(r101),false
 Desert Slorg,(r101),false
-Desert Spyder,(r101),false
+Desert Spyder,999999,false
 Desert Tenna,(r101),false
 Desert Triffin,(r101),false
 Desert Turmac,(r101),false
@@ -2492,9 +2492,9 @@ Electric Krawk,(r101),false
 Electric Snorlkin,(r101),false
 Eventide Bartamus,(r101),false
 Eventide Carmariller,(r101),false
-Eventide Cobrall,(r101),false
+Eventide Cobrall,995000,false
 Eventide Dragoyle,(r101),false
-Eventide Ignalce,(r101),false
+Eventide Ignalce,995000,false
 Eventide Mauket,(r101),false
 Eventide Muyang,(r101),false
 Eventide Naleap,(r101),false
@@ -2681,7 +2681,7 @@ Ghost Snowbunny,(r180),false
 Ghost Snowickle,(r101),false
 Ghost Woolypapith,(r101),false
 Glowing Cadro,(r101),false
-Glowing Kadoatie,935000,false
+Glowing Kadoatie,910000,false
 Glowing Moltenore,(r101),false
 Glowing Rock,885000,false
 Glowing Zebie,(r101),false
@@ -2689,7 +2689,7 @@ Glowing Zumagorn,(r101),false
 Green Babith,(r101),false
 Green Barlow,(r101),false
 Green Bartamus,(r101),false
-Green Beekadoodle,(r101),false
+Green Beekadoodle,995000,false
 Green Boween,(r101),false
 Green Bowla,(r101),false
 Green Buzzler,(r101),false
@@ -2705,7 +2705,7 @@ Green Faellie,(r101),false
 Green Fangy,(r101),false
 Green Feepit,(r101),false
 Green Flosset,(r101),false
-Green Flowper,(r101),false
+Green Flowper,935000,false
 Green Frillabon,(r101),false
 Green Frowny,(r101),false
 Green Gathow,(r101),false
@@ -2713,7 +2713,7 @@ Green Geb,(r101),false
 Green Gobbler,(r101),false
 Green Goulblee,(r180),false
 Green Grackle Bug,995000,false
-Green Greeble,(r101),false
+Green Greeble,999999,false
 Green Gremble,(r180),false
 Green GX-4 Oscillabot,(r101),false
 Green Hippalop,(r101),false
@@ -2723,7 +2723,7 @@ Green Kazeriu,(r101),false
 Green Khonsu,(r101),false
 Green Lyins,(r101),false
 Green Marbluk,(r101),false
-Green Mastyxi,(r101),false
+Green Mastyxi,999999,false
 Green Meepit,(r101),false
 Green Moltenore,(r101),false
 Green N-4 Info Retrieval Bot,(r101),false
@@ -2731,7 +2731,7 @@ Green Niptor,(r101),false
 Green Nuk,(r101),false
 Green Pandaphant,(r101),false
 Green Peadackle,(r101),false
-Green Pikis,(r101),false
+Green Pikis,999999,false
 Green Pofew,(r101),false
 Green Pwerko,(r180),false
 Green Roburg 3T3,(r101),false
@@ -2818,7 +2818,7 @@ Grey Vacana,(r101),false
 Grey Vullard,(r101),false
 Grey Warf,(r101),false
 Grey Wherfy,(r101),false
-Grey Whinny,(r101),false
+Grey Whinny,3800000,false
 Grey Woolypapith,(r101),false
 Gulpfir,(r101),false
 Halloween Apis,(r101),false
@@ -2834,14 +2834,14 @@ Halloween Dofrey,(r101),false
 Halloween Eizzil,(r101),false
 Halloween Farnswap,(r101),false
 Halloween Felly,(r101),false
-Halloween Flizzardo,(r180),false
+Halloween Flizzardo,5000000,false
 Halloween Fungree,(r180),false
 Halloween Gallion,(r101),false
 Halloween Geb,(r101),false
 Halloween Greeble,(r101),false
 Halloween Gypmu,(r101),false
 Halloween Harris,2600000,false
-Halloween Hasee,48300,false
+Halloween Hasee,38900,false
 Halloween Hippalop,(r101),false
 Halloween Huggy,2000000,false
 Halloween Jinjah,(r101),false
@@ -2870,7 +2870,7 @@ Halloween Seti,(r101),false
 Halloween Slorg,(r101),false
 Halloween Snicklebeast,(r101),false
 Halloween Snorkle,(r101),false
-Halloween Snowbunny,(r180),false
+Halloween Snowbunny,2500000,false
 Halloween Splyke,(r101),false
 Halloween Swabby,(r101),false
 Halloween Symol,(r101),false
@@ -2966,7 +2966,7 @@ Magma Garooda,850000,false
 Magma Gwortz,(r101),false
 Maractite Babith,(r101),false
 Maractite Bartamus,(r101),false
-Maractite Blobikins,(r101),false
+Maractite Blobikins,995000,false
 Maractite Cyodrake,(r101),false
 Maractite Patamoose,(r101),false
 Maractite Quilin,(r101),false
@@ -3103,117 +3103,117 @@ Mutant Zomutt,(r101),false
 Orange Frowny,(r101),false
 Orange Gulper,(r180),false
 Orange Krawk,(r101),false
-Orange Mortog,(r101),false
+Orange Mortog,985000,false
 Orange Patamoose,(r101),false
-Orange Rock,20000,false
-Orange Snowickle,(r101),false
+Orange Rock,25000,false
+Orange Snowickle,815000,false
 Peedleedoo,(r101),false
 Pickulsaur,12000000,false
-Pink Acko,995000,false
+Pink Acko,935000,false
 Pink Airax,900000,false
-Pink Albat,970000,false
-Pink Alkenore,995000,false
+Pink Albat,900000,false
+Pink Alkenore,930000,false
 Pink Altachuck,900000,false
-Pink Baby Fireball,995000,false
+Pink Baby Fireball,900000,false
 Pink Barbat,900000,false
 Pink Bartamus,(r101),false
 Pink Bearog,840000,false
-Pink Beekadoodle,995000,false
-Pink Bika,945000,false
+Pink Beekadoodle,500000,false
+Pink Bika,880000,false
 Pink Bloop,850000,false
 Pink Blugar,900000,false
 Pink Bowla,900000,false
-Pink Buzzer,970000,false
+Pink Buzzer,900000,false
 Pink Cadro,(r101),false
 Pink Cheerlub,920000,false
 Pink Chuchuana,900000,false
 Pink Cobrall,900000,false
-Pink Crokabek,995000,false
-Pink Cuttlebot,995000,false
-Pink Cyodrake,(r180),false
+Pink Crokabek,900000,false
+Pink Cuttlebot,950000,false
+Pink Cyodrake,995000,false
 Pink Darpinch,900000,false
 Pink Dartail,900000,false
 Pink Delfin,955000,false
-Pink Doglefox,995000,false
+Pink Doglefox,905000,false
 Pink Donksaur,900000,false
 Pink Drackonack,900000,false
-Pink Dragoyle,995000,false
+Pink Dragoyle,920000,false
 Pink Droolik,995000,false
 Pink Drugal,900000,false
 Pink Dua,(r101),false
-Pink Ettaphant,995000,false
+Pink Ettaphant,900000,false
 Pink Faellie,995000,false
-Pink Fangy,995000,false
-Pink Feepit,995000,false
+Pink Fangy,950000,false
+Pink Feepit,900000,false
 Pink Gallion,995000,false
 Pink Garooda,900000,false
 Pink Geb,(r101),false
 Pink Ghostkerchief,920000,false
-Pink Gobbler,935000,false
+Pink Gobbler,835000,false
 Pink Gremble,(r180),false
 Pink Grobrin,700000,false
-Pink Gruslen,995000,false
+Pink Gruslen,750000,false
 Pink Gulper,(r180),false
 Pink Gwalla,920000,false
 Pink GX-4 Oscillabot,850000,false
 Pink Harris,999999,false
-Pink Hornsby,999999,false
+Pink Hornsby,950000,false
 Pink Intesteen,900000,false
-Pink Kadoatie,970000,false
-Pink Kimbi,900000,false
+Pink Kadoatie,800000,false
+Pink Kimbi,800000,false
 Pink Kookith,(r101),false
 Pink Krawk,(r101),false
-Pink Lutra,(r101),false
+Pink Lutra,1500000,false
 Pink Mallard,765000,false
 Pink Marbluk,900000,false
-Pink Mazzew,995000,false
+Pink Mazzew,900000,false
 Pink Meturf,900000,false
 Pink Miamouse,950000,false
 Pink Mirgle,810000,false
 Pink N-4 Info Retrieval Bot,925000,false
-Pink Navibot,995000,false
+Pink Navibot,900000,false
 Pink Niptor,900000,false
 Pink Noilkeet,970000,false
 Pink Pawkeet,970000,false
 Pink Peadackle,900000,false
-Pink Pfish,995000,false
-Pink Polarchuck,995000,false
+Pink Pfish,900000,false
+Pink Polarchuck,725000,false
 Pink Quadrapus,850000,false
 Pink Reptillior,900000,false
-Pink Rock,995000,false
+Pink Rock,950000,false
 Pink Scamander,(r101),false
-Pink Scarabug,995000,false
+Pink Scarabug,900000,false
 Pink Sklyde,900000,false
 Pink Sludgy,900000,false
-Pink Snoogy,995000,false
+Pink Snoogy,870000,false
 Pink Snorlkin,(r180),false
 Pink Snowickle,995000,false
-Pink Snuffly,995000,false
-Pink Spardel,995000,false
+Pink Snuffly,900000,false
+Pink Spardel,700000,false
 Pink Spyder,900000,false
-Pink Stopngo 400,995000,false
-Pink Swabby,995000,false
-Pink Tanizard,995000,false
-Pink Tasu,960000,false
+Pink Stopngo 400,920000,false
+Pink Swabby,950000,false
+Pink Tanizard,900000,false
+Pink Tasu,915000,false
 Pink Teemyte,(r101),false
 Pink Tekkal,920000,false
-Pink Tralbak,900000,false
+Pink Tralbak,800000,false
 Pink Trunkard,920000,false
 Pink Turdle,(r180),false
 Pink Turtum,920000,false
 Pink Ultra Pinceron,900000,false
-Pink Uniocto,999999,false
+Pink Uniocto,950000,false
 Pink Vaeolus,900000,false
 Pink Vullard,(r101),false
 Pink Walking Carpet,900000,false
 Pink Warf,900000,false
-Pink Weewoo,995000,false
-Pink Wheelie,995000,false
-Pink Whinny,995000,false
+Pink Weewoo,950000,false
+Pink Wheelie,900000,false
+Pink Whinny,935000,false
 Pink Wreathy,900000,false
 Pirate Babyca,(r101),false
 Pirate Bartamus,(r101),false
-Pirate Kadoatie,995000,false
+Pirate Kadoatie,950000,false
 Pirate Krawk,(r101),false
 Pirate Marafin,(r101),false
 Pirate Meepit,(r101),false
@@ -3229,7 +3229,7 @@ Plushie Goldy,(r180),false
 Plushie Krawk,1100000,false
 Plushie Pandaphant,(r101),false
 Plushie Pygui,(r101),false
-Plushie Schnelly,(r101),false
+Plushie Schnelly,1300000,false
 Plushie Turmac,(r101),false
 Plushie Vullard,(r101),false
 Plushie Zebie,(r101),false
@@ -3260,7 +3260,7 @@ Rainbow Dragoyle,(r101),false
 Rainbow Drugal,(r101),false
 Rainbow Erisim,(r101),false
 Rainbow Ettaphant,(r101),false
-Rainbow Faellie,(r101),false
+Rainbow Faellie,1400000,false
 Rainbow Felly,(r101),false
 Rainbow Gallion,(r101),false
 Rainbow Gangee,(r101),false
@@ -3415,13 +3415,13 @@ Royal Meepit,920000,false
 Royal Pandaphant,(r101),false
 Royal Vullard,(r101),false
 Royal Zebie,(r101),false
-Sketch Snowickle,605000,false
+Sketch Snowickle,680000,false
 Sketch Turdle,(r180),false
 Sketch Woolypapith,(r101),false
 Smiley,(r180),false
 Sniffly,(r101),false
 Snow Cadro,(r101),false
-Snow Gathow,89500,false
+Snow Gathow,50000,false
 Snow Geb,(r101),false
 Snow Gremble,(r180),false
 Snow Khonsu,(r101),false
@@ -3473,7 +3473,7 @@ Stealthy Slorg,(r101),false
 Stealthy Symol,(r101),false
 Stealthy Wherfy,(r101),false
 Symol Petpet Bed,(r101),false
-Tyrannian Babyca,985000,false
+Tyrannian Babyca,999999,false
 Tyrannian Blorbis,(r101),false
 Tyrannian Feloreena,(r101),false
 Tyrannian Gathow,100000,false
@@ -3522,8 +3522,8 @@ Water Quadrapus,(r101),false
 Water Quilin,(r101),false
 Water Schnelly,(r101),false
 Water Skree,(r101),false
-Water Slogmok,(r101),false
-Water Slorg,(r101),false
+Water Slogmok,999999,false
+Water Slorg,995000,false
 Water Slymook,(r101),false
 Water Woolypapith,(r101),false
 Water Wreathy,(r101),false
@@ -3532,7 +3532,7 @@ Water Zumagorn,(r101),false
 White Acko,(r101),false
 White Baby Blu,(r101),false
 White Bika,(r101),false
-White Blibble,(r101),false
+White Blibble,999999,false
 White Chumablah,(r101),false
 White Crokabek,(r101),false
 White Delfin,(r101),false
@@ -3655,9 +3655,9 @@ Birthday Slorg,Inflation Notice,false
 Bubbles,(r180),false
 Disco Rock,(r101),false
 Flizzardo,6000000,false
-Goldy,5000000,false
+Goldy,6000000,false
 Lightmite,5000000,false
-Yooyu,3000000,false
+Yooyu,Inflation Notice,false
 Trumpadon,6000000,false
 Plushie Gathow,645000,false
 Birthday Warf,Inflation Notice,false
@@ -3665,14 +3665,14 @@ Bogie,2500000,false
 Veespa,1500000,false
 Crabby,Inflation Notice,false
 Birthday Lutra,Inflation Notice,false
-Pink Melvie,999999,false
+Pink Melvie,950000,false
 Khonsu,Inflation Notice,false
 Frowny,Inflation Notice,false
 Khura,(r101),false
 Eustabee,1500000,false
 Schnelly,Inflation Notice,false
 Goyalbotnik,710000,false
-Babik,990000,false
+Babik,999999,false
 Glowing Sklyde,Inflation Notice,false
 Glowing Slorg,Inflation Notice,false
 Glowing Wuzzle,Inflation Notice,false
@@ -3685,19 +3685,19 @@ Lutra,Inflation Notice,false
 Pirate Angelpuss,Inflation Notice,false
 Snomorg,999999,false
 Custard Feepit,Inflation Notice,false
-Magmut,178000,false
+Magmut,172000,false
 Raverge,330000,false
 Christmas Slorg,Inflation Notice,false
 Purple Faellie,226000,false
 Christmas Yullie,Inflation Notice,false
-Christmas Weewoo,610000,false
+Christmas Weewoo,585000,false
 Clay Slorg,Inflation Notice,false
 Kookith,Inflation Notice,false
-Plushie Sludgy,Inflation Notice,false
+Plushie Sludgy,440000,false
 Christmas Niptor,220000,false
 Faellie,190000,false
 C430 Autobot,Inflation Notice,false
-Christmas Ona,242000,false
+Christmas Ona,355000,false
 Christmas Babaa,Inflation Notice,false
 Christmas Blobagus,Inflation Notice,false
 Sketch Tenna,Inflation Notice,false
@@ -3707,7 +3707,7 @@ Christmas Lizark,Inflation Notice,false
 Belonthiss,Inflation Notice,false
 Gio,240000,false
 Ona,41500,false
-Ignalce,39000,false
+Ignalce,49000,false
 Christmas Yooyu,15000,false
 Gallion,Inflation Notice,false
 Staragus,12000,false
@@ -3722,3 +3722,6 @@ Valentine Schnelly,(r101),false
 Spring Cirrus,(r101),false
 Spring Urgoni,(r101),false
 Woodland Noil,(r101),false
+Grey Dragoyle,(r101),false
+Grey Slogmok,(r101),false
+Grey Ukali,(r101),false
