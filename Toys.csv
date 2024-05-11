@@ -1,24 +1,24 @@
 original,replacement,edited
-Elephante Lamp Collectable Charm,(r99),false
-Air Faerie Doll,25000000,false
-Tax Beast Plushie,30000000,false
+Elephante Lamp Collectable Charm,3000000,false
+Air Faerie Doll,30000000,false
+Tax Beast Plushie,960000,false
 Acara Goodie Bag,(r180),false
 Guardian of Fire Magic Plushie,10000000,false
-Mutant Korbat Plushie,21500000,false
+Mutant Korbat Plushie,215000,false
 Rainbow Uni Plushie,20000000,false
 Wrawk the Merciless Plushie,20000000,false
-Cloud Draik Plushie,18000000,false
-Rikti Plushie,17500000,false
+Cloud Draik Plushie,25000000,false
+Rikti Plushie,935000,false
 Magical Rainbow Cybunny Plushie,20000000,false
 Luxury Faerie Festival Snowglobe,16000000,false
 Indifferent Cultist Plushie,15000000,false
 Magical Ghost Marshmallows Plushie,15000000,false
 Magical Green Tonu Plushie,15000000,false
-Magical Yellow Tonu Plushie,15000000,false
-Fire Eyrie Plushie,14000000,false
+Magical Yellow Tonu Plushie,(r99),false
+Fire Eyrie Plushie,20000000,false
 King Skarl Plushie,10000000,false
 Magical Cloud Lenny Plushie,15000000,false
-Magical Blue Krawk Plushie,13250000,false
+Magical Blue Krawk Plushie,(r99),false
 Magical Green Elephante Toy,6000000,false
 Magical Green Yurble Plushie,10000000,false
 Halloween JubJub Plushie,11000000,false
@@ -30,16 +30,16 @@ Electro Lizard Plushie,10000000,false
 Fire Lizard Plushie,10000000,false
 Ghost Evil Fuzzle,(r99),false
 Ghost Fuzzle,10000000,false
-Hannah Plushie,10000000,false
+Hannah Plushie,Inflation Notice,false
 Inferno Lizard Plushie,8000000,false
-Jahbal Plushie,10000000,false
+Jahbal Plushie,465000,false
 Keeper Of Time Plushie,2000000,true
 Magical Green Krawk Plushie,2000000,true
 Magical Purple Blumaroo Plushie,10000000,false
-Magical Red Krawk Plushie,9750000,false
+Magical Red Krawk Plushie,Inflation Notice,false
 Magical Yellow Yurble Plushie,8000000,false
-Mutant Shoyru Plushie,10000000,false
-Mystery Island Kitchen Trick-or-Treat Bag,5000000,false
+Mutant Shoyru Plushie,Inflation Notice,false
+Mystery Island Kitchen Trick-or-Treat Bag,2000000,false
 Pile of Usukis,12000000,false
 Quiguki Musketeer,(r99),false
 Razul Plushie,10000000,false
@@ -53,14 +53,14 @@ Leirobas Plushie,9000000,false
 Magical Gold Chomby Plushie,9000000,false
 Speckled Nimmo Plushie,8000000,false
 Starry Draik Plushie,2000000,true
-Magical Green Wocky Plushie,6500000,false
-Blushing Bride Quiguki Doll,8000000,false
+Magical Green Wocky Plushie,Inflation Notice,false
+Blushing Bride Quiguki Doll,(r99),false
 Chaos Giant Plushie,2000000,true
 Count von Roo Booster Pack,8000000,false
 Cyodrake Collectable Charm,8000000,false
 Desert Lupe Plushie,10000000,false
 Gallion Collectable Charm,Inflation Notice,false
-Lightning Lizard Plushie,6000000,false
+Lightning Lizard Plushie,8000000,false
 Magical Green Kiko Plushie,8000000,false
 Magical Red Grarrl Plushie,10000000,false
 Magical Red Tonu Plushie,8000000,false
@@ -68,15 +68,15 @@ Melatite Dervish Plushie,8000000,false
 Neopets 8th Birthday Goodie Bag,(r180),false
 Sidney Plushie,12000000,false
 Tyrannian Techo Plushie,10000000,false
-Usukicon Y13 Goodie Bag,5000000,false
-Governor McGill Collectable Charm,2000000,false
+Usukicon Y13 Goodie Bag,2000000,false
+Governor McGill Collectable Charm,1200000,false
 Neopets 9th Birthday Goodie Bag,8000000,false
 Grey Mynci Plushie,11000000,false
-Magical Blue Nimmo Plushie,7000000,false
+Magical Blue Nimmo Plushie,Inflation Notice,false
 Magical Purple Zafara Plushie,2000000,true
 Magical Red Koi Plushie,10000000,false
 Magical Red Lenny Plushie,8000000,false
-Magical Red Yurble Plushie,7000000,false
+Magical Red Yurble Plushie,Inflation Notice,false
 Mime Quiguki,Inflation Notice,false
 Neoquest Gatekeeper Plushie,2000000,true
 Pomanna Plushie,8500000,false
@@ -85,15 +85,15 @@ Usukicon Y12 Goodie Bag,8000000,false
 Usukicon Y14 Goodie Bag,7000000,false
 King Skarl Quiguki,Inflation Notice,false
 Baby Techo Bobblehead,5750000,false
-Beautiful Hair Quiguki Doll,Inflation Notice,false
+Beautiful Hair Quiguki Doll,270000,false
 Chrysolite Dervish Plushie,6000000,false
 Faerie Korbat Plushie,9000000,false
 Ilere Usuki,8000000,false
 Lost Desert Quiguki,5000000,false
-Magical Cloud Gelert Plushie,6000000,false
+Magical Cloud Gelert Plushie,Inflation Notice,false
 Magical Red Wocky Plushie,6000000,false
 Magical Spotted Blumaroo Plushie,2000000,true
-Quiguki Prom Queen,6000000,false
+Quiguki Prom Queen,Inflation Notice,false
 Steel Golem Neoquest Plushie,2000000,true
 Lazulite Dervish Plushie,6000000,false
 Baby Bruce Plushie,5000000,false
@@ -114,7 +114,7 @@ Reject Yellow Acara Plushie,3200000,false
 Snot Slingshot,Inflation Notice,false
 Taelia Quiguki,5000000,false
 Usukicon Y20 Goodie Bag,4400000,false
-Wherfy Collectable Charm,Inflation Notice,false
+Wherfy Collectable Charm,3200000,false
 Magical Red Usul Plushie,4500000,false
 Neopets 14th Birthday Goodie Bag,5000000,false
 Remote Control Gloves,4000000,false
@@ -125,7 +125,7 @@ Werewolf Usuki,4000000,false
 Floppy Turtum Plushie,2000000,true
 Lost Desert Usuki,4000000,false
 Magical Blue Yurble Plushie,4000000,false
-Mist Kougra Plushie,4000000,false
+Mist Kougra Plushie,Inflation Notice,false
 Moon Rock Albert Collectable Charm,Inflation Notice,false
 Motor Dahy Action Figure,(r101),false
 Neopets 21st Birthday Goodie Bag,Inflation Notice,false
@@ -135,7 +135,7 @@ Reject Green Acara Plushie,2000000,true
 Thunder Lizard Plushie,4000000,false
 Usukicon Y19 Goodie Bag,5000000,false
 Valentines Girl Usuki,4000000,false
-A Grey Faerie Doll,6000000,false
+A Grey Faerie Doll,5400000,false
 Collectable Vinyl Usuki Doll,3000000,false
 Collectors Edition Usuki Doll,5000000,false
 Fun in the Sun Usuki Reject,2500000,false
@@ -147,7 +147,7 @@ Faerie Nimmo Plushie,4000000,false
 Floud Balloon,(r99),false
 Graduate Usuki,2500000,false
 Kiko Lake Carpentry Trick-or-Treat Bag,2500000,false
-Magical Red Gelert Plushie,3000000,false
+Magical Red Gelert Plushie,Inflation Notice,false
 Magical Starry Kau Plushie,2000000,false
 Prom Date Usuki Reject,2000000,false
 Shiny Nova Mobile,3000000,false
@@ -190,7 +190,7 @@ Magical Electric Lupe Plushie,2000000,true
 Magical Silver Kougra Plushie,2000000,false
 Mayor Thumburt Usuki,2000000,false
 Meridell Collectors Usuki,(r101),false
-Meridell Usuki,2000000,false
+Meridell Usuki,Inflation Notice,false
 Meridell Usuki King,2000000,false
 Meridell Usuki Queen,2600000,false
 Mutant Golf Club,(r99),false
@@ -301,9 +301,9 @@ Sophie Plushie,1300000,false
 Sparkling Ruby,945000,false
 Darigan Eyrie Plushie,999999,false
 Yooyu Piano,999999,false
-Halloween Chia Plushie,1100000,true
+Halloween Chia Plushie,Inflation Notice,false
 Speckled Scorchio Kaleidoscope,975000,false
-Ilere Faerie Doll,850000,false
+Ilere Faerie Doll,890000,false
 Pink Korbat Puppet,800000,false
 Birthday Celebration Poogle Plushie,2000000,true
 Green Birthday Crown,999999,false
@@ -320,12 +320,12 @@ Dark Villain Usuki Squeaky Toy,895000,false
 Earth Faerie Snowglobe,620000,false
 Special Limited Edition Autumnal Usuki Play Set,850000,false
 Blue Birthday Crown,830000,false
-Purple Birthday Crown,695000,false
-10th Birthday Defender of Neopia Mynci Birthday Globe,720000,false
-Red and Gold Neopets 8th Birthday Hat,950000,false
+Purple Birthday Crown,865000,false
+10th Birthday Defender of Neopia Mynci Birthday Globe,760000,false
+Red and Gold Neopets 8th Birthday Hat,999999,false
 White Meerca Plushie,915000,false
 Altador Cup Referee Plushie,800000,false
-Fire Quiggle Christmas Cracker,890000,false
+Fire Quiggle Christmas Cracker,920000,false
 Lost Desert Kougra Plushie,990000,false
 Mynci Halloween Action Figure,580000,false
 Aesop Stress Ball,930000,false
@@ -335,7 +335,7 @@ Plushie JubJub Yoyo,855000,false
 Spring Robot Acara Toy,965000,false
 Yooyu Referee Whistle,500000,false
 10th Birthday Red Scorchio Toy,999999,false
-Halloween Y14 Goodie Bag,1000000,false
+Halloween Y14 Goodie Bag,995000,false
 Negg Faerie Usuki Set,1200000,false
 Striped Cybunny Yoyo,785000,false
 Sidneys Lost Scratchcard Pack,Inflation Notice,false
@@ -374,9 +374,9 @@ Pink Korbat Kite,750000,false
 Silver Birthday Whistle,745000,false
 Tormund Plushie,2000000,true
 Usukicon Y24 Goodie Bag,985000,false
-Birthday Celebration Shoyru Plushie,375000,false
+Birthday Celebration Shoyru Plushie,350000,false
 Camouflage Wocky Action Figure,845000,false
-Drackonack Plushie,650000,false
+Drackonack Plushie,725000,false
 Scarblade Trick-or-Treat Bag,Inflation Notice,false
 Shop Wizard Plushie,845000,false
 Grey Kacheek Plushie,630000,false
@@ -386,7 +386,7 @@ Scribbles Stress Ball,480000,false
 Space Faerie Snowglobe,Inflation Notice,false
 Yellow Kau Plushie,1300000,false
 Nova Gems Garland,570000,false
-Red Kougra Play Set,595000,false
+Red Kougra Play Set,715000,false
 Amazing Draik Cracker,795000,false
 Bagatelle Plushie,850000,false
 Broken Angel Chia Plushie,640000,false
@@ -402,7 +402,7 @@ Jar of Sunshine,945000,false
 Princess Usuki Keyring,993000,false
 Agog Stress Ball,805000,false
 Lampwyck Trick-or-Treat Bag,1000000,false
-Nutcracker,335000,false
+Nutcracker,310000,false
 Baby Cybunny Plushie,585000,false
 Blue Blumaroo Plushie,990000,false
 Lutari Grundo Plushie,610000,false
@@ -410,9 +410,9 @@ Red Skateboard,999999,false
 Year 10 Goodie Bag,700000,false
 Yooyuballoons,Inflation Notice,false
 Magical Pirate Krawk Plushie,505000,false
-Snow Faeries Quest Trick-or-Treat Bag,445000,false
+Snow Faeries Quest Trick-or-Treat Bag,680000,false
 Rainbow Blumaroo Puppet,755000,false
-Bagatelle Mootix Ball,580000,false
+Bagatelle Mootix Ball,600000,false
 Usuki Reaper,745000,false
 Magical Green Pteri Plushie,915000,false
 Strawberry Cake Birthday Balloon,300000,false
@@ -427,7 +427,7 @@ Spotted Birthday Whistle,535000,false
 Summer Fun Illusen Plushie,460000,false
 Altador Cup Nesting Dolls,450000,false
 Denethrir Plushie,550000,false
-Mutant Kougra Plushie,490000,false
+Mutant Kougra Plushie,800000,false
 Spooky Halloween Goodie Bag,920000,false
 Kiko Lake Altador Cup Team Yooyu Plushie,210000,false
 Baby Xweetok Plushie,470000,false
@@ -441,15 +441,15 @@ Water Powered Pistol,390000,false
 Winner Stand Plushie Display,415000,false
 Yellow Xweetok Beach Ball,995000,false
 The Clash Bobblehead,465000,false
-Krawk Island Trick-or-Treat Bag,540000,false
+Krawk Island Trick-or-Treat Bag,935000,false
 Beach Volleyball String Lights,505000,false
 Clacker,515000,false
 Spotted Blumaroo Plushie,670000,false
 Zafara Double Agent Usuki,425000,false
 Birthday Celebration Usul,995000,false
-Pink Birthday Balloon,300000,false
+Pink Birthday Balloon,720000,false
 Rainbow Wocky Puppet,500000,false
-Striped Birthday Balloon,200000,false
+Striped Birthday Balloon,95000,false
 Illusen Faerie Doll,650000,false
 Spirit of Slumber Plushie,385000,false
 Collectable Usuki Enthusiast Usuki,999999,false
@@ -463,10 +463,10 @@ Camouflage Kougra Pull Along Toy,500000,false
 Neopets 8th Birthday Spring Toy,400000,false
 Max Mutant Bobblehead,445000,false
 Plushie Poogle Plushie,530000,false
-Mystery Isle Trick-or-Treat Bag,485000,false
+Mystery Isle Trick-or-Treat Bag,870000,false
 Birthday Celebration Bruce,570000,false
 Mutant Usul Plushie,206000,false
-Robot Kau Plushie,415000,false
+Robot Kau Plushie,435000,false
 Captain Arf Plushie,465000,false
 Krawk Island Yooyuball,320000,false
 Magical Yellow Flotsam Plushie,790000,false
@@ -479,16 +479,16 @@ Blue Koi Wind Up Bath Toy,375000,false
 Ghosty Trick-or-Treat Bag,825000,false
 Kaleidoscope,455000,false
 MissRainbow Stress Ball,395000,false
-Red Kau Plushie,515000,false
+Red Kau Plushie,725000,false
 Taiko Standing Drum Collectable Charm,Inflation Notice,false
 DJ Sally Bobblehead,345000,false
-Drakonid Plushie,385000,false
+Drakonid Plushie,460000,false
 Nurse Skeleton Bobblehead,450000,false
 Electric Evil Fuzzle,710000,false
 Giant Jeran Plushie,645000,false
 Illusen Usuki,595000,false
 Shiny Ultimate Bullseye II Quiver,390000,false
-Sloth Parachute Toy,480000,false
+Sloth Parachute Toy,390000,false
 Angry Techo Plushie,350000,false
 Clockwork Yooyu,395000,false
 Plushie Mynci Yoyo,350000,false
@@ -511,12 +511,12 @@ Terrified Harris Plushie,335000,false
 Cloud Kougra Yoyo,495000,false
 Kadoatie Usuki Set,370000,false
 Magical Red Flotsam Plushie,370000,false
-Moltara Trick-or-Treat Bag,490000,false
+Moltara Trick-or-Treat Bag,515000,false
 Usuki Poetry Set,Inflation Notice,false
 Christmas Bruce Plushie,290000,false
 Loryche Action Figure,385000,false
 Roberta Plushie,435000,false
-Black Bearog Plushie,315000,false
+Black Bearog Plushie,350000,false
 Usukicon Y9 Keyring,700000,false
 Agog Bobblehead,870000,false
 Gingersnap Bobblehead,455000,false
@@ -530,7 +530,7 @@ Nightmare Babaa plushie,325000,false
 Red Techo Plushie,1100000,true
 Spotted Aisha Spring Toy,Inflation Notice,false
 Cloud Flotsam Wind Up Bath Toy,265000,false
-Skarl Trick-or-Treat Bag,310000,false
+Skarl Trick-or-Treat Bag,710000,false
 Darigan Citadel Altador Cup Team Yooyu Plushie,223000,false
 Spring Garden Usuki Play Set,Inflation Notice,false
 Happy Halloween Bag,445000,false
@@ -564,20 +564,20 @@ Starry Stocking,315000,false
 Halloween Mynci Plushie,295000,false
 Magical Yellow Poogle Toy,815000,false
 Prissy Miss Kacheek Plushie,105000,false
-Roo Island Merry-Go-Round Trick-or-Treat Bag,420000,false
+Roo Island Merry-Go-Round Trick-or-Treat Bag,845000,false
 Grey Negg Plushie,400000,false
 Gruundo Fan Usuki,265000,false
 Vira Usuki Doll,Inflation Notice,false
 Birthday Celebration Kiko Plushie,1100000,true
 Handmade Professor Lambert Plushie,315000,false
-The Wanderer Camp Trick-or-Treat Bag,300000,false
+The Wanderer Camp Trick-or-Treat Bag,600000,false
 Von Roo Plushie,995000,false
 Faerie Meerca Plushie,345000,false
-Leo Bobblehead,290000,false
+Leo Bobblehead,450000,false
 Poogle Merchant Plushie,80000,false
 Dr Sloth Trick-or-Treat Bag,1250000,false
 AAA Collectable Charm,Inflation Notice,false
-Bonju Trick-or-Treat Bag,265000,false
+Bonju Trick-or-Treat Bag,300000,false
 Gold Scooter,114000,false
 Monstrous Moach Plushie,1100000,true
 Seaworthy Usuki,Inflation Notice,false
@@ -603,22 +603,22 @@ Red Gift Pouch,250000,false
 Halloween Poogle Plushie,375000,false
 Mime Usuki,255000,false
 Toy Shrink Ray,107000,false
-Elegant Punk Guitar,222000,false
-Scorchio Auctioneer Plushie,1100000,true
+Elegant Punk Guitar,350000,false
+Scorchio Auctioneer Plushie,Inflation Notice,false
 Happy Usuki Pin,214000,false
 Magical Blue Kyrii Plushie,1100000,true
-Altador Cup Pinball Machine,207000,false
+Altador Cup Pinball Machine,213000,false
 Festive Purple and Yellow Negg Basket,450000,false
 Handmade Commander Flint Plushie,219000,false
 Toy Slime Gun,175000,false
 Official Brain Tree Plushie,183000,false
 Kakarot Keyring Charm,225000,false
 Kiko Cadet Plushie,420000,false
-King Jazan Plushie,233000,false
+King Jazan Plushie,340000,false
 Pink Draik Plushie,365000,false
 Rainbow Fuzzle,440000,false
 Ominous Stone Plushie,265000,false
-Referee in a Box,29800,false
+Referee in a Box,9000,false
 Giant Moehog Plushie,138000,false
 Traditional Welsh Usuki,760000,false
 Spider Grundo Plushie,1100000,true
@@ -629,10 +629,10 @@ Sarisy Plushie Set,180000,false
 Evil Twin Yellow Chia Plushie,375000,false
 Healing Springs Trick-or-Treat Bag,500000,false
 Cma Forrad bobblehead,249000,false
-Disco Elephante Marionette,209000,false
+Disco Elephante Marionette,230000,false
 Festival Of Neggs Cybunny Plushie,156000,false
 Halloween Tonu Plushie,200000,false
-Ilere Plushie,265000,false
+Ilere Plushie,Inflation Notice,false
 Miniature Gorix Spaceship,180000,false
 Pouch of Dubloons,87000,false
 Purple Kau Plushie,1100000,true
@@ -641,7 +641,7 @@ Strawberry JubJub Plushie,234000,false
 Torshac Shoyruki Doll,159000,false
 Valentine Kougra Plushie,2000,false
 Capn Threelegs Plushie,315000,false
-Coltzans Shrine Trick-or-Treat Bag,237000,false
+Coltzans Shrine Trick-or-Treat Bag,400000,false
 Festival of Neggs Playset,107000,false
 Metal Puzzle Ball,Inflation Notice,false
 Axe Bond Bobblehead,193000,false
@@ -650,22 +650,22 @@ Rainbow Korbat Plushie,445000,false
 Luxury Dark and Earth Faerie Snowglobe,550000,false
 Ehlo Froyo Stress Ball,244000,false
 Lilo Blumario Action Figure,58000,false
-Hydra Draik Heads,19000,false
+Hydra Draik Heads,27400,false
 Halloween Nimmo Plushie,162000,false
 Striped Korbat Plushie,175000,false
 Varia Plushie,1100000,true
 Angel Kiko Plushie,213000,false
-Yooyuball Baby Goal,160000,false
+Yooyuball Baby Goal,177000,false
 Displeased Slorg Plushie,225000,false
 Royal Uni Kite,200000,false
 Eye Candy Plushie,295000,false
 Grey Lupe Neoquest Plushie,172000,false
-Island Peophin Plushie,97000,false
+Island Peophin Plushie,Inflation Notice,false
 Christmas Tree Necklace,179000,false
 Funky Flares Usuki,290000,false
 Baby Peophin Plushie,195000,false
 Golden Coconut Bowling Ball,270000,false
-Agate Dervish Plushie,237000,false
+Agate Dervish Plushie,Inflation Notice,false
 Altador Cup Brightvale Snowglobe,112000,false
 Brightvale Yooyuball,173000,false
 Ghost Ixi Plushie,1100000,true
@@ -673,14 +673,14 @@ Ixi Commentator Plushie,145000,false
 Special Edition Battle Plushie,120000,false
 Farmer Usuki Doll,89000,false
 Usuki Zombie,Inflation Notice,false
-Esophagor Trick-or-Treat Bag,174000,false
+Esophagor Trick-or-Treat Bag,250000,false
 Giant Omelette Trick-or-Treat Bag,370000,false
 Kanrik Plushie,255000,false
 Scamander Plushie,153000,false
 Darigan Flotsam Plushie,150000,false
 Young Sophie Plushie,265000,false
 Brain Tree Trick-or-Treat Bag,335000,false
-Edna Trick-or-Treat Bag,236000,false
+Edna Trick-or-Treat Bag,245000,false
 Electric Fuzzle,265000,false
 Faerie Uni Plushie,405000,false
 Purple Gift Pouch,152000,false
@@ -691,9 +691,9 @@ Birthday Blumaroo Plushie,19900,false
 Mini Table Tennis Table,31000,false
 Dasher Soley Action Figure,66500,false
 Handmade Master Thief Kanrik Plushie,151000,false
-Neopets Flag,25500,false
-Scrappy Bobblehead,149000,false
-Tropical Food Shop Trick-or-Treat Bag,222000,false
+Neopets Flag,15000,false
+Scrappy Bobblehead,152000,false
+Tropical Food Shop Trick-or-Treat Bag,220000,false
 Desert Grarrl Plushie,395000,false
 Baby Techo Plushie,137000,false
 Juppie Beast Plushie,97000,false
@@ -711,7 +711,7 @@ Usuki Knight,Inflation Notice,false
 Darigan Krawk Plushie,123000,false
 Kou-Jong Trick-or-Treat Bag,Inflation Notice,false
 Mutant Elephante Plushie,164000,false
-The Masked Intruder Plushie,177000,false
+The Masked Intruder Plushie,220000,false
 CMA Forrad Stress Ball,169000,false
 Tooth Faerie Doll,Inflation Notice,false
 Broken Limited Edition Evil Chia Plushie,197000,false
@@ -741,10 +741,10 @@ Bizarre Orange Keyring,143000,false
 Rainbow Wocky Plushie,1100000,true
 3rd Annual Neopies Golden Trophy,143000,false
 Summer Fun Water Bottle,104000,false
-Giant Jelly Trick-or-Treat Bag,186000,false
-Prigpants Trick-or-Treat Bag,310000,false
+Giant Jelly Trick-or-Treat Bag,265000,false
+Prigpants Trick-or-Treat Bag,470000,false
 Gold Limited Edition Plushie Set,48700,false
-Gavril Trick-or-Treat Bag,100000,false
+Gavril Trick-or-Treat Bag,125000,false
 Handmade Magical Hair Usuki Plushie,189000,false
 Kau Springy Toy,177000,false
 Lisha Usuki Doll,104000,false
@@ -763,7 +763,7 @@ Binary_Supagoo Bobblehead,109000,false
 Faerie Slorg Plushie,235000,false
 Garoo Elite Wind Up Toy,36000,false
 Kaylas Chemistry Set,104000,false
-Anshu Trick-or-Treat Bag,200000,false
+Anshu Trick-or-Treat Bag,Inflation Notice,false
 Masila Plushie,310000,false
 Pirate Moehog Plushie,1100000,true
 Tyrannia Snowglobe,270000,false
@@ -791,7 +791,7 @@ Cybunny Balloon Animal,126000,false
 Graveyard Reference Book Plushie,89000,false
 Kauvara Usuki,127000,false
 Kiko Lake Yooyuball,139000,false
-Moon and Stars Paper Crown,70000,false
+Moon and Stars Paper Crown,100000,false
 Rainbow Scorchio Plushie,525000,false
 Shadow Usul Trick-or-Treat Bag,Inflation Notice,false
 The Three Trick-or-Treat Bag,Inflation Notice,false
@@ -805,9 +805,9 @@ Royal Girl Kyrii Plushie,207000,false
 Silver Jetsam Plushie,100000,false
 Spooky Furniture Grundo Puppet,Inflation Notice,false
 White Gift Pouch,100000,false
-Parlax Plushie,1100000,true
+Parlax Plushie,Inflation Notice,false
 Tarla Bobblehead,Inflation Notice,false
-Igloo Garage Sale Trick-or-Treat Bag,92000,false
+Igloo Garage Sale Trick-or-Treat Bag,131000,false
 Darigan Yooyuball,131000,false
 Two-Bobbleheaded Hissi,100000,false
 Air Faerie Snowglobe,39000,false
@@ -816,7 +816,7 @@ Birthday Celebration Kacheek Plushie,81000,false
 Goparokko Firecracker,83500,false
 King Roo Plushie,35000,false
 Pretty Pink Usuki,109000,false
-Usuki Pirate Wench,120000,false
+Usuki Pirate Wench,145000,false
 Castle Nox Trick-or-Treat Bag,190000,false
 Granite Dervish Plushie,420000,false
 Twisted Roses Fan Usuki Bobblehead,128000,false
@@ -824,7 +824,7 @@ Heermeedjet Usuki,75000,false
 Ladybird Usuki,Inflation Notice,false
 Ghost Meepit Dance Party Ultra Remix,170000,false
 Ehlo Froyo Bobblehead,95000,false
-Gutterfoot Stress Ball,80000,false
+Gutterfoot Stress Ball,74000,false
 Halloween Cog,84000,false
 Loopy Green Skateboard,90000,false
 Red Marbleman Plushie,100000,false
@@ -837,22 +837,22 @@ Mystic Trick-or-Treat Bag,200000,false
 Paranormal Time Detective Usuki Doll,69000,false
 Wheel of Misfortune Trick-or-Treat Bag,145000,false
 DJ Skellington Keyring Charm,86500,false
-Magax Trick-or-Treat Bag,110000,false
+Magax Trick-or-Treat Bag,121000,false
 Halloween Peophin Plushie,31100,false
 Plushie Wocky Plushie,335000,false
 Bat Boy Trick-or-Treat Bag,187000,false
 Blue Moehog Plushie,88500,false
 Moltara Altador Cup Team Yooyu Plushie,128000,false
 Nuria Statue Bobblehead,33000,false
-Purple Koi Plushie,1100000,true
+Purple Koi Plushie,Inflation Notice,false
 E-Z Brand Chemistry for Beginners Cross-Promotional Play Set,94500,false
 Fire Koi Plushie,79000,false
 Electric Ixi Plushie,89500,false
 Isca Table Tennis Set,105000,false
-Lunar Temple Trick-or-Treat Bag,124000,false
+Lunar Temple Trick-or-Treat Bag,125000,false
 Maraqua Yooyuball,68000,false
-Punching Negg,71000,false
-Starry Evil Fuzzle,89000,false
+Punching Negg,67000,false
+Starry Evil Fuzzle,Inflation Notice,false
 Rainbow Kiko Squeeze Toy,80000,false
 Baseball Practice Set,81000,false
 Shootout Showdown Pro Edition Board Game,105000,false
@@ -863,24 +863,24 @@ Green Gift Pouch,Inflation Notice,false
 Red Jetsam Plushie,98500,false
 Altador Cup Video Game,186000,false
 Wind-up School Bus,99000,false
-Blue Usul Balloon,13900,false
+Blue Usul Balloon,290,false
 Jade Keyring Charm,71000,false
 Pirate Rock Plushie,76000,false
 Altador Yooyuball,79000,false
 Cybunny Cracker,82000,false
-Glowing Tombstone Trick-or-Treat Bag,90000,false
+Glowing Tombstone Trick-or-Treat Bag,125000,false
 Grey Faerie Usuki Doll,40000,false
 Jhudora Bobblehead,75000,false
-Royal Gelert Yoyo,80500,false
+Royal Gelert Yoyo,192000,false
 Taelia Doll,10000,false
 Darblat Racer,55000,false
-Cma Forrad Keyring Charm,146000,false
+Cma Forrad Keyring Charm,113000,false
 King Altador Summer Petpetpet Catching Kit,95000,false
 Blue Brain Tree Plushie,70000,false
-Manufacturing Error Faerie Plushie,1100000,true
+Manufacturing Error Faerie Plushie,Inflation Notice,false
 Altador Altador Cup Team Yooyu Plushie,93000,false
 Halloween Lupe Plushie,96000,false
-Kougrachio Plushie,86000,false
+Kougrachio Plushie,90000,false
 Light Faerie Snowglobe,72000,false
 Model Uni,Inflation Notice,false
 Pink Brain Tree Plushie,79500,false
@@ -894,27 +894,27 @@ Astrophysics Professor Usuki,88000,false
 Cuddly Yoyo,51000,false
 Lost Desert Altador Cup Team Yooyu Plushie,88000,false
 Space Usuki Bobblehead,173000,false
-Ghost Pancake Trick-or-Treat Bag,120000,false
+Ghost Pancake Trick-or-Treat Bag,219000,false
 Halloween Kougra Plushie,48400,false
-Hydra Draik Wings,42400,false
+Hydra Draik Wings,17100,false
 Christmas JubJub Plushie,18800,false
-Dark Faerie Usuki Doll,70000,false
+Dark Faerie Usuki Doll,129000,false
 Meerca Cracker,87000,false
 Tyrannia Altador Cup Team Yooyu Plushie,70000,false
 Wind Up Hannah,330000,false
-Desert Wocky Plushie,1100000,true
+Desert Wocky Plushie,Inflation Notice,false
 Galem Plushie,134000,false
 Yellow Blumaroo Plushie,1100000,true
 Evil Genius Portrait Kit,70000,false
-I Support Sloth Badge,34800,false
-Magma Pool Trick-or-Treat Bag,68000,false
-Rattle Hissi Teeth,27500,false
-Robot Chia Clown Trick-or-Treat Bag,119000,false
+I Support Sloth Badge,32800,false
+Magma Pool Trick-or-Treat Bag,86500,false
+Rattle Hissi Teeth,Inflation Notice,false
+Robot Chia Clown Trick-or-Treat Bag,220000,false
 Terror Mountain Altador Cup Team Yooyu Plushie,80000,false
 Jelly Chia Goalie Plushie,69000,false
 Singrowlarity Brand Singularity Farm for Kids,85000,false
-Nabile Plushie,117000,false
-Haunted Weaponry Trick-or-Treat Bag,67000,false
+Nabile Plushie,125000,false
+Haunted Weaponry Trick-or-Treat Bag,89500,false
 King Altador Kite,216000,false
 Knitted Poogle Plushie,1100000,true
 Senormalo Bobblehead,66000,false
@@ -934,8 +934,8 @@ Krawk Island Altador Cup Team Yooyu Plushie,66000,false
 Kreludor Yooyuball,93500,false
 Negg Stack Toy,400000,false
 Sloth Usuki,144000,false
-Tyrannian Kougra Plushie,61000,false
-3D Crabulator,45000,false
+Tyrannian Kougra Plushie,60500,false
+3D Crabulator,41400,false
 Seasonal Altador String Lights,22000,false
 Wocky Cracker,68500,false
 Binary_Supagoo Keyring Charm,62500,false
@@ -956,11 +956,11 @@ Dr. Sloth Heart Plushie,78000,false
 Kacheek Cracker,53000,false
 Kreludor Altador Cup Team Yooyu Plushie,93000,false
 Mipsy Plushie,1100000,true
-Silver Kougra Plushie,77000,false
+Silver Kougra Plushie,80000,false
 Year 10 JubJub Toy,70000,false
 Max Mutant Keyring Charm,60000,false
 Handcrafted Tomos Plushie,90500,false
-Rufus Plushie,51500,false
+Rufus Plushie,55500,false
 Scoach Plushie,58000,false
 Year 10 Blumaroo Toy,55000,false
 Ghost Toast Plushie,42500,false
@@ -971,9 +971,9 @@ Magma Tonu Plushie,55500,false
 Giant Omelette Action Figure,64000,false
 Green Frogarott Plushie,1100000,true
 Iceman plushie,100000,false
-Plucko Bricks,30000,false
+Plucko Bricks,10000,false
 Space Faerie Doll,Inflation Notice,false
-Kacheek Sphinx Trick-or-Treat Bag,63000,false
+Kacheek Sphinx Trick-or-Treat Bag,100000,false
 Lava Fountain Toy,60000,false
 Kayla Usuki Doll,63500,false
 Spooky Foods Trick-or-Treat Bag,95000,false
@@ -983,17 +983,17 @@ New Years Moehog Plushie,15000,false
 Krawk Prisoner Hand Puppet,55000,false
 Quiguki Girl Plushie,230000,false
 Debonair Quiguki,Inflation Notice,false
-Kougra Action Figure,95000,false
+Kougra Action Figure,79500,false
 Commander Valka Plushie,141000,false
 Mynci Spinning Top,51500,false
 Chatty Usuki Bobblehead,135000,false
 Iron Golem Neoquest Plushie,68500,false
-Scary Trick-or-Treat Bag,42500,false
+Scary Trick-or-Treat Bag,46900,false
 Username Redacted Plushie,28000,false
 Grey Flotsam Plushie,228000,false
 Neopets 6th Birthday Goodie Bag,53000,false
 Space Faerie Plushie,59500,false
-Galaxy Trick-or-Treat Bag,69000,false
+Galaxy Trick-or-Treat Bag,75000,false
 Maraqua Altador Cup Team Yooyu Plushie,75000,false
 Collectors Edition Quiguki Boy Plushie,1100000,true
 Pink Cupcake Plushie,44200,false
@@ -1001,7 +1001,7 @@ Chess Set of Foreboding,60000,false
 Faerie lights Lupe Plushie,66500,false
 Festive Green and Yellow Negg Basket,300000,false
 Gold Meerca Plushie,50000,false
-Green Brain Tree Plushie,43200,false
+Green Brain Tree Plushie,58000,false
 Kaleidoscopic Jar,78500,false
 Meridell Altador Cup Team Yooyu Plushie,50000,false
 Plushie Quiggle Plushie,1100000,true
@@ -1025,13 +1025,13 @@ Uni Cracker,68000,false
 Pink Spinning Top,68000,false
 Flying Wagon,40400,false
 Mystery Island Usuki,Inflation Notice,false
-Zombie Chomby Trick-or-Treat Bag,65000,false
+Zombie Chomby Trick-or-Treat Bag,74500,false
 Kiko Cracker,20000,false
 Orange Gelert Plushie,74500,false
 Yooyuball Felt Puzzle,Inflation Notice,false
 Striped Fuzzle,57500,false
 Confused Wizard Action Figure,Inflation Notice,false
-Lord Kass Plushie,30000,false
+Lord Kass Plushie,Inflation Notice,false
 Royal Boy Usul Plushie,49400,false
 Hagan Plushie,1100000,true
 Droolik Plushie,1100000,true
@@ -1053,29 +1053,29 @@ Giant Omelette Battledome Snowglobe,10500,false
 Long Wocky Plushie,38800,false
 Yooyuball Goalie Usuki Doll,59000,false
 Altador Cup Chess Set,44900,false
-Deluxe Zafara Cracker,49200,false
+Deluxe Zafara Cracker,50000,false
 Mutant Techo Plushie,66000,false
 Deluxe Pteri Cracker,45000,false
 Neopets 5th Birthday Goodie Bag,32000,false
 The Caretaker Usuki,62000,false
 Alien Aisha Plushie,1100000,true
-Scrappy Keyring Charm,91500,false
+Scrappy Keyring Charm,88500,false
 Blackeyed Meowclops Toy,63000,false
 Chocolate Draik Plushie,33400,false
 Lost Desert Yooyuball,48700,false
 Haunted Woods Yooyuball,44200,false
 Deluxe Kyrii Cracker,49200,false
 Evil Twin Red Scorchio Plushie,47700,false
-Green Peophin Squishy Plushie,53500,false
-Hydra Draik Body,15000,false
+Green Peophin Squishy Plushie,52500,false
+Hydra Draik Body,12600,false
 Eyrie Goodie Bag,23900,false
 Jazzmosis Chia Plushie,27500,false
 Meowclops Plushie,60000,false
-Yellow Brain Tree Plushie,38000,false
+Yellow Brain Tree Plushie,41000,false
 Cooty Plushie,49000,false
 Lupe Chia Plushie Toy,8800,false
 Shiver Me Timbers Usuki,335000,false
-van Doodle Stress Ball,40000,false
+van Doodle Stress Ball,38000,false
 Green Tentacle Balloon,40000,false
 Agog plushie,40000,false
 Altador Cup Darigan Citadel Snowglobe,49700,false
@@ -1102,9 +1102,9 @@ Usuki Musketeer,33000,false
 Valentines Chia Plushie,19500,false
 Ppod Keyring Charm,40000,false
 Pteri Bobblehead,34500,false
-The Clash Keyring Charm,50500,false
+The Clash Keyring Charm,36600,false
 Aesop Plushie,68500,false
-Bicycling Mynci Toy,80000,false
+Bicycling Mynci Toy,79000,false
 Techo Cracker,18300,false
 Fancy Star Paper Hat,54000,false
 Goodie Two Shoes Usuki,32300,false
@@ -1113,7 +1113,7 @@ Red Peophin Squishy Plushie,43700,false
 Aiden Bobblehead,19000,false
 Faerie Grundo Plushie,30000,false
 Shenkuu Board Game,65500,false
-Checkered Wocky Plushie,4200,false
+Checkered Wocky Plushie,3850,false
 Ghost Ogrin Plushie,46000,false
 Bright Green Whistle,47000,false
 Isca Plushie,1100000,true
@@ -1131,13 +1131,13 @@ Yellow Kacheek Yoyo,100000,false
 CMA Forrad Plushie,80000,false
 Velm Plushie,35000,false
 Sentient Tombstone Plushie,37500,false
-Ehlo Froyo Plushie,34700,false
+Ehlo Froyo Plushie,34300,false
 Silver Limited Edition Plushie Set,118000,false
 Green Doglefox Usuki Set,30500,false
 Lutari Gaming System,800,false
 Squeezy Tombola Guy Toy,43400,false
 Wind-Up Soldier,32200,false
-Valentines Grundo Plushie,19000,false
+Valentines Grundo Plushie,21300,false
 Orange Negg Plushie,1100000,true
 Spotted Kau Plushie,1100000,true
 Wraith Cybunny Plushie,11000,false
@@ -1153,10 +1153,10 @@ Jockey Usuki Set,41500,false
 Striped Skeith Plushie,49500,false
 Rorru Plushie,39000,false
 Chess on a Table,33200,false
-Senormalo Keyring Charm,41500,false
+Senormalo Keyring Charm,38700,false
 The Revenge Model Ship,31500,false
 Altador Golf Club,Inflation Notice,false
-Dirt Golem Neoquest Plushie,28900,false
+Dirt Golem Neoquest Plushie,24800,false
 Evil Twin Green Quiggle Plushie,63000,false
 Gargarox Gormball Action Figure,8000,false
 Illusen Beauty Bust,18200,false
@@ -1172,16 +1172,16 @@ Mutant Bruce Plushie,28000,false
 Mutant Chia Plushie,1100000,true
 NeoQuest II The Board Game,98000,false
 Maraquan Moehog Music Box,78500,false
-Kou-Jong Tiles Set,500,false
+Kou-Jong Tiles Set,1000,false
 Trick-Or-Treating Usuki,40000,false
 Plushie Kougra Plushie,23400,false
 van Doodle Plushie,30000,false
 Skull and Eye Toy,3625,false
 Strawberry Snowbunny Plushie,29900,false
-Faerie Brush Plushie,25000,false
+Faerie Brush Plushie,28000,false
 Foreman Buzz Plushie,38300,false
 Gold Ixi Plushie,26400,false
-Wallace Plushie,30500,false
+Wallace Plushie,21100,false
 White Bike,29000,false
 Binary Supagoo Plushie,40000,false
 Cloud Kacheek Plushie,120000,false
@@ -1189,21 +1189,21 @@ Magma Pool Guard Plushie,27500,false
 Magnetic Tiles Koujong Toy,28000,false
 Altador Cup Practice Team Play Set,29000,false
 Seasonal Pinchit Attack Pea Plushie,26000,false
-Planetary Billiards,45,false
+Planetary Billiards,250,false
 Red Bike,25000,false
 Carnivorous Plant Usuki,22500,false
 Darigan Poogle Plushie,18500,false
-E-Z See Crystal Ball,41000,false
+E-Z See Crystal Ball,29600,false
 Faerie Techo Plushie Collectable Charm,Inflation Notice,false
 Granny Hopbobbin Plushie,21100,false
 Halloween Zafara Puppet,115000,false
-Kikocat Keyring Charm,27000,false
+Kikocat Keyring Charm,22300,false
 Malum Bobblehead,15500,false
-Pink Babaa Plushie,17800,false
+Pink Babaa Plushie,17700,false
 Seasonal Attack Pea Plushie,14900,false
 Illusen Music Box,Inflation Notice,false
 Disco Nimmo Plushie,1100000,true
-Agog Keyring Charm,43700,false
+Agog Keyring Charm,43100,false
 Deluxe Baby Quiggle Plushie,35000,false
 Lesser Spotted Fish Plushie,30000,false
 Sheriffs Badge,12100,false
@@ -1216,9 +1216,9 @@ Assassin Plushie,14200,false
 Tangram Puzzle Piece Kite,52000,false
 Captain Tuan Plushie,1100000,true
 Luscious Lips,17000,false
-Altador Cup Lost Desert Snowglobe,28500,false
+Altador Cup Lost Desert Snowglobe,Inflation Notice,false
 Angry Xandra Bobblehead,25000,false
-Baby Blumaroo Plushie,400,false
+Baby Blumaroo Plushie,220,false
 Basic Paint Blob Plushies,26400,false
 Brass Gear Goggles,16600,false
 Cheery Holiday Bruce Goodie Bag,8250,false
@@ -1243,8 +1243,8 @@ Shadow Draik Plushie,35700,false
 Pirate Gnorbu Plushie,16600,false
 Usul Head Spring Toy,17500,false
 Abominable Snowball Bobblehead,14000,false
-Christmas Babaa Plushie,14500,false
-Kentari Plushie,24900,false
+Christmas Babaa Plushie,12500,false
+Kentari Plushie,49500,false
 Mystery Island Dominoes,15000,false
 Princess Amira Action Figure,74000,false
 Tyrannian Tuskaninny Plushie,1100000,true
@@ -1280,13 +1280,13 @@ Grappling Hook,16000,false
 Talek Plushie,14300,false
 Nature Lover Usuki,20000,false
 Halloween Voodoo Puppet,28000,false
-Punchbag Bob Target Plushie,100,false
+Punchbag Bob Target Plushie,14,false
 Speckled Ixi Plushie,19000,false
 Gardener Girl Usuki,Inflation Notice,false
 Battle 4 Meridell Game,1000,false
 Blue Meerca Chase Plushie,14800,false
 Bruno Quiguki,22500,false
-Cherub Xweetok Plushie,8450,false
+Cherub Xweetok Plushie,4950,false
 DJ Skellington plushie,38000,false
 Faerie Ixi Plushie,21900,false
 Illusen Fan Grarrl Plushie,15900,false
@@ -1295,12 +1295,12 @@ Miss Rainbow Building Block Figurine,Inflation Notice,false
 Mr Coconut Cradle Desk Toy,Inflation Notice,false
 Mutant Yurble Plushie,300,false
 Negg Pairs Puzzle,25000,false
-Pinchit Collectable Charm,1100,false
+Pinchit Collectable Charm,2100,false
 Pirate Krawk Plushie,109000,false
 Purple Kougra Plushie,46000,false
 Red Meerca Chase Plushie,6000,false
 Spotted Uni Plushie,120000,false
-Tooth Faerie Racer,7900,false
+Tooth Faerie Racer,20000,false
 Valentines Hasee Plushie,8250,false
 Vinyl Darigan Draik Toy,21500,false
 Darigan Grarrl Plushie,18000,true
@@ -1315,9 +1315,9 @@ Swabbie Plushie,26500,false
 Hoban Plushie,23200,false
 Lenny Smuggler Plushie,1100000,true
 My Favourite Grundo Plushie,33800,false
-Ramtor the Advisor Plushie,19000,false
+Ramtor the Advisor Plushie,20300,false
 Snot Quiggle Plushie,18000,false
-Lucky Die,13200,false
+Lucky Die,12000,false
 Anubis Thief Plushie,16000,false
 Brown Aisha Plushie,5000,false
 Chocolate Cybunny Plushie,34800,false
@@ -1335,23 +1335,23 @@ Gutterfoot Plushie,18500,false
 Holiday Ghost Marshmallow Garland,9900,false
 Palace Guard Plushie,50000,false
 Senormalo Plushie,20000,false
-Captain Rourke Plushie,950,false
+Captain Rourke Plushie,230,false
 False Finger Nail,7100,false
-Leather Bodice,16100,false
+Leather Bodice,12500,false
 Adee Plushie,18000,false
 Spooky Skull Igloo,24400,false
 Blue Meerca Yoyo,20000,false
 Disco JubJub Plushie,1100000,true
 Esophagor Plushie,1100000,true
 Jar of Pickles Plushie,5850,false
-Mutant Uni Plushie,280,false
+Mutant Uni Plushie,95,false
 Ruki Balloon,890,false
 Twin Kiko Plushies,15500,false
 Birthday Buzz Plushie,19800,false
 Darigan Aisha Action Figure,14000,false
 Maraquan Gelert Plushie,24900,false
-Autumn Princess Usuki,4000,false
-Darigan Pteri Collectable Figurine,13000,false
+Autumn Princess Usuki,4950,false
+Darigan Pteri Collectable Figurine,12300,false
 Evil Eldest Drenched Sister Plushie,17500,false
 Fluffy Kau Tail,12000,false
 Iceman Building Block Figurine,Inflation Notice,false
@@ -1380,7 +1380,7 @@ Pyramid Shaped Gift Bag,22100,false
 Rattle Hissi Tail,14400,false
 Shumi Plushie,31600,false
 Valentines Ona Plushie,5650,false
-Dire Lupe Neoquest Plushie,15500,false
+Dire Lupe Neoquest Plushie,13300,false
 Purple Korbat Kite,10000,false
 Seasonal Gift Box,6800,false
 Candy Aisha Plushie,9400,false
@@ -1389,11 +1389,11 @@ Mauket Plushie,1100000,true
 Vinyl Darigan Mynci Toy,9450,false
 Darigan Vacana Plushie,1100000,true
 Pirate Nimmo Plushie,14400,false
-Usuki Spring Basket,88000,false
+Usuki Spring Basket,86000,false
 Darigan Carmariller Plushie,13400,false
 Eyeball Halloween Goodie Bag,13000,false
 Festive Stocking,15000,false
-Zombie Buzz Plushie,22500,false
+Zombie Buzz Plushie,19800,false
 JubJub Moltara Inventor Shoes,14300,false
 Metallic Draik Tail,14000,false
 Baby Ruki Plushie,8500,false
@@ -1403,18 +1403,18 @@ Cute n Creepy Trick-or-Treat Bag,22000,false
 Dark Villain Usuki Doll,7500,false
 Easter Bunny Quiguki,7000,false
 Faerie Flotsam Plushie,11800,false
-Funky Diva Usuki,8950,false
+Funky Diva Usuki,6900,false
 Grundo in Space Figurine,49400,false
-Hydra Draik Tail,22600,false
+Hydra Draik Tail,23500,false
 Illusen in a Snowglobe,10000,false
 Island Ogrin Plushie,63000,false
 Meowclops Trick-or-Treat Bag,21500,false
-Metallic Hissi Arms,7200,false
+Metallic Hissi Arms,7100,false
 Pirate Fuzzle,13300,false
 Rainbow Worm Plushie,8050,false
 Royal Girl Bori Plushie,9350,false
 Royal Girl Ixi Plushie,1100000,true
-The Cursed Claymaker Plushie,20800,false
+The Cursed Claymaker Plushie,17000,false
 Topsi Plushie,13800,false
 Wheeler Plushie,18000,false
 White Anubis Plushie,20000,false
@@ -1443,14 +1443,14 @@ Lupe Blue Rope Toy,12000,false
 Chia Shaped Eraser,6900,false
 Emerald Queen Usuki Doll,14300,false
 Neopets 10th Birthday Chia Plushie,19400,false
-Plushie Bori Plushie,11000,false
+Plushie Bori Plushie,19500,false
 Respirator Work Mask,11500,false
 Snowpetpetpet,9000,false
 Special Limited Edition Fair Maiden Quiguki Doll,14500,false
-Starry Skeith Plushie,2750,false
+Starry Skeith Plushie,1800,false
 Darigan Eyrie Cracker,10300,false
 Giant Oversized Symol Plushie,19900,false
-Plumpy Plushie,9500,false
+Plumpy Plushie,250,false
 Brown Lenny Plushie,32900,false
 Chia Attack Spring,18000,false
 Malevolent Fungus Plushie,1100000,true
@@ -1460,9 +1460,9 @@ Gold Evil Fuzzle,38600,false
 Blue Pull Along Turtum,9800,false
 Invisible Petpet Leash,15000,false
 Darigan Yurble Plushie,13800,false
-Fake Tattoo,9700,false
-Island JubJub Plushie,18500,false
-Super Soft Orange Plushie,1225,false
+Fake Tattoo,7350,false
+Island JubJub Plushie,24200,false
+Super Soft Orange Plushie,4300,false
 Usuki Lawyerbot Play Set,13000,false
 Broken Springy Green Slorg,5000,false
 Earthy Usuki,19000,false
@@ -1480,8 +1480,8 @@ Island Gelert Plushie,24100,false
 Maraquan Kyrii Plushie,13000,false
 Mutant Grundo Plushie,4700,false
 Pink Scorchio Plushie,15500,false
-Rainbow Slorg Plushie,7200,false
-Skellectrus Action Figure,10000,false
+Rainbow Slorg Plushie,7000,false
+Skellectrus Action Figure,100,false
 Striped Meerca Plushie,16300,false
 Vinyl Darigan Cybunny Toy,128000,false
 Yellow Party Hat,10800,false
@@ -1489,7 +1489,7 @@ Halloween Kacheek Plushie,10200,false
 Maraquan Eyrie Plushie,13700,false
 Snow Beast Plushie,9400,false
 Coffee Shopkeeper Plushie,9300,false
-Darigan Hippalop Plushie,10900,false
+Darigan Hippalop Plushie,9000,false
 Ghost Draik Plushie,5950,false
 Purple Buzz Plushie,11000,false
 Starry Buzz Plushie,1100000,true
@@ -1516,11 +1516,11 @@ Maraquan Golf Club,Inflation Notice,false
 Royalgirl Flotsam Plushie,12800,false
 Darigan Mynci Plushie,13800,false
 Donny Plushie,14300,false
-Dice-n-Ruki Board Game,8950,false
+Dice-n-Ruki Board Game,7800,false
 Royal Boy Bori Plushie,12000,false
 Slalom Usuki Set,Inflation Notice,false
-Tyrannian JubJub Plushie,13000,false
-Plastic Ring,1850,false
+Tyrannian JubJub Plushie,Inflation Notice,false
+Plastic Ring,1450,false
 Abominable Snowball Keyring,9000,false
 Altador Cup Commentators Puppet Theatre,11900,false
 Black Evil Fuzzle,11600,false
@@ -1534,15 +1534,15 @@ Faerie Lutari Plushie,12900,false
 Golden Goparokko Staff Plushie,3825,false
 Golden Robot Sandan Plushie,9000,false
 Halloween Bruce Plushie,11000,false
-Hubrid Nox Treasure Chest,18900,false
+Hubrid Nox Treasure Chest,16300,false
 Lupe Red Rope Toy,11000,false
 MAGAX Action Figure,24500,false
 Rainbow Gelert Plushie,15000,false
-Rower Plushie,13000,false
+Rower Plushie,13300,false
 Spotted Fuzzle,2975,false
 Thyassa Plushie,9600,false
-Vampire Mouth with Fangs,9000,false
-Year 5 Usuki,47500,false
+Vampire Mouth with Fangs,5000,false
+Year 5 Usuki,7300,false
 Green Ixi Plushie,9900,false
 Maractite Lutari Plushie,13500,false
 Quiguki Boy Plushie,11800,false
@@ -1562,8 +1562,8 @@ Ona Puppet,14800,false
 Pink Worm Plushie,14400,false
 Plushie Korbat Plushie,15300,false
 Red Yurble Plushie,12600,false
-Royalboy Flotsam Plushie,10200,false
-Wind Up Illusen Doll,Inflation Notice,false
+Royalboy Flotsam Plushie,10500,false
+Wind Up Illusen Doll,27500,false
 Commentator Boxing Toy,10000,false
 Deluxe Gwyl Plushie,11300,false
 Halloween Grarrl Plushie,9500,false
@@ -1577,14 +1577,14 @@ Ghost Goldy Bath Toy,48400,false
 Zombie Acara Plushie,9700,false
 Maraquan Shoyru Float Ring,6600,false
 Skeith Cutlery,4875,false
-Baby Flotsam Plushie,17800,false
+Baby Flotsam Plushie,Inflation Notice,false
 Christmas Kougra Plushie,4950,false
-Collectors Edition Quiguki Girl Plushie,19300,false
+Collectors Edition Quiguki Girl Plushie,19900,false
 Cybunny Wind Up Toy,2000,false
 Fire Tonu Plushie,11000,false
 Hasee Shaped Balloons,49900,false
 Ivy Building Block Figurine,Inflation Notice,false
-Jelly Chomby Plushie,9050,false
+Jelly Chomby Plushie,Inflation Notice,false
 Judge Hog Kite,11000,false
 Kastraliss Action Figure,15000,false
 Kavennagh Plushie,10400,false
@@ -1608,7 +1608,7 @@ Blue Scorchio Plushie,13500,false
 Jazzmosis Blumaroo Plushie,15000,false
 Partially Inflated Yooyu Beach Ball,7500,false
 Pirate Ruki Plushie,13000,false
-Pirate Tuskaninny Plushie,14700,false
+Pirate Tuskaninny Plushie,8300,false
 Spring-A-Roo,11000,false
 NeoCola Plushie,1000,false
 Shadow Flotsam Plushie,10600,false
@@ -1632,14 +1632,14 @@ Lady Osiri Plushie,10700,false
 Shoyru with Flatfruit Plushie,13000,false
 Usuki Puppyblew Set,46700,false
 Whinny Plushie,11000,false
-Bika Collectable Charm,6250,false
+Bika Collectable Charm,10000,false
 Black Doglefox Plushie,33200,false
 Metallic Draik Body,10000,false
 Halloween Mummy Octopus,17800,false
 Moltara Citizen Gelert Trousers,9000,false
 Abigail Usuki,15000,false
 Aesop Building Block Figurine,36200,false
-Battle Faerie Usuki,11400,false
+Battle Faerie Usuki,25000,false
 Camouflage Ruki Plushie,7200,false
 Chocolate Ogrin Plushie,11400,false
 Count von Roo Plushie,3225,false
@@ -1656,7 +1656,7 @@ Fire Fighter Badge,11000,false
 Fluffy Kau Hooves,14700,false
 Frozen Spardel Plushie,7650,false
 Glyme Collectable Charm,Inflation Notice,false
-Goparokko Plushie,8400,false
+Goparokko Plushie,6450,false
 Greek Goddess Usuki,8500,false
 Green Bead Bracelet,8000,false
 Grey Korbat Plushie,12400,false
@@ -1668,15 +1668,15 @@ Maraquan Bruce Plushie,14500,false
 Meridellian Toy Labyrinth,7000,false
 Metal Spikes Krawk Tail,7050,false
 Metallic Draik Wings,12900,false
-Metallic Hissi Head,8250,false
+Metallic Hissi Head,9700,false
 NeoQuest II Tent,14000,false
 Pirate Blumaroo Plushie,4950,false
 S750 Kreludan Defender Robot Figurine,33300,false
-Sho Codestone Plushie,6900,false
+Sho Codestone Plushie,6500,false
 Silver Scooter,10300,false
 Smug Bug Plushie,10000,false
 Split Bruce Plushie,7750,false
-Stealthy Techo Plushie,12500,false
+Stealthy Techo Plushie,12400,false
 Success Pending Hopping Hasee Toy,32000,false
 Time Traveller Peophin Watch,9000,false
 Toy Shop Shopkeeper Plushie,11600,false
@@ -1684,7 +1684,7 @@ Unknown Building Block Figurine,31500,false
 Usuki Bakery Set,21000,false
 Valentine Wocky Plushie,2500,false
 Yellow Tonu Plushie,10300,false
-Kaia Quiguki,3000,false
+Kaia Quiguki,95,false
 Mutant Moehog Plushie,2300,false
 Air Faerie Charm,16700,false
 Halloween Lenny Plushie,18000,false
@@ -1703,7 +1703,7 @@ Wraith Nimmo Plushie,7900,false
 Grundo Pinata,13000,false
 Snow Buzz Plushie,6650,false
 Snowflake Stocking,23000,false
-Abigail Sock Puppet,45000,false
+Abigail Sock Puppet,44900,false
 Baby Chia Plushie,19200,false
 Island Aisha New Years Cracker,1450,false
 Moltaran Inventor Kau Trousers,8000,false
@@ -1714,7 +1714,7 @@ Quarter Master Plushie,8950,false
 Rigger Plushie,11900,false
 Shadow Moehog Plushie,6250,false
 Koi Kite,18900,false
-Pirakeet Plushie,7550,false
+Pirakeet Plushie,9600,false
 Purple Wocky Plushie,9450,false
 Fly Fishing Usuki,5300,false
 Grarrl Blacksmith Boots,9100,false
@@ -1722,7 +1722,7 @@ Milo Plushie,17400,false
 Binary Supagoo Building Block Figurine,40400,false
 Brown Uni Plushie,30000,true
 Darigan Wocky Action Figure,13800,false
-Disco Peophin Plushie,8000,false
+Disco Peophin Plushie,8450,false
 Golden Grundo Thief Plushie,8950,false
 Green Koi Keyring,8400,false
 Jazzmosis Kyrii Plushie,9300,false
@@ -1736,23 +1736,23 @@ Rizzard Building Block Figurine,Inflation Notice,false
 Museum Grarrl Head,5450,false
 Usuki Birthday Set,7500,false
 Darigan Hasee Ball,6250,false
-Wind-Up Snowbunny,200,false
+Wind-Up Snowbunny,15,false
 Darigan Flotsam Collectable Figurine,9350,false
 Hug-A-Kass Plushie,6800,false
 Island Mystic Plushie,12000,false
 Lenny Smuggler Springy Toy,10000,false
-Metallic Hissi Fangs,9600,false
+Metallic Hissi Fangs,9500,false
 Snow Ghostkerchief Plushie,8100,false
 Baby Meerca Bobble Tail,7200,false
 Desert Cybunny Plushie,10800,false
 Grass Surrounding JubJub,11200,false
 JubJub Crafting Kit,7750,false
 Lilian Fairweather Action Figure,7000,false
-Mutant Flotsam Plushie,10500,false
+Mutant Flotsam Plushie,26800,false
 Neon Skeleton Lutari Plushie,13900,false
-Tyrannian Cybunny Plushie,9000,false
+Tyrannian Cybunny Plushie,17000,false
 Blumaroo Gnome Making Kit,17900,false
-Shadow Cybunny Plushie,9150,false
+Shadow Cybunny Plushie,9250,false
 Darigan Kacheek Action Figure,12000,false
 Darigan Moehog Action Figure,6300,false
 Moltaran Fashion Eyrie Skirt,11500,false
@@ -1768,11 +1768,11 @@ Darigan Candychan Plushie,8250,false
 Darigan Gallion Plushie,7750,false
 Deluxe Angel Usuki,6500,false
 Faerie Kiko Plushie,8550,false
-Faerie Skeith Plushie,7900,false
+Faerie Skeith Plushie,9000,false
 Isca Kite,2900,false
-Kew Codestone Plushie,7850,false
+Kew Codestone Plushie,7700,false
 King Altador Valentine Bobblehead,31300,false
-Metallic Hissi Body,7750,false
+Metallic Hissi Body,9350,false
 Old Fashioned Camera,3250,false
 Peach Gold Chia Plushie,3850,false
 Peg Leg Percival Plushie,9600,false
@@ -1784,7 +1784,7 @@ Shadow Krawk Plushie,9650,false
 Valentine JubJub Plushie,5750,false
 Vinyl Darigan Jetsam Toy,6250,false
 Yooyu Marionette,Inflation Notice,false
-Anubis Plushie,9450,false
+Anubis Plushie,6650,false
 Plastic Gem Ring,2400,false
 Sleepy Neopet Blanket,6250,false
 Vux Codestone Plushie,9300,false
@@ -1796,7 +1796,7 @@ Jeran Usuki Set,Inflation Notice,false
 Kaia Bobblehead,5900,false
 Old School Noise Maker,7500,false
 Pink Lenny Plushie,23000,false
-Pirate Helmswoman Plushie,5900,false
+Pirate Helmswoman Plushie,4125,false
 Pyramid Building Blocks,8500,false
 Spellseeker Wizard Plushie,12000,false
 Squire Venable,8650,false
@@ -1810,7 +1810,7 @@ Rainbow Eyrie Wings,8000,false
 Royal Girl Yurble Plushie,9350,false
 Sponge Cybunny Plushie,28000,false
 Vira Plushie,1100000,true
-Wooden Golf Club,100,false
+Wooden Golf Club,40,false
 Faerie Slorg Pull Along Toy,8300,false
 Time Traveller Peophin Hat,9500,false
 Un-Valentines Flotsam Plushie,9750,false
@@ -1835,13 +1835,13 @@ Zafara Bopper,4550,false
 Balthazar Action Figure,8800,false
 Gear Spectacle,5750,false
 Lab Jelly Plushies,8250,false
-Lost City Lanes Bowling Pin Plushie,15000,false
+Lost City Lanes Bowling Pin Plushie,16500,false
 Magma Moehog Plushie,10000,false
 Maraquan Grarrl Squirty Toy,9800,false
 Meuka Action Figure,3300,false
 Moltara Citizen Gelert Jacket,8250,false
-Snowager Plushie,9700,false
-Zed Codestone Plushie,7800,false
+Snowager Plushie,7500,false
+Zed Codestone Plushie,9000,false
 Baby Eyrie Plushie,14400,false
 Cloud Florg Plushie,11500,false
 Dancing Bank Manager,2750,false
@@ -1850,8 +1850,8 @@ Mutant Fungus Among Us,7900,false
 Shadow Aisha Plushie,7300,false
 Cherub Acara Plushie,10000,false
 Draik Water Tail,7300,false
-Baron Goldnose Plushie,7100,false
-Draik Plant Tail,4750,false
+Baron Goldnose Plushie,7200,false
+Draik Plant Tail,7600,false
 Mutant Ruki Plushie,6800,false
 Neopian Second-Hand Shoppe Shopkeeper Plushie,7600,false
 Purple Korbat Plushie,30000,true
@@ -1863,7 +1863,7 @@ Weirdough Building Block Figurine,46300,false
 Doglefox Plushie,11400,false
 Gelert Squeaky Bone,4000,false
 Gifn Plushie,7500,false
-Heart Shaped Charm,1400,false
+Heart Shaped Charm,1200,false
 Suteks Tomb Garland,12000,false
 Geared Up Grundo Shirt,9000,false
 Gunner Plushie,6650,false
@@ -1877,11 +1877,11 @@ Cannonmaster Plushie,4600,false
 Christmas Grundo Thief Plushie,5000,false
 Darigan Scorchio Castle Set,23400,false
 Faerie Aisha Plushie,6600,false
-Frozen Balthazar Plushie,10400,false
+Frozen Balthazar Plushie,10200,false
 Geisha Girl Usuki,6500,false
 Green Tonu Plushie,8250,false
 Ice Crystal Shopkeeper Plushie,11000,false
-Mag Codestone Plushie,7200,false
+Mag Codestone Plushie,7100,false
 Mecha Ruki Head,4375,false
 Mootix Marbles,8450,false
 Museum Grarrl Body,7000,false
@@ -1898,7 +1898,7 @@ Roxton A Colchester III Plushie,9000,false
 Sergeant Brexis Action Figure,7500,false
 Starry Ixi Plushie,9000,false
 Valentines Cybunny Plushie,4400,false
-Yellow Meerca Chase Plushie,4850,false
+Yellow Meerca Chase Plushie,4575,false
 Blue Nimmo Cracker,4950,false
 Bruno Usuki,6200,false
 Darigan Buzz Plushie,1100000,true
@@ -1925,27 +1925,27 @@ Sparkling Seasonal Stocking,7000,false
 Un-Valentines Koi Plushie,8500,false
 Valentines Blugar Plushie,7800,false
 Aisha Birthday Plushie,13200,false
-Bori Snowglobe,490,false
+Bori Snowglobe,450,false
 Broken Fake Kass Charm,8400,false
 Deluxe Blue Uni Plushie,9500,false
-Hairy Tash,5450,false
+Hairy Tash,4350,false
 Ixi Ice Horns,4000,false
 Metal Spikes Krawk Teeth,8250,false
 Uni Booster Pack,5850,false
 Vinyl Darigan Techo Toy,94500,false
 Mecha Ruki Antennae,7500,false
-Sausage Plushie,400,false
+Sausage Plushie,100,false
 Snowbunny Plushie,4800,false
 Tasu Solar Toy,10000,false
-Tavi Plushie,93000,false
-Techo Mummy Monster Plushie,4025,false
+Tavi Plushie,22200,false
+Techo Mummy Monster Plushie,4000,false
 Water Eyrie Wings,6450,false
 Corbin & Kell Bobblehead,2875,false
 Krawk Axe Wielder Costume Toy Axe,Inflation Notice,false
 Robot Gelert Plushie,7350,false
 Checkered Peophin Plushie,8800,false
 Darigan Cybunny Plushie,7150,false
-Desert Peophin Plushie,5500,false
+Desert Peophin Plushie,8600,false
 Faerie Zafara Plushie,3250,false
 Geared Up Grundo Goggles,8250,false
 Spunky Adventurer Meerca Boots,9000,false
@@ -1956,7 +1956,7 @@ Gummy Blocks Executive Desk Toy,8650,false
 Halloween Kau Plushie,7500,false
 Halloween Yurble Plushie,4775,false
 Hasee Balloon,8000,false
-Jelly Cybunny Plushie,8400,false
+Jelly Cybunny Plushie,8050,false
 Luperus Lupe Body,8450,false
 Mate Plushie,9300,false
 Moltaran Fashion Eyrie Wing Plates,8450,false
@@ -1965,7 +1965,7 @@ Mutant Cybunny Plushie,6500,false
 Mutant Grarrl Plushie,9000,false
 Mutant JubJub Plushie,5800,false
 Number 2 Plushie,7500,false
-Pygui Cap,8350,false
+Pygui Cap,Inflation Notice,false
 Red Meerca Plushie,9000,false
 Reject Valentine Lutari Plushie,5400,false
 Robot Hissi Plushie,14400,false
@@ -1973,7 +1973,7 @@ Scorchio Mummy Monster Plushie,4800,false
 Spunky Adventurer Meerca Gloves,10700,false
 Sunpotato Building Block Figurine,Inflation Notice,false
 Surprised Baby Cybunny Plushie,8350,false
-Un-Valentines Tonu Plushie,4800,false
+Un-Valentines Tonu Plushie,2375,false
 Usuki Easter Outfit,7600,false
 Usuki Forest Hunter Set,6150,false
 Electric Korbat Plushie,12000,false
@@ -2022,8 +2022,8 @@ Sloth Toy Box,6500,false
 Destruct-O-Match Stacking Blocks,6750,false
 TNT Staff Smasher Board Game,11900,false
 Useful Crystal,4500,false
-Wind Up Gelert,8000,false
-Yellow Meerca Plushie,8000,false
+Wind Up Gelert,7850,false
+Yellow Meerca Plushie,8500,false
 Baby Buzz Plushie,6000,false
 Baby Grundo Plushie,6500,false
 Blue Negg Plushie,14000,false
@@ -2031,7 +2031,7 @@ Boochi Pinata,3625,false
 Coconut JubJub Plushie,14500,false
 Court Dancer Tambourine,3000,false
 Darigan Uniocto Flipball,9900,false
-Empress Elephante Toy,3800,false
+Empress Elephante Toy,3450,false
 Fancy Ball Mask,7000,false
 Farvin III Usuki,8700,false
 Fire Peophin Plushie,7900,false
@@ -2048,7 +2048,7 @@ Mystery Island Snowglobe,9850,false
 Navibot Plushie,4400,false
 Nimmo Fly Swatter,10400,false
 Number 3 Plushie,1100000,true
-Pink Faellie Plushie,6200,false
+Pink Faellie Plushie,6700,false
 Pink Usul Plushie,5400,false
 Plastic Pocket Mirror,3000,false
 Plushie Kiko Plushie,7000,false
@@ -2065,7 +2065,7 @@ Valentine Grarrl Plushie,10000,true
 Wingoball Game Board,7000,false
 Xampher Plushie,14800,false
 Electric Lupe Plushie,9900,false
-Grey Gnorbu Plushie,8950,false
+Grey Gnorbu Plushie,8200,false
 Poogle Bubble Blower,5500,false
 Scratchcard Wocky Usuki,6200,false
 Shadow Chomby Plushie,8400,false
@@ -2073,7 +2073,7 @@ Baby Aisha New Years Cracker,1200,false
 Borovan Time Zafara Plushie,6600,false
 Candychan Plushie,5600,false
 Draik Fire Wings,6500,false
-Draik Plant Wings,7600,false
+Draik Plant Wings,7550,false
 Maractite Aisha Plushie,7700,false
 Moltaran Inventor Kau Hat,8550,false
 Squishy Lenny Toy,3900,false
@@ -2109,7 +2109,7 @@ Island Meerca plushie,2950,false
 Mystery Island Puzzle Box,6000,false
 Orange Usul Suspects Plushie,5050,false
 Pacha Plushie,5500,false
-Plushie Gelert Plushie,150,false
+Plushie Gelert Plushie,400,false
 Mutant Lutari Action Figure,6550,false
 Angry Royal Boy Aisha Plushie,7000,false
 Cassiles Riverboard Plushie,5700,false
@@ -2127,8 +2127,8 @@ Fire Kau Plushie,6300,false
 Flotato Plushie,4525,false
 Green Usul Suspects Plushie,8000,false
 Gwyl Parachuting Toy,7200,false
-Har Codestone Plushie,7050,false
-Ixi Crystal Horns,6000,false
+Har Codestone Plushie,7150,false
+Ixi Crystal Horns,5850,false
 Ixi Ice Tail,4450,false
 Jhudora Music Box,6750,false
 JubJub Moltara Inventor Jacket,8850,false
@@ -2146,32 +2146,32 @@ Borovan Time Grundo Plushie,3750,false
 Fire Brush Plushie,4600,false
 Snotty Golf Club,3200,false
 Watermelon Slice Plushie,7500,false
-Lutari Metal Wanderer Feet,11000,false
+Lutari Metal Wanderer Feet,7500,false
 Pink Skeith Plushie,10000,false
 Darigan Acara Balloon,9500,false
 Elegant Gear Boots,5000,false
 Magma Poogle Plushie,4950,false
 Siyana and Lunara Bobblehead Set,9000,false
-Spunky Adventurer Meerca Belt,8700,false
+Spunky Adventurer Meerca Belt,7950,false
 TNT Nesting Doll Set,4100,false
 Black Slorg Plushie,5950,false
 Desert Kau Plushie,6450,false
 Momba Plushie,6800,false
 Polka Dot Beach Ball,8050,false
 Red Tonu Plushie,6150,false
-Valentine Nimmo Plushie,7900,false
+Valentine Nimmo Plushie,3500,false
 Blumaroo Scaly Tail,5100,false
 Broken Pull Along Snowbunny,5800,false
 Island Chomby Plushie,6800,false
 Sloth Bullseye Board,7550,false
 Virtupets Altador Cup Flying Disc,9400,false
-Wind Up Green Draik Toy,4250,false
+Wind Up Green Draik Toy,4075,false
 Usul Blacksmith Outfit,6950,false
 Colourful Charms - Set 2,5850,false
 Darigan Moehog Plushie,8600,false
 Electric Aisha Plushie,8200,false
 Electric Kougra Plushie,9000,false
-Eventide Uni Plushie,6050,false
+Eventide Uni Plushie,3900,false
 Pink Doglefox Plushie,12000,false
 Plushie Mynci Plushie,7300,false
 Zombie Eyrie Plushie,5000,false
@@ -2181,7 +2181,7 @@ Angry Green Usul Keyring,1500,false
 Baby Draik Plushie,11500,false
 Baby Ogrin Plushie,8950,false
 Checkered Garlic JubJub Plushie,7450,false
-Cui Codestone Plushie,6000,false
+Cui Codestone Plushie,9450,false
 Deluxe Island Quiggle Plushie,7900,false
 Galaxy Grundo Eyes,3500,false
 Geraptiku Cooking Pot,4750,false
@@ -2190,10 +2190,10 @@ Grey Eyrie Plushie,6150,false
 Halloween Chomby Plushie,4775,false
 Jazzmosis Grarrl Plushie,6800,false
 King Hagan Usuki,6900,false
-Lilian Fairweather Usuki Doll,5750,false
+Lilian Fairweather Usuki Doll,5500,false
 Lost Isle Usuki Set,2100,false
 Mecha Ruki Top,4050,false
-Negg Faerie Usuki Doll,6800,false
+Negg Faerie Usuki Doll,6400,false
 Pink Ixi Plushie,4675,false
 Pizza Plushie,5600,false
 Rainy Day Grarrl Plushie,4250,false
@@ -2209,7 +2209,7 @@ Vinyl Darigan JubJub Toy,7250,false
 White Ruki Plushie,7900,false
 Wraith Techo Plushie,6450,false
 Checkered Pteri Plushie,8700,false
-Desert Tonu Plushie,4850,false
+Desert Tonu Plushie,4575,false
 Electric Acara Plushie,6350,false
 Glowing in the Dark Eyes,2300,false
 Halloween Tonu Balloon,5950,false
@@ -2229,7 +2229,7 @@ Fire Eyrie Ruff,3225,false
 Floral Nature Charm,3575,false
 Ghost Hissi Plushie,3950,false
 Grand Commander Plushie,6450,false
-Imposter Apple Collectable Charm,3600,false
+Imposter Apple Collectable Charm,15000,false
 Island Slorg Plushie,5250,false
 Jack-o-Lantern Mouth,4850,false
 Mr. Sandman,4500,false
@@ -2256,7 +2256,7 @@ Pink Curly Shell Plushie,4875,false
 Pirate Avenger Plushie,2800,false
 Rainbow Eyrie Ruff,5600,false
 Relic Mynci Plushie,5900,false
-Scorchio Birthday Plushie,4050,false
+Scorchio Birthday Plushie,16900,false
 Yellow Buzzer Plushie,4800,false
 Blue Kadoatie Plushie,4000,false
 Darigan Chomby Pull Along Toy,2800,false
@@ -2305,22 +2305,22 @@ Snow Ogrin Plushie,6700,false
 Striped JubJub Plushie,1100000,true
 Striped Koi Plushie,3900,false
 Topsi Usuki Doll,4400,false
-Wind-Up Polka Dot Lenny,1925,false
-Wooden Toy Box,5050,false
+Wind-Up Polka Dot Lenny,75,false
+Wooden Toy Box,4800,false
 Worm Squirty Toy,7000,false
 Wraith Kougra Plushie,270,false
 Advent Calendar,2900,false
 Carassa Plushie,4100,false
 Cloud Moehog Plushie,4550,false
 Dr. Sloth Key Quest Figurine,3825,false
-Peachpa Plushie,6200,false
+Peachpa Plushie,6650,false
 Plant Bori Claws,4300,false
 Robot Moehog Plushie,4600,false
 Angry Cupid Elephante Plushie,4750,false
 Cubefish Plushie,5200,false
 Darigan Dartboard,3100,false
 Pirate Slorg Plushie,7900,false
-Powtry Usuki Set,4875,false
+Powtry Usuki Set,4800,false
 Rainbow Yurble Plushie,9200,false
 Tea Time Usuki,3350,false
 Techo Fire Tail,3450,false
@@ -2335,10 +2335,10 @@ Robot Kougra Plushie,5100,false
 Usuki Negg Painting Set,3975,false
 Grey Koi Plushie,4450,false
 Ixi Crystal Tail,4000,false
-Super Blue Poogle Toy,5250,false
+Super Blue Poogle Toy,4050,false
 Tekel Plushie,3750,false
 Usuki Beauty Set,4500,false
-Baby Wocky Plushie,3300,false
+Baby Wocky Plushie,3200,false
 Glowing Draik Plushie,4850,false
 Maraquan Meerca Plushie,6900,false
 Maraquan Sergeant Plushie,3900,false
@@ -2346,7 +2346,7 @@ Neocola Machine Plushie,4450,false
 Orange Skeith Plushie,10400,false
 Purple Ruki Plushie,4825,false
 Starry Lupe Plushie,12000,false
-Yellow Peophin Plushie,5950,false
+Yellow Peophin Plushie,16000,false
 Baby Rattle,4600,false
 Chia Bomber Plushie,3750,false
 Commander Flint Action Figure,6750,false
@@ -2359,7 +2359,7 @@ Indestructible Bubble Toy,3900,false
 Moltaran Inventor Kau Goggles,8650,false
 Skarls Personal Guard Plushie,7000,false
 Underwater Turdle Usuki Set,4000,false
-Baby Lenny Plushie,15000,false
+Baby Lenny Plushie,6500,false
 Baby Moehog Plushie,4375,false
 Baby Usul Plushie,4475,false
 Bendy Sword of Skardsen,Inflation Notice,false
@@ -2397,7 +2397,7 @@ One Eyed Negg Monster Wind-up Toy,4000,false
 Orange Buzz Plushie,5550,false
 Phnard Plushie,5000,false
 Photographer Usuki,3350,false
-Plushie Blumaroo Plushie,3350,false
+Plushie Blumaroo Plushie,4225,false
 Red Peophin Plushie,5000,false
 Reject Valentine Xweetok Plushie,2500,false
 Selket Plushie,5000,false
@@ -2421,14 +2421,14 @@ Starry JubJub Plushie,22000,false
 Talking Korbat Plushie,2975,false
 Kyrii Fire Hair,2800,false
 NeoQuest II Mug,3900,false
-Orange Plushie,4925,false
+Orange Plushie,18500,false
 Plant Bori Body,2800,false
 Robo Pull Along Ixi,4450,false
 Spotted Evil Fuzzle,3500,false
 White Gnorbu Plushie,5650,false
 Cabin Boy Plushie,8200,false
 Large Tonu Ball,4150,false
-Blue Polarchuck Plushie,3900,false
+Blue Polarchuck Plushie,3000,false
 Blue Pteri Keyring,3000,false
 Cybunny Stocking,2575,false
 Darigan Carmariller Paddleball Game,3725,false
@@ -2456,28 +2456,28 @@ Pretzel Plushie,5850,false
 Rainbow Cybunny Balloon,8000,false
 Turmac Bank,3800,false
 Woodland Cybunny Plushie,5850,false
-Green Techo Gnome Plushie,4875,false
-Pirate Meerca Plushie,4900,false
+Green Techo Gnome Plushie,7800,false
+Pirate Meerca Plushie,4400,false
 Blumaroo Plant Tail,4600,false
-Bri Codestone Plushie,6950,false
+Bri Codestone Plushie,5900,false
 Broken Wooden Gelert Toy,3500,false
 Evil Fuzzles Plushie,1500,false
 Un-Valentines Shoyru Plushie,4450,false
-Broken Dancing Jerdana Music Box,1000,false
+Broken Dancing Jerdana Music Box,4500,false
 Fruit Machine Kau Plushie,3425,false
-Island Koi Plushie,4550,false
+Island Koi Plushie,3950,false
 Lutari Metal Wanderer Cork Gun,12000,false
 Starry Chomby Plushie,5200,false
-Blue Scooter,5450,false
+Blue Scooter,4100,false
 Christmas Zafara Plushie,2125,false
 Leather Cogs Mask,4500,false
 Master Vex Puzzle,640,false
-Metallic Hissi Tail,6200,false
+Metallic Hissi Tail,Inflation Notice,false
 Minion of Dr. Sloth Plushie,3750,false
 Pyramid Block Puzzle,5350,false
 Rainy Day Bruce Plushie,7900,false
 Brian Plushie,4500,false
-Maraquan Shoyru Plushie,200,false
+Maraquan Shoyru Plushie,150,false
 Valentines Schnelly Plushie,3650,false
 Peasant Usuki Set,3500,false
 Yellow Harris Plushie,5200,false
@@ -2491,10 +2491,10 @@ Brightvale Books Shopkeeper Plushie,5250,false
 Yellow Rocking Gelert,7000,false
 Garlic Evil Fuzzle,3275,false
 Purple Lollipop Plushie,4600,false
-Sabre-X Usuki Doll,3250,false
-Usul Blacksmith Goggles,4325,false
+Sabre-X Usuki Doll,3100,false
+Usul Blacksmith Goggles,3200,false
 Meerca Fuzzy Body,1900,false
-Alton Plushie,4950,false
+Alton Plushie,4500,false
 Blue Meerca Plushie,9000,false
 Cloud Kau Plushie,2300,false
 Disco Dancing Usuki,2850,false
@@ -2502,26 +2502,26 @@ Faerie Slorg Usuki Set,2175,false
 Grey Elephante Plushie,4500,false
 Grey Grarrl Plushie,4400,false
 Hadrak Plushie,5600,false
-Metal Spikes Krawk Hair,8600,false
+Metal Spikes Krawk Hair,7500,false
 Mika Plushie,4450,false
 Moehog Pink Snout and Tusks,2975,false
-New Year Dummy,4500,false
+New Year Dummy,2975,false
 Purple Zafara Plushie,3350,false
 Rampaging Grundonoil Plushie,3225,false
 Scorchio Blacksmith Shoes,3950,false
 Shadow Usul Plushie,25000,false
-Snapped Deluxe Set of Colouring Pencils,3800,false
+Snapped Deluxe Set of Colouring Pencils,4050,false
 Spardel Plushie,5400,false
 Yellow Bori Plushie,2075,false
 Zombie Shoyru Plushie,5000,false
 Zytch Plushie,5400,false
-Blacksmith Elephante Cap,2850,false
+Blacksmith Elephante Cap,2800,false
 Plumpy Usuki Set,4300,false
 Skunk Kacheek Plushie,4900,false
 Usuki Dream Throne,3950,false
 Average Nerkmid Plushie,1600,false
-Disco Zafara Plushie,5600,false
-Electric Moehog Plushie,9000,false
+Disco Zafara Plushie,5550,false
+Electric Moehog Plushie,Inflation Notice,false
 Fir Plushie,3350,false
 Gelert Yoyo,5200,false
 Ixi Metal Horns,4400,false
@@ -2545,7 +2545,7 @@ Nuria Faerie Snowglobe,10800,false
 Zurroball Grundo Plushie,7400,false
 Blacksmith Elephante Hammer,2825,false
 Cloud JubJub Plushie,2100,false
-Ixi Plant Tail,5000,false
+Ixi Plant Tail,4850,false
 Jinjah Usuki Set,4975,false
 Wind Up Meerca Toy,4400,false
 Wind Up Tonu Toy,3300,false
@@ -2557,12 +2557,12 @@ Rainbow Lutari Plushie,3900,false
 Federismo Corvallio Plushie,4525,false
 Island Uni Plushie,4500,false
 Darigan Hissi Plushie,6000,false
-Galaxy Grundo Feet,3750,false
-Haunted Dream House Playset,16000,false
+Galaxy Grundo Feet,3725,false
+Haunted Dream House Playset,10700,false
 Number 0 Plushie,3450,false
 Pirate Quiggle Plushie,6900,false
-Usuki Neoschool Teacher,3925,false
-Fire Zafara Plushie,2875,false
+Usuki Neoschool Teacher,4000,false
+Fire Zafara Plushie,3400,false
 Tattered Shoyru Puppet,9500,false
 Tyrannian Nimmo Plushie,2975,false
 Broken Porcelain Snowflake,15000,false
@@ -2576,7 +2576,7 @@ Plushie Bruce Plushie,3050,false
 Purple Aisha Plushie,3500,false
 Spooky Stitched Mouth,4300,false
 Bagatelle Whistle,5300,false
-Broken Sculpty Dough,2150,false
+Broken Sculpty Dough,2100,false
 Autumn Leaf Xweetok Hair,3700,false
 Bython Bobblehead,1275,false
 Explorer Usuki,3750,false
@@ -2605,7 +2605,7 @@ Apocalypse Poogle Face Makeup,4425,false
 Baby Zafara Plushie,3700,false
 Barallus Plushie,6550,false
 Broken Green Chia Plushie,3900,false
-Build Your Own Sphinx Playset,1000,false
+Build Your Own Sphinx Playset,2800,false
 Cheery Kiko Balloon,7950,false
 Cloud Acara Plushie,10000,false
 Crystal Plushies,3725,false
@@ -2614,7 +2614,7 @@ Disco Eyrie Plushie,2450,false
 Drillaroot Plushie,3000,false
 Earth Faerie Usuki Doll,14000,false
 Easy Puzzle Box,6000,false
-Electric Blue Cycle,3325,false
+Electric Blue Cycle,1825,false
 Enraged Maraquan Mob Korbat Plushie,3450,false
 Faerie Gelert Plushie,3200,false
 Faerie Queen Usuki Set,2950,false
@@ -2626,7 +2626,7 @@ Ixi Puppet,3300,false
 Ixi Water Tail,2900,false
 Kass Hand Sock Puppet,55000,false
 Kiko Match Home Version,5000,false
-Korbat Plant Wings,2750,false
+Korbat Plant Wings,2675,false
 Linae Plushie,6700,false
 Luperus Lupe Head,8850,false
 Meerca Fuzzy Peanut,4800,false
@@ -2642,9 +2642,9 @@ Purple Scooter,7450,false
 Scorchio Blacksmith Apron,3650,false
 Scorchio Blacksmith Gloves,3000,false
 Scorchio Blacksmith Tail Guard,4000,false
-Soup Faerie Plushie,3700,false
+Soup Faerie Plushie,3675,false
 Speckled Moehog Plushie,62000,false
-Spring Kass In A Box,4500,false
+Spring Kass In A Box,3950,false
 Starry Hissi Plushie,5900,false
 Starry Shoyru Plushie,15000,false
 Swinging Chair,2000,false
@@ -2654,13 +2654,13 @@ Wind Up Lisha Toy,4500,false
 Disco Hissi Plushie,2500,false
 Kelpflake Plushie,3300,false
 Roburg 3T3 Spaceship,3500,false
-Wind-Up Snorkle,4500,false
+Wind-Up Snorkle,3775,false
 Baby Kyrii Plushie,6000,false
 Darigan Uniocto Balloon,2500,false
 Grarrl Blacksmith Hammer,2000,false
-Scorchio Blacksmith Smoke,3250,false
+Scorchio Blacksmith Smoke,3700,false
 Number 9 Plushie,2825,false
-Tyrannian Jetsam Plushie,2050,false
+Tyrannian Jetsam Plushie,2475,false
 Blue Krawk Plushie,2400,false
 Darigan Grarrl Action Figure,2500,false
 Destruct-O-Scorchio Plushie,4750,false
@@ -2669,16 +2669,16 @@ Handheld Usuki Rogue Plushie,4900,false
 Nimmo Gnome Collectable Charm,3500,false
 Snapjaw Wraith Action Figure,2200,false
 Broken Red Toy Car,4000,false
-Flotsam Crystal Horn and Fin,3000,false
-Zombie Pteri Plushie,5700,false
+Flotsam Crystal Horn and Fin,2500,false
+Zombie Pteri Plushie,4700,false
 Pinchit Plushie,2500,false
 Wind Up Icy Skeleton,1000,false
 Techo Plant Tail,2450,false
-Bouncy Bruce Toy,2675,false
+Bouncy Bruce Toy,3725,false
 Grey JubJub Plushie,9800,false
 Jhuidah Faerie Doll,610,false
 Lab Ray Mad Scientist Plushie,5000,false
-Leaf-Raking Usuki,3000,false
+Leaf-Raking Usuki,3800,false
 Lupe Stocking,2300,false
 Lutari Metal Wanderer Hat,2350,false
 Mutant Tuskaninny Plushie,3500,false
@@ -2689,7 +2689,7 @@ Tangella Plushie,1700,false
 Borovan Time Bori Plushie,5050,false
 Halloween Hippalop Plushie,5750,false
 Edgar Percival Clarke Plushie,3000,false
-Grarrl Creature Claws,3650,false
+Grarrl Creature Claws,6000,false
 Ixi Metal Tail,2300,false
 Purple Vandagyre Plushie,3550,false
 Equestrian Usuki,1425,false
@@ -2701,9 +2701,9 @@ Valentine Yurble Plushie,1500,false
 Darigan Zafara Plushie,2900,false
 Electric JubJub Plushie,2850,false
 Flotsam Ice Horn and Fin,1775,false
-Green Lupe Chia Plushie,3100,false
+Green Lupe Chia Plushie,3050,false
 Halloween Bori Action Figure,1475,false
-Myncha Plushie,2800,false
+Myncha Plushie,4000,false
 Ribbon Usul Ruff,1625,false
 Yellow Ruki Plushie,4500,false
 Birthday Bounce House,7000,false
@@ -2723,15 +2723,15 @@ Flotsam Fire Horn and Fin,3125,false
 Flotsam Water Horn and Fin,3125,false
 Glowing Bori Plushie,2000,false
 Grarrl Gem Claws,2475,false
-Island Quiggle Plushie,3025,false
+Island Quiggle Plushie,5000,false
 Moehog Pink Curly Tail,4875,false
 Orange Hasee Plushie,5000,false
 Red Harris Plushie,3000,false
 Ripped Pink Fuzzle,5500,false
-Shadow Zafara Plushie,1900,false
+Shadow Zafara Plushie,3500,false
 Sophie Action Figure,3425,false
 Strawberry Gnorbu Plushie,5500,false
-Talpidat Plushie,3000,false
+Talpidat Plushie,6000,false
 Tyrannian Quiggle Plushie,5000,false
 Clawed Kadoatie Plushie,3000,false
 Spotted Zafara Plushie,2450,false
@@ -2762,12 +2762,12 @@ Harris In A Box,5350,false
 Nuranna Plushie,2300,false
 Super Nerkmid Plushie,4000,false
 Usuki Fuzzy Clothing,1800,false
-Christmas Peophin Stocking,4775,false
+Christmas Peophin Stocking,3500,false
 Ixi Water Horns,2500,false
 Janitor Usuki Doll,4500,false
 Number Six Year 8 Plushie,5000,false
 Striped Usul Plushie,3250,false
-Vinyl Darigan Yurble Toy,4500,false
+Vinyl Darigan Yurble Toy,3125,false
 Broken Warf Yoyo,3350,false
 Disco Koi Plushie,3600,false
 Faerie Kyrii Ball,1900,false
@@ -2796,7 +2796,7 @@ Jelly Usul Plushie,2750,false
 Jubusul Plushie,1000,false
 Khonsu Plushie,3725,false
 Plushie Gallion Plushie,3500,false
-Revenge Ship Bath Toy,1825,false
+Revenge Ship Bath Toy,1925,false
 Rotawheel Plushie,3050,false
 Round Paper Lantern String Lights,5000,false
 Tyrannian Bruce Plushie,2425,false
@@ -2805,13 +2805,13 @@ Chia Gnome Collectable Charm,3575,false
 Blacksmith Elephante Boots,3225,false
 Blue and Gold Tube Shell Plushie,3875,false
 Camouflage Tuskaninny Plushie,3950,false
-Darigan Bruce Hand Puppet,2825,false
+Darigan Bruce Hand Puppet,2550,false
 Darigan Pteri Plushie,2100,false
 Halloween Bori Plushie,1550,false
 Lord Kass Yoyo,4000,false
-Plesio Plushie,3200,false
+Plesio Plushie,2925,false
 Techo Water Tail,1825,false
-Haunted Tree Toy,2875,false
+Haunted Tree Toy,2525,false
 Maraquan Foot Soldier Plushie,2650,false
 Midnight Smuggler Plushie,4200,false
 Pinklet Plushie,2325,false
@@ -2823,8 +2823,8 @@ Speckled Quiggle Plushie,2475,false
 Tyrannian Elephante Plushie,3350,false
 Pink Krawk Plushie,1450,false
 Royal Girl Mynci Plushie,2500,false
-Tyrela Softpaw Plushie,3250,false
-Grarrl Balloon Pet,1000,false
+Tyrela Softpaw Plushie,2500,false
+Grarrl Balloon Pet,1500,false
 Ancient Mask,15000,false
 Angry Blue Usul Keyring,3925,false
 Baby Lenny Spring Toy,2425,false
@@ -2835,18 +2835,18 @@ Chomby Gnome Collectable Charm,3800,false
 Christmas Kacheek Plushie,2000,false
 Christmas Wocky Plushie,3200,false
 Cloud Kiko Plushie,2400,false
-Cloud Koi Plushie,2525,false
+Cloud Koi Plushie,1900,false
 Darigan Bruce Balloon,2875,false
 Darigan JubJub Plushie,4475,false
 Darigan Kite,1125,false
 Darigan Kougra Collectable Figurine,3400,false
-Enraged Maraquan Mob Mynci Plushie,5000,false
+Enraged Maraquan Mob Mynci Plushie,4500,false
 Faerie Tonu Plushie,3000,false
 Flotsam Metal Horn and Fin,2675,false
 Fuzzy Vandagyre Tail,4000,false
 Green Bilguss Plushie,3325,false
 Green Yurble Plushie,3200,false
-Halloween Blumaroo Plushie,10500,false
+Halloween Blumaroo Plushie,11600,false
 Harmless Jetsam Tail,1800,false
 Jacques Plushie,3525,false
 Korbat Fire Wings,1400,false
@@ -2860,16 +2860,16 @@ Red Toy Car,3350,false
 Snackrifice Polarchuck Plushie,3000,false
 Speckled Acara Plushie,2800,false
 Springy Skull Toy,1475,false
-Strawberry Zafara Plushie,7200,false
+Strawberry Zafara Plushie,7000,false
 Sumo Wrestler Usuki Set,4100,false
 Tangor Plushie,4800,false
 Turmaculus Action Figure,3175,false
-Usuki Dream Boat,3600,false
+Usuki Dream Boat,3175,false
 Water Bori Claws,3000,false
-White Uni Plushie,3000,false
+White Uni Plushie,3900,false
 Darigan Elephante Action Figure,1600,false
 Turdle Plushie,4300,false
-Baby Pteri Plushie,3650,false
+Baby Pteri Plushie,3675,false
 Darigan War Machine Toy,2675,false
 Goparokko Game Tile Plushie,2450,false
 Kreludor Balloon,1550,false
@@ -2877,7 +2877,7 @@ Orange JubJub Plushie,2400,false
 Pteri Rainbow Wings,2850,false
 Spring Dog,2100,false
 Un-Valentines Quiggle Plushie,1375,false
-Blue Stocking,1000,false
+Blue Stocking,880,false
 Electric Flotsam Plushie,1700,false
 Baby Tuskaninny Plushie,8500,false
 Barbecue Chef Usuki,2250,false
@@ -2891,7 +2891,7 @@ Koi Fish Fin,1000,false
 Moehog Explorer Plushie,3850,false
 Pear Plushie,2200,false
 Purple Tuskaninny Plushie,2000,false
-Pygui Toy Spin Drum,4450,false
+Pygui Toy Spin Drum,3600,false
 Royal Boy Mynci Plushie,2400,false
 Snow Chia Plushie,3100,false
 Usuki Park Fun Set,2000,false
@@ -2911,7 +2911,7 @@ Springy Gelert Toy,2000,false
 Captain Limebeard Plushie,2650,false
 Snow Faerie Usuki Doll,1200,false
 Usuki Surfing Play Set,2075,false
-Baby Grarrl Plushie,2200,false
+Baby Grarrl Plushie,3175,false
 Coach Riki Plushie,4000,false
 Fir Usuki Set,3050,false
 Gabar Plushie,3475,false
@@ -2943,9 +2943,9 @@ Maraquan Lancer Plushie,2600,false
 Number 6 Plushie,1875,false
 Number 7 Plushie,2500,false
 Pink Mynci Plushie,2475,false
-Pteri Crystal Wings,2000,false
+Pteri Crystal Wings,1775,false
 Raindorf Usuki Set,3500,false
-Royal Girl Shoyru Plushie,2150,false
+Royal Girl Shoyru Plushie,1800,false
 Set of Three Paper Airplanes,8000,false
 Shadow Techo Plushie,2900,false
 Sling Gun,1900,false
@@ -2965,10 +2965,10 @@ Potato Counter Usuki,1750,false
 Springy Blue JubJub Toy,2200,false
 Blue Bruce Christmas Cracker,500,false
 Broken Gyroscope Toy,1950,false
-Darigan Ball,9250,false
+Darigan Ball,840,false
 Pandaphant Plushie,1700,false
 Red Evil Fuzzle,1500,false
-Usuki Pink Party Set,2675,false
+Usuki Pink Party Set,2200,false
 Clop Action Figure,1900,false
 Wind Up Darigan Mazzew,2000,false
 Baby Mynci Plushie,1800,false
@@ -2980,7 +2980,7 @@ Sproing Plushie,2350,false
 Usuki Bucket,930,false
 Yellow Marbleman Plushie,2850,false
 Green Raindorf Plushie,2250,false
-Green Spardel Plushie,3400,false
+Green Spardel Plushie,2275,false
 Grinning Pull Along Poogle,2200,false
 Kau Pinata,2225,false
 Skunk Yurble Plushie,3000,false
@@ -2989,7 +2989,7 @@ Alpine Adventurer Usuki,1350,false
 Banker Board Game,500,false
 Broken Big n Bouncy Toy,2600,false
 Cellblock Home Version,3000,false
-Christmas Uni Plushie,2025,false
+Christmas Uni Plushie,2200,false
 Christmas Vira Plushie,10000,false
 Codestone Charm,3900,false
 Darigan Tigermouse Plushie,2700,false
@@ -2998,7 +2998,7 @@ Double Trouble Snow Angel,3000,false
 Ferocious Negg Plushie,2500,false
 Fire Usul Plushie,2375,false
 Halloween Intesteen Plushie,3000,false
-Hoovle Usuki Set,3100,false
+Hoovle Usuki Set,2500,false
 Lab Ray Usuki Set,2500,false
 Millipod Plushie,2650,false
 Red Blumaroo Keyring,20000,false
@@ -3009,7 +3009,7 @@ Striped Kyrii Plushie,2925,false
 Tangerine Trumpet Shell Plushie,2500,false
 Usuki Cookery Set,3900,false
 Usuki Music Set,2000,false
-Usuki Queen Set,5900,false
+Usuki Queen Set,3550,false
 Yooyu Kite,5250,false
 Zafara Pyjama Plushie,2100,false
 Flying Lenny Mobile,1350,false
@@ -3028,9 +3028,9 @@ Baby Space Fungus Plushie,1800,false
 Bori Gnome Collectable Charm,1500,false
 Ghostkerchief Bouncy Ball,2000,false
 Hungry Skeith Plushie,3875,false
-Pteri Plant Tail,1100,false
+Pteri Plant Tail,1650,false
 Purple Tuskaninny Balloon,1850,false
-Roburg 3T3 Rubbish Bin,2000,false
+Roburg 3T3 Rubbish Bin,2425,false
 Sliced Lord Kass Plushie,2800,false
 Spotted Wocky Markings,2375,false
 Springy Darigan Woolypapith,2125,false
@@ -3038,7 +3038,7 @@ Usuki Beach Accessories,1500,false
 Usuki Flower Picking Set,2350,false
 Brightvale Castle Building Blocks,2775,false
 Green Weewoo Plushie,2400,false
-Korbat Plant Tail,2600,false
+Korbat Plant Tail,2500,false
 Robot Sandan Plushie,2500,false
 Blue Aisha Balloon,1500,false
 Fake Gum,4350,false
@@ -3053,19 +3053,19 @@ Plushie Grapes,1650,false
 Borovan Time Peophin Plushie,4900,false
 Burst Blue Cybunny Balloon,1750,false
 Electric Gormball Plushie,2475,false
-Island Tuskaninny Plushie,2200,false
+Island Tuskaninny Plushie,2500,false
 Pteri Rainbow Tail,3000,false
 Rainbow Bori Plushie,2400,false
 Red Apple Plushie,1800,false
 Starry Kyrii Plushie,5250,false
-Toy Stroller,2425,false
+Toy Stroller,2400,false
 Turnla Plushie,1850,false
 Apocalypse Poogle Goggles,5000,false
 Baby Shoyru Plushie,2000,false
-Captain Scarblade Action Figure,2250,false
+Captain Scarblade Action Figure,2275,false
 Ariadne Plushie,1200,false
 Broken Click Klacks,2175,false
-Dripping Wet Frogarott Plushie,2450,false
+Dripping Wet Frogarott Plushie,3500,false
 Green Marbleman Plushie,2525,false
 Grey Tuskaninny Plushie,100,false
 Korbat Water Wings,1275,false
@@ -3106,17 +3106,17 @@ Beautiful Bunches Usuki Hair Set,1675,false
 Lord Darigan Scooter,3200,false
 Nightsteed Plushie,2450,false
 Smiley Plushie,2500,false
-White Evil Fuzzle,1200,false
+White Evil Fuzzle,1100,false
 Zorlix Plushie,2900,false
 KaSa Plushie Set,3500,false
 Plushie Cherries,1750,false
 Blue Tonu Plushie,900,false
-Darigan Xweetok Action Figure,2500,false
+Darigan Xweetok Action Figure,3475,false
 Disco Kyrii Plushie,2700,false
 Happiness Faerie Plushie,7250,false
 Red Paper Airplane,650,false
 Steel Chef Usuki,1600,false
-Red Buzz Plushie,1700,false
+Red Buzz Plushie,1800,false
 Red Flotsam Plushie,2125,false
 Red-Nosed Chia Plushie,2250,false
 Tyrannian Moehog Plushie,4000,false
@@ -3149,16 +3149,16 @@ Paleontologist Usuki,2150,false
 Pink Tinsel Usul Tail,3300,false
 Pirate Champion Plushie,1050,false
 Plushie Kookith Plushie,2500,false
-Pteri Crystal Tail,1500,false
+Pteri Crystal Tail,1000,false
 Punchbag Bob Plushie,1600,false
 Sand Star Plushie,4900,false
 Snowbunny Bouncy Ball,2500,false
 Speckled Mynci Plushie,900,false
-Spellmaiden Quiguki Doll,15400,false
+Spellmaiden Quiguki Doll,Inflation Notice,false
 Spotted Neopets Birthday Balloon,1050,false
 Springy Baby Usul Toy,1900,false
 Springy Green Feepit Toy,950,false
-Starry Ruki Plushie,2200,false
+Starry Ruki Plushie,4625,false
 Super Soft Avabot Plushie,2175,false
 Super Springy Poogle,2000,false
 Swimming Champion Usuki,1100,false
@@ -3171,7 +3171,7 @@ Water Faerie Snowglobe,820,false
 Werelupe Plushie,2600,false
 Wind Up Drackonack,1950,false
 Xandra Plushie,3000,false
-Broken Gumball Machine,2950,false
+Broken Gumball Machine,2875,false
 Burst Blue Bouncy Ball,2500,false
 Kyrii Plant Hair,2050,false
 Spare Parts Plushie,1825,false
@@ -3184,7 +3184,7 @@ Inflatable Scorchio,4125,false
 Pirate Lutari Plushie,3825,false
 Present Usuki Set,1150,false
 Rainbow Birthday Blower,1125,false
-Red Elephante Plushie,1900,false
+Red Elephante Plushie,2200,false
 Tea Time Pteri Plushie,2100,false
 Time For Tennis Usuki Set,1125,false
 Valentine Meerca Plushie,1000,false
@@ -3192,7 +3192,7 @@ Wind-Up Babaa,1725,false
 Borovan Time Bruce Plushie,1750,false
 Energy Ball Paddleball,3750,false
 Red Negg Plushie,5000,false
-Usuki Water Ski Set,2000,false
+Usuki Water Ski Set,2250,false
 Winter Shoyru Plushie,1600,false
 AAAs Personal Gaming System,3125,false
 Blue Marbleman Plushie,1175,false
@@ -3213,7 +3213,7 @@ Techo Says Bobblehead,2000,false
 Woodland Koi Plushie,4500,false
 Angry Bori Foreman Action Figure,1100,false
 Broken Red Ruki Scooter,1000,false
-Checkered Ruki Plushie,1875,false
+Checkered Ruki Plushie,1175,false
 Gold Chomby Plushie,1300,false
 Golden Unfair Seesaw Toy,1650,false
 Koi Fish Spikes,1400,false
@@ -3222,7 +3222,7 @@ Silver Springy Toy,1800,false
 Volsan Plushie,3875,false
 Walking Carpet Plushie,2050,false
 Chokato Kite,2500,false
-Dr_Death Plushie,2000,false
+Dr_Death Plushie,2200,false
 Ettaphant Usuki Set,1000,false
 Faerie Pteri Plushie,2300,false
 Green Leaf String Lights,480,false
@@ -3237,13 +3237,13 @@ Cheeseroller Usuki Set,1675,false
 Cloud Scorchio Plushie,740,false
 Darigan Scorchio Plushie,1700,false
 Faerie Bubble Blower,1450,false
-Fluffy Dieter Plushie,2600,false
-Friendly Brown Gelert Plushie,2150,false
+Fluffy Dieter Plushie,3000,false
+Friendly Brown Gelert Plushie,4550,false
 Huggy Plushie,1775,false
 Little Angel Usuki Set,780,false
 Luxury Bell,1850,false
 Orange Scorchio Plushie,2875,false
-Pteri Plant Wings,2000,false
+Pteri Plant Wings,1850,false
 Tea Time Usuki Accessory Set,1375,false
 Toy Ladder,750,false
 Usuki Autumn Play Set,1000,false
@@ -3262,7 +3262,7 @@ Usuki Sunglasses,2000,false
 Wind Up Rat,1400,false
 Wocky Mummy Monster Plushie,1625,false
 Checkered Doughnutfruit Plushie,2250,false
-Escaped Pixel,1000,false
+Escaped Pixel,500,false
 Number 8 Plushie,2950,false
 Queen Fyora Doll with Presents,5000,false
 Red Kiko Keyring,9900,false
@@ -3272,12 +3272,12 @@ Altador Puzzle,1025,false
 Baby Bori Balloon,1850,false
 Bori Tennis Set,1550,false
 Darigan Postal Weewoo Plushie,1900,false
-Darigan Trunkard Plushie,2700,false
+Darigan Trunkard Plushie,1850,false
 Disco Pteri Plushie,1700,false
 Eliv Thade Usuki,1500,false
 Goldy Plushie,1600,false
 Gothic Skeith Plushie,2500,false
-Meri Acres Farm Usuki Play Set,4100,false
+Meri Acres Farm Usuki Play Set,2000,false
 Orange Evil Fuzzle,1400,false
 Usuki Pretty Princess Set,990,false
 Valentines Kiko Plushie,2300,false
@@ -3285,7 +3285,7 @@ Broken Mootix Farm,2800,false
 Chomby Sticker,1500,false
 Gothic Pteri Plushie,1025,false
 Harmless Jetsam Head,1600,false
-Poptart Plushie,1100,false
+Poptart Plushie,1000,false
 Stamp Puzzle,1975,false
 Unfair Seesaw Toy,1500,false
 Uniocto Usuki Set,1000,false
@@ -3298,8 +3298,8 @@ Darigan Dough,1600,false
 Ghost Gnorbu Plushie,1000,false
 Green Krawk Plushie,2000,false
 Kreludan Defender Plushie,45,false
-Prom Date Usuki,1075,false
-Snowball Fight Usuki Doll,1550,false
+Prom Date Usuki,900,false
+Snowball Fight Usuki Doll,1400,false
 Darigan Jump Rope,2500,false
 Island Brush Plushie,1100,false
 Spyder Bouncy Ball,2850,false
@@ -3320,13 +3320,13 @@ Usuki Party Set,2200,false
 Usuki Stamp Set,850,false
 Water Korbat Plushie,1100,false
 Purple Blumaroo Plushie,2500,false
-Scorchio Blacksmith Slacks,3500,false
+Scorchio Blacksmith Slacks,2975,false
 Hissi Whistle,1650,false
 Official Usuki Drum,2350,false
 Purple Skateboard,2000,false
 Reject Cybunny Toy,1200,false
 Spike Pit Play Set,1875,false
-Tricolour Wocky Markings,2425,false
+Tricolour Wocky Markings,2150,false
 Purple Stocking,840,false
 Snackrifice Snorkle Plushie,1200,false
 Toy Darigan Beauty Set,2100,false
@@ -3343,7 +3343,7 @@ Ghost Korbat Plushie,1550,false
 Halloween Cybunny Plushie,2200,false
 Ona Usuki Set,1125,false
 Pant Devils Evil Twin Plushie,1850,false
-Purple Acara Plushie,2975,false
+Purple Acara Plushie,1750,false
 Rocky Ground,1000,false
 Scorchio Pinata,2300,false
 Serene Nightscape Snowglobe,1900,false
@@ -3357,7 +3357,7 @@ Usuki Potting Set,2500,false
 Usuki Summer Wrangler Set,1825,false
 Usuki Toy Hoop,900,false
 Watermelon Plushie,1800,false
-Wind-Up Weewoo,4800,false
+Wind-Up Weewoo,4750,false
 Burst Green Bori Ball,2050,false
 Christmas Kau Plushie,1050,false
 Faerie Buzz Plushie,1250,false
@@ -3373,7 +3373,7 @@ Green Kiko Keyring,7550,false
 Kiko Ornament Hair,1100,false
 Knitted Elderly Quigglegirl Plushie,1700,false
 Korbat Ribbon Tail,1450,false
-Red Aisha Plushie,1300,false
+Red Aisha Plushie,1000,false
 Red Bruce Plushie,1175,false
 Spellseeker Dice,1200,false
 Stone In A Box,900,false
@@ -3383,10 +3383,10 @@ Friendly Noil Plushie,1300,false
 Purple Nimmo Plushie,1475,false
 Rainy Day Usuki Set,1050,false
 Winter Woolies Usuki Set,1500,false
-Baby Kougra Plushie,1400,false
+Baby Kougra Plushie,6700,false
 Battlefield Legends The Board Game,2125,false
 Blue Hissi Plushie,1450,false
-Boating Usuki Set,990,false
+Boating Usuki Set,2200,false
 Borovan Time Xweetok Plushie,1275,false
 Broken Pink Yoyo,2350,false
 Broken Wind Up Nuranna,1375,false
@@ -3395,23 +3395,23 @@ Conservationist Play Set,2475,false
 Deck of Cards,1100,false
 Faerie Eyrie Plushie,1200,false
 Faerie Lenny Plushie,1200,false
-Gothic Ogrin Plushie,1500,false
-Green Aisha Plushie,2450,false
+Gothic Ogrin Plushie,1300,false
+Green Aisha Plushie,1925,false
 Hissi In A Box,2000,false
 Poogle Racing Game,890,false
 Snuffly Plushie,1200,false
 The Scarf Plushie,1525,false
 Tuskaninny Squirt Toy,1025,false
-Usuki Faerieland Play Set,1400,false
+Usuki Faerieland Play Set,1300,false
 Winter Love Usuki Set,1350,false
 Wocky Dartboard,860,false
-Yellow Ogrin Plushie,1400,false
+Yellow Ogrin Plushie,1275,false
 Clockwork Yooyu Plushie,1225,false
 Basic Tangram Puzzle Piece Kite,1525,false
 Broken Blue Cup and Ball Toy,1000,false
 Fire Chomby Plushie,1000,false
 Fire Faerie Racer,1900,false
-Fuzzie Bear,1200,false
+Fuzzie Bear,1600,false
 Gorix Glass Toy,820,false
 Green Bike,1700,false
 Green Tuskaninny Keyring,17000,false
@@ -3428,7 +3428,7 @@ Jelly Poogle Plushie,3700,false
 Kacheek Snowglobe,850,false
 Moltenore Plushie,1300,false
 Red Poogle Toy,1200,false
-Speckled Neopets Birthday Balloon,450,false
+Speckled Neopets Birthday Balloon,730,false
 Uniocto Balloon,1200,false
 Broken Blue Mynci Puppet,1350,false
 Cerys Plushie,1375,false
@@ -3442,7 +3442,7 @@ Inadvertent Santa Plushie,1500,false
 Kitchen Quest Plushie,1275,false
 Orange Gnorbu Plushie,1675,false
 Plushie Gnorbu Plushie,2825,false
-Red Stocking,1000,false
+Red Stocking,800,false
 Roo Island Pier Playset,3350,false
 Shishkafruit Plushie,2375,false
 Singularity Play Set,1000,false
@@ -3452,13 +3452,13 @@ Yellow Buzz Plushie,1150,false
 Yellow Paper Airplane,700,false
 Cowgirl Usuki,800,false
 Number 4 Plushie,1800,false
-Rainbow Elephante Toy,3300,false
+Rainbow Elephante Toy,2850,false
 Yellow Zafara Slide Puzzle,1475,false
 Battle Faerie Action Figure,950,false
 Blue Mynci Flying Disc,480,false
 Broken Wooden Stilts,2900,false
 Darigan Checkers,1000,false
-Darigan Tuskaninny Treat Bag,2500,false
+Darigan Tuskaninny Treat Bag,1800,false
 Gruish Melon Plushie,1150,false
 Inflatable Yooyu,1000,false
 Official Usuki Clock,3000,false
@@ -3471,24 +3471,24 @@ Tattered Kiko Plushie,1425,false
 Wooden Pull Along Darigan Lupe,1100,false
 Yellow Cybunny Plushie,500,false
 Black Market Grundo Plushie,1450,false
-Bori Digging Action Figure,1125,false
+Bori Digging Action Figure,920,false
 Buzzer Pinata,1050,false
 Clever Clogs Usuki,1000,false
 Headless King Skarl Plushie,1100,false
 Judge Hog Action Figure,2100,false
 Neocola Balloon,990,false
 Neovian Lamp Cut Out,1500,false
-Scarab Negg Plushie,3900,false
+Scarab Negg Plushie,3500,false
 Snowickle Usuki Set,1500,false
 Spiky Kiko Ball,1500,false
 Springy Draik Toy,1100,false
-Toy Pirate Cannon,140,false
+Toy Pirate Cannon,160,false
 Yellow Grundo Plushie,890,false
 Abacus,1000,false
-Blue Babaa Plushie,1000,false
+Blue Babaa Plushie,990,false
 Blue Grarrl Plushie,1175,false
 Electric Koi Plushie,1150,false
-Green Lutari Plushie,3450,false
+Green Lutari Plushie,890,false
 Green Paper Glider,790,false
 My Favorite Games,850,false
 Nedler Plushie,950,false
@@ -3498,13 +3498,13 @@ Pop Princess Usuki Set,800,false
 Quiggle Whistle,3000,false
 Rag Mynci Plushie,1175,false
 Red Grarrl Plushie,1200,false
-Reject Leaf-Raking Usuki,1000,false
+Reject Leaf-Raking Usuki,1150,false
 Scary Roo Wooden Mask,1500,false
 Schoolgirl Usuki,1100,false
 Seasonal Jazzmosis Figure,1675,false
 Stamp Flying Disc,1100,false
 Usuki Medical Set,1300,false
-Usuki Snowy Sweetheart Set,900,false
+Usuki Snowy Sweetheart Set,970,false
 Usuki Summer Fashion Set,900,false
 Werther Keyring,3375,false
 Xweetok Stocking,950,false
@@ -3526,20 +3526,20 @@ Fire Cybunny Plushie,1000,false
 Garin Plushie,810,false
 Puff Pink Kyrii Plushie,1050,false
 Red Gelert Plushie,1400,false
-Roller Skating Usuki Set,890,false
+Roller Skating Usuki Set,980,false
 Trick-or-Treat Adventure Set,1350,false
 Yellow Kyrii Plushie,800,false
 Yellow Lutari Plushie,1000,false
 Blue Kau Plushie,700,false
 Blue Lutari Plushie,1325,false
-Green Mynci Puppet,600,false
+Green Mynci Puppet,800,false
 Halloween Kyrii Plushie,1000,false
 Morph-hog Toy,900,false
 Orange Bori Action Figure,1575,false
 Orange Krawk Plushie,850,false
 Toy Train,1050,false
 Usuki Dream Wardrobe,1425,false
-Yellow Aisha Plushie,1900,false
+Yellow Aisha Plushie,1800,false
 Yellow Kacheek Plushie,1375,false
 Aisha Pogo Stick,1250,false
 Blue Kyrii Plushie,1400,false
@@ -3551,7 +3551,7 @@ Gumglobe,1200,false
 Headless Sidney Plushie,1275,false
 Kiko Yoyo,1200,false
 Manila Envelope with Glittering Mistletoe,1000,false
-Mynci Superball,810,false
+Mynci Superball,1000,false
 Pink Quiggle Plushie,1175,false
 Red Ogrin Plushie,970,false
 Strawberry Slorg Plushie,1050,false
@@ -3562,7 +3562,7 @@ Aisha Pick-Up-Sticks,810,false
 Fun In The Sun Quiguki,360,false
 Green Kiko Squeeze Toy,920,false
 Grey Poogle Plushie,1000,false
-Mutant Lupe Plushie,3500,false
+Mutant Lupe Plushie,3900,false
 Prom Queen Usuki,1400,false
 Pull Along Darigan Bori,1000,false
 Red Nimmo Plushie,1300,false
@@ -3577,7 +3577,7 @@ Nuria Plushie,1300,false
 Porcelain Snowflake,1700,false
 Red Uni Plushie,1000,false
 Sitting Snow Blumaroo,1500,false
-Space Faerie Keyring,1100,false
+Space Faerie Keyring,2000,false
 Teenage Usuki,1100,false
 TNT Plushie,14000,false
 Usuki Dream Car,1225,false
@@ -3594,7 +3594,7 @@ Angry Capara Toy,2000,false
 Apathy Keyring,450,false
 Baby Elephante Plushie,1100,false
 Bit of Evil Clown,1000,false
-Blizzard Kougra Plushie,1100,false
+Blizzard Kougra Plushie,3000,false
 Blue Blumaroo Keyring,1850,false
 Blue Ogrin Plushie,840,false
 Breadmaster Stocking,360,false
@@ -3605,8 +3605,8 @@ Cheeky Chia Action Figure,1125,false
 Chia Clown Stuffed Toy,900,false
 Chocolate Lenny Plushie,1000,false
 Christmas Von Roo Plushie,530,false
-Chuckles Punching Bag,980,false
-Citadel Building Blocks,1000,false
+Chuckles Punching Bag,650,false
+Citadel Building Blocks,560,false
 Click Klacks,890,false
 Coloured Bouncy Ball,600,false
 Creepy Wind-Up Meepit,2000,false
@@ -3617,8 +3617,8 @@ Darigan Krawk Collectable Figurine,1925,false
 Darigan Maze Game,990,false
 Day Dreaming Nimmo Gnome Balloon,980,false
 Deluxe Bori Cracker,570,false
-Desk Punchbag Bob,870,false
-Desk Zen Garden,1200,false
+Desk Punchbag Bob,890,false
+Desk Zen Garden,1000,false
 Ee Mote Plushie,350,false
 Face Pulling Kiko Gnome Balloon,540,false
 Fiendish Formations Board Game,4225,false
@@ -3652,14 +3652,14 @@ Mutant Chia Gnome Plushie,1925,false
 Mystery Island Altador Cup Flying Disc,1000,false
 Neopian Times Usuki Set,830,false
 Neopie Statue Vinyl Figure,800,false
-Number Six Plushie,1200,false
+Number Six Plushie,990,false
 Plushie Kau Plushie,1300,false
 Plushie Scorchio Plushie,900,false
 Princess Amira Balloon,180,false
 Purple Grundo Toy,1150,false
 Purple Slorg Usuki Set,1100,false
 Quigquig Plushie,350,false
-Quiguki Volleyball,1050,false
+Quiguki Volleyball,980,false
 Rainbow Ixi Plushie,180,false
 Red Aisha Keyring,6350,false
 Red Gnorbu Plushie,940,false
@@ -3675,10 +3675,10 @@ Sloth Beach Ball,940,false
 Small Treasure Chest,1100,false
 Smug Bug Board Game,1150,false
 Snow Gnorbu Plushie,490,false
-Space Faerie Pen,550,false
+Space Faerie Pen,1375,false
 Speckled Grundo Plushie,1625,false
 Spotted Neopets Party Hat,400,false
-Starry Kau Plushie,1750,false
+Starry Kau Plushie,1125,false
 Starry Paper Yo-Yo,1700,false
 Starry Poogle Plushie,1400,false
 Sticky Techo,1375,false
@@ -3686,13 +3686,13 @@ Strawberry Mynci Plushie,1000,false
 Table Foosball,1450,false
 Tangram Bonsai,1100,false
 TNT Yooyu Plushie,1000,false
-Toy Detective Kit,1375,false
+Toy Detective Kit,1500,false
 Triffin Plushie,1800,false
 Trudys Plushie,1000,false
 Usuki Campground Play Set,980,false
 Usuki Dream Castle,1200,false
 Usuki Dream Swing Set,750,false
-Usuki Gardening Set,900,false
+Usuki Gardening Set,970,false
 Usuki Hippie Girl,900,false
 Usuki Perfect Nails Set,1075,false
 Usuki Surf Board Set,1475,false
@@ -3704,7 +3704,7 @@ White Eyrie Plushie,2000,false
 Yellow Skeith Plushie,900,false
 Yellow Yurble Plushie,1000,false
 Aisha Board Game,2050,false
-Baby Quiggle Plushie,4500,false
+Baby Quiggle Plushie,4850,false
 Blue Lupe Plushie,1000,false
 Draik Bean Bag Tic-Tac-Toe,900,false
 Lady Blurg Plushie,950,false
@@ -3723,12 +3723,12 @@ Stone Paddleball Game,1000,false
 Usuki Uni Lover Set,1000,false
 Yellow Koi Plushie,1400,false
 Bottle of Lava Keyring,4350,false
-JubJub Bank,7700,false
+JubJub Bank,6000,false
 Pure White Kyrii Plushie,1200,false
 Bag of Broken Neopoints,1775,false
 Blue Nimmo Plushie,1300,false
 Blumaroo Play Set,1075,false
-Checkered Neopets Party Blower,310,false
+Checkered Neopets Party Blower,270,false
 Dastardly Evil Fuzzle,1500,false
 Desert Ruki Plushie,1075,false
 Dr Landelbrot Plushie,9000,false
@@ -3739,8 +3739,8 @@ Goparokko Staff Plushie,1350,false
 Green Elephante Plushie,930,false
 Guess the Staff Tourney Winner Ring Toss Set,900,false
 Mutant Draik Plushie,980,false
-Pink Evil Fuzzle,900,false
-Pirate Jetsam Plushie,1600,false
+Pink Evil Fuzzle,500,false
+Pirate Jetsam Plushie,950,false
 Red Xweetok Plushie,500,false
 Slightly Less Evil Youngest Drenched Sister Plushie,660,false
 Snot Kite,1725,false
@@ -3754,7 +3754,7 @@ Turmac Roll Yo-Yo,1200,false
 Usuki Hair Extensions Set,1225,false
 Usuki Neogarden Set,390,false
 White Elephante Plushie,1100,false
-Broken Ref Whistle,300,false
+Broken Ref Whistle,200,false
 Eyeball Sushi Plushie,400,false
 Green Gelert Plushie,1200,false
 Holiday Esophagor Plushie,1000,false
@@ -3788,8 +3788,8 @@ Blue Elephante Plushie,1100,false
 Borovan Time Asparagus Chia Plushie,1425,false
 Christmas Buzz Plushie,940,false
 Christmas Pirate Krawk Plushie,500,false
-Faerie Poogle Plushie,1100,false
-Festival of Neggs Spaceship Plushie,2400,false
+Faerie Poogle Plushie,1000,false
+Festival of Neggs Spaceship Plushie,3400,false
 Flight Attendant Usuki,1500,false
 Green Eyrie Plushie,860,false
 Green Flotsam Plushie,1400,false
@@ -3818,11 +3818,11 @@ Darigan Dominoes,600,false
 Orig Plushie,1000,false
 Red Blumaroo Plushie,900,false
 Smug Bug Bouncy Ball,900,false
-Uni Races Usuki Set,1000,false
+Uni Races Usuki Set,850,false
 Yellow Eyrie Plushie,1200,false
 Yellow Gelert Plushie,1250,false
 Darigan Stacking Rings,430,false
-Halloween Kiko Balloon,700,false
+Halloween Kiko Balloon,1900,false
 Halloween Spardel Plushie,1000,false
 Mutant Jetsam Plushie,730,false
 Orange Quiggle Spring,390,false
@@ -3835,9 +3835,9 @@ Tyrannia Altador Cup Flying Disc,1000,false
 Wain Plushie,1075,false
 Zargrold Gormball Action Figure,810,false
 Creature Factory Toy,1000,false
-Deluxe Acara Cracker,510,false
+Deluxe Acara Cracker,490,false
 Aisha Dartboard,1500,false
-Altador Cup Play Set,1250,false
+Altador Cup Play Set,830,false
 Darigan Kougra Plushie,950,false
 Ghost Moehog Flying Disc,2075,false
 Grey Carmariller Plushie,990,false
@@ -3867,7 +3867,7 @@ Pink Fuzzle,600,false
 Smug Bug Bank,830,false
 Wind Up Faellie,740,false
 Woodland Elf Usuki,1000,false
-Blue Yurble Plushie,1000,false
+Blue Yurble Plushie,990,false
 Kacheek Superball,660,false
 Rainbow Slorg Usuki Set,210,false
 Yellow Hissi Plushie,1975,false
@@ -3875,7 +3875,7 @@ Adorable Hex Doll,1000,false
 Arkmite Plushie,330,false
 Black Fuzzle,1000,false
 Blue Lenny Plushie,900,false
-Blue Pteri Plushie,990,false
+Blue Pteri Plushie,800,false
 Blue Sandshell Mold,750,false
 Blue Yarn Ball,400,false
 Cloud Ixi Plushie,2200,false
@@ -3888,19 +3888,19 @@ Kreludor Altador Cup Flying Disc,1000,false
 Purple Poogle Toy,3975,false
 Red Cybunny Plushie,830,false
 Skunk Moehog Plushie,1000,false
-Triangle Ringing Cybunny,60,false
+Triangle Ringing Cybunny,70,false
 Uni Horn Sidewalk Chalk,2600,false
 Usuki Dream Pool,1000,false
 Usuki Dream Stove,1000,false
 Whack a Symol Toy,400,false
-Year 7 Plushie,710,false
+Year 7 Plushie,760,false
 Altador Ship Model,1300,false
 Big Sling Gun,730,false
 Krawk Clacker,990,false
 Rainbow Pteri Plushie,880,false
 Rockstar Uni,350,false
 Sorcerers Skirmish Chess Set,800,false
-Wooden Pull Along Darigan Grarrl,800,false
+Wooden Pull Along Darigan Grarrl,1000,false
 Big Bad Club,220,false
 Brightvale Glaziers Plushie,200,false
 Courgette Boat,550,false
@@ -3910,7 +3910,7 @@ Scourgies Covered Ixi Plushie,1000,false
 Warf Yoyo,620,false
 Christmas Spyder Plushie,690,false
 Ice Cream Cone Plushie,570,false
-Magical Hair Usuki,600,false
+Magical Hair Usuki,520,false
 Ogrin Sock Puppet,320,false
 Pirate Lenny Plushie,1000,false
 Red Skeith Plushie,950,false
@@ -3925,7 +3925,7 @@ Green Korbat Keyring,9800,false
 Green Skeith Plushie,800,false
 Snuffly Usuki Set,840,false
 Spring Wind-Up Mallard,780,false
-Uni Shoe Throwing Game,1125,false
+Uni Shoe Throwing Game,1000,false
 Yellow Vandagyre Plushie,1050,false
 Aisha Punching Bag,1025,false
 Blonde Pigtails Usuki Hair Set,650,false
@@ -3949,33 +3949,33 @@ Magic Hanky,620,false
 Plastic Sword,1000,false
 Plumberry Nesting Dolls,1500,false
 Sloth Dartboard,880,false
-Striped Neopets Party Blower,580,false
+Striped Neopets Party Blower,410,false
 Red Lenny Plushie,490,false
 Wooden Holiday Mug,220,false
 Courgette Ball,1100,false
 Fir Stocking,240,false
-Red Vandagyre Plushie,1300,false
+Red Vandagyre Plushie,1500,false
 Beach Sandcastle Set,210,false
 Clockwork Halloween Flizzardo,630,false
 Desert Usul Plushie,200,false
 El Picklesaur Plushie,1900,false
 Fun in the Sun Usuki,480,false
-Green Xweetok Plushie,1000,false
+Green Xweetok Plushie,1100,false
 Ice Blocks,1250,false
-Jhudora Fashion Play Set,930,false
+Jhudora Fashion Play Set,1550,false
 Maraqua Altador Cup Flying Disc,800,false
 Musical Mini Usukis,1000,false
 Old Lady Xweetok Action Figure,200,false
 Plushie Eyrie Plushie,910,false
 Plushie Skeith Plushie,1425,false
 Poogle Jacks,810,false
-Purple Fuzzle,690,false
+Purple Fuzzle,830,false
 Rainbow Aisha Plushie,500,false
 Reject Snowager Usuki,420,false
 Reject Usuki Spring Basket,850,false
 Silver Chomby Plushie,680,false
 Smoke Mote Plushie,790,false
-Starry Birthday Blower,1150,false
+Starry Birthday Blower,1400,false
 Draik Puzzle,750,false
 Flotsam Squirter,730,false
 Frozen Wocky Plushie,770,false
@@ -3986,7 +3986,7 @@ Blue Vinyl Hissi,860,false
 Cobrall Basket,1000,false
 Darigan Water Balloon,1000,false
 Grarrl Frisbee,1000,false
-Green Stocking,1000,false
+Green Stocking,1150,false
 Lost Desert Altador Cup Flying Disc,780,false
 Pteri Ball,2125,false
 Faerieland Altador Cup Flying Disc,780,false
@@ -4000,7 +4000,7 @@ Scordrax Bobblehead,510,false
 Blue Vandagyre Plushie,1325,false
 Darigan Garden Set,410,false
 Darigan Playing Cards,2900,false
-Farvin III Plushie,540,false
+Farvin III Plushie,500,false
 Giant Bubble Blower,380,false
 Kauvara Plushie,950,false
 Snow Usul Plushie,700,false
@@ -4019,7 +4019,7 @@ Red Kiko Squeeze Toy,800,false
 Frowny Plushie,860,false
 Garfir Bank,930,false
 Meerca Chase II - The Game,940,false
-Purple Hissi Plushie,1000,false
+Purple Hissi Plushie,980,false
 Quiguki Frenzy,930,false
 Rainbow Bracelet,330,false
 Roothless Tilt Maze Game,850,false
@@ -4027,7 +4027,7 @@ Snow Faerie Plushie,420,false
 Usuki Nurse Set,1100,false
 Drinking Lenny Toy,340,false
 Quiguki Knitting Set,1000,false
-Speckled Neopets Party Hat,400,false
+Speckled Neopets Party Hat,390,false
 Kougra Gnome-in-the-box,400,false
 Money Tree Bobblehead,1025,false
 AAA Chessboard,1000,false
@@ -4038,10 +4038,10 @@ Fire Acara Plushie,500,false
 Green Ogrin Plushie,1100,false
 Jermite Plushie,650,false
 Marafin Plushie,770,false
-Pirate Chia Plushie,3000,false
+Pirate Chia Plushie,2475,false
 Present Blocks,790,false
 Rainbow Quiggle Plushie,750,false
-Royal Grarrl Queen Plushie,500,false
+Royal Grarrl Queen Plushie,370,false
 Soft Quiggle Puzzle,500,false
 Terror Mountain Snowglobe,600,false
 Vanishing Dubloon,440,false
@@ -4055,7 +4055,7 @@ Squeezy Symol Toy,480,false
 Sugar Doughnut Charm,950,false
 Techo Fan Sticker,75,false
 Bori Spring Toy,600,false
-Checkered Neopets Birthday Balloon,600,false
+Checkered Neopets Birthday Balloon,540,false
 Fish Pop Plushie,500,false
 Orange Kacheek Figure,100,false
 Pink Toy Blocks,1000,false
@@ -4070,8 +4070,8 @@ Krawk Island Altador Cup Flying Disc,1075,false
 Poogle Marbles,360,false
 Prigpants and Swolthy Snowglobe,300,false
 Rasala Action Figure with Wand,700,false
-Speckled Neopets Party Blower,380,false
-Split Paper Yo-Yo,420,false
+Speckled Neopets Party Blower,370,false
+Split Paper Yo-Yo,900,false
 Springy Chomby Toy,900,false
 Squid Snowglobe,95,false
 Tropical Mystery Island Flowers Plushie,1500,false
@@ -4081,13 +4081,13 @@ Yoyo,1000,false
 Hula Felf Toy,130,false
 Larnikin Plushie,540,false
 Red Good Luck Packet,140,false
-Silver Shoyru Plushie,930,false
+Silver Shoyru Plushie,920,false
 Beach Volleyball,990,false
 Darigan Skeith Plushie,4800,false
 Disco Acara Plushie,580,false
 Fire Blocks,850,false
-Green Kougra Plushie,930,false
-Pile of Bones,710,false
+Green Kougra Plushie,830,false
+Pile of Bones,1150,false
 Blue Neopets 6th Birthday Hat,600,false
 Blue Usul Keyring,1250,false
 Captain Scarblade Plushie,1000,false
@@ -4096,7 +4096,7 @@ Christmas Chia Hand Puppet,260,false
 Comfort Rock Companion,300,false
 Dancing Jerdana Music Box,270,false
 Dancing Rosie Doll,490,false
-Darigan Dentistry Play Set,380,false
+Darigan Dentistry Play Set,340,false
 Darigan Yurble Balloon,2000,false
 Dieter Action Figure,85,false
 Disco Paper Yo-Yo,980,false
@@ -4106,7 +4106,7 @@ Ghostkerchief Plushie,1550,false
 Glow In The Dark Eyrie Plushie,690,false
 Golden Cracker Hat,340,false
 Hannah Balloon,900,false
-Kacheekers Plushie,500,false
+Kacheekers Plushie,490,false
 Koi Fish Whiskers,1450,false
 Kreludan Ball,20000,false
 Kreludor Snowglobe,500,false
@@ -4130,15 +4130,15 @@ Shy Blue Chia Plushie,900,false
 Skeith Water Balloons,1000,false
 Sliding Bruce Plushie,250,false
 Space Vessel Action Pack,460,false
-Spotted Neopets Party Blower,330,false
+Spotted Neopets Party Blower,320,false
 Springy Green Slorg,550,false
 Unfortunate Holiday Ogrin Action Figure,140,false
 Wheel Of Monotony Plushie,550,false
 Yellow Neopets 6th Birthday Hat,600,false
-Altador Paddleball,400,false
+Altador Paddleball,450,false
 Basic Red Balloon,510,false
 Dubloon Bank,120,false
-Fire Jetsam Plushie,170,false
+Fire Jetsam Plushie,100,false
 Jewelled JubJub Jester,12000,false
 Twisted Doughnut Charm,1125,false
 Ghost Spyder Plushie,490,false
@@ -4149,7 +4149,7 @@ Snow Bruce Plushie,330,false
 Toy Glass Bottom Boat,480,false
 Vaeolus Pull Along Toy,440,false
 Kacheek Toy Drum,1000,false
-Striped Neopets Birthday Balloon,380,false
+Striped Neopets Birthday Balloon,310,false
 Chocolate Brown Kyrii Plushie,880,false
 Toy Plane,370,false
 Wooden Paddleball Game,200,false
@@ -4161,38 +4161,38 @@ Darigan Paper Airplane,400,false
 Fancy Usuki Sandcastle Set,1200,false
 Ill Meowclops Toy,500,false
 Island Explorer Plushie,560,false
-Mystery Island Usuki Play Set,400,false
+Mystery Island Usuki Play Set,600,false
 Peophin Squirt Gun,270,false
 Pteri Whistle,900,false
-Purple Scorchio Plushie,2500,false
+Purple Scorchio Plushie,2450,false
 Sargug Plushie,450,false
 Sloth Action Figure,1750,false
 Smug Bug Figures,990,false
-Turtum Wind Up Toy,440,false
+Turtum Wind Up Toy,280,false
 Virtupets Balloon,930,false
 Aisha Spinning Top,800,false
 Nose Picking Mynci Gnome Balloon,400,false
 Uggsul Plushie,450,false
 Usuki Ballet Set,360,false
 Wocky TCG Deck,150,false
-Blue Koi Plushie,1800,false
-Darigan Quiggle Plushie,990,false
+Blue Koi Plushie,1275,false
+Darigan Quiggle Plushie,400,false
 Face Pulling Hissi Plushie,410,false
-Grey Evil Fuzzle,560,false
+Grey Evil Fuzzle,180,false
 Magic Foam Balls,1000,false
 Royal Boy Draik Plushie,400,false
 Shenkuu Altador Cup Flying Disc,500,false
 Snow Yooyuball Toy,200,false
 Stackable Warfs Play Set,200,false
-Strawberry Poogle Plushie,880,false
+Strawberry Poogle Plushie,710,false
 Yellow Kiko Squeeze Toy,950,false
-Green Gnorbu Plushie,770,false
+Green Gnorbu Plushie,450,false
 Green Kyrii Plushie,1475,false
 Hissi Spring,700,false
 Cymbal Bashing Mynci Toy,500,false
 Seasonal Quiguki,200,false
 Apple Bobbing Bart Plushie,360,false
-Bag of Confetti,95,false
+Bag of Confetti,700,false
 Basic Blue Balloon,560,false
 Brightvale Usuki Doll,450,false
 Brucey B Mini High Striker,300,false
@@ -4210,16 +4210,16 @@ Hungry Cannibals Action Figures,400,false
 Jimmi and Woogy Egg Dolls,490,false
 Karaoke Usuki Set,700,false
 Kiko Gnome-in-the-box,1025,false
-Kiko Lake Boat-Train Set,100,false
+Kiko Lake Boat-Train Set,500,false
 Money Tree Lulluby Music Box,200,false
-Noil in the Box,75,false
+Noil in the Box,40,false
 Portable Oxygen Tank,390,false
 Red Cyodrake Plushie,100,false
 Reject Goparokko Plushie,370,false
 Santa Skarl Figurine,130,false
 Scared Christmas Wocky Plushie,450,false
 Striped Holiday Ornament,80,false
-Techo Talkie,1850,false
+Techo Talkie,1050,false
 The Red-Nosed Ixi Action Figure,65,false
 Winter Woodland Music Box,500,false
 Classic Shenkuu Sled,100,false
@@ -4229,7 +4229,7 @@ Grey Fuzzle,820,false
 Magic Deck,1000,false
 Snicklebeast Plushie,730,false
 Torch-Juggler Usuki,890,false
-Blue Mynci Plushie,890,false
+Blue Mynci Plushie,630,false
 Blue Neopets 6th Birthday Blower,510,false
 Bug Eye McGee Action Figure,490,false
 Draik Spinning Top,380,false
@@ -4256,10 +4256,10 @@ Kari Punching Bag,400,false
 Kreludan Hannah Plushie,540,false
 Adventurous Desert Grarrl Action Figure,500,false
 Christmas Cannon,100,false
-Cobrall in a Basket,800,false
+Cobrall in a Basket,430,false
 Cup of Borovan Plushie,330,false
 Cutie Patootie Mobile Toy,280,false
-Darigan Sprinkler,950,false
+Darigan Sprinkler,800,false
 Deserted Tomb Collectors Model,310,false
 Evil Morguss Bobblehead,500,false
 Fire Dartboard,820,false
@@ -4273,9 +4273,9 @@ Y25 Snowglobe,120,false
 Altador Altador Cup Flying Disc,600,false
 Elderly Ogrin Plushie,150,false
 Fake Lord Kass Toy Sword,280,false
-Jhudora Quiguki,220,false
+Jhudora Quiguki,200,false
 Orange Nimmo Music Box,200,false
-Orange Wocky Puzzle,200,false
+Orange Wocky Puzzle,190,false
 Suteks Tomb Rubber Stamp Set,350,false
 Vaeolus Water Squeeze Toy,1200,false
 Blue Techo Plushie,350,false
@@ -4288,14 +4288,14 @@ Paper Pteri Toy,510,false
 Steaming Wooden Foot Bath,200,false
 Wind Up Asparagus Chia,480,false
 Wind Up Pea Chia,50,false
-Wooden Marble,200,false
+Wooden Marble,170,false
 Bartamus Ornament,130,false
 Drackonack Yoyo,320,false
 Green Cracker Hat,360,false
-Halloween Ixi Plushie,990,false
+Halloween Ixi Plushie,900,false
 Kiko Explorer Plushie,500,false
 Old Fashioned Toy Microphone,360,false
-Purple Quiggle Plushie,850,false
+Purple Quiggle Plushie,740,false
 Red Cotton JubJub Plushie,300,false
 Usuki Shipwreck Set,750,false
 Witch Quiguki,480,false
@@ -4317,9 +4317,9 @@ Evil Toy of DOOM,990,false
 Evil Tree Action Figure,190,false
 Fleaf Plushie,110,false
 Food Cannon,100,false
-Ghostly Greeble Punching Bag,320,false
+Ghostly Greeble Punching Bag,330,false
 Ghosts of Days of Giving Action Figures,300,false
-Grey Cobrall Plushie,900,false
+Grey Cobrall Plushie,640,false
 Journey to the Lost Isle Snowglobe,130,false
 Kevin Plushie,280,false
 Lost Desert Cybunny Snowglobe,450,false
@@ -4356,8 +4356,8 @@ Blue Wocky Plushie,100,false
 Cuckoo Clock,400,false
 Darigan Peophin Plushie,330,false
 Dreidel,130,false
-Green Wocky Figurine,290,false
-Halloween Meerca Plushie,220,false
+Green Wocky Figurine,210,false
+Halloween Meerca Plushie,130,false
 Jinjah Wind Up Toy,190,false
 Meuka Pinata,1000,false
 Nominee Dartboard,280,false
@@ -4366,7 +4366,7 @@ Orange Nimmo Keyring,320,false
 Seasonal Electric Yurble Plushie,500,false
 Springy Skeith Toy,90,false
 Yellow Bruce Plushie,150,false
-Blue Shoyru Plushie,240,false
+Blue Shoyru Plushie,130,false
 Borovan Badge,30,false
 Darigan Altador Cup Flying Disc,500,false
 Green Magnifying Glass,310,false
@@ -4379,7 +4379,7 @@ Coconut Shy Quiggle Plushie,560,false
 Leeble Plushie,250,false
 Bigsby Shadington Plushie,380,false
 Blue Paper Glider,1000,false
-Bobbing Lenny,180,false
+Bobbing Lenny,100,false
 Broken Heart Tombstone,1000,false
 Captain Scarblade Dart Board,250,false
 Faerie Bubbles in a Bottle,300,false
@@ -4394,14 +4394,14 @@ Scary Snowbunny Plushie,200,false
 Scorcie Plushie,300,false
 Shadow Usul Pull Along,220,false
 Tent,450,false
-Woo Woo Grub Plushie,480,false
+Woo Woo Grub Plushie,390,false
 Broom for Bratty Usuls,230,false
 Chokato Chia Balloon,100,false
-Darigan Bubble Blower,600,false
+Darigan Bubble Blower,400,false
 Green Fuzzle,300,false
 Speckled Pteri Plushie,430,false
 Award Show Play Set,290,false
-Baby Ogrin Rattle,180,false
+Baby Ogrin Rattle,350,false
 Blue Grundo Plushie,450,false
 Flying Ona Wind Up,130,false
 Holiday MAGAX and Nox Playset,200,false
@@ -4413,14 +4413,14 @@ Gargarox Plushie,300,false
 Gothic Snowglobe,1225,false
 Green JubJub Plushie,100,false
 Red Kyrii Plushie,800,false
-Red Mynci Plushie,550,false
+Red Mynci Plushie,990,false
 Yooyu in the Box,210,false
 Darigan Eyrie Action Figure,170,false
 Florg Plushie,280,false
 Royal Paper Crown,190,false
 Wind Up Faerie Xweetok,90,false
 Woodland Flotsam Plushie,410,false
-Yellow Kiko Balloon,220,false
+Yellow Kiko Balloon,990,false
 Acid Attack Block Stack Game,350,false
 Battlefield Legends String Lights,200,false
 Blue Korbat Plushie,90,false
@@ -4445,7 +4445,7 @@ Meerca Gnome In A Box,60,false
 Meerouladen Plushie,470,false
 Mellow Marauders Plushie,430,false
 Mirsha Grelinek Action Figure,770,false
-Mismatched Toy Neggs,200,false
+Mismatched Toy Neggs,240,false
 Mud Facepaint Kit,240,false
 Petpet Catching Net,550,false
 Plushie Eyrie Mask,680,false
@@ -4455,14 +4455,14 @@ Purple Zafara Gnome Plushie,290,false
 Rainbow Dance Ribbon,100,false
 Red Kougra Plushie,240,false
 Red Tuskaninny Plushie,170,false
-Sewage Surfer Wocky Holiday Action Figure,120,false
+Sewage Surfer Wocky Holiday Action Figure,100,false
 Silly Paper Hat,90,false
 Snow and Fire Blaster,450,false
 Snow Jetsam Plushie,190,false
 Sorcerers Skirmish Home Version,200,false
 Sparkly Red and Green Ball,100,false
 Spotted Flotsam Plushie,180,false
-Striped Kazoo,230,false
+Striped Kazoo,190,false
 Tattered Cloud Kiko Plushie,950,false
 Toy Sled,400,false
 Usulbat Plushie,480,false
@@ -4471,7 +4471,7 @@ Y25 Plushie,120,false
 Yellow Mynci Plushie,120,false
 Yellow Usul Plushie,260,false
 Your Very Own Booth,350,false
-Blue Usul Suspect Action Figure,200,false
+Blue Usul Suspect Action Figure,100,false
 Holiday Mystical Tiki Idol,350,false
 Krawk Teeth Game,1350,false
 Lenny Cutout,120,false
@@ -4482,7 +4482,7 @@ Yellow Poogle Toy,100,false
 Advent Calendar Aisha Plushie,100,false
 Angry-Looking Yurble Wooden Toy,200,false
 Darigan Angelpuss Action Figure,590,false
-Dung Mote Plushie,910,false
+Dung Mote Plushie,830,false
 Ice Skating Championship Finale Tickets,1100,false
 Jhudora Balloon,100,false
 Miniature Wheel of Monotony,95,false
@@ -4493,7 +4493,7 @@ Pretty Pink Wocky Tea Set,110,false
 Toy Spinner,400,false
 Blue Chomby Plushie,330,false
 Blue Usul Plushie,230,false
-Dewy Apple Plushie,350,false
+Dewy Apple Plushie,680,false
 Fire Paper Yo-Yo,980,false
 Fire Wocky Keyring,18,false
 King Hagan Snowglobe,330,false
@@ -4506,7 +4506,7 @@ Pink Poogle Toy,400,false
 Pumpkin Candy Jar,200,false
 Seasonal CATFB Mug,790,false
 Snorkle Balloon,90,false
-Strip of Stickers,330,false
+Strip of Stickers,350,false
 Super Hasee Bouncy Balls,180,false
 Bruce Pull Along,110,false
 Bucket of Neopets,1000,false
@@ -4514,12 +4514,12 @@ Carnival Pie Baking Set,200,false
 Darigan Holiday Bells,70,false
 Destruct-O-Match Chess Game,150,false
 Dry Erase Marker Construction Set,610,false
-Fire Kazoo,110,false
+Fire Kazoo,120,false
 Fire Techo Plushie,750,false
 Green Koi Plushie,260,false
 Green Zafara Plushie,100,false
 Illusen Quiguki,950,false
-Island Kiko Plushie,120,false
+Island Kiko Plushie,85,false
 Kass Basher Home Game,170,false
 Key Quest Key Snowglobe,240,false
 Malfunctioning String Lights,120,false
@@ -4527,8 +4527,8 @@ Orange JubJub Pom Pom Toy,90,false
 Red Kacheek Plushie,420,false
 Red Origami Gelert,230,false
 Red Zafara Plushie,95,false
-Rock Balloon,300,false
-Rubber Coin Purse,180,false
+Rock Balloon,600,false
+Rubber Coin Purse,300,false
 Snowman Ring,95,false
 Volleyball,250,false
 Wind Up Baby Pteri,150,false
@@ -4549,16 +4549,16 @@ Box of Mismatched Game Pieces,150,false
 Christmas Shop Wizard Plushie,100,false
 Flying Boat Toy,160,false
 Fyora Halloween Mask,500,false
-Golden Medallion,110,false
+Golden Medallion,90,false
 Green Chomby Plushie,200,false
 Green Poogle Toy,300,false
 Green Wocky Plushie,200,false
-Half Eaten Rubber Mallard,45,false
+Half Eaten Rubber Mallard,50,false
 Holly Football,440,false
-Holly Kaleidoscope,400,false
-Kass Basher Puppet,560,false
+Holly Kaleidoscope,90,false
+Kass Basher Puppet,470,false
 King Roo in a Box,100,false
-Mutant Meerca Plushie,270,false
+Mutant Meerca Plushie,700,false
 Old Board Game with Missing Instruction Manual,130,false
 Red Acara Plushie,440,false
 Ridiculously Large Water Balloon Cannon,180,false
@@ -4568,7 +4568,7 @@ Starry Neopets 7th Birthday Balloon,130,false
 Tyrannian Hut,130,false
 Ursula Bobblehead,100,false
 Wind Up Darigan Pteri,75,false
-Yellow Uni Plushie,380,false
+Yellow Uni Plushie,500,false
 Advent Calendar Snowglobe,240,false
 Asparagus String Lights,95,false
 Colouring Book,730,false
@@ -4579,10 +4579,10 @@ Mellow Marauders Keyring,55,false
 My First Space Suit,65,false
 Quick-Change Costume Chest,120,false
 Red Korbat Plushie,85,false
-Springy Shoyru Toy,390,false
+Springy Shoyru Toy,330,false
 Toy Car without Wheels,60,false
-Yellow Chomby Plushie,200,false
-Yellow Krawk Plushie,530,false
+Yellow Chomby Plushie,240,false
+Yellow Krawk Plushie,430,false
 Blue Bubbly Koi Balloon,20,false
 Faerieland Snowglobe,90,false
 Gormball Plushie,300,false
@@ -4599,7 +4599,7 @@ Yellow Nimmo Keyring,200,false
 Altador Cup Colosseum Archway,280,false
 Basic Green Balloon,75,false
 Blue Nimmo Keyring,250,false
-Broken Blue Fuzzle,200,false
+Broken Blue Fuzzle,800,false
 Broken Neo Hits Volume One,380,false
 Build Your Own Flying Ship,180,false
 Chocolate Truck,50,false
@@ -4617,7 +4617,7 @@ Green Mynci Plushie,190,false
 Grey JubJub Pom Pom Toy,30,false
 Gummy Dice Blocks,140,false
 Gummy Dice Blumaroo Cards,95,false
-Illusen and Jhudora Stockings,890,false
+Illusen and Jhudora Stockings,180,false
 Imperial Guard Staff,140,false
 Jinjah Puzzle,35,false
 Kiko Match II Card Game,55,false
@@ -4633,7 +4633,7 @@ Purple Squeaky Slorg,30,false
 Red Pteri Clacker,50,false
 Red Wocky Plushie,200,false
 Royal Boy Bruce Balloon,220,false
-Silly Clown Usuki,45,false
+Silly Clown Usuki,40,false
 Spilt Coffee,55,false
 Split Meerca Plushie,300,false
 Spotted Neopets 7th Birthday Balloon,100,false
@@ -4652,7 +4652,7 @@ Yellow Moehog Plushie,400,false
 Beach Volley Ball Marbles,100,false
 Blue Grarrl Puzzle,25,false
 Blue Meerca Gnome Plushie,3,false
-Bouncy Orange Ball,230,false
+Bouncy Orange Ball,95,false
 Broken Heart Toy,45,false
 Fyora Playing Cards,55,false
 Goregas Keyring,75,false
@@ -4684,21 +4684,21 @@ Rosie Dartboard,100,false
 Snow Bowling Set,35,false
 Springy Green Chia Toy,50,false
 Blue Poogle Toy,500,false
-Brown Evil Fuzzle,140,false
+Brown Evil Fuzzle,75,false
 Bucket of Fake Snow,25,false
-Destruct-O-Match Playing Cards,100,false
+Destruct-O-Match Playing Cards,90,false
 Dueling Decks Box of Cards,90,false
 Faerie Jacks and Ball Set,12,false
 Flotsam Fishing Game,130,false
 Geb Top,100,false
 Gormball Slime,55,false
 Purple Neopets Party Pinwheel,100,false
-Seasonal Yoyo,200,false
+Seasonal Yoyo,150,false
 Skeith Guard Inaction Figure,45,false
 Thief-in-a-Box,110,false
-Yellow Birthday Blower,300,false
+Yellow Birthday Blower,250,false
 Yellow JubJub Plushie,85,false
-Blue Grundo Keyring,150,false
+Blue Grundo Keyring,100,false
 Bogie Bouncy Ball,45,false
 Bottled Faerie Keyring,50,false
 Colourful Building Blocks,50,false
@@ -4707,9 +4707,9 @@ Globe of Neopia Snowglobe,400,false
 Sculpty Dough,25,false
 Starry Koi Wind Up Bath Toy,30,false
 Toy Spider Ring,19,false
-Wind Up Chia Clown,50,false
+Wind Up Chia Clown,75,false
 Wooden Kiko Puzzle,100,false
-Yellow Chia Balloon,100,false
+Yellow Chia Balloon,70,false
 Anti-Gravity Yoyo,50,false
 Club President Super Plushie,100,false
 Koi Bath Buddy,14,false
@@ -4730,7 +4730,7 @@ Grarrl New Year Dentures,35,false
 Green Usul Keyring,150,false
 Lenny Dancer Music Box,100,false
 Pirate Flotsam Plushie,8,false
-Red Nimmo Keyring,100,false
+Red Nimmo Keyring,70,false
 Round Table Poker Coins,25,false
 Sparkly Wocky Ball,200,false
 Springy Cobrall In A Box,50,false
@@ -4750,10 +4750,10 @@ Roo Island Snowglobe,45,false
 Snow Bruce Music Box,25,false
 Squeaky Tonu Toy,250,false
 Bucket of Sand,40,false
-Colourful Charms - Set 1,45,false
+Colourful Charms - Set 1,50,false
 Everlasting Apple Charm,35,false
-Faerie Acara Music Box,35,false
-Green Korbat Plushie,100,false
+Faerie Acara Music Box,40,false
+Green Korbat Plushie,75,false
 Inflatable Krawk Island,150,false
 Isca Balloon,30,false
 Kevin Bobblehead,30,false
@@ -4781,7 +4781,7 @@ Tazzalor Action Figure,35,false
 Wind Up Fire Niptor,11,false
 Wind Up Ona,30,false
 Wooden Gelert Toy,30,false
-Acorn Yoyo,30,false
+Acorn Yoyo,25,false
 Aisha Raft Toy,30,false
 Altador Cup Sticker,20,false
 Angry Yellow Usul Keyring,7,false
@@ -4806,13 +4806,13 @@ Fyora Music Box,35,false
 Fyora Yoyo,25,false
 Gelert Puppet,30,false
 Hannah Bobblehead,35,false
-Hannah Spinning Top,12,false
+Hannah Spinning Top,15,false
 Hissi Squirt Bottle,35,false
 Inflatable Fire Yooyuball,45,false
 Jhudora Potion Kit,40,false
 JubJub Spinning Top,25,false
 Kaia Wind Up Toy,20,false
-Korbat Sticky Hand,45,false
+Korbat Sticky Hand,40,false
 Kougra Flying Disc,12,false
 Mini Slot Machine,35,false
 Moach Pull Along Toy,30,false
@@ -4821,7 +4821,7 @@ Pea Chia Kite,13,false
 Peophin Cards,65,false
 Petpet Dominoes,12,false
 Pink Frilly Koi Balloon,50,false
-Pink Snorkle Usuki Set,45,false
+Pink Snorkle Usuki Set,130,false
 Quiguki Beach Set,30,false
 Quiguki Surf Set,17,false
 Red Acara Ball,30,false
@@ -4829,8 +4829,8 @@ Red Spardel Yoyo,20,false
 Robotic Striped Gelert Toy,25,false
 Ruki Push Up Toy,25,false
 Shoyru Boat Toy,25,false
-Skating Bruce Toy,25,false
-Skeleton Wocky Plushie,20,false
+Skating Bruce Toy,55,false
+Skeleton Wocky Plushie,55,false
 Sliding Candychan Puzzle,500,false
 Sprout Gumball Machine,35,false
 Stone Doll,6000,false
@@ -4840,7 +4840,7 @@ Tonu Hooptoss Activity Set,25,false
 Toy Judge Gavel,9,false
 Toy Sword,400,false
 Ultranova Balloon,25,false
-Wind Up Bouncing Hasee,25,false
+Wind Up Bouncing Hasee,30,false
 Wuzzle Kite,75,false
 Yellow Eyrie Yoyo,30,false
 Yurble Bank,19,false
@@ -4848,7 +4848,7 @@ Yurble Bank,19,false
 Baby Bruce Squeaky Toy,30,false
 Baby Chomby Balloon,25,false
 Black Meowclops Ring,16,false
-Blue Korbat Keyring,50,false
+Blue Korbat Keyring,45,false
 Bouncy Leeble Ball,25,false
 Buzz Avenger Action Figure,12,false
 Carnival of Terror Board Game,25,false
@@ -4861,7 +4861,7 @@ Faerie Kougra Mug,30,false
 Fungus Ball Ball,140,false
 Fyora Ball,40,false
 Geraptiku Play Set,95,false
-Green Bubbly Koi Balloon,25,false
+Green Bubbly Koi Balloon,20,false
 Groovy Toy Van,13,false
 Hasee Seesaw Toy,70,false
 Haunted Woods Snowglobe,17,false
@@ -4875,12 +4875,12 @@ Maraquan Skeith Yoyo,30,false
 Marbled Balloons,25,false
 Meowclops Statue Bobblehead,200,false
 Neoferris Wheel,25,false
-Origami Flying Machine,30,false
+Origami Flying Machine,16,false
 Pirate Hissi Action Figure,11,false
 Plastic Techo Figures,30,false
 Plushie Chomby Balloon,25,false
 Plushie Jetsam Sock Puppet,18,false
-Pull Along Snowbunny,100,false
+Pull Along Snowbunny,50,false
 Red Dance Ribbon,25,false
 Red Skeith Keyring,25,false
 Reject Wind Up Baby Draik,25,false
@@ -4919,15 +4919,15 @@ Cooty Trooper Action Figure,12,false
 Dancing Hissi Toy,14,false
 Detransmogrifier Toy,25,false
 Faellie Top,15,false
-Faerie Kougra Bookmark,11,false
+Faerie Kougra Bookmark,12,false
 Faerieland Bucket And Spade Set,25,false
-Fire Goldy Bath Toy,13,false
+Fire Goldy Bath Toy,17,false
 Greed Keyring,100,false
 Green Kiko Jigsaw Puzzle,1000,false
 Happy Kau Jigsaw Puzzle,6,false
 Hasee Bounce Bat and Ball,11,false
 Ice Blasted Kiko Plushie,10,false
-Illusen Kite,25,false
+Illusen Kite,100,false
 Jacques Balloon,45,false
 Jetsam Fishing Game,19,false
 Jetsam Floaty Ring,30,false
@@ -4953,7 +4953,7 @@ Purple Koi Bath Sponge,30,false
 Quiggle Sock Puppet,25,false
 Quilin Slide Puzzle,7,false
 Red Mountain Bike,30,false
-Reject Wind Up Maraquan Draik,25,false
+Reject Wind Up Maraquan Draik,30,false
 Skuffler Pull Along Toy,15,false
 Snicklebeast Balloon,11,false
 Sticky Snowflake Keyring,20,false
@@ -4967,7 +4967,7 @@ Wooden Dubloon Toy,25,false
 Acko Piggy Bank,250,false
 Baby Lupe Puzzle,19,false
 Banana Vehicle,16,false
-Blue Buzz Jigsaw,18,false
+Blue Buzz Jigsaw,14,false
 Blumaroo Sock Puppet,25,false
 Bouncy Spiky Ball,200,false
 Camouflage Pull Along Kau,18,false
@@ -4980,7 +4980,7 @@ Eyeball Action Figure,20,false
 Flerper Balloon,6,false
 Folded Paper Hat,6,false
 Gallion Action Figure,14,false
-Garin Balloon,11,false
+Garin Balloon,16,false
 Gelert in the Box,15,false
 Gormball Board Game,10,false
 Green Bori Ball,9,false
@@ -5000,9 +5000,9 @@ Meridell Toy Shield,5,false
 Mix and Match Faerie Puzzle,20,false
 MSPP Yoyo,15,false
 Mynci Gnome In A Box,7,false
-Origami Nova,20,false
+Origami Nova,14,false
 Origami Rock,19,false
-Pant Devil Yoyo,18,false
+Pant Devil Yoyo,8,false
 Paper Wrestlers,17,false
 Peophin Dominoes,18,false
 Pink Party Balloon,19,false
@@ -5016,7 +5016,7 @@ Shoyru Paint By Number,19,false
 Skeith Sock Puppet,18,false
 Sketch a Pic,19,false
 Snow Footbag,100,false
-Snowager Yoyo,14,false
+Snowager Yoyo,25,false
 Starry Ruki Marionette,15,false
 Taelia Ball,75,false
 Tattered Sock Puppet,20,false
@@ -5032,19 +5032,19 @@ Wind Up Maraquan JubJub,12,false
 Wind Up Pinklet,19,false
 Wooden JubJub Hoop Game,25,false
 Wooden Shoyru Spinning Top,12,false
-Wreathy Ball,8,false
+Wreathy Ball,10,false
 Yellow Wocky Keyring,140,false
 Aboogala Pull Along Toy,30,false
-Advanced Fishing Set,10,false
+Advanced Fishing Set,180,false
 Beekadoodle Kite,9,false
 Black and White Year Eight Balloon,16,false
 Blechy Keyring,16,false
 Blue Cybunny Balloon,9,false
-Blue Elephante Balloon,20,false
+Blue Elephante Balloon,17,false
 Blue Ixi Plushie,35,false
 Blue Kau Fluffball,11,false
 Blue Origami Hissi Toy,16,false
-Blue Spardel Balloon,13,false
+Blue Spardel Balloon,17,false
 Blue Triffin Flying Disc,10,false
 Bouncy Hannah Ball,8,false
 Brian Gormball Action Figure,16,false
@@ -5092,7 +5092,7 @@ Mibblie Squeezy Toy,11,false
 Mootix Farm,15,false
 Mootix Pull Along Toy,12,false
 MSPP Squirty Toy,30,false
-Mutant Tonu Squeezy Toy,13,false
+Mutant Tonu Squeezy Toy,25,false
 Mynci Banana Action Figure,7,false
 Mynci Pogo Stick,13,false
 Mynci Sock Puppet,15,false
@@ -5111,7 +5111,7 @@ Pirate Yurble Action Figure,13,false
 Plushie Mote Balloon,18,false
 Pride Keyring,25,false
 Pull Along Lupe,13,false
-Pull Along Scarab,15,false
+Pull Along Scarab,16,false
 Purple Ogrin Puzzle,7,false
 Purple Pteri Glider,18,false
 Purple Ruki Skipping Rope,230,false
@@ -5128,18 +5128,18 @@ Smiley Flipball,16,false
 Smiley hockey,9,false
 Snowickle Squirty Toy,11,false
 Sock Pouch,9,false
-Spooky Yoyo,18,false
+Spooky Yoyo,15,false
 Spotted Year Eight Balloon,16,false
 Stackable Babaas,13,false
 Surzard Float Ring,11,false
 Surzard Oar,9,false
-Taelia Toy Wand,14,false
+Taelia Toy Wand,15,false
 Tomos Balloon,10,false
 Toy Illusen Bow and Arrow Set,20,false
 Trudy Glass Toy,17,false
 Turtum Yoyo,14,false
 Tuskaninny Tea Set,14,false
-Vo Codestone Plushie,14,false
+Vo Codestone Plushie,8,false
 Volcanic Bowling Set,16,false
 Whoopee Cushion,15,false
 Wibreth Balloon,15,false
@@ -5147,15 +5147,15 @@ Wibreth Bouncy Toy,80,false
 Wind Up Grimilix,9,false
 Wind Up Mutant Jetsam,11,false
 Wind Up Sliding Red Bruce,16,false
-Wind Up Wreathy,17,false
+Wind Up Wreathy,15,false
 Wooden Kacheek Puppet,15,false
 Wooden Stilts,12,false
 Wooden Uni Pull Along Toy,7,false
 Wooden Yoyo,18,false
-Yellow Goldy Bath Toy,16,false
+Yellow Goldy Bath Toy,20,false
 Yellow Lupe Paddleball,17,false
 Beekadoodle Sandcastle Set,16,false
-Blackberry Spinning Top,15,false
+Blackberry Spinning Top,17,false
 Blue Acara Swim Toy,8,false
 Blue Bruce Yoyo,7,false
 Blue Cup and Ball Toy,9,false
@@ -5174,7 +5174,7 @@ Caylis Music Box,11,false
 Chest of Toy Dubloons,5,false
 Chia Paint By Number,11,false
 Christmas Wocky Wind Up Toy,13,false
-Cobrall Squirter,30,false
+Cobrall Squirter,15,false
 Cooty in a Balloon Toy,15,false
 Darigan Pteri Puzzle,11,false
 Darigan Toy Labyrinth,11,false
@@ -5184,7 +5184,7 @@ Dr. Sloth Yo-Yo,13,false
 Droolik Kite,20,false
 Faerie Kougra Mask,16,false
 Fire Footbag,11,false
-Fire Jetsam Bath Toy,11,false
+Fire Jetsam Bath Toy,13,false
 Flishy Paddleball Game,12,false
 Florg Yoyo,6,false
 Fungree Slide Puzzle,14,false
@@ -5195,7 +5195,7 @@ Gallion Yoyo,10,false
 Ghostkerbomb Charm,8,false
 Glowing Techo Puzzle,14,false
 Glowing Wagon,14,false
-Goregas Balloon,8,false
+Goregas Balloon,11,false
 Green Cybunny Balloon,6,false
 Green Grarrl Flying Disc,12,false
 Green Jetsam Bath Toy,18,false
@@ -5213,14 +5213,14 @@ Island Native Techo Plushie,19,false
 Jeran Play Set,7,false
 Jetsam Balloon,20,false
 Jhudora Marbles,16,false
-Kiko Clay Sculpture Set,8,false
+Kiko Clay Sculpture Set,7,false
 Kiko Fishing Game,12,false
 Kiko Water Balloon,14,false
 Kookith Stacking Blocks,14,false
 Kougra Pinwheel,13,false
 Lisha Balloon,30,false
-Main Codestone Plushie,8,false
-Mallard Balloon,45,false
+Main Codestone Plushie,15,false
+Mallard Balloon,40,false
 Maraquan Shoyru Push Toy,25,false
 Marshmallow Bow and Arrow,11,false
 Marshmallow Shooter,7,false
@@ -5241,7 +5241,7 @@ Paper Airplane,14,false
 Pastel Pogo Stick,16,false
 Pin the Tail on the Pteri,10,false
 Pink Chomby Bouncy Ball,10,false
-Pink Ona Puppet,13,false
+Pink Ona Puppet,18,false
 Purple Cybunny Balloon,15,false
 Purple Jetsam Squirty Toy,13,false
 Purple JubJub Sandcastle Set,13,false
@@ -5249,7 +5249,7 @@ Purple Mynci Puppet,12,false
 Pwerko Bank,13,false
 Quiggle Snap Game,12,false
 Red Bori Plushie,19,false
-Red Bruce Ball,8,false
+Red Bruce Ball,15,false
 Red Gelert Beach Ball,6,false
 Red Kougra Toy Blocks,12,false
 Red Lupe Hoop,8,false
@@ -5282,13 +5282,13 @@ Techo Says Toy Home Version,13,false
 The Hikalakas Maracas,13,false
 Tombola Guy Charm,15,false
 Tuskaninny Puzzle,9,false
-Uni Sticker Sheet,15,false
+Uni Sticker Sheet,19,false
 Uniocto Bath Buddy,8,false
 Usul Clay Sculpture Set,7,false
 Volcano Run II Puzzle,1000,false
 Wave Print Beach Ball,12,false
 White Goldy Bath Toy,16,false
-Wind Up Bruce,13,false
+Wind Up Bruce,15,false
 Wind Up Nuranna,19,false
 Wind-up Dimensional Kiko,14,false
 Wooden Acara Puzzle,10,false
@@ -5301,11 +5301,11 @@ Woollen Gloves Knitting Set,7,false
 Woollen Jumper Knitting Set,13,false
 Woolypapith Piggy Bank,8,false
 Yellow Blumaroo Balloon,25,false
-Yellow Korbat Keyring,25,false
+Yellow Korbat Keyring,9,false
 Yellow Sandcastle Set,6,false
 Yellow Skeith Keyring,7,false
-Yellow Starry Cracker Hat,12,false
-Baby Fireball Skittles,8,false
+Yellow Starry Cracker Hat,6,false
+Baby Fireball Skittles,10,false
 Beekadoodle In A Box,25,false
 Blackberry Yoyo,12,false
 Blue Bruce Balloon,11,false
@@ -5324,18 +5324,18 @@ Counting Blocks,13,false
 Darigan Jacks and Ball Set,6,false
 Desert Tuskaninny in the Box,10,false
 Droolik Puppets,15,false
-Dubloon Charm,11,false
+Dubloon Charm,12,false
 Elephante Bouncy Ball,18,false
 Eyeball Paddleball,11,false
 Flotsam Bath Toy,25,false
-Ghostkerchief Balloon,9,false
-Glubgar Bouncy Ball,7,false
-Haunted Woods Bucket And Spade Set,10,false
+Ghostkerchief Balloon,13,false
+Glubgar Bouncy Ball,13,false
+Haunted Woods Bucket And Spade Set,11,false
 Jhudora Puzzle,11,false
 Kacheek Balloon Animal,12,false
 Kelpflake Beach Ball,11,false
 Kougra Tail Skipping Rope,9,false
-Lu Codestone Plushie,15,false
+Lu Codestone Plushie,9,false
 Maraquan JubJub Ball,11,false
 Mootix Parachute Toy,12,false
 Mutant Xweetok Pull Along,7,false
@@ -5346,14 +5346,14 @@ Pull Along Koi,10,false
 Red Chomby Puzzle Blocks,7,false
 Red Hissi Paddleball Game,11,false
 Red Origami Nimmo Toy,7,false
-Red Pteri Keyring,8,false
+Red Pteri Keyring,16,false
 Red Shoyru Puzzle,7,false
 Rubber Chia Toy,10,false
 Skeith Balance Board,7,false
 Sloth Paddleball Game,9,false
 Sludge Ball Keyring,20,false
 Snowager Spring Toy,9,false
-Sproing Bouncy Ball,11,false
+Sproing Bouncy Ball,12,false
 Striped Beard,10,false
 Swordsmaster Talek Balloon,30,false
 Tuskaninny Figurine,11,false
@@ -5362,10 +5362,10 @@ Twisted Roses Magnet,10,false
 Wind Up Sliding Green Bruce,10,false
 Wind Up Sliding Yellow Bruce,10,false
 Wind Up Snicklebeast,20,false
-Wind Up Snowbunny,10,false
+Wind Up Snowbunny,14,false
 Wind Up Yellow Grarrl,10,false
 Wooden Rocking Uni,12,false
-Yellow Grundo Keyring,11,false
+Yellow Grundo Keyring,12,false
 Yellow Origami Wocky Toy,10,false
 Yellow Usul Keyring,12,false
 Zyloron Bat and Ball Game,9,false
@@ -5376,15 +5376,15 @@ Quetzal Balloon,7,false
 Rainbow Year Eight Balloon,9,false
 Red Grarrl Spinning Top,11,false
 Surfing Elephante Squeaky Toy,10,false
-Toy Pirate Hat,13,false
+Toy Pirate Hat,25,false
 Wind Up Turmaculus,11,false
-Wind Up Yellow Draik Toy,8,false
+Wind Up Yellow Draik Toy,50,false
 Wooden Bowling Set,6,false
 Wooden Chomby Toy,6,false
 Wooden Mynci Boomerang,10,false
 Yellow Pull Along Hissi,6,false
-Angry Red Usul Keyring,10,false
-Baby Bruce Blocks,11,false
+Angry Red Usul Keyring,9,false
+Baby Bruce Blocks,14,false
 Baby Buzz Squirty Toy,9,false
 Blumaroo Bowling Set,10,false
 Dartail Bath Toy,10,false
@@ -5396,7 +5396,7 @@ Pirate Chomby Balloon,16,false
 Quiggle Keyring,5,false
 Red Ruki Scooter,9,false
 Ripped Moehog Plushie,1,false
-Shoyru Glider,7,false
+Shoyru Glider,9,false
 Skeith Beach Ball,9,false
 Snowager Keyring,7,false
 Snowbunny Yoyo,18,false
@@ -5416,7 +5416,7 @@ Fluffy Cybunny Yoyo,10,false
 Garden Croquet Set,6,false
 Green Cyodrake Plushie,15,false
 Lightmite Keyring,10,false
-Meepit vs Feepit Action Figures,10,false
+Meepit vs Feepit Action Figures,11,false
 Rainbow Sand Bottle,14,false
 Red Acara Balloon,10,false
 Red Draik Play Set,9,false
@@ -5427,9 +5427,9 @@ Angelpuss Clay Sculpture Set,5,false
 Attack Pea Keyring,8,false
 Baby Scorchio Plushie,8,false
 Blue Blumaroo Jigsaw Puzzle,8,false
-Blue Chomby Float Ring,11,false
+Blue Chomby Float Ring,12,false
 Blue Ruki Puppet,10,false
-Blue Sandcastle Set,9,false
+Blue Sandcastle Set,10,false
 Dr. Sloth Wagon,8,false
 Drinking Hissi Toy,7,false
 Droolik Flying Disc,17,false
@@ -5441,7 +5441,7 @@ JubJub Clay Sculpture Set,8,false
 Kreludan Sculpting Sand,20,false
 Lady Blurg Bat Game,8,false
 Nimmo Gnome In A Box,8,false
-Ona Balloon,9,false
+Ona Balloon,11,false
 Paper Fortune Teller,8,false
 Paper Star,9,false
 Pocket Fire Pinball Game,6,false
@@ -5464,7 +5464,7 @@ Long Grey Beard,13,false
 Mole with Hair,8,false
 Mutant Ona Slide Puzzle,7,false
 Pink Pteri Bank,9,false
-Pteri Blocks,20,false
+Pteri Blocks,45,false
 Red Jetsam Bath Toy,7,false
 Red Usul Keyring,14,false
 Rock Piggy Bank,8,false
@@ -5477,10 +5477,10 @@ Clay Dubloon,7,false
 Drinking Pteri Toy,9,false
 Fake Shoyru Gum Shocker,7,false
 Fyora Kite,11,false
-Gelert Battledome Play Set,7,false
+Gelert Battledome Play Set,9,false
 Grarrl Commentator Plushie,5,false
 Green Pteri Keyring,5,false
-Green Spardel Ball,7,false
+Green Spardel Ball,10,false
 Grey Faerie Snowglobe,240,false
 Hissi Finger Trap,6,false
 Ice Caves Jigsaw Puzzle,4,false
@@ -5498,7 +5498,7 @@ Tyrannian Kimbi Pull Along Toy,5,false
 Unlucky Mirgle Paw,16,false
 Wooden Sphere Puzzle,7,false
 Woollen Scarf Knitting Set,15,false
-Zei Codestone Plushie,15,false
+Zei Codestone Plushie,6,false
 Baby Wocky Puppet,8,false
 Darigan Aisha Crystal Ball,10,false
 Elderly Acara Plushie,5,false
@@ -5546,7 +5546,7 @@ Resewn Shoyru Plushie,20,false
 Shoot Kreludor Game,7,false
 Sidney in the Box,50,false
 Smiley Yoyo,6,false
-Snowager Ball,4,false
+Snowager Ball,30,false
 Speckled Xweetok Puzzle,7,false
 Squeaky Gelert Toy,6,false
 Three Wheel Scooter,10,false
@@ -5563,7 +5563,7 @@ Discarded Tuskaninny Plushie,40,false
 Gallion Bath Toy,7,false
 Gear Building Blocks,6,false
 Kassegat Jig Saw Puzzle,9,false
-Maraquan Charger Plushie,1,false
+Maraquan Charger Plushie,15,false
 New Year Fire Crackers,7,false
 Orange Negg Goo,35,false
 Paper Jesters Crown,90,false
@@ -5579,17 +5579,17 @@ Lucky Bone Necklace,7,false
 My First Telescope Toy,6,false
 Purple and Gold Paper Crown,18,false
 Robotic Christmas Quiggle Toy,6,false
-Set Of Marbles,30,false
+Set Of Marbles,35,false
 Snow Aisha,4,false
 Summerfun Flotsam Beach Ball,3,false
-Tai-Kai Codestone Plushie,480,false
-Toy Pirate Sword,3,false
-Wind Up Leeble,7,false
+Tai-Kai Codestone Plushie,15,false
+Toy Pirate Sword,2,false
+Wind Up Leeble,6,false
 Wooden Pirate Ship,5,false
 Blue Fuzzle,1,false
 Blue Ruki Plushie,11,false
 Maraquan Frisbee,1,false
-Mau Codestone Plushie,5,false
+Mau Codestone Plushie,6,false
 Pygui Nesting Dolls,7,false
 Starry Peophin Plushie,4,false
 Valentines Bruce Plushie,8,false
@@ -5598,7 +5598,7 @@ Wooden Grarrl Skeleton,6,false
 Aisha Lawyer Plushie,450,false
 Baby Fireball in a Box,9,false
 Christmas Town Building Blocks,5,false
-Jetsam Ace Action Figure,880,false
+Jetsam Ace Action Figure,170,false
 Tyrannian Acara Plushie,1,false
 Applehead Bart Plushie,5,false
 Bouncy Slorg Ball,4,false
@@ -5607,13 +5607,13 @@ Green Sculpting Clay,6,false
 Hifflo Yoyo,4,false
 I Love Captain Scarblade Keyring,3,false
 Ice Blasted Hissi Plushie,19,false
-Orn Codestone Plushie,4,false
+Orn Codestone Plushie,7,false
 Purple Negg Goo,14,false
 Sticky Gormball,4,false
 Tyrannian Rock Balloon,3,false
 Yellow Blumaroo Keyring,150,false
 Zargrold the COOL Bobblehead,13,false
-Camouflage Ruki Marionette,10,false
+Camouflage Ruki Marionette,5,false
 Glowing Top,15,false
 Halloween Koi Plushie,4,false
 Maraquan Shieldmaiden Plushie,3,false
@@ -5629,8 +5629,8 @@ Green Cybunny Plushie,3,false
 Mini Apple Bobbing Game,2,false
 Pawkeet Pinata,10,false
 Snowager Ruler Puzzle,4,false
-Space Faerie Blocks,2,false
-Space Fungus Action Figure,6,false
+Space Faerie Blocks,3,false
+Space Fungus Action Figure,25,false
 Stripy Spinning Top,10,false
 Tyrannian Skeith Plushie,9,false
 White Snowball Plushie,8,false
@@ -5656,8 +5656,8 @@ Cloud Jetsam Keyring,5,false
 Courgette Building Logs,1,false
 Deserted Tomb Puzzle,1,false
 Discarded Camouflage Yurble Plushie,1,false
-Discarded Fire Mynci Plushie,2,false
-Discarded Maractite Ogrin Plushie,2,false
+Discarded Fire Mynci Plushie,1,false
+Discarded Maractite Ogrin Plushie,1,false
 Discarded Stealthy Vandagyre Plushie,1,false
 Diseased Mechafish,1,false
 Fir Petpet Walkie Talkie Set,1,false
@@ -5684,14 +5684,14 @@ Potato Yo-Yo,1,false
 Red Grundo Keyring,3,false
 Red Kazoo,1,false
 Red Koi Keyring,3,false
-Red Koi Plushie,4,false
+Red Koi Plushie,2,false
 Red Korbat Keyring,7,false
 Rock Petpet Plushie,8,false
 Royal Girl Zafara Plushie,40,false
 Shenkuu Firecrackers,1,false
 Speckled Faerie Chomby Plushie,1,false
 Spooky Mechafish,1,false
-Starry Box Kite,2,false
+Starry Box Kite,1,false
 Sutekh Plushie,1,false
 Tencals Balloon,1,false
 Tombola Keyring,1,false
@@ -5748,7 +5748,7 @@ Chocolate Scorchio Window Cling Sticker,(r101),false
 Chocolate Usul Squeaky Toy,(r101),false
 Chocolate Xweetok Hand Puppet,(r101),false
 Christmas Bruce Rubber Bath Toy,2000000,false
-Cloud Lenny Plushie,2000000,true
+Cloud Lenny Plushie,(r99),false
 Cloud Moehog Kite,(r101),false
 Clown Usuki,(r101),false
 Colourful Year Six Balloon,(r180),false
@@ -5780,7 +5780,7 @@ Fauna Plushie,2000000,true
 Feather Bow and Arrow,(r99),false
 Fire Yooyu Plushie,2000000,true
 Fire Yooyu Torch,(r101),false
-Fish Negg Plushie,30000000,false
+Fish Negg Plushie,995000,false
 Flat Tyred Golden Bike,(r101),false
 Foreman Plushie,2000000,true
 Frozen Lizard Plushie,2000000,true
@@ -5869,7 +5869,7 @@ Magical Yellow Lenny Plushie,2000000,true
 Magical Yellow Nimmo Plushie,7000000,false
 Magical Yellow Pteri Plushie,2000000,true
 Magical Yellow Skeith Plushie,2000000,true
-Malice Doll,15000000,false
+Malice Doll,2000000,false
 Maraquan Gallion Pull Along Toy,(r101),false
 Maraquan Snowglobe with Autumn Scene,(r101),false
 Mastermind Plushie,2000000,true
@@ -5906,7 +5906,7 @@ Piraket Pull Along Toy,(r101),false
 Pirate Blumaroo Cracker,(r101),false
 Pirate Peophin Plushie,2000000,true
 Plant Aisha Antennae,1625,false
-Plant Aisha Tail,3100,false
+Plant Aisha Tail,5000,false
 Plushie Innertube,(r101),false
 Pop Star Quiguki,22000000,false
 Postal Weewoo Action Figure,(r101),false
@@ -5981,7 +5981,7 @@ Speckled Kiko Robot,(r101),false
 Speckled Quiggle Balloon,(r101),false
 Speckled Quiggle Keyring,(r101),false
 Speckled Quiggle Robot,(r101),false
-Spotted Gelert Plushie,30000000,false
+Spotted Gelert Plushie,940000,false
 Spotted-Cybunny-In-The-Box,(r101),false
 Springtime Kacheek Plushie,2000000,true
 Springtime Tea Set,(r101),false
@@ -6032,8 +6032,8 @@ Wind Up Red Slorg,(r101),false
 Wind Up Spyder,(r101),false
 Wind Up Zombie Aisha,(r101),false
 Winged Spring Kacheek Toy Cape,(r101),false
-Wispy Cloud Aisha Antennae,4450,false
-Wispy Cloud Aisha Tail,4400,false
+Wispy Cloud Aisha Antennae,4425,false
+Wispy Cloud Aisha Tail,8500,false
 Wooden Compass,(r101),false
 Woogi and Jimmy Plushie Set,(r101),false
 Year 9 Quiguki,(r99),false
@@ -6046,7 +6046,7 @@ Ylana Skyfire Wind Up Toy,(r101),false
 Zo Junior Action Figure,(r101),false
 Fire Faerie Doll,(r99),false
 Negg Faerie Doll,20000000,false
-Water Faerie Doll,30000000,false
+Water Faerie Doll,985000,false
 King Skarl Quiguki Plushie,2000000,true
 Neopian Times White Weewoo Plushie,2000000,true
 King Terask Plushie,2000000,true
@@ -6078,7 +6078,7 @@ Layton Vickles Action Figure,1500000,false
 Tooth Faerie Usuki Doll,3000000,false
 Lyra Plushie,2000000,true
 Magical Starry Lupe Plushie,6000000,false
-Air Faerie Usuki Doll,2000,false
+Air Faerie Usuki Doll,480,false
 Siyana Doll,1300000,false
 Buzz Booster Pack,Inflation Notice,false
 Key Garland,510000,false
@@ -6094,31 +6094,31 @@ Magical Green Kyrii Plushie,290000,false
 Royal Boy Ixi Plushie,1100000,true
 Birthday Celebration Kyrii Plushie,690000,false
 Yellow Techo Plushie,945000,false
-Asparagus Chia Plushie,490000,false
+Asparagus Chia Plushie,505000,false
 Fyora Bobblehead,800000,false
 Purple Hasee Balloon Toy,655000,false
 Broken Kaylas Chemistry Set,169000,false
 Haunted Chess Set,890000,false
-Lutari Tonu Plushie,345000,false
+Lutari Tonu Plushie,350000,false
 Pink Quiggle Charm,615000,false
 Seasonal Illusen Snowglobe,214000,false
 Purple Paint Blob Plushie,390000,false
 Brightvale Altador Cup Team Yooyu Plushie,192000,false
 Desert Arms Trick-or-Treat Bag,255000,false
 Faerie Buzz Plushie Collectable Charm,990000,false
-Usuki Hamper,555000,false
+Usuki Hamper,550000,false
 Magical Red Pteri Plushie,835000,false
-Summertime Usuki,206000,false
-DJ Skellington Bobblehead,660000,false
+Summertime Usuki,475000,false
+DJ Skellington Bobblehead,575000,false
 Green Paper Crown,Inflation Notice,false
-Volgoth Action Figure,Inflation Notice,false
-Neopets 8th Birthday Ball Blower,480000,false
+Volgoth Action Figure,965000,false
+Neopets 8th Birthday Ball Blower,730000,false
 Altador Cup Haunted Woods Snowglobe,325000,false
 Jhudora Plushie,390000,false
-Naia the Fountain Faerie Usuki Doll,495000,false
+Naia the Fountain Faerie Usuki Doll,650000,false
 Possessed Cybunny Plushie,225000,false
 Spyder on a String,140000,false
-Xarthab and Zorlix Bobblehead,100000,false
+Xarthab and Zorlix Bobblehead,220000,false
 Taelia Usuki,485000,false
 Valentines Kadoatie Plushie,20000,true
 Faerie Xweetok Plushie,1100000,true
@@ -6137,7 +6137,7 @@ Blue Paper Crown,100000,false
 Starry Fuzzle,Inflation Notice,false
 Haunted Woods Altador Cup Team Yooyu Plushie,237000,false
 Lupe Cracker,Inflation Notice,false
-Zombie Slorg Plushie,1100000,true
+Zombie Slorg Plushie,Inflation Notice,false
 Soup Faerie Usuki,Inflation Notice,false
 Yooyu Trapped in a Display Box,Inflation Notice,false
 Rose Usuki,Inflation Notice,false
@@ -6164,13 +6164,13 @@ Handcrafted Fyora Plushie,150000,true
 Illusen Spring Hoops Game,290000,false
 Kyrii Booster Pack,280000,false
 Mootix Keyring,530000,false
-Tangram Grundo,45,false
+Tangram Grundo,60,false
 Greedy Kadoatie Plushie,1100000,true
 Gormball Garland,125000,false
 Royal Boy Kougra Plushie,1100000,true
 Bree Usuki Doll,320000,false
 Peophin Booster Pack,890000,false
-Kakarot Plushie,79500,false
+Kakarot Plushie,118000,false
 Kau Defender of Neopia Plushie,1100000,true
 Virtupets Altador Cup Team Yooyu Plushie,300000,false
 Altador Cup Altador Snowglobe,204000,false
@@ -6180,22 +6180,22 @@ Tin Merry Go Round Toy,Inflation Notice,false
 Foreman Usuki,Inflation Notice,false
 Altador Cup Roo Island Snowglobe,109000,false
 Coltzans Ghost Plushie,320000,false
-Molten Pile of Dung,44500,false
+Molten Pile of Dung,30000,false
 Swirly Kiko Plushie,1100000,true
 Altador Cup Meridell Snowglobe,160000,false
 Birthday Celebration JubJub Plushie,96500,false
 Red Scorchio Summer Bowling Set,159000,false
 Mutant Buzz Plushie,1100000,true
-Chicken Leg Plushie,42400,false
+Chicken Leg Plushie,45200,false
 Snow Faerie Keyring,Inflation Notice,false
 Altador Cup Mystery Island Snowglobe,295000,false
 Rohane Plushie,119000,false
 Malkus Vile Plushie,100000,false
 Holbie Pinnock Action Figure,Inflation Notice,false
-Darigan Uni Plushie,69000,false
+Darigan Uni Plushie,90000,false
 Rock n Roll Usuki,95000,false
 Usuki Faerie Play Set,Inflation Notice,false
-Fire Faerie Usuki Doll,Inflation Notice,false
+Fire Faerie Usuki Doll,203000,false
 Robo Grarrl Plushie,197000,false
 Year 10 Ixi Toy,248000,false
 Polished Rock,157000,false
@@ -6217,7 +6217,7 @@ Jhuidah Usuki Doll,Inflation Notice,false
 Aubergine Chia Plushie,20000,false
 Little Timmy Plushie,75,false
 Pink Aisha Plushie,70000,false
-King Kelpbeard Plushie,39000,false
+King Kelpbeard Plushie,120000,false
 Grey Usul Plushie,1100000,true
 Altador Cup Maraqua Snowglobe,116000,false
 Bruce Smuggler Plushie,1100000,true
@@ -6227,7 +6227,7 @@ Pirate Techo Plushie,1100000,true
 Rattle Hissi Tongue,7000,false
 Fire Blumaroo Plushie,1100000,true
 Origami Kadoatie,145000,false
-Mutant Hissi Plushie,19900,false
+Mutant Hissi Plushie,45000,false
 Usuki Music Box,25900,false
 Zafara Double Agent Snowglobe,17000,false
 Altador Cup Krawk Island Snowglobe,255000,false
@@ -6244,7 +6244,7 @@ Roothless Action Figure,98000,false
 White Ixi Plushie,1100000,true
 Altador Cup Moltara Snowglobe,92500,false
 Birthday Celebration Quiggle Plushie,38500,false
-Lilian Quiguki,87000,false
+Lilian Quiguki,77500,false
 Uni Gnome Making Kit,107000,false
 Boat in a Bottle Charm,47700,false
 Usuki Seasonal Set,9800,false
@@ -6257,7 +6257,7 @@ Space Ship Darts,69500,false
 Darigan Play Set,4300,false
 Wanderer Caravan,Inflation Notice,false
 Broken Controller,20000,false
-Willow Building Block Figurine,Inflation Notice,false
+Willow Building Block Figurine,27500,false
 Call a Colleague Catapult,7450,false
 Ice Cream Dodge Balls,9750,false
 Hopping Nimmo Action Figure (with awesome LEG POWER!),23700,false
@@ -6265,7 +6265,7 @@ Usuki Singing Star #1,3650,false
 Usuki Singing Star #2,2950,false
 Usuki Singing Star #3,2000,false
 Tiger-Stripes Ribbon Present,1000,false
-Clone #177 Plushie,840,false
+Clone #177 Plushie,830,false
 Neopian Times Issue #3 Plushie,400,false
 Mr Fuzzington the Warf You Can Groom!,150,false
 Dont Splat the Korbat!,350,false
@@ -6275,7 +6275,7 @@ Fluffy Gnorbu Head,3075,false
 Fluffy Gnorbu Tail,2400,false
 Razul Plushie with Real Fire Action!,(r180),false
 Banana Elephante Tusks,1350,false
-Biscuit Chomby Plushie,6,false
+Biscuit Chomby Plushie,80,false
 Deep Space Galaxy Markings,60500,false
 Fire Elephante Tusks,1000,false
 Giant Elephante Tusks,1250,false
@@ -6292,19 +6292,19 @@ Adorable Kacheek Tail,8000,false
 Darigan Kacheek Plushie,4425,false
 Stormy Cloud Kacheek Body,2350,false
 Stormy Cloud Kacheek Head,2600,false
-Stormy Cloud Kacheek Tails,4000,false
+Stormy Cloud Kacheek Tails,3800,false
 Zafara Plant Hair,2000,false
 Zafara Plant Tail,2000,false
-Freshwater Lenny Body,2650,false
-Freshwater Lenny Head,2825,false
-Freshwater Lenny Tail,3900,false
+Freshwater Lenny Body,2850,false
+Freshwater Lenny Head,2500,false
+Freshwater Lenny Tail,4100,false
 Jhudora Sticky Gruslen Toy,3000,false
 Lenny Plague Doctor Plushie,15000,false
 Museum Tonu Head,5800,false
 Museum Tonu Pedestal,3800,false
 Museum Tonu Body,4550,false
 Museum Tonu Tail,6400,false
-Grassland Tonu Tail,2100,false
+Grassland Tonu Tail,1800,false
 Grassland Tonu Body,1400,false
 Grassland Tonu Head,1950,false
 Mechachiazilla Chia Head,1000,false
@@ -6319,7 +6319,7 @@ Glass Uni Markings,2800,false
 Glitter Uni Horn,3500,false
 Glitter Uni Markings,2900,false
 Jhudora Valentine Plushie,440000,false
-Neopies Golden Trophy Balloon,4500,false
+Neopies Golden Trophy Balloon,490,false
 Opal Uni Horn,5200,false
 Opal Uni Markings,3000,false
 Candy Gelert Plushie,30000,true
@@ -6333,7 +6333,7 @@ Scordrax Scorchio Heads,1800,false
 Scordrax Scorchio Tail,2400,false
 Scordrax Scorchio Wings,2575,false
 Balloon Chomby Spikes,3100,false
-Fire Chomby Spikes,2000,false
+Fire Chomby Spikes,1900,false
 Museum Chomby Body,9700,false
 Museum Chomby Head,2000,false
 Museum Chomby Pedestal,8000,false
@@ -6346,7 +6346,7 @@ Electricity Shoyru Wings,1950,false
 Ethereal Shoyru Body,9600,false
 Ethereal Shoyru Crown,6700,false
 Ethereal Shoyru Tail,7500,false
-Ethereal Shoyru Wings,20900,false
+Ethereal Shoyru Wings,14600,false
 Fire Shoyru Tail,2000,false
 Fire Shoyru Wings,2700,false
 The Darkest Faerie Collectible Charm,Inflation Notice,false
@@ -6354,31 +6354,33 @@ False Lips,999999,false
 Fluffy Dragon Lutari Tail,10600,false
 Krawken Plushie,80000,true
 Lake Krawk Contacts,58000,false
-Lake Krawk Foreground,23000,false
-Lake Krawk Hair,3500,false
-Striped Lutari Tail,7350,false
+Lake Krawk Foreground,7000,false
+Lake Krawk Hair,1750,false
+Striped Lutari Tail,2450,false
 Umbra Penn Plushie,999999,false
 Venomous Lutari Tail,1075,false
 Glitched Topsi Plushie,780,false
-Peeking Bikiwan Toy,40,false
+Peeking Bikiwan Toy,30,false
 Plushie Carmariller,500,false
-Spotted Kougra Markings,140000,false
-Wild Kougra Markings,150000,false
-Mythical Cybunny Body,(r84),false
-Mythical Cybunny Head,(r84),false
-Mythical Cybunny Tail,(r84),false
-Pizzaroo Playset,(r101),false
-Carmariller Plushie,120,false
-Blue Snorkle Pinata,,false
-Candy Lupe Plushie,(r82),false
+Spotted Kougra Markings,96000,false
+Wild Kougra Markings,26900,false
+Mythical Cybunny Body,14900,false
+Mythical Cybunny Head,9950,false
+Mythical Cybunny Tail,7350,false
+Pizzaroo Playset,60,false
+Carmariller Plushie,950,false
+Candy Lupe Plushie,975000,false
 Chocolate Hissi Plushie,(r83),false
 Futuristic Hissi Body,(r85),false
 Futuristic Hissi Head,(r85),false
 Futuristic Hissi Hind,(r85),false
+Wild Lupe Body,37500,false
+Wild Lupe Head,15500,false
+Wild Lupe Tail,15000,false
+Blue Snorkle Pinata,,false
 Green Meerca Pinata,,false
+Rotten Negg Snowglobe,(r101),false
 Shiny CD,,false
 Snorkle Pinata,,false
 Sparkling Glass Rainbow Rock,,false
-Wild Lupe Body,(r83),false
-Wild Lupe Head,(r83),false
-Wild Lupe Tail,(r83),false
+Tuffala Plushie,(r87),false
