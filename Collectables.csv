@@ -428,7 +428,7 @@ Star Fish Shell,13900,FALSE
 Plushie Slorg Stamp,21400,FALSE
 Goregas Stamp,20200,FALSE
 Armin the Small,32500,FALSE
-Exploding Acorns Stamp,13000,true
+Exploding Acorns Stamp,Inflation Notice,false
 Lightning Lenny,14600,FALSE
 Velm Stamp,16000,FALSE
 Pile of Dung Stamp,6450,FALSE
@@ -1157,8 +1157,12 @@ Commemorative Defenders Stamp #4,880000,FALSE
 Captain Bloodhook Stamp,3500000,FALSE
 Jhudora Stamp,1100000,FALSE
 Nostalgic Grey Draik Stamp,55000,FALSE
+"""Xenia","Master Prankster""",1900
+"""Otona","Protector of the Seas""",1800
+"""Brack","Cactus Farmer""",1450
+Grey Kari Charm,465000,false
+"""Cherlops","Protector of Garn""",Inflation Notice
+"Cherlops, Protector of Garn",515000,false
+"Otona, Protector of the Seas",2400,false
 "Xenia, Master Prankster",1900,false
-"Otona, Protector of the Seas",1800,false
 "Brack, Cactus Farmer",1450,false
-Grey Kari Charm,(r101),false
-"Cherlops, Protector of Garn",Inflation Notice,false
