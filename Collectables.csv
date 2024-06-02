@@ -559,7 +559,7 @@ Bruce Avenger,4000,FALSE
 Maitre D,5950,FALSE
 Midnight Desert Lupe Stamp,2650,FALSE
 Petty Crewmate Stamp,4050,FALSE
-Sword of the Air Faerie Stamp,9000,true
+Sword of the Air Faerie Stamp,10300,false
 Yiko Stamp,4400,FALSE
 Attack Pea Stamp,1600,FALSE
 Bonju Stamp,5800,FALSE
@@ -1157,12 +1157,17 @@ Commemorative Defenders Stamp #4,880000,FALSE
 Captain Bloodhook Stamp,3500000,FALSE
 Jhudora Stamp,1100000,FALSE
 Nostalgic Grey Draik Stamp,55000,FALSE
-"""Xenia","Master Prankster""",1900
-"""Otona","Protector of the Seas""",1800
-"""Brack","Cactus Farmer""",1450
+"""""""Xenia""","""Master Prankster""""""",1900
+"""""""Otona""","""Protector of the Seas""""""",1800
+"""""""Brack""","""Cactus Farmer""""""",1450
 Grey Kari Charm,465000,false
-"""Cherlops","Protector of Garn""",Inflation Notice
+"""""""Cherlops""","""Protector of Garn""""""",Inflation Notice
+"""Cherlops","Protector of Garn""",515000
+"""Otona","Protector of the Seas""",2400
+"""Xenia","Master Prankster""",1900
+"""Brack","Cactus Farmer""",1450
 "Cherlops, Protector of Garn",515000,false
 "Otona, Protector of the Seas",2400,false
 "Xenia, Master Prankster",1900,false
 "Brack, Cactus Farmer",1450,false
+Golden Koi of the Deep,(r87),false
