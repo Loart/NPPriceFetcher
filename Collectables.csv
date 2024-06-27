@@ -1117,7 +1117,7 @@ Razul Stamp,Inflation Notice,FALSE
 Sparkly Green Scallop Shell,Inflation Notice,FALSE
 Hoban Stamp,431000,TRUE
 Cliffhanger Stamp,7000000,FALSE
-Scratchcard Kiosk Stamp,32000,true
+Scratchcard Kiosk Stamp,31200,false
 Maraquan Skeith Maractite Coin,98000,FALSE
 Lupe Shopkeeper Stamp,240000,FALSE
 The Revenge Stamp,Inflation Notice,FALSE
@@ -1157,26 +1157,31 @@ Commemorative Defenders Stamp #4,880000,FALSE
 Captain Bloodhook Stamp,3500000,FALSE
 Jhudora Stamp,1100000,FALSE
 Nostalgic Grey Draik Stamp,55000,FALSE
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Xenia""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""Master Prankster""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",1900
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Otona""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""Protector of the Seas""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",1800
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Brack""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""Cactus Farmer""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",1450
+Grey Kari Charm,350000,false
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""Cherlops""""""""""""""""""""""""""""""","""""""""""""""""""""""""""""""Protector of Garn""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""",Inflation Notice
+"""""""""""""""""""""""""""""""Cherlops""""""""""""""","""""""""""""""Protector of Garn""""""""""""""""""""""""""""""",515000
+"""""""""""""""""""""""""""""""Otona""""""""""""""","""""""""""""""Protector of the Seas""""""""""""""""""""""""""""""",2400
 """""""""""""""""""""""""""""""Xenia""""""""""""""","""""""""""""""Master Prankster""""""""""""""""""""""""""""""",1900
-"""""""""""""""""""""""""""""""Otona""""""""""""""","""""""""""""""Protector of the Seas""""""""""""""""""""""""""""""",1800
 """""""""""""""""""""""""""""""Brack""""""""""""""","""""""""""""""Cactus Farmer""""""""""""""""""""""""""""""",1450
-Grey Kari Charm,435000,false
-"""""""""""""""""""""""""""""""Cherlops""""""""""""""","""""""""""""""Protector of Garn""""""""""""""""""""""""""""""",Inflation Notice
 """""""""""""""Cherlops""""""","""""""Protector of Garn""""""""""""""",515000
 """""""""""""""Otona""""""","""""""Protector of the Seas""""""""""""""",2400
 """""""""""""""Xenia""""""","""""""Master Prankster""""""""""""""",1900
 """""""""""""""Brack""""""","""""""Cactus Farmer""""""""""""""",1450
-"""""""Cherlops""","""Protector of Garn""""""",515000
-"""""""Otona""","""Protector of the Seas""""""",2400
-"""""""Xenia""","""Master Prankster""""""",1900
-"""""""Brack""","""Cactus Farmer""""""",1450
 Golden Koi of the Deep,1700000,false
+"""""""Cherlops""","""Protector of Garn""""""",515000
+"""""""Otona""","""Protector of the Seas""""""",2375
+"""""""Xenia""","""Master Prankster""""""",2000
+"""""""Brack""","""Cactus Farmer""""""",1450
 """Cherlops","Protector of Garn""",515000
 """Otona","Protector of the Seas""",2375
 """Xenia","Master Prankster""",2000
 """Brack","Cactus Farmer""",1450
-"Cherlops, Protector of Garn",515000,false
+Space Code Stamp,(r101),false
+"Cherlops, Protector of Garn",700000,false
 "Otona, Protector of the Seas",2375,false
 "Xenia, Master Prankster",2000,false
 "Brack, Cactus Farmer",1450,false
-Space Code Stamp,(r101),false
+Council of Leaders Stamp,(r101),false
