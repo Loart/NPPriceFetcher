@@ -291,7 +291,7 @@ Plushie Slorg Stamp,61500,false
 Goregas Stamp,58000,false
 Mayor of Moltara Stamp,57000,false
 Crimson Spotted Shell,55000,false
-Camouflage Scallop Shell,50000,false
+Camouflage Scallop Shell,32000,true
 NeoQuest II Logo Stamp,50000,false
 Deep Seashell,49000,false
 Kreai,48000,false
@@ -300,7 +300,7 @@ The Snowager,47000,false
 Faerie Bubbles Stamp,46500,false
 Ghi Pharun,45600,false
 Alien Aisha Myriad Stamp,44000,false
-Trapped Tomos Stamp,43300,false
+Trapped Tomos Stamp,22000,true
 Uncommon Blue Collectable Scarab,43000,false
 Cyodrakes Gaze Logo Stamp,42900,false
 Reginald Christmas Stamp,42800,false
@@ -308,7 +308,7 @@ Exploding Acorns Stamp,41000,false
 Princess Vyssa,40000,false
 Dark Graspberry Stamp,36000,false
 Brown Striped Murex Shell,34900,false
-Shop Wizard Stamp,34000,false
+Shop Wizard Stamp,18000,true
 Librarian Stamp,33000,false
 Faleinn,32500,false
 Faerie Furniture Shopkeeper Stamp,31500,false
@@ -317,7 +317,7 @@ Shell Clutch,30500,false
 Draik Paladin,30000,false
 Velm Stamp,29500,false
 Deserted Fairground Card,29000,false
-Tyrannian Usul Stamp,28700,false
+Tyrannian Usul Stamp,18000,true
 Meuka,28000,false
 Shell Comb,28000,false
 The Masked Intruder,27500,false
@@ -1153,7 +1153,7 @@ Eleus Stamp,150000,true
 Faerie Wings Shell,1000000,false
 Horned Collectable Scarab,1000000,false
 Sparkly Green Scallop Shell,1000000,false
-Scorchio Mummy Stamp,1000000,false
+Scorchio Mummy Stamp,65000,true
 Arcade Stamp,1000000,false
 Stamp of Neopia,1000000,false
 Fountain Faerie Stamp,119000,true
