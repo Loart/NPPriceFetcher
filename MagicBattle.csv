@@ -571,7 +571,7 @@ Starry Ruki Morphing Potion,1000000,false
 Blue Grundo Morphing Potion,1000000,false
 Christmas Kougra Morphing Potion,1400000,false
 Red Peophin Morphing Potion,995000,false
-Swamp Gas Ogrin Morphing Potion,845000,false
+Swamp Gas Ogrin Morphing Potion,700000,true
 Pirate Spear,355000,false
 Cloud Peophin Morphing Potion,940000,false
 Red Ruki Morphing Potion,1000000,false
@@ -935,7 +935,7 @@ Red Wocky Morphing Potion,580000,false
 Force Shield,885000,false
 Red Bruce Morphing Potion,1000000,false
 Emerald Krawk Sword,250000,false
-Starry Pteri Morphing Potion,1000000,false
+Starry Pteri Morphing Potion,250000,true
 Full Grundo Armour,490000,false
 Unlockable Ice Treasure,600000,false
 Red Scorchio Morphing Potion,1000000,false
@@ -1030,7 +1030,7 @@ Golden Candy Cane Sword,1000000,false
 Golden Qasalan Chestpiece,141000,false
 Kaylas Magic Cloak,510000,false
 Claw of the Ancient Bori,1000000,false
-Split Lenny Morphing Potion,240000,false
+Split Lenny Morphing Potion,85000,true
 Red Kyrii Morphing Potion,1000000,false
 Striped Flotsam Morphing Potion,650000,false
 Zombie Buzz Morphing Potion,740000,false
@@ -3715,7 +3715,7 @@ Blue Vandagyre Morphing Potion,895000,false
 Fire-Spitting Energy Shield,96000,false
 Pirate Flotsam Morphing Potion,560000,false
 Princely Lens,650000,false
-Green Vandagyre Morphing Potion,415000,false
+Green Vandagyre Morphing Potion,600000,true
 Red Quiggle Morphing Potion,740000,false
 Shadow Armour,430000,false
 Greater Water Potion,385000,false
