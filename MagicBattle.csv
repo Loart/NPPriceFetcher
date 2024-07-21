@@ -520,7 +520,7 @@ Shadow Korbat Morphing Potion,4925,false
 Earth Faerie Token,1000000,false
 Island Wocky Morphing Potion,2000000,false
 Blue Acara Morphing Potion,1000000,false
-Pink Shoyru Morphing Potion,965000,false
+Pink Shoyru Morphing Potion,500000,true
 Pirate Hissi Morphing Potion,145000,false
 Air Sceptre,2000000,false
 Desert Mynci Morphing Potion,1500000,false
@@ -759,7 +759,7 @@ Starry Korbat Morphing Potion,1000000,false
 Checkered Shoyru Morphing Potion,885000,false
 Pteri Dagger,320000,false
 Christmas Bruce Morphing Potion,1000000,false
-Spotted Bori Morphing Potion,990000,false
+Spotted Bori Morphing Potion,600000,true
 Yellow Lenny Morphing Potion,535000,false
 Full Blumaroo Armour,635000,false
 Illusens Hip Blade,370000,false
@@ -1036,7 +1036,7 @@ Striped Flotsam Morphing Potion,650000,false
 Zombie Buzz Morphing Potion,740000,false
 Striped Nimmo Morphing Potion,595000,false
 Zombie JubJub Morphing Potion,230000,false
-Rainbow Gnorbu Morphing Potion,1000000,false
+Rainbow Gnorbu Morphing Potion,175000,true
 Tyrannian Nimmo Morphing Potion,175000,false
 Blue Yurble Morphing Potion,1000000,false
 Hand Carved Shoyru Wand,1000000,false
@@ -1229,7 +1229,7 @@ Kacheek Life Potion,62000,false
 Ornate Jetsam Bow,380000,false
 Pirate Meerca Morphing Potion,119000,false
 Pumpkin Club,1000000,false
-Red Gnorbu Morphing Potion,1000000,false
+Red Gnorbu Morphing Potion,150000,true
 Rustic Aisha Blade,1000000,false
 Sparkling Acara Shield,199000,false
 Spotted Pteri Morphing Potion,1000000,false
@@ -1883,7 +1883,7 @@ Kaylas Silver Brew,17000,false
 Blue Draping Cloak,9750,false
 Instant Invisible Armour Potion,14000,false
 Negg Cream Potion,40000,false
-Vial of Vile,1000000,false
+Vial of Vile,10000,true
 Frozen Leaf Shuriken,9150,false
 Throwing Nachos,35000,false
 Advanced Grundo Helmet,14000,false
