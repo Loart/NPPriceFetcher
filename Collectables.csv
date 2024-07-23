@@ -220,7 +220,7 @@ Coltzans Shrine Coin,260000,false
 Shyanna,250000,false
 The Black Pawkeet Stamp,242000,false
 Chasm Beast Stamp,238000,false
-Rink Runner Stamp,180000,true
+Rink Runner Stamp,110000,true
 Tyrannian Plateau Stamp,150000,true
 Sentient Headstones Stamp,230000,false
 The Lava Ghoul,230000,false
@@ -259,7 +259,7 @@ Qasalan Mummy Stamp,99000,false
 Teatime in Neovia Stamp,98000,false
 Krawk card,325000,false
 Purple Collectable Scarab,95500,false
-Jhudoras Bewitched Ring Stamp,95000,false
+Jhudoras Bewitched Ring Stamp,60000,true
 Maraquan Charger Stamp,85000,true
 Green Patterned Collectable Scarab,92500,false
 Guardian of Ice Magic,91500,false
@@ -268,7 +268,7 @@ Peaceful Coexistence Stamp,90000,false
 Trestin Stamp,43000,true
 Kings Lens Stamp,88500,false
 Hubrid Noxs Mountain Fortress Stamp,88000,false
-Holographic Sakhmet City Stamp,86000,false
+Holographic Sakhmet City Stamp,55000,true
 105 Castle Secrets Stamp,75000,true
 Rainbow Coloured Shell,82500,false
 Grey Faerie Card,95000,false
@@ -281,7 +281,7 @@ Mystery Island Travel Stamp,75000,false
 Scratchcard Kiosk Stamp,74000,false
 Spiky Orange Murex Shell,69000,false
 Tuskaninny Day Stamp,90000,false
-Darigan Shield Stamp,66500,false
+Darigan Shield Stamp,49000,true
 Greater Green Collectable Scarab,106000,false
 Pineapple Dessert Stamp,83000,false
 Spectre,66000,false
@@ -304,7 +304,7 @@ Trapped Tomos Stamp,22000,true
 Uncommon Blue Collectable Scarab,66500,false
 Cyodrakes Gaze Logo Stamp,95000,false
 Reginald Christmas Stamp,42800,false
-Exploding Acorns Stamp,45300,false
+Exploding Acorns Stamp,20000,true
 Princess Vyssa,40000,false
 Dark Graspberry Stamp,15000,true
 Brown Striped Murex Shell,34900,false
@@ -1122,7 +1122,7 @@ Lisha vs Zombie Lisha Stamp,400000,false
 Battledome Coin,400000,false
 Castle Defender Stamp,400000,false
 Astral Blade Coin,400000,false
-Rod Of Dark Nova Stamp,400000,false
+Rod Of Dark Nova Stamp,200000,true
 Zurroball Stamp,400000,false
 Baby Aisha Stamp,400000,false
 Evil Fuzzles Stamp,100000,true
