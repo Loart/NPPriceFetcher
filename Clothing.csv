@@ -235,7 +235,7 @@ Team Flag Banner - Meridell,715000,false
 Lutari Gentleman Hat,710000,false
 Blood of my Enemies Mutant Makeup,705000,false
 Heart Print Dress,700000,false
-Red Fur Jacket,700000,false
+Red Fur Jacket,400000,true
 Twisted Roses Shirt,695000,false
 Green Poogle Rag Doll,685000,false
 Queen Amira Aisha Tail Wrap,685000,false
@@ -322,7 +322,7 @@ Studded Leather Uni Top,450000,false
 Draik Archer Hat,445000,false
 Faerieland Cloud Background,445000,false
 Yooyuball Coin Purse,440000,false
-Snowy Xweetok Collar,435000,false
+Snowy Xweetok Collar,285000,true
 Team Flag Banner - Kreludor,610000,false
 Construction Safety Vest,430000,false
 Pink Pyjama Wocky Top,430000,false
@@ -496,7 +496,7 @@ Poogle Wizard Hat,200000,false
 Skilled Warrior Vest,200000,false
 Birthday Confetti Pants,199000,false
 Team Haunted Woods Cooler,199000,false
-Veiled Uni Wig,199000,false
+Veiled Uni Wig,100000,true
 Team Altador Cooler,198000,false
 Aisha Rain Slicker,197000,false
 Poogle Tutu,197000,false
@@ -801,7 +801,7 @@ Purple Hissi Anklet,62500,false
 Birthday Confetti Crown,62000,false
 Dandelion Kacheek Handheld,62000,false
 Lutari Rollerskate Waitress Skates,62000,false
-Maraquan Fin Wings,62000,false
+Maraquan Fin Wings,55000,true
 Quiggle Summer Dress,62000,false
 Glamourous Skeith Shoes,61500,false
 Laid Back Xweetok Hat,61500,false
@@ -7625,7 +7625,7 @@ Skeith Weightlifter Barbell,400000,false
 Slick Gelert Sunglasses,400000,false
 JubJub Tulip Maiden Breadbasket,400000,false
 Krawk Hiking Trousers and Boots,400000,false
-Uni Knight Hoof Armour,400000,false
+Uni Knight Hoof Armour,42000,true
 Scorchio Scholar Shirt,400000,false
 Nimmo Farmer Overalls,400000,false
 Chomby Warrior Tail Armour,400000,false
