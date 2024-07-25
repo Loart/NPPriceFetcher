@@ -351,7 +351,7 @@ Blue Elephante Flying Disc,730000,false
 TDMBGPOP Trick-or-Treat Bag,1400000,false
 Krell Vitor Toy,650000,false
 Borovan Usuki Doll,14700,false
-Orange Draik Plushie,825000,false
+Orange Draik Plushie,650000,true
 Faerie Draik Plushie,1200000,false
 Garden Gal Usuki Keyring,30000,false
 Red Birthday Crown,940000,false
@@ -655,7 +655,7 @@ Hydra Draik Heads,25700,false
 Halloween Nimmo Plushie,400000,false
 Striped Korbat Plushie,100000,true
 Varia Plushie,400000,false
-Angel Kiko Plushie,290000,false
+Angel Kiko Plushie,175000,true
 Yooyuball Baby Goal,165000,false
 Displeased Slorg Plushie,20000,false
 Royal Uni Kite,182000,false
@@ -921,7 +921,7 @@ Knitted Poogle Plushie,77000,false
 Senormalo Bobblehead,142000,false
 Spooky Food Shopkeeper Bobblehead,295000,false
 Krawk Goodie Bag,81000,false
-Darigan Kau Plushie,400000,false
+Darigan Kau Plushie,75000,true
 Adorable Wraith Plushie,5,false
 Blumaroo Jester Mock Sceptre,191000,false
 Camouflage Wocky Plushie,265000,false
@@ -988,7 +988,7 @@ Kougra Action Figure,65500,false
 Commander Valka Plushie,640000,false
 Mynci Spinning Top,45000,false
 Chatty Usuki Bobblehead,57000,false
-Iron Golem Neoquest Plushie,68000,false
+Iron Golem Neoquest Plushie,40000,true
 Scary Trick-or-Treat Bag,48000,false
 Username Redacted Plushie,85500,false
 Grey Flotsam Plushie,400000,false
@@ -1018,7 +1018,7 @@ Valin Plushie,400000,false
 Roo Island Altador Cup Team Yooyu Plushie,99000,false
 Royal Girl Usul Plushie,400000,false
 AAA Handheld Plushie,85500,false
-Baby Kacheek Plushie,26000,false
+Baby Kacheek Plushie,15000,true
 Mint Condition Altadorian Guard Action Figure Set,400000,false
 Neopets 7th Birthday Goodie Bag,88000,false
 Royal Boy Kyrii Plushie,400000,false
@@ -1090,14 +1090,14 @@ Green Nimmo Plushie,50000,false
 Kacheek Shepherd Plushie,53000,false
 Miss Rainbow Plushie,50000,false
 Mutant Bori Plushie,30000,false
-New Years Techo Plushie,400000,false
+New Years Techo Plushie,13000,true
 Red Moehog Plushie,72000,false
 Royal Evil Fuzzle,18500,false
 Snorkle Plushie,400000,false
 TNT Brand Handicrafts Kit,400000,false
 DJ Sally Plushie,40000,false
 Orange Peophin Squishy Plushie,56000,false
-Angry Royal Girl Zafara Plushie,400000,false
+Angry Royal Girl Zafara Plushie,12000,true
 Handcrafted Illusen Plushie,42500,false
 Usuki Musketeer,40600,false
 Valentines Chia Plushie,14000,false
@@ -1314,7 +1314,7 @@ E-Z Brand Acidifier Play Set,57500,false
 Starry Yurble Plushie,400000,false
 Swabbie Plushie,530000,true
 Hoban Plushie,26800,false
-Lenny Smuggler Plushie,400000,false
+Lenny Smuggler Plushie,185000,true
 My Favourite Grundo Plushie,29800,false
 Ramtor the Advisor Plushie,21000,false
 Snot Quiggle Plushie,16000,false
@@ -1357,7 +1357,7 @@ Evil Eldest Drenched Sister Plushie,9000,false
 Fluffy Kau Tail,15000,false
 Iceman Building Block Figurine,19000,false
 Scorchio Referee Bobblehead,11200,false
-Thornberry Chia Plushie,400000,false
+Thornberry Chia Plushie,150000,true
 Usuki Dream Camper,400000,false
 Faerie Ruki Plushie,20000,false
 Grey Hissi Plushie,300000,true
@@ -1426,7 +1426,7 @@ Green Toy Car,20000,false
 Hulking Wraith Plushie,40000,false
 Baby Chomby Plushie,5600,false
 White Lupe Plushie,16000,false
-Zombie Cybunny Plushie,36000,false
+Zombie Cybunny Plushie,20000,true
 AAA Usuki,18500,false
 Halloween Uni Plushie,17800,false
 Carnival of Terror Clown Hand Puppet,14500,false
@@ -1493,7 +1493,7 @@ Coffee Shopkeeper Plushie,19100,false
 Darigan Hippalop Plushie,9000,false
 Ghost Draik Plushie,13000,false
 Purple Buzz Plushie,75000,true
-Starry Buzz Plushie,400000,false
+Starry Buzz Plushie,35000,true
 Abigail Plushie,8000,false
 Arm Wrestling Table,14000,false
 Ballerina Usuki,9900,false
@@ -1600,7 +1600,7 @@ Ursula Plushie,20000,false
 Wind-Up Kari Toy,400000,false
 Baby Brush Plushie,9150,false
 Cheering Pom Poms,35000,false
-Desert Draik Plushie,400000,false
+Desert Draik Plushie,65000,true
 Mutant Skeith Plushie,8900,false
 Painted Pull Along Scarab,21800,false
 Robot Scorchio Plushie,8700,false
@@ -1696,7 +1696,7 @@ Pink Kacheek Plushie,6900,false
 Robot Kiko Plushie,10000,false
 Sir Edmund Ogletree Plushie,12000,false
 Split Tonu Plushie,10000,false
-Starry Bruce Plushie,29400,false
+Starry Bruce Plushie,18000,true
 Broken Hissi In A Box,6250,false
 Origami Spyder,19800,false
 Storytime Kacheek Plushie,15000,false
@@ -1796,7 +1796,7 @@ Hannah Kite,13800,false
 Jeran Usuki Set,30000,false
 Kaia Bobblehead,15000,false
 Old School Noise Maker,400000,false
-Pink Lenny Plushie,400000,false
+Pink Lenny Plushie,225000,true
 Pirate Helmswoman Plushie,4825,false
 Pyramid Building Blocks,7200,false
 Spellseeker Wizard Plushie,14500,false
@@ -2027,7 +2027,7 @@ Wind Up Gelert,11100,false
 Yellow Meerca Plushie,9550,false
 Baby Buzz Plushie,6500,false
 Baby Grundo Plushie,6550,false
-Blue Negg Plushie,400000,false
+Blue Negg Plushie,50000,true
 Boochi Pinata,2850,false
 Coconut JubJub Plushie,10000,false
 Court Dancer Tambourine,6150,false
@@ -2244,7 +2244,7 @@ Ditrey Plushie,5800,false
 Galaxy Grundo Body,3300,false
 Grey Kau Plushie,12800,false
 Lupe Booster Pack,6800,false
-Pea Chia Plushie,30000,true
+Pea Chia Plushie,15000,true
 Pirate Kyrii Plushie,5500,false
 Shadow JubJub Plushie,6500,false
 Shadow Lupe Plushie,6100,false
@@ -6137,7 +6137,7 @@ Blue Paper Crown,210000,false
 Starry Fuzzle,400000,false
 Haunted Woods Altador Cup Team Yooyu Plushie,225000,false
 Lupe Cracker,179000,false
-Zombie Slorg Plushie,224000,false
+Zombie Slorg Plushie,150000,true
 Soup Faerie Usuki,400000,false
 Yooyu Trapped in a Display Box,450000,false
 Rose Usuki,166000,false
@@ -6199,7 +6199,7 @@ Fire Faerie Usuki Doll,405000,false
 Robo Grarrl Plushie,200000,false
 Year 10 Ixi Toy,236000,false
 Polished Rock,109000,false
-Darigan Lenny Plushie,64000,false
+Darigan Lenny Plushie,45000,true
 Bomber Jacket Shrug,38300,false
 Faerie Bruce Plushie,36600,false
 Illusen Snowglobe,400000,false
@@ -6318,7 +6318,7 @@ Glass Uni Horn,3150,false
 Glass Uni Markings,2300,false
 Glitter Uni Horn,4000,false
 Glitter Uni Markings,3050,false
-Jhudora Valentine Plushie,150000,true
+Jhudora Valentine Plushie,100000,true
 Neopies Golden Trophy Balloon,600,false
 Opal Uni Horn,6500,false
 Opal Uni Markings,1900,false
@@ -6436,7 +6436,7 @@ Sea Witch Tuskaninny Dress,3900,false
 Sea Witch Tuskaninny Tail,970,false
 Sea Witch Tuskaninny Wig,3000,false
 Void Rift Snowglobe,2000069,false
-Munchinâ Meepits Snowglobe,40000000,false
+MunchinÃ¢ÂÂ Meepits Snowglobe,40000000,false
 Blue Snorkle Pinata,,false
 Green Meerca Pinata,,false
 Shiny CD,,false
