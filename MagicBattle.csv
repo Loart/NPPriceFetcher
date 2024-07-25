@@ -510,7 +510,7 @@ Shadow Uni Morphing Potion,197000,false
 Starry Usul Morphing Potion,400000,false
 Tech Bow,2000000,false
 Uni Hoof Magnet,535000,false
-Yellow Ixi Morphing Potion,945000,false
+Yellow Ixi Morphing Potion,699999,true
 Fire Sceptre,2000069,false
 BattleGlowJewel,999999,false
 Blumaroo Transmogrification Potion,1400000,false
@@ -817,7 +817,7 @@ Rejuvenating Jar of Brains,910000,false
 Yellow Korbat Morphing Potion,895000,false
 Bouncy Kiko Ball of Doom,177000,false
 Blue Korbat Morphing Potion,400000,false
-Red Lenny Morphing Potion,505000,false
+Red Lenny Morphing Potion,385000,true
 Bow of the Light Faerie,400000,false
 Kaylas Hat,400000,false
 Makeshift Ships Hammer,70000,false
@@ -846,7 +846,7 @@ Island Buzz Morphing Potion,725000,false
 JubJub Tickler,415000,false
 Purple Uni Morphing Potion,7150,false
 White Linen Tunic,340000,false
-Yellow Buzz Morphing Potion,207000,false
+Yellow Buzz Morphing Potion,99999,true
 Blue Clockwork Kiko,940000,false
 Blumaroo Health Potion,300000,false
 Brown Clockwork Grundo,760000,false
@@ -897,7 +897,7 @@ Blue Blumaroo Morphing Potion,930000,false
 Camouflage Scorchio Morphing Potion,960000,false
 Golden Bori Staff,990000,false
 Ixi Elixir of the Woods,400000,false
-Jar of Forest Earth,385000,false
+Jar of Forest Earth,250000,true
 Moehog Bristle Dagger,232000,false
 Neutralising Ray,400000,false
 Scary Spider,480000,false
@@ -946,7 +946,7 @@ Skeith Destructo Horn,400000,false
 Fiery Wand,400000,false
 Water Faerie Bubbles,400000,false
 Cloud Scorchio Morphing Potion,985000,false
-Eventide Lenny Morphing Potion,320000,false
+Eventide Lenny Morphing Potion,200000,true
 Bullseye Potion,6700,false
 Full Lupe Armour,990000,false
 Tyrannian Flotsam Morphing Potion,999999,false
@@ -1033,7 +1033,7 @@ Claw of the Ancient Bori,400000,false
 Split Lenny Morphing Potion,85000,true
 Red Kyrii Morphing Potion,400000,false
 Striped Flotsam Morphing Potion,650000,false
-Zombie Buzz Morphing Potion,740000,false
+Zombie Buzz Morphing Potion,74000,true
 Striped Nimmo Morphing Potion,595000,false
 Zombie JubJub Morphing Potion,230000,false
 Rainbow Gnorbu Morphing Potion,175000,true
@@ -3702,11 +3702,11 @@ Tyrannian Eyrie Morphing Potion,355000,false
 Christmas Lenny Morphing Potion,335000,false
 Red Kougra Morphing Potion,2000069,false
 Brown Kougra Morphing Potion,965000,false
-Speckled Bruce Morphing Potion,990000,false
+Speckled Bruce Morphing Potion,899999,true
 Woodland Brew,400000,false
 Chia Totem,295000,false
 Melting Mirror,500000,false
-Strawberry Meerca Morphing Potion,139000,false
+Strawberry Meerca Morphing Potion,99999,true
 Craftsmans Lens,240000,false
 Yellow Vandagyre Morphing Potion,490000,false
 Lutari Battle Helmet,820000,false
@@ -3720,7 +3720,7 @@ Red Quiggle Morphing Potion,740000,false
 Shadow Armour,430000,false
 Greater Water Potion,385000,false
 Seeking Arrow,183000,false
-Striped Scorchio Morphing Potion,950000,false
+Striped Scorchio Morphing Potion,500000,true
 Yellow Meerca Morphing Potion,400000,false
 Not So Brilliant Sun and Moon Potion,101000,false
 Flotsam Chestplate of the Champion,505000,false
