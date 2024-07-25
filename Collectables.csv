@@ -198,13 +198,13 @@ Jelly World Stamp,635000,false
 Tropical Wall Hangings,630000,false
 Chomby Stamp,595000,false
 Jahbal,520000,false
-Tangor Stamp,530000,false
+Tangor Stamp,400000,true
 Lupe Shopkeeper Stamp,525000,false
 Siona,525000,false
 Jelly Chia Goalie Card,500000,false
 Matching Pastel Shells,470000,false
 Grey Kari Charm,460000,false
-Kentari Spyglass Stamp,430000,false
+Kentari Spyglass Stamp,375000,true
 Altador Cup Collectable Card,243000,false
 Candychan Stamp,395000,false
 Council of Leaders Stamp,395000,false
@@ -221,7 +221,7 @@ Shyanna,250000,false
 The Black Pawkeet Stamp,242000,false
 Chasm Beast Stamp,238000,false
 Rink Runner Stamp,110000,true
-Tyrannian Plateau Stamp,150000,true
+Tyrannian Plateau Stamp,85000,true
 Sentient Headstones Stamp,230000,false
 The Lava Ghoul,230000,false
 Altador Cup X Commemorative Stamp,215000,false
@@ -255,7 +255,7 @@ Maths Nightmare,105000,false
 Splat A Sloth Coin,50000,false
 Bottled Faerie Stamp,145000,false
 Wheel of Extravagance Stamp,78000,false
-Qasalan Mummy Stamp,99000,false
+Qasalan Mummy Stamp,75000,true
 Teatime in Neovia Stamp,98000,false
 Krawk card,325000,false
 Purple Collectable Scarab,95500,false
@@ -275,10 +275,10 @@ Grey Faerie Card,95000,false
 Jelly Pop Stamp,80000,false
 Galem Darkhand,74000,false
 Reina Collectable Card,77000,false
-Commemorative Defenders Stamp #3,75000,false
+Commemorative Defenders Stamp #3,55000,true
 Gargaroxs Recipe Book Coin,75000,false
 Mystery Island Travel Stamp,75000,false
-Scratchcard Kiosk Stamp,74000,false
+Scratchcard Kiosk Stamp,42000,true
 Spiky Orange Murex Shell,69000,false
 Tuskaninny Day Stamp,90000,false
 Darigan Shield Stamp,49000,true
@@ -288,7 +288,7 @@ Spectre,66000,false
 Tasu Stamp,65500,false
 Nostalgic Grey Draik Stamp,62000,false
 Plushie Slorg Stamp,61500,false
-Goregas Stamp,100000,false
+Goregas Stamp,60000,true
 Mayor of Moltara Stamp,51500,false
 Crimson Spotted Shell,55000,false
 Camouflage Scallop Shell,32000,true
@@ -308,7 +308,7 @@ Exploding Acorns Stamp,20000,true
 Princess Vyssa,40000,false
 Dark Graspberry Stamp,15000,true
 Brown Striped Murex Shell,34900,false
-Shop Wizard Stamp,18000,true
+Shop Wizard Stamp,12000,true
 Librarian Stamp,18000,true
 Faleinn,32500,false
 Faerie Furniture Shopkeeper Stamp,20000,true
@@ -437,7 +437,7 @@ Mutant Techo Plushie Stamp,5500,false
 Carnival of Terror Stamp,5400,false
 Orange Patterned Collectable Scarab,5400,false
 Spiky Shell,9000,false
-Sword of Skardsen Stamp,5250,false
+Sword of Skardsen Stamp,3000,true
 Senator Barca Stamp,4850,false
 Daedelon,5100,false
 Christmas Meerca Stamp,5000,false
