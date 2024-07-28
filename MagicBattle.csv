@@ -698,7 +698,7 @@ Disco Moehog Morphing Potion,1000000,false
 Elephante Transmogrification Potion,690000,false
 Faerie Krawk Morphing Potion,750000,false
 Faerie Uni Morphing Potion,990000,false
-Fire Aisha Morphing Potion,475000,false
+Fire Aisha Morphing Potion,210000,true
 Galems Cloak,999999,false
 Yellow Shoyru Morphing Potion,885000,false
 Blue Hissi Morphing Potion,255000,false
@@ -836,7 +836,7 @@ Chia Ray Gun,550000,false
 Christmas Pteri Morphing Potion,400000,false
 Electric Grarrl Morphing Potion,600000,false
 Essence of Mortog,390000,false
-Glowing Poogle Morphing Potion,410000,false
+Glowing Poogle Morphing Potion,210000,true
 Purple Eyrie Morphing Potion,990000,false
 Striped Blumaroo Morphing Potion,435000,false
 Striped Meerca Morphing Potion,3200,false
@@ -924,7 +924,7 @@ Maraquan Draik Dagger,174000,false
 Pink Clockwork Poogle,400000,false
 Full Cybunny Armour,440000,false
 Snowy Flotsam Morphing Potion,405000,false
-Spotted Blumaroo Morphing Potion,295000,false
+Spotted Blumaroo Morphing Potion,199999,true
 Poogle Fang Amulet,250000,false
 Yellow Tonu Morphing Potion,400000,false
 Full Lenny Armour,650000,false
@@ -3713,7 +3713,7 @@ Lutari Battle Helmet,820000,false
 Turned Tooth,280000,false
 Blue Vandagyre Morphing Potion,895000,false
 Fire-Spitting Energy Shield,96500,false
-Pirate Flotsam Morphing Potion,560000,false
+Pirate Flotsam Morphing Potion,400000,true
 Princely Lens,650000,false
 Green Vandagyre Morphing Potion,600000,true
 Red Quiggle Morphing Potion,740000,false
