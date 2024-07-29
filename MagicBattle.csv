@@ -639,7 +639,7 @@ Boots of Jumping,400000,false
 Roxtons Trusty Bowie Knife,460000,false
 Sketch Peophin Morphing Potion,945000,false
 Skunk Eyrie Morphing Potion,400000,false
-Green Shoyru Morphing Potion,915000,false
+Green Shoyru Morphing Potion,500000,true
 Purple Peophin Morphing Potion,400000,false
 Striped Aisha Morphing Potion,845000,false
 Green Peophin Morphing Potion,999999,false
@@ -1212,7 +1212,7 @@ Ornate Jetsam Battle Helmet,153000,false
 Painted Techo Club,400000,false
 Cloud Pteri Morphing Potion,400000,false
 Faerie Totem,400000,false
-Green Techo Morphing Potion,445000,false
+Green Techo Morphing Potion,100000,true
 Leaded Water Vial,116000,false
 Yellow Kougra Morphing Potion,990000,false
 Desert Tuskaninny Morphing Potion,400000,false
@@ -1247,7 +1247,7 @@ Green Tuskaninny Morphing Potion,149000,false
 Zero-G Scout Pack,222000,false
 Red Yurble Breast Plate,119000,false
 Thumburts Cane,166000,false
-Camouflage Tuskaninny Morphing Potion,108000,false
+Camouflage Tuskaninny Morphing Potion,65000,true
 Orange Kougra Morphing Potion,26000,false
 Red Pteri Morphing Potion,400000,false
 Silver Draik Chestplate,400000,false
@@ -1325,7 +1325,7 @@ Full Techo Armour,325000,false
 Honeycomb Buzz Shield,90000,false
 Ice Hissi Morphing Potion,212000,false
 Iron Lupe Collar,26800,false
-Red JubJub Morphing Potion,78000,false
+Red JubJub Morphing Potion,45000,true
 Snowager Crystal,74500,false
 Team Darigan Altador Cup Shield,83000,false
 Zombie Flotsam Morphing Potion,400000,false
