@@ -727,7 +727,7 @@ Greater Air Potion,199000,false
 Bag of Sand,999999,false
 Cursed Elixir,940,false
 Moehog Crossbow,430000,false
-Speckled Bori Morphing Potion,765000,false
+Speckled Bori Morphing Potion,400000,true
 Tyrannian Gnorbu Morphing Potion,400000,false
 Blue Shoyru Morphing Potion,3000000,false
 Water Gnorbu Morphing Potion,715000,false
@@ -1024,7 +1024,7 @@ Fire Buzz Morphing Potion,400000,false
 Ornate Violet Cloak,360000,false
 Hand Stitched Usul Hammer,153000,false
 Camouflage Wocky Morphing Potion,50000,true
-Fire Poogle Morphing Potion,305000,false
+Fire Poogle Morphing Potion,199999,true
 Gilded Ruki Flail,920000,false
 Golden Candy Cane Sword,400000,false
 Golden Qasalan Chestpiece,141000,false
@@ -1384,7 +1384,7 @@ Pickle Spear,23300,false
 Blue Pteri Morphing Potion,280000,false
 Pteri Precision Helmet,80000,false
 Geraptiku Attack Leaf,47300,false
-Ghost Ogrin Morphing Potion,165000,false
+Ghost Ogrin Morphing Potion,125000,true
 Green Buzz Morphing Potion,400000,false
 Sonic Melter,400000,false
 Xweetok Boots Of Speed,660000,false
