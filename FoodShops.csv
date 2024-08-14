@@ -5043,7 +5043,7 @@ Silver Doughnutfruit,3000000,False
 Super Negg,3000000,False
 Strawberries and Cream Easter Negg,3000000,False
 Parts on a Pizza,3000000,False
-Mint Chocolate Easter Negg,970000,false
+Mint Chocolate Easter Negg,910000,false
 Meridellian Style Mashed Potatoes,3000000,False
 Blue Cybunny Negg,3000000,False
 Lemon Yurble Meringue Cookie,3010,False
@@ -5111,7 +5111,7 @@ Tako Taco,3090,False
 Tobbie Fruit Peophin Tail Cookie,3090,False
 Grunion Fruit Grog,3090,False
 Strawberry Ice Cream Apple Lantern,30900,False
-Taco Salad,1,true
+Taco Salad,2,false
 Peach and Berries Flambe,30900,False
 Snowager Cake,31,False
 Tigersquash Kougraclaw,31,False
@@ -9241,7 +9241,7 @@ Pineapple Totem Espresso,162000,false
 Snow Faerie Puffs,143000,false
 Isca Valentine Cookie Pop,134000,false
 Sliced Neggs,100000,false
-Mad Meepit Mocha,92000,false
+Mad Meepit Mocha,81000,false
 Peophin Pancakes,41000,false
 Worm and Leech Pizza,78000,false
 Hot Dog of Justice,67000,false
@@ -9253,7 +9253,7 @@ Peachpa and Stramberry Shell,53500,false
 Borovan Service,52500,false
 Kelps Signature Ice Cream,30000,false
 Mort Muffin,48500,false
-Lavender Mint Tea,46200,false
+Lavender Mint Tea,47900,false
 Mustard and Tofu Hot Dog,39300,false
 Half Eaten Hot Dog,38500,false
 Blackened Watermelon,36000,false
@@ -9271,11 +9271,11 @@ Yooyuball Ice Cream,19700,false
 Air Faerie Mug,19500,false
 Spaghetti and Dungballs,19500,false
 Loaf of Tablet Bread,18500,false
-Rambus Hot Dog,18200,false
+Rambus Hot Dog,16500,false
 Autumn Herbal Tea,17800,false
 Scrambled Egg Sandwich,17500,false
 Queela Torte,17300,false
-Aubergine Salad,16000,false
+Aubergine Salad,12600,false
 Meat and Fruit Kebab,16000,false
 Fruit Muffin,15800,false
 Exquisite Cup of Tea,15000,false
@@ -9289,26 +9289,26 @@ Snot Dog,12500,false
 Hibiscus Tea,11800,false
 Qasalan Falafel,11800,false
 Breakfast Hot Dog,11700,false
-Cursed Qasalan Pancakes,11300,false
+Cursed Qasalan Pancakes,13000,false
 Franks and Cheesy Pasta,10500,false
 Jasmine Tea,8200,false
 Ultra Strong Coffee,10000,false
 Deluxe Jacket Potato,11500,false
-Aubergine Casserole,10200,false
+Aubergine Casserole,10000,false
 Earth Faerie Mug,10200,false
 Caviar Hot Dog,10000,false
 Iced Illusen Tea,10000,false
 Nettle Tea,10000,false
 Purple Swirly Easter Negg,10000,false
 Healthy Grass Hot Dog,11800,false
-Happiness Faerie Dog,9550,false
+Happiness Faerie Dog,9850,false
 Candy Corn Latte,9500,false
 Hieroglyphic Cake,9400,false
 Kreludan Borovan,9400,false
 Raspberry Iced Tea,9400,false
 Iced Caramel Coffee,9200,false
 Leaf Wraps,9150,false
-Flatfruit Bubble Tea,5550,false
+Flatfruit Bubble Tea,7900,false
 Lunch Hot Dog,8800,false
 Faerieland Borovan,8750,false
 Cup of Coffee Fruit,4400,false
@@ -9318,7 +9318,7 @@ Ginger Green Tea,8200,false
 Octle Salad,8150,false
 Clover Cream Coffee,8000,false
 Iced Clover Cream Coffee,7700,false
-Seafarers Hot Dog,7250,false
+Seafarers Hot Dog,5000,false
 Meat Pastry,7200,false
 Coffee Beans Mug,9750,false
 Elegant Cup of Tea,7000,false
@@ -9328,7 +9328,7 @@ Strawberry Kiwi Tea,7000,false
 Kiko Ice Cream Sandwich,3425,false
 Mint Stew,6800,false
 Mummy Tamales,6650,false
-Deluxe Burger Dog,6500,false
+Deluxe Burger Dog,7800,false
 Hotdog with Embellish,10000,false
 Maractite Hot Dog,6450,false
 Pink Negg Tea,6450,false
@@ -9339,7 +9339,7 @@ Ice Cream Hot Dog,6000,false
 Rainy Day Coffee,5950,false
 Swirl-It-On,5400,false
 Mozzarella Basil Hot Dog,6700,false
-Rainbow Hot Dog,5100,false
+Rainbow Hot Dog,7950,false
 Borovan Bubble Tea,5000,false
 Spicy Queela Dip,5000,false
 Water Foam Hot Dog,5000,false
@@ -9370,14 +9370,14 @@ Mutando Jacket Potato,3350,false
 Grundo Hot Dog,3325,false
 Rainbow Coffee,3325,false
 Queela Fruit,3300,false
-Franks and Beans,3250,false
+Franks and Beans,980,false
 Aqueena Tea,3200,false
 Spiced Gingerbread Latte,2650,false
 Tomato Stuffed Jacket Potato,3200,false
 Nabiles Qasalan Delight,3100,false
 Calamari Jacket Potato,3000,false
 Cobrall Coffee,3000,false
-Holiday Flowering Tea Pot,4000,false
+Holiday Flowering Tea Pot,4300,false
 Kelp Covered Hot Dog,3000,false
 Marshmallow Sweet Potato,3000,false
 Molten Hot Chocolate,3000,false
@@ -9401,7 +9401,7 @@ Cold Raspberry Tea,2500,false
 Couples Coffee,2500,false
 Double Fruit Kebab,2500,false
 Minty Iced Tea,2500,false
-Orange and Mango Coffee,2500,false
+Orange and Mango Coffee,3400,false
 Pickled Qasalan Pickles,2500,false
 Star Shortbread Cookies,2500,false
 Tarragon and Brie Hot Dog,2500,false
@@ -9417,7 +9417,7 @@ Queela Quench,2375,false
 Islandberry Coffee,2350,false
 Purplum Mocha,2300,false
 Qasala Fountain Soda,2300,false
-Plain Sweet Potato,2250,false
+Plain Sweet Potato,1925,false
 Wiggly Hot Dog,2250,false
 Caramel Hot Chocolate,2225,false
 Qasalan Flatbread Delight,2225,false
@@ -9451,7 +9451,7 @@ Strawberry Spice Tea,2000,false
 Tomato Striped Hot Dog,2000,false
 Warf Tea,2000,false
 Zafara Face Coffee,2000,false
-Lentil And Bean Hot Dog,1875,false
+Lentil And Bean Hot Dog,1800,false
 Peach Iced Tea,1975,false
 Last Summers Hot Dog,1950,false
 Qando Bread,1950,false
@@ -9472,7 +9472,7 @@ Buttered Rice,1875,false
 Cheese and Mushroom Hot Dog,1875,false
 Batter Corn Dog,1850,false
 Chilli and Cheese Jacket Potato,1850,false
-Sausage and Chips Hot Dog,1850,false
+Sausage and Chips Hot Dog,1900,false
 Sunflower Tea,1850,false
 Banana Yogurt Hot Dog,2275,false
 Milk Bubble Tea,1825,false
@@ -9488,7 +9488,7 @@ Sausage Link Hot Dog,3350,false
 Candy Cane Hot Dog,1700,false
 Cheese and Beans Jacket Potato,1700,false
 Cog Hot Dog,1700,false
-Golden Juppie Delight,1950,false
+Golden Juppie Delight,1775,false
 Ice Blended Coffee,1700,false
 Spiked Dariberry Tea,1700,false
 Caramel Latte,1675,false
@@ -9546,7 +9546,7 @@ Spring Salad Hot Dog,1400,false
 Thornberry Jelly,1400,false
 Pea Hot Dog,1375,false
 Little Green Tea,1350,false
-Coconut Hot Dog,1325,false
+Coconut Hot Dog,2050,false
 Gobi Fruit Tea,1325,false
 Herbal Coffee,1325,false
 Lime Tea,1325,false
@@ -9560,9 +9560,9 @@ Ketchup Relish Dog,1300,false
 Phear Coffee,1300,false
 Blue Bomberry Hot Dog,1375,false
 Sakhmetian Brew,1275,false
-Bacon and Cheese Hot Dog,1250,false
+Bacon and Cheese Hot Dog,1900,false
 Dairy Free Latte,1250,false
-House Blend with Cream,1250,false
+House Blend with Cream,1600,false
 Pink Hot Dog,1250,false
 Chocolate Coated Hot Dog,1225,false
 Sliced Orange Tea,1225,false
@@ -9664,7 +9664,7 @@ Iced Papaya Tea,900,false
 Moehog Face Coffee,900,false
 Tea With Honey and Milk,900,false
 Rose-Flavoured Coffee,890,false
-Elderly Hot Dog,880,false
+Elderly Hot Dog,850,false
 Lemon And Guacamole Hot Dog,880,false
 Rotten Queela Fruit,870,false
 Peachy Tea,860,false
@@ -9715,7 +9715,7 @@ Buttered Jacket Potato,200,false
 Fried Hot Dog,210,false
 Festive Haunted Woods Cider,200,false
 Flaming Hot coffee,200,false
-Hot Dog with Mustard & Relish,200,false
+Hot Dog with Mustard & Relish,120,false
 Pirate Hot Dog,170,false
 Creamy Hot Dog,550,false
 Veggie Hot Dog,120,false
@@ -9724,7 +9724,7 @@ Bloody Finger Hotdog,95,false
 Zombie Hot Dog,90,false
 Pumpkin Mocha,80,false
 Iced Soy Chai Latte,75,false
-Darigan Doppio,60,false
+Darigan Doppio,180,false
 Brain Hot Dog,30,false
 CoffChai Blended Tea,25,false
 Negg Latte,19,false
@@ -9811,7 +9811,7 @@ King Kelpbeard Kelp Salad,6,false
 Leaf Taco,2000069,false
 Lemon Jelly Chicken,2000069,false
 Lime Negg,2000069,false
-Loaded Baked Potato Soup,2650,false
+Loaded Baked Potato Soup,1800,false
 Meat Treats,2000069,false
 Mec Mec Grub,2000069,false
 Mecha Veg Toast,2000069,false
@@ -9910,7 +9910,7 @@ Double Hot Dog,400000,false
 Stone Hot Dog,400000,false
 Sloth Dog,400000,false
 Gwernial,400000,false
-Honey Coated Hot Dog,400000,false
+Honey Coated Hot Dog,70500,false
 Plumberry Sandwich,400000,false
 Strawberry Flavoured Hot Dog,400000,false
 Peabone,400000,false
