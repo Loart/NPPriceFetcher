@@ -220,7 +220,7 @@ Coltzans Shrine Coin,285000,false
 Shyanna,213000,false
 The Black Pawkeet Stamp,96000,false
 Chasm Beast Stamp,100000,false
-Rink Runner Stamp,55000,false
+Rink Runner Stamp,30000,true
 Tyrannian Plateau Stamp,45000,true
 Sentient Headstones Stamp,239000,false
 The Lava Ghoul,270000,false
@@ -234,7 +234,7 @@ Sticks and Stones,233000,false
 Fire Breathing Meerca,400000,false
 Santa Skarl Stamp,200000,false
 Stamp of Spring Charm,175000,false
-Tazzalor Stamp,98000,false
+Tazzalor Stamp,75000,true
 Flying Korbats Stamp,75000,true
 Buried Treasure Stamp,75000,true
 Devilpuss Stamp,113000,false
@@ -263,8 +263,8 @@ Jhudoras Bewitched Ring Stamp,60000,true
 Maraquan Charger Stamp,85000,true
 Green Patterned Collectable Scarab,100000,false
 Guardian of Ice Magic,186000,false
-Smugglers Cove Stamp,60000,false
-Peaceful Coexistence Stamp,94000,false
+Smugglers Cove Stamp,45000,true
+Peaceful Coexistence Stamp,72000,true
 Trestin Stamp,49900,false
 Kings Lens Stamp,235000,false
 Hubrid Noxs Mountain Fortress Stamp,30000,true
@@ -275,15 +275,15 @@ Grey Faerie Card,95000,false
 Jelly Pop Stamp,79500,false
 Galem Darkhand,74000,false
 Reina Collectable Card,95000,false
-Commemorative Defenders Stamp #3,55000,true
+Commemorative Defenders Stamp #3,95000,true
 Gargaroxs Recipe Book Coin,110000,false
 Mystery Island Travel Stamp,128000,false
-Scratchcard Kiosk Stamp,55000,false
+Scratchcard Kiosk Stamp,40000,true
 Spiky Orange Murex Shell,61500,false
-Tuskaninny Day Stamp,80000,false
+Tuskaninny Day Stamp,62000,true
 Darigan Shield Stamp,49000,true
 Greater Green Collectable Scarab,98000,false
-Pineapple Dessert Stamp,98000,false
+Pineapple Dessert Stamp,85000,true
 Spectre,66000,false
 Tasu Stamp,400000,false
 Nostalgic Grey Draik Stamp,59000,false
@@ -302,7 +302,7 @@ Ghi Pharun,50000,false
 Alien Aisha Myriad Stamp,34800,false
 Trapped Tomos Stamp,7350,false
 Uncommon Blue Collectable Scarab,194000,false
-Cyodrakes Gaze Logo Stamp,89000,false
+Cyodrakes Gaze Logo Stamp,65000,true
 Reginald Christmas Stamp,42300,false
 Exploding Acorns Stamp,20000,true
 Princess Vyssa,41800,false
@@ -315,7 +315,7 @@ Faerie Furniture Shopkeeper Stamp,20000,true
 Reina Stamp,24000,false
 Shell Clutch,33900,false
 Draik Paladin,30300,false
-Velm Stamp,70000,false
+Velm Stamp,55000,true
 Deserted Fairground Card,80000,false
 Tyrannian Usul Stamp,12000,false
 Meuka,29000,false
@@ -328,7 +328,7 @@ Speckled Collectable Scarab,400000,false
 Petpet Cannonball Stamp,24300,false
 Bronze Mystery Island Coin,19000,false
 Exploding Space Bugs Stamp,7900,false
-Hubrid Nox Stamp,28500,false
+Hubrid Nox Stamp,18000,true
 Seasonal Stamp,34800,false
 Ixi Lancer,28000,false
 Guardian of Spectral Magic,23500,false
@@ -362,7 +362,7 @@ Pirate Troops Stamp,11000,false
 Spirit of Slumber Stamp,16900,false
 Berti the Creator,17800,false
 Easter Treats Stamp,13500,false
-Snowglobe Faerie Stamp,16500,false
+Snowglobe Faerie Stamp,13000,true
 Star Fish Shell,15200,false
 Hanso Stamp,10400,false
 Rainbow Fountain Card,14400,false
@@ -456,7 +456,7 @@ Shenkuu Bridge Stamp,4900,false
 Brain Tree Stamp,5500,false
 Giant Leaf Curtains Stamp,4650,false
 Guardian of Shock Magic,5300,false
-Christmas Zafara Stamp,45000,true
+Christmas Zafara Stamp,25000,true
 Kauvara Stamp,5000,false
 The Lighthouse Stamp,5000,false
 Attack of the Slorgs Stamp,4500,false
@@ -1133,7 +1133,7 @@ Hoban Stamp,400000,false
 Wand Of The Dark Faerie Stamp,85000,true
 N-4 Information Retrieval Bot Coin,400000,false
 Sunblade Stamp,211000,false
-Turmaculus Stamp,89000,false
+Turmaculus Stamp,65000,true
 Pink Curly Shell,400000,false
 Destruction of Faerieland Stamp,50000,true
 Chocolate Factory Stamp,81000,true
@@ -1141,7 +1141,7 @@ Tylix Stamp,70000,true
 Evil Fuzzle Coin,400000,false
 Charms Stamp,400000,false
 Neopia Central Scene Stamp,300000,true
-Hubrid Nox Commemorative Stamp,120000,true
+Hubrid Nox Commemorative Stamp,75000,true
 Mokti and Rikti Stamp,400000,false
 Kolvars Stamp,75000,false
 Blue Spiral Seashell,400000,false
