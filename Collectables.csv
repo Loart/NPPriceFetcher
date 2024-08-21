@@ -218,7 +218,7 @@ Baelia Stamp,340000,false
 Korosu Crestscar,265000,false
 Coltzans Shrine Coin,285000,false
 Shyanna,213000,false
-The Black Pawkeet Stamp,96000,false
+The Black Pawkeet Stamp,60000,true
 Chasm Beast Stamp,100000,false
 Rink Runner Stamp,30000,true
 Tyrannian Plateau Stamp,45000,true
@@ -255,7 +255,7 @@ Maths Nightmare,65000,false
 Splat A Sloth Coin,119000,false
 Bottled Faerie Stamp,145000,false
 Wheel of Extravagance Stamp,40000,false
-Qasalan Mummy Stamp,64000,false
+Qasalan Mummy Stamp,59000,true
 Teatime in Neovia Stamp,90000,false
 Krawk card,325000,false
 Purple Collectable Scarab,195000,false
@@ -285,11 +285,11 @@ Darigan Shield Stamp,49000,true
 Greater Green Collectable Scarab,98000,false
 Pineapple Dessert Stamp,85000,true
 Spectre,66000,false
-Tasu Stamp,400000,false
+Tasu Stamp,210000,true
 Nostalgic Grey Draik Stamp,59000,false
 Plushie Slorg Stamp,400000,false
 Goregas Stamp,60000,true
-Mayor of Moltara Stamp,77000,false
+Mayor of Moltara Stamp,59000,true
 Crimson Spotted Shell,26000,false
 Camouflage Scallop Shell,38400,false
 NeoQuest II Logo Stamp,22000,true
@@ -456,7 +456,7 @@ Shenkuu Bridge Stamp,4900,false
 Brain Tree Stamp,5500,false
 Giant Leaf Curtains Stamp,4650,false
 Guardian of Shock Magic,5300,false
-Christmas Zafara Stamp,25000,true
+Christmas Zafara Stamp,6000,true
 Kauvara Stamp,5000,false
 The Lighthouse Stamp,5000,false
 Attack of the Slorgs Stamp,4500,false
@@ -1156,9 +1156,9 @@ Sparkly Green Scallop Shell,400000,false
 Scorchio Mummy Stamp,65000,true
 Arcade Stamp,400000,false
 Stamp of Neopia,400000,false
-Fountain Faerie Stamp,119000,true
+Fountain Faerie Stamp,85000,true
 Lavender Cowry Shell,400000,false
-Maraquan Blade Specialist Stamp,57000,true
+Maraquan Blade Specialist Stamp,45000,true
 King Skarl Plushie Stamp,4400,false
 Zombie Faleinn Stamp,20000,true
 Powtry Stamp,400000,false
