@@ -207,7 +207,7 @@ Altador Mansion Background,850000,false
 Petpet Trainer Background,800000,false
 Yooyu Print Jacket,800000,false
 Draik Sorceress Belt and Tunic,790000,false
-Fortune Teller Kau Magic Aura,970000,false
+Fortune Teller Kau Magic Aura,480000,true
 Team Darigan Citadel Cooler,790000,false
 Team Altador Cap,755000,false
 Team Shenkuu Cooler,785000,false
@@ -233,7 +233,7 @@ Team Shenkuu Gym Bag,725000,false
 Mystery Island Silhouette Background,870000,false
 Team Flag Banner - Meridell,715000,false
 Lutari Gentleman Hat,570000,false
-Blood of my Enemies Mutant Makeup,705000,false
+Blood of my Enemies Mutant Makeup,500000,true
 Heart Print Dress,430000,false
 Red Fur Jacket,415000,false
 Twisted Roses Shirt,695000,false
@@ -459,7 +459,7 @@ Team Flag Banner - Maraqua,241000,false
 Glitter Xweetok Ruff,137000,false
 Vintage Virtupets Jersey,400000,false
 Glitter Xweetok Tail,215000,false
-Wanderer Zafara Crystal Ball,236000,false
+Wanderer Zafara Crystal Ball,30000,true
 Draik King Terask Head,118000,false
 Shrouded Draik Sword,235000,false
 Stacked Cybunny Earrings,210000,false
@@ -534,7 +534,7 @@ Slorg Hat,162000,false
 El Picklesaur Brand Wrestling Mask,164000,false
 Team Shenkuu Cap,176000,false
 Neopies Roof Top Party Background,162000,false
-Anime Valentine Shoes,285000,false
+Anime Valentine Shoes,223000,true
 Lord Kass Eyrie Earrings,640000,false
 Shoyru Knight Sword,146000,false
 Draik Archer Quiver,156000,false
@@ -1684,7 +1684,7 @@ Comfortable Blumaroo Shirt,17300,false
 Grundo Chef Spoon,16800,false
 Jetsam Sea Captain Rain Slicker,16000,false
 Lovely Bruce Cap,14900,false
-Occultist Zafara Staff,400000,false
+Occultist Zafara Staff,76000,true
 Seasonal Autumn Skeith Scarf,16800,false
 Acara Mermaid Top,16700,false
 Cybunny Carrot Robe,16700,false
@@ -7355,7 +7355,7 @@ Xweetok Popstar Microphone,400000,false
 Colourful Patterned Blumaroo Trousers,400000,false
 Fancy Kacheek Uniform Boots,400000,false
 Eyrie Magician Jacket,400000,false
-Cybunny Ocean Warrior Wig,400000,false
+Cybunny Ocean Warrior Wig,125000,true
 Lovely Bruce Shoes,400000,false
 Vintage Vampire Korbat Wings,400000,false
 Waterskiing Jetsam Vest,400000,false
@@ -7577,7 +7577,7 @@ Stylish Nimmo Trousers,400000,false
 Acara Festival Ribbons,45000,true
 Nimmo Shenkuu Dress,400000,false
 Ocean Yurble Skirt,400000,false
-Lutari Gentleman Monocle,400000,false
+Lutari Gentleman Monocle,145000,true
 Construction Helmet,400000,false
 Elephante Fortune Teller Shirt,400000,false
 Grarrl Bowling Trousers,400000,false
@@ -7653,7 +7653,7 @@ Kyrii Host Jacket,400000,false
 Scorchio Folk Dancer Head Scarf,400000,false
 Buzz Tennis Ball,400000,false
 Moehog Bowling Shirt,400000,false
-Lutari Rollerskate Waitress Wig,400000,false
+Lutari Rollerskate Waitress Wig,29000,true
 Desperado Chia Hat and Mask,400000,false
 Safari Bruce Shirt,400000,false
 Uni Knight Bottom Armour,400000,false
@@ -7697,7 +7697,7 @@ Brightvale Flag Trinket,400000,false
 Ostentatious Mynci Dress,400000,false
 Draik Archer Tunic,25000,false
 Punk Ogrin Jacket,400000,false
-Sailor Grundo Trousers,400000,false
+Sailor Grundo Trousers,49000,true
 Skeith Space Station Security Officer Boots,400000,false
 Zafara Mercenary Jacket,400000,false
 Purple Moehog Earring Left,400000,false
@@ -7735,7 +7735,7 @@ Rustic Female Usul Warrior Tattoo,400000,false
 Rustic Male Usul Warrior Trousers,400000,false
 Scorchio Scholar Trousers,400000,false
 Mynci Zoot Suit Shoes,400000,false
-Punk Buzz Shirt,100000,true
+Punk Buzz Shirt,60000,true
 Fancy Uni Shoes,400000,false
 Lupe Samurai Sword,400000,false
 Lutari Aristocrat Wig,400000,false
@@ -7772,7 +7772,7 @@ Male Wanderer Koi Headband,21500,false
 Preppy Uni Tennis Shoes,19800,false
 Ruki Adventurer Jacket,400000,false
 Rustic Female Usul Warrior Boots,400000,false
-Krawk Foreman Shirt,200000,true
+Krawk Foreman Shirt,75000,true
 Rainy Day Quiggle Shoes,400000,false
 Rugged Usul Glasses,400000,false
 Quiggle Hostess Shoes,400000,false
@@ -7828,7 +7828,7 @@ Seasonal Autumn Skeith Skirt,400000,false
 Space Pirate Xweetok Hat,19000,false
 Kiko Wizard Gloves,400000,false
 Ogrin Maid Blouse,400000,false
-Lupe Vagabond Wig,200000,true
+Lupe Vagabond Wig,60000,true
 Itchi Antennae,400000,false
 Nimmo Farmer Boots,400000,false
 Beautiful Bride Usuki Usul Gloves,13000,false
