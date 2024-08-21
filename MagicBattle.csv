@@ -584,7 +584,7 @@ Greater Earthen Potion,1200000,false
 Palace Guard Sword,1500000,false
 Scorchio Transmogrification Potion,2000000,false
 Kiko Transmogrification Potion,1100000,false
-Pirate Poogle Morphing Potion,725000,false
+Pirate Poogle Morphing Potion,613000,true
 Rainbow Koi Morphing Potion,999999,false
 Island Aisha Morphing Potion,965000,false
 Green Hissi Morphing Potion,400000,false
@@ -1227,7 +1227,7 @@ Desert Buzz Morphing Potion,400000,false
 Gelert Spiked Shield,83500,false
 Kacheek Life Potion,15000,false
 Ornate Jetsam Bow,230000,false
-Pirate Meerca Morphing Potion,85000,false
+Pirate Meerca Morphing Potion,50000,true
 Pumpkin Club,400000,false
 Red Gnorbu Morphing Potion,150000,true
 Rustic Aisha Blade,400000,false
@@ -1247,7 +1247,7 @@ Green Tuskaninny Morphing Potion,109000,false
 Zero-G Scout Pack,222000,false
 Red Yurble Breast Plate,181000,false
 Thumburts Cane,150000,false
-Camouflage Tuskaninny Morphing Potion,65000,true
+Camouflage Tuskaninny Morphing Potion,55000,true
 Orange Kougra Morphing Potion,23000,false
 Red Pteri Morphing Potion,555000,false
 Silver Draik Chestplate,100000,false
