@@ -531,7 +531,7 @@ Strength Serum,950000,false
 Checkered Acara Morphing Potion,2000000,false
 Cloud Grundo Morphing Potion,400000,false
 Peophin Bubble,400000,false
-Tyrannian Ixi Morphing Potion,790000,false
+Tyrannian Ixi Morphing Potion,399999,true
 Pink Pteri Morphing Potion,795000,false
 Woodland Mynci Morphing Potion,2000069,false
 Grarrl Transmogrification Potion,400000,false
@@ -887,7 +887,7 @@ Full Tonu Armour,400000,false
 Golden Scarab Shield,90000,false
 Halloween Tonu Morphing Potion,500000,false
 Moehog Transmogrification Potion,500000,false
-Pirate Draik Morphing Potion,184000,false
+Pirate Draik Morphing Potion,105000,true
 Plushie Poogle Morphing Potion,280000,false
 Sakhmetian Spear,330000,false
 Faerie Eyrie Morphing Potion,495000,false
@@ -1214,7 +1214,7 @@ Cloud Pteri Morphing Potion,209000,false
 Faerie Totem,400000,false
 Green Techo Morphing Potion,100000,true
 Leaded Water Vial,116000,false
-Yellow Kougra Morphing Potion,990000,false
+Yellow Kougra Morphing Potion,600000,true
 Desert Tuskaninny Morphing Potion,400000,false
 Full Ogrin Armour,75000,false
 Golden Kougra Slingshot,181000,false
