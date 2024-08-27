@@ -179,7 +179,7 @@ The Soup Faerie,980000,false
 Nabile Stamp,690000,false
 Ski Lodge Stamp,1100000,false
 Moltara Town Hall Stamp,400000,false
-The Krawken Stamp,935000,false
+The Krawken Stamp,800000,true
 Brilliant Negg Crown,660000,false
 Space Code Stamp,415000,false
 Detective Kari Charm,790000,false
@@ -255,7 +255,7 @@ Maths Nightmare,64500,false
 Splat A Sloth Coin,119000,false
 Bottled Faerie Stamp,159000,false
 Wheel of Extravagance Stamp,40000,false
-Qasalan Mummy Stamp,59000,true
+Qasalan Mummy Stamp,45000,true
 Teatime in Neovia Stamp,90000,false
 Krawk card,345000,false
 Purple Collectable Scarab,109000,false
@@ -275,7 +275,7 @@ Grey Faerie Card,91000,false
 Jelly Pop Stamp,79500,false
 Galem Darkhand,59500,false
 Reina Collectable Card,95000,false
-Commemorative Defenders Stamp #3,95000,true
+Commemorative Defenders Stamp #3,59000,true
 Gargaroxs Recipe Book Coin,187000,false
 Mystery Island Travel Stamp,85000,true
 Scratchcard Kiosk Stamp,40000,true
@@ -285,11 +285,11 @@ Darigan Shield Stamp,49000,true
 Greater Green Collectable Scarab,84500,false
 Pineapple Dessert Stamp,85000,true
 Spectre,70000,false
-Tasu Stamp,210000,true
+Tasu Stamp,150000,true
 Nostalgic Grey Draik Stamp,42000,false
 Plushie Slorg Stamp,78000,false
 Goregas Stamp,60000,true
-Mayor of Moltara Stamp,59000,true
+Mayor of Moltara Stamp,45000,true
 Crimson Spotted Shell,26000,false
 Camouflage Scallop Shell,35000,false
 NeoQuest II Logo Stamp,19000,true
@@ -302,7 +302,7 @@ Ghi Pharun,50000,false
 Alien Aisha Myriad Stamp,34800,false
 Trapped Tomos Stamp,10000,false
 Uncommon Blue Collectable Scarab,194000,false
-Cyodrakes Gaze Logo Stamp,65000,true
+Cyodrakes Gaze Logo Stamp,55000,true
 Reginald Christmas Stamp,42300,false
 Exploding Acorns Stamp,20000,true
 Princess Vyssa,41800,false
@@ -355,7 +355,7 @@ Super Happy Icy Fun Snow Shop Card,15000,false
 Runed Maractite Coin,17000,false
 Champions of Meridell Stamp,14000,false
 King Roo,10000,false
-Hannah Stamp,54000,false
+Hannah Stamp,30000,true
 Hulking Wraith Stamp,24500,false
 Seasonal Evil Coconut,11800,false
 Pirate Troops Stamp,11000,false
@@ -1088,7 +1088,7 @@ Desert Paintbrush Stamp,400000,false
 Luperus Left Head Stamp,400000,false
 Hagar Mountbane,400000,false
 The Brain Tree,400000,false
-Florin Stamp,410000,false
+Florin Stamp,215000,true
 Orrin Stamp,400000,false
 Wheel of Monotony Stamp,400000,false
 Dorak Stamp,400000,false
@@ -1129,7 +1129,7 @@ Evil Fuzzles Stamp,100000,true
 Caylis Stamp,220000,true
 Desert Arms Stamp,200000,true
 Illusen Stamp,75000,true
-Hoban Stamp,400000,false
+Hoban Stamp,600000,true
 Wand Of The Dark Faerie Stamp,85000,true
 N-4 Information Retrieval Bot Coin,400000,false
 Sunblade Stamp,211000,false
@@ -1139,8 +1139,8 @@ Destruction of Faerieland Stamp,50000,true
 Chocolate Factory Stamp,81000,true
 Tylix Stamp,70000,true
 Evil Fuzzle Coin,400000,false
-Charms Stamp,400000,false
-Neopia Central Scene Stamp,200000,true
+Charms Stamp,85000,true
+Neopia Central Scene Stamp,185000,true
 Hubrid Nox Commemorative Stamp,75000,true
 Mokti and Rikti Stamp,65000,true
 Kolvars Stamp,100000,false
