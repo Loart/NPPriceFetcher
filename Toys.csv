@@ -3,16 +3,16 @@ Bika Collectable Charm,22000,true
 Mauket Plushie,45000,true
 Pink Skeith Plushie,13000,true
 Starry Buzz Plushie,35000,true
-Blue Usul Suspects Plushie,19900,false
-Cubefish Plushie,8800,false
+Blue Usul Suspects Plushie,15000,true
+Cubefish Plushie,11000,true
 Taelia Doll,69000,true
 Red Peophin Squishy Plushie,99999,true
 Pink Blumaroo Plushie,200000,true
 Sand Golem Neoquest Plushie,35000,true
 Darigan Grundo Plushie,15000,true
-Pirate Ruki Plushie,10400,false
-Desert Peophin Plushie,8750,false
-Candy Gnorbu Plushie,11000,false
+Pirate Ruki Plushie,6000,true
+Desert Peophin Plushie,7500,true
+Candy Gnorbu Plushie,15000,true
 Baby Chia Plushie,11000,false
 Maraquan Kyrii Plushie,45000,true
 Bagatelle Treasure Chest,50000000,false
@@ -21,7 +21,7 @@ Striped Birthday Goodie Bag,50000000,false
 Usukicon Y7 Gift Bag,50000000,false
 Yellow Birthday Goodie Bag,50000000,false
 King Skarl Quiguki Plushie,40000000,false
-Munchinâ Meepits Snowglobe,40000000,false
+MunchinÃ¢ÂÂ Meepits Snowglobe,40000000,false
 Year 9 Quiguki,40000000,false
 Negg Faerie Doll,30000000,false
 Cloud Draik Plushie,25000000,false
@@ -1123,7 +1123,7 @@ Slushie Slinger Home Edition Game,45000,false
 Usul Head Spring Toy,45000,false
 Yooyuball Frisbee,32500,false
 Altador Cup Chess Set,44900,false
-Robot Gnorbu Plushie,44900,false
+Robot Gnorbu Plushie,25000,true
 Deep Space Galaxy Markings,44700,false
 Darblat Racer,44400,false
 Isca Pull Along Toy,44400,false
@@ -1962,7 +1962,7 @@ Darigan Moehog Plushie,7300,false
 Green Koi Keyring,7300,false
 Island Mystic Plushie,7300,false
 Anubis Thief Plushie,7250,false
-Darigan Jetsam Yoyo,400069,false
+Darigan Jetsam Yoyo,5000,true
 Electric Ogrin Plushie,7250,false
 Koi Kite,7250,false
 Set of Three Paper Airplanes,7250,false
@@ -6655,7 +6655,7 @@ Royal Girl Yurble Plushie,28000,false
 Cheeseroller Shopkeeper Plushie,400069,false
 Yooyuball Lawn Play Set,400069,false
 Purple Buzz Plushie,21600,false
-Blue Negg Plushie,400069,false
+Blue Negg Plushie,28000,true
 Island Gelert Plushie,400069,false
 Maraquan Golf Club,400069,false
 Lupe Chia Plushie Toy,400069,false
@@ -6694,7 +6694,7 @@ Bug Swarm Charm Bracelet,400069,false
 Techo Says Bobblehead,400069,false
 Blue Mynci Flying Disc,400069,false
 Cloud Bruce Balloon,850,false
-Munchin’ Meepits Snowglobe,40000000,false
+Munchinâ Meepits Snowglobe,40000000,false
 Oversized Walein Plushie,1475,false
 Blue Snorkle Pinata,,false
 Faerie Kacheek Glasses,2000069,false
