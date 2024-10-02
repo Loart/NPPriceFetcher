@@ -322,7 +322,7 @@ Studded Leather Uni Top,400000,false
 Draik Archer Hat,999999,false
 Faerieland Cloud Background,435000,false
 Yooyuball Coin Purse,355000,false
-Snowy Xweetok Collar,285000,true
+Snowy Xweetok Collar,325000,false
 Team Flag Banner - Kreludor,735000,false
 Construction Safety Vest,405000,false
 Pink Pyjama Wocky Top,375000,false
@@ -459,7 +459,7 @@ Team Flag Banner - Maraqua,385000,false
 Glitter Xweetok Ruff,89000,false
 Vintage Virtupets Jersey,400069,false
 Glitter Xweetok Tail,130000,false
-Wanderer Zafara Crystal Ball,30000,true
+Wanderer Zafara Crystal Ball,62000,false
 Draik King Terask Head,130000,false
 Shrouded Draik Sword,187000,false
 Stacked Cybunny Earrings,198000,false
@@ -931,7 +931,7 @@ Kreludor Altador Cup Armour,32500,false
 Poogle Apprentice Hat,53000,false
 Retro Glasses,50500,false
 Adventurous Ixi Trousers,14000,false
-Demure Uni Jacket,99999,true
+Demure Uni Jacket,400069,false
 Charming Lupe Glasses,62000,false
 Chomby Flower Child Shirt,45000,false
 Magical Wand of Magicalness,45000,false
@@ -1179,7 +1179,7 @@ Draik Traveller Trousers,26300,false
 Fancy Orange Lutari Dress,38000,false
 Gelert Ranger Jacket,23800,false
 Grundo Miner Helmet,26700,false
-Mermaid Flotsam Bottoms,20000,true
+Mermaid Flotsam Bottoms,26200,false
 Sorcerers Skirmish Fire Wizard Hat,38800,false
 Water Tube Wrist Band,29500,false
 Elephante Sushi Chef Sandals,25500,false
@@ -7275,7 +7275,7 @@ On the Go Cybunny Shoes,56000,false
 Outside Desert Arms Background,39000,false
 El Picklesaur Brand Wrestling Cape,400069,false
 Elegant Lutari Necklace,400069,false
-Kougra Buzzer Costume Wings,110000,true
+Kougra Buzzer Costume Wings,400069,false
 School Girl Plaid Skirt,400069,false
 Forest Sage Ruki Sarong,400069,false
 Hacker Hoodie,140000,false
@@ -7348,14 +7348,14 @@ Gelert Race Cart Driver Jacket,400069,false
 Kougra Altador Heroine Dress,400069,false
 Kyrii Hostess Dress,400069,false
 Blumaroo Farmer Overalls,400069,false
-Lord Kass Eyrie Outfit,50000,true
+Lord Kass Eyrie Outfit,83000,false
 Gaming Too Much? Glasses,400069,false
 Super Gothic Wocky Jacket,400069,false
 Xweetok Popstar Microphone,400069,false
 Colourful Patterned Blumaroo Trousers,400069,false
 Fancy Kacheek Uniform Boots,400069,false
 Eyrie Magician Jacket,400069,false
-Cybunny Ocean Warrior Wig,125000,true
+Cybunny Ocean Warrior Wig,400069,false
 Lovely Bruce Shoes,400069,false
 Vintage Vampire Korbat Wings,58000,false
 Waterskiing Jetsam Vest,400069,false
@@ -7432,7 +7432,7 @@ Hot Dog Dress,400069,false
 Fancy Grarrl Makeup,400069,false
 Gnorbu Sheriff Boots,400069,false
 Hissi Knight Helmet,400069,false
-Aisha Ear Headphones,80000,true
+Aisha Ear Headphones,400069,false
 Super Tough Jetsam Belt,400069,false
 Gothic Ruki Eye Shadow,400069,false
 Shoyru Pyjama Top,45500,false
@@ -7735,7 +7735,7 @@ Rustic Female Usul Warrior Tattoo,400069,false
 Rustic Male Usul Warrior Trousers,400069,false
 Scorchio Scholar Trousers,400069,false
 Mynci Zoot Suit Shoes,400069,false
-Punk Buzz Shirt,60000,true
+Punk Buzz Shirt,23700,false
 Fancy Uni Shoes,400069,false
 Lupe Samurai Sword,37900,false
 Lutari Aristocrat Wig,400069,false
@@ -7819,7 +7819,7 @@ Chomby Prehistoric Cuffs,18100,false
 Korbat Scientist Glasses,400069,false
 Scorchio Poet Trousers,400069,false
 Yurble Noil Tamer Hat,25300,false
-Cybunny Tuxedo,20000,true
+Cybunny Tuxedo,24900,false
 Milk Maid Techo Milk Jug,400069,false
 Moehog Flapper Gloves,400069,false
 Mynci Zoot Suit Belt,400069,false
@@ -7898,7 +7898,7 @@ Mortog Bucket Hat,35700,false
 Mortog Cardigan,320000,false
 Trapped in a Net Foreground,3975,false
 Blackhole Background,42900,false
-Blumaroo Mage Cloak,250000,true
+Blumaroo Mage Cloak,485000,false
 Blumaroo Mage Spell,107000,false
 Blumaroo Mage Tunic,228000,false
 Brightvale Glaziers Background,8800,false
@@ -8037,7 +8037,7 @@ Spirit Draik Tail,735000,false
 Surrounded by Shades Background,2950,false
 Grey Painter Border,800,false
 Kreludorian Techo Flowper Buddy,7500,false
-Kreludorian Techo Helmet,2000,true
+Kreludorian Techo Helmet,2200,false
 Kreludorian Techo Spacesuit,5000,false
 Late Night Teacups Foreground,1000,false
 Techie Subway Background,49700,false
