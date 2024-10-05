@@ -946,7 +946,7 @@ Scabu,40000,false
 Blue Acara Cake,40800,false
 Chemical Cocktail,62000,false
 Doughnutfruit Punch,40600,false
-Mustard and Tofu Hot Dog,46300,false
+Mustard and Tofu Hot Dog,20000,true
 Triple Chocolate Shell,36000,false
 Aisha Tomato and Potato Soup,44700,false
 Lime Berry Terror Mountain Altador Cup Slushie,36800,false
@@ -1000,7 +1000,7 @@ Juicy Melon,36000,false
 Meerca Bolognese,31000,false
 Morel Mushroom Dip,31000,false
 Neopets 8th Birthday Lollypop,36000,false
-Orange Baby Aisha Lollypop,36000,false
+Orange Baby Aisha Lollypop,28000,true
 Orange Jetsam Cupcake,36500,false
 Vanilla Poogle Cupcake,10000,false
 Custard,25900,false
@@ -1193,7 +1193,7 @@ Altador Cup Cookies,26700,false
 Blackberry Sorbet,400069,false
 Mint Chip Skeith Cone,26700,false
 Nimmo Pastry Plate,21300,false
-Egg Stew,400069,false
+Egg Stew,150000,true
 Buzz Mashed Potato,28500,false
 Snotty Vira Onion,20000,false
 Vanilla Neocola,26500,false
@@ -1261,7 +1261,7 @@ Peppermint Kougra Cake,22000,false
 Fizzy Grape Lupe Drink,19400,false
 2/3 Mushroom Pizza,33600,false
 Cybunny Carrot Stew,23700,false
-Extra Meaty Sandwich,24200,false
+Extra Meaty Sandwich,8000,true
 Grilled Cheese Soup Dippers,16000,false
 Lime Berry Haunted Woods Altador Cup Slushie,24100,false
 Ergy Broccoli,24000,false
@@ -1314,12 +1314,12 @@ Congratulations Negg,31000,false
 Custard Doughnut,23900,false
 Dark Chocolate Zafara,400069,false
 Dried Ummagine,8800,false
-Eggy Weggs,19000,false
+Eggy Weggs,12000,true
 Kyrii Dewy Apple Milkshake,18300,false
 Snorkle in a Blanket,24500,false
 Tropical Fruit Bowl,22000,false
 8-Bit Pizza,21900,false
-Dried Lupe Snack,400069,false
+Dried Lupe Snack,77000,true
 Spotted Pudding with Custard,15200,false
 Apple Rigamaroll,25600,false
 Negg Noodle Soup,23000,false
@@ -1464,7 +1464,7 @@ Sketch Eggs,18400,false
 5/6 Amazing Apple Usul Cake,18300,false
 Fiery Seasonal HOT Chocolate,18300,false
 Ghost Techo Lolly,29700,false
-Lutical Berries,22000,false
+Lutical Berries,18000,true
 Blueberry Gummy Stamp,24800,false
 Giblets Gravy,18200,false
 Seasonal Dr. Sloth Truffles,18200,false
@@ -9800,7 +9800,7 @@ Double Hot Dog,665000,false
 Crystal Taco,400069,false
 Stone Hot Dog,82000,false
 Charming Negg,400069,false
-Sloth Dog,400069,false
+Sloth Dog,69000,true
 Gwernial,400069,false
 Gaming Fuel,400069,false
 Hypnotic Eye Milkshake,400069,false
@@ -9836,7 +9836,7 @@ Cheesy Pineapple Sticks,400069,false
 Salmon Cream Cheese Dip,11100,false
 Mad Scientists Cookies,400069,false
 Hot and Sour Soup,400069,false
-Peanut Butter Tonu Crackers,400069,false
+Peanut Butter Tonu Crackers,30000,true
 Kiko Cookie,400069,false
 Nova Fruit Smoothie,28900,false
 Giant Kiko Cookies OF DOOM,400069,false
