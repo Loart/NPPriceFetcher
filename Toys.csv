@@ -635,7 +635,7 @@ Faerieland Altador Cup Team Yooyu Plushie,470000,false
 Illusen Spring Hoops Game,270000,false
 Virtupets Altador Cup Team Yooyu Plushie,270000,false
 Camouflage Wocky Plushie,231000,false
-Iridescent Faerie Dress,215000,false
+Iridescent Faerie Dress,120000,true
 Rainbow Ruki Plushie,196000,false
 Striped Xweetok Coin Purse,265000,false
 Tyrannia Snowglobe,210000,false
@@ -1370,7 +1370,7 @@ Yellow Meerca Balloon,19200,false
 Air Faerie Charm,18800,false
 Baby Ruki Plushie,18800,false
 JubJub Moltara Inventor Shoes,9500,false
-Magma Gelert Plushie,18700,false
+Magma Gelert Plushie,6000,true
 AAA Usuki,18200,false
 Basketball,18500,false
 Rainbow Usul Plushie,16300,false
@@ -1378,7 +1378,7 @@ Royal Evil Fuzzle,18500,false
 Neopia Central Flying Disc,18400,false
 Imposter Apple Collectable Charm,4750,false
 Baby JubJub Plushie,18000,false
-Baby Lenny Plushie,6000,true
+Baby Lenny Plushie,5000,true
 Baby Security Blanket,18000,false
 Candy Cane Stocking,13000,false
 E-Z See Crystal Ball,67000,false
@@ -1661,7 +1661,7 @@ Binary Supagoo Building Block Figurine,10300,false
 Moltara Citizen Gelert Trousers,10200,false
 Usuki Seasonal Set,10200,false
 Angry Royal Girl Zafara Plushie,10100,false
-Eventide Aisha Plushie,42500,false
+Eventide Aisha Plushie,16000,true
 Fire Tonu Plushie,10100,false
 Maraquan Grarrl Squirty Toy,9950,false
 Starry Tonu Plushie,17400,false
@@ -2098,7 +2098,7 @@ Draik Fire Horns,6650,false
 Faerie Aisha Plushie,4900,false
 Fake Tattoo,24300,false
 Orange Skeith Plushie,6400,false
-Rainbow Yurble Plushie,6250,false
+Rainbow Yurble Plushie,4000,true
 Scorchio Mummy Monster Plushie,6250,false
 Shadow Aisha Plushie,5700,false
 Wild Kougra Markings,4950,false
@@ -2175,7 +2175,7 @@ Purple and Green Party Hat,17000,false
 Snow Quiggle Plushie,5850,false
 Spunky Adventurer Meerca Gloves,18800,false
 Valentines Blugar Plushie,5850,false
-Water Eyrie Wings,400069,false
+Water Eyrie Wings,1000,true
 Grarrl Blacksmith Boots,5800,false
 Island Usul Plushie,5800,false
 Jhuidah Faerie Doll,5800,false
@@ -2426,7 +2426,7 @@ Spinning Rings,10100,false
 Borovan Time Zafara Plushie,400069,false
 Winter Shoyru Plushie,400069,false
 Grey Elephante Plushie,4700,false
-Mutant Xweetok Plushie,400069,false
+Mutant Xweetok Plushie,49000,true
 Tangor Plushie,4700,false
 Wild Lupe Body,5000,false
 Wooden Toy Box,4500,false
@@ -2442,7 +2442,7 @@ Angry Green Usul Keyring,5000,false
 Baby Moehog Plushie,4600,false
 Cloud Moehog Plushie,4250,false
 Grarrl Blacksmith Apron,4600,false
-Mutant Chomby Plushie,4600,false
+Mutant Chomby Plushie,2000,true
 Red Scooter,4600,false
 Red Negg Plushie,4575,false
 Stormy Cloud Kacheek Tails,4575,false
@@ -2534,7 +2534,7 @@ Leather Cogs Mask,4100,false
 Pirate JubJub Plushie,4100,false
 Talking Korbat Plushie,4825,false
 Tyrannian Slorg Plushie,5400,false
-Fire Eyrie Ruff,400069,false
+Fire Eyrie Ruff,21000,true
 Glitter Uni Horn,4075,false
 Rampaging Grundonoil Plushie,4075,false
 Elegant Gear Boots,400069,false
@@ -2757,14 +2757,14 @@ Valentines Kiko Plushie,5950,false
 Brian Plushie,2875,false
 Clawed Kadoatie Plushie,3000,false
 Freshwater Lenny Tail,3150,false
-Garlic Evil Fuzzle,3150,false
+Garlic Evil Fuzzle,1900,true
 Inflatable Yooyu,3150,false
 Plant Bori Claws,4000,false
 Plant Kiko Succulent,2750,false
 Rainbow Birthday Blower,4025,false
 Gamer Quiguki,3125,false
 Island Elephante Plushie,3125,false
-Grarrl Creature Claws,400069,false
+Grarrl Creature Claws,8000,true
 Jacques Plushie,3200,false
 Koujong Rubix Cube,3100,false
 Plant Usul Tail,3050,false
@@ -2807,7 +2807,7 @@ Green Mynci Puppet,2975,false
 Green Scooter,5850,false
 Green Yurble Plushie,4000,false
 Halloween Kyrii Plushie,3000,false
-Kiko Water Hair,400069,false
+Kiko Water Hair,49000,true
 Kyrii Water Hair,3000,false
 Minion of Dr. Sloth Plushie,3000,false
 Moehog Explorer Plushie,3000,false
@@ -2853,7 +2853,7 @@ Knitted Peophin Plushie,1900,false
 Sliced Lord Kass Plushie,4000,false
 Space Blumfaerie Plushie,10000,false
 The Founder Plushie,2950,false
-Water Eyrie Ruff,400069,false
+Water Eyrie Ruff,2000,true
 Pumpkin Bouncy Ball,2925,false
 Advent Calendar,2350,false
 Broken Mynci Pogo Stick,2900,false
@@ -2898,7 +2898,7 @@ Faerie Gelert Plushie,3400,false
 Faerie Slorg Usuki Set,2300,false
 Shadow Zafara Plushie,2825,false
 Striped Usul Plushie,2825,false
-Watermelon Plushie,400069,false
+Watermelon Plushie,200000,true
 Brussel Sprout Plushie,2800,false
 Cerys Plushie,2800,false
 Chatter Plushie,2800,false
@@ -3068,7 +3068,7 @@ Ghost Xweetok Plushie,1600,false
 Kevin Gormball Action Figure,2300,false
 Korbat Plant Wings,1900,false
 Official Usuki Bowling Set,2300,false
-Plant Eyrie Tail,400069,false
+Plant Eyrie Tail,65000,true
 Quiggle Whistle,2300,false
 Rotten Jhudora Negg Plushie,3500,false
 Skunk Yurble Plushie,2300,false
@@ -3180,7 +3180,7 @@ Present Blocks,1000,false
 Springy Darigan Buzz Toy,2050,false
 Tyrannian Poogle Plushie,1975,false
 Vinyl Darigan Yurble Toy,4500,false
-Water Eyrie Tail,400069,false
+Water Eyrie Tail,6000,true
 Wocky Mummy Monster Plushie,2050,false
 Wormoeba Plushie,2050,false
 Electric Gormball Plushie,2025,false
@@ -3229,7 +3229,7 @@ Orange Evil Fuzzle,2000,false
 Paint Swirling Top,400069,false
 Pant Devils Evil Twin Plushie,2000,false
 Plant Kiko Body Markings,2000,false
-Plushie Cherries,400069,false
+Plushie Cherries,180000,true
 Plushie Techo Plushie,4375,false
 Psychic Usuki Set,2000,false
 Pteri Plant Wings,2750,false
@@ -3252,7 +3252,7 @@ Tea Time Skeith Plushie,2000,false
 Tower-o-Boxes,2000,false
 Toy Darigan Beauty Set,2375,false
 Tyrannian Bruce Plushie,2000,false
-Tyrela Softpaw Plushie,400069,false
+Tyrela Softpaw Plushie,55000,true
 Usuki Beach Accessories,1850,false
 Usuki Fuzzy Clothing,2000,false
 Usuki Potting Set,2000,false
@@ -6549,7 +6549,7 @@ Draphly Plushie,53000,false
 Rufus Plushie,400069,false
 Bruce Booster Pack,400069,false
 Green Peophin Squishy Plushie,400069,false
-Magma Tonu Plushie,400069,false
+Magma Tonu Plushie,140000,true
 Singularity Plushie,400069,false
 Cooty Plushie,400069,false
 Royal Boy Kyrii Plushie,400069,false
@@ -6699,13 +6699,13 @@ Oversized Walein Plushie,1125,false
 Faerie Kacheek Glasses,2000069,false
 Spirit Draik Body,425000,false
 Spirit Draik Head,405000,false
-Spirit Draik Tail,580000,false
+Spirit Draik Tail,280000,true
 Tavis Rope,780,false
 Munchin’ Meepits Snowglobe,2000069,false
 Kreludorian Techo Flowper Buddy,7500,false
 Kreludorian Techo Helmet,2200,false
 Kreludorian Techo Spacesuit,2950,false
-Age of Wonder Makeup,990000,false
+Age of Wonder Makeup,990000,true
 Age of Wonder Tunic,9350,false
 Age of Wonder Wig,40400,false
 Age of Wonder Wings,995000,false
