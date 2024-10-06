@@ -1697,7 +1697,7 @@ Lovely Gnorbu Boots,40600,false
 Metallic Draik Tail,8350,false
 Mysterious Blumaroo Stockings,17800,false
 Bold Kougra Trousers,400069,false
-Creepy Cave Background,400069,false
+Creepy Cave Background,150000,true
 Dashing Kau Shoes,16900,false
 Desert Vendor Mynci Trousers,10700,false
 Festive Special PJs,35000,false
@@ -3689,7 +3689,7 @@ Shop Wizard JubJub Shirt,4050,false
 Stormy Cloud Gnorbu Tail,5500,false
 Sweet Vandagyre Wig,6200,false
 Tough Girl Gelert Sunglasses,6400,false
-Wanderer Lutari Wig,400069,false
+Wanderer Lutari Wig,200000,true
 Acara Nurse Uniform,10000,false
 Altador Cup II Team Background - Maraqua,7350,false
 Casual Blumaroo Trousers,6200,false
@@ -4331,7 +4331,7 @@ Sunflower Kau Shirt,4650,false
 Tuskaninny Pale Blue Top Hat,3950,false
 Wocky Archer Dress,5950,false
 Yellow Ruki Dress,11700,false
-Elegant Gear Boots,400069,false
+Elegant Gear Boots,5000,true
 Mermaid Flotsam Headgear,4650,false
 Trendy Grarrl Jacket,7950,false
 Bisexual Pride Heart Markings,4000,false
@@ -4709,7 +4709,7 @@ Draik Boxer Wig,12200,false
 Extravagant Yurble Dress,2000,false
 Fabulous Ogrin Earrings,3225,false
 Moehog Chef Hat,4500,false
-Peophin Defender Bracelet,400069,false
+Peophin Defender Bracelet,150000,true
 Pink Sleeping Wocky Mask,3475,false
 Roxton Lutari Wig and Moustache,10500,false
 Rugged Kacheek Beard and Wig,6000,false
@@ -5171,7 +5171,7 @@ Pretty Spring Uni Wig,2875,false
 Primitive Tuskaninny Necklace,3275,false
 Proper Lady Kacheek Skirt,3200,false
 Pteri Cellist Trousers,5000,false
-Purple Lipstick,400069,false
+Purple Lipstick,120000,true
 Red Marbleman T-shirt,2500,false
 Scared Kacheek Mask,3000,false
 Scordrax Scorchio Body,3000,false
@@ -5345,7 +5345,7 @@ Weltrude Wig,14300,false
 Yurble Noil Tamer Stool,2675,false
 Yurble Raider Quiver,3650,false
 Aisha Wizard Beard,8000,false
-Kougra Wild Child Shoes,400069,false
+Kougra Wild Child Shoes,50000,true
 Martial Draik Trousers,31300,false
 Monoceraptor Grarrl Body,1950,false
 Mynci Fashion Designer Tail Cuffs,2575,false
@@ -5610,7 +5610,7 @@ Illusens Nature Lanterns,1000,false
 Ixi Spiral Horns,1800,false
 Kau Kau Farms Background,4250,false
 Lutari Knight Helmet,2350,false
-Magnificent Moustache,400069,false
+Magnificent Moustache,12000,true
 Menacing Meerca Mask,600,false
 Neohome Party Background,2000,false
 Nostalgic Faerieland Archway,3000,false
@@ -6112,7 +6112,7 @@ Vandagyre Rock Star Shades,5450,false
 White Twirly Kyrii Bracelet,920,false
 Winter Blechy Hat,1800,false
 Blumaroo Jester Bow Hat,2000,false
-Brown Newsboy Hat,400069,false
+Brown Newsboy Hat,15000,true
 Desert Rider Peophin Belt,1900,false
 Little Timmy Tuskaninny Shirt,1200,false
 Plant Chomby Spikes,1750,false
@@ -6517,7 +6517,7 @@ Greedy Kadoatie T-shirt,1000,false
 Grey Fur Muff,450,false
 Kyrii Sea King Dress,900,false
 Lawyer Briefcase,950,false
-Masquerader Xweetok Makeup,400069,false
+Masquerader Xweetok Makeup,25000,true
 Nomadic Warrior Tonu Necklace,900,false
 Starry Red Background,1000,false
 Strange Yellow Mist,3000,false
@@ -6606,7 +6606,7 @@ Forest Ranger Meerca Shirt,5000,false
 Jhudoras Bluff Background,980,false
 Sceptic Board Background,1025,false
 Yurble Sun Belly Markings,940,false
-Combatant Kougra Cap,400069,false
+Combatant Kougra Cap,35000,true
 Tribal Lupe Wig,460,false
 Compass Bracelet,1900,false
 Cwin Eyrie Wig,400069,false
@@ -8043,7 +8043,7 @@ Late Night Teacups Foreground,1000,false
 Techie Subway Background,4800,false
 Techie Techo Backpack,485000,false
 Techie Techo Hoodie,265000,false
-Techie Techo Jeans and Shoes,725000,false
+Techie Techo Jeans and Shoes,10000,true
 Age of Wonder Wings,995000,false
 Inside a Faerie Home Background,610000,false
 Age of Wonder Tunic,9350,false
@@ -8056,12 +8056,12 @@ Mythical Poogle Body,25000,false
 Chocolate Waterfall Background,19000,false
 Mythical Poogle Head,10000,false
 Bouquet of Toxic Flowers,870,false
-A Potent Elixir Background,225000,false
+A Potent Elixir Background,30000,true
 Age of Wonder Makeup,750000,true
 Dripping Gormball Garland,6700,false
 Fairytale Skeith Body,14300,false
 Fairytale Skeith Book,27000,false
-Fairytale Skeith Head,243000,false
+Fairytale Skeith Head,50000,true
 Fairytale Skeith Hind,15000,false
 Gormball Water Bottle Handheld,545000,false
 Murky Grey Light,7000,false
@@ -8078,7 +8078,7 @@ Chicken Nugget Grarrl Body,2000069,false
 Chicken Nugget Grarrl Head,2000069,false
 Chicken Nugget Grarrl Tail,2000069,false
 Giant Grarrl Body,2000069,false
-Giant Grarrl Head,2000069,false
+Giant Grarrl Head,300000,true
 Giant Grarrl Tail,2000069,false
 Grarrl Park Background,2000069,false
 Jaunty Blue Hat,,false
