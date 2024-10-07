@@ -2472,7 +2472,7 @@ Glass Uni Horn,4475,false
 Halloween Dribblet Plushie,4475,false
 Zombie Pteri Plushie,6350,false
 Beekadoodle Plushie,4450,false
-Borovan Time Elephante Plushie,400069,false
+Borovan Time Elephante Plushie,300000,true
 Broken Red Toy Car,4450,false
 Green Peophin Plushie,4100,false
 Mutant Grundo Plushie,4450,false
@@ -3143,7 +3143,7 @@ Ixi Ice Tail,6950,false
 Maraquan Kau Plushie,3000,false
 Number 4 Plushie,1750,false
 Tea Time Pteri Plushie,2000,false
-Techo Plant Tail,400069,false
+Techo Plant Tail,1000,true
 Triffin Plushie,2150,false
 Cheerleader Usuki,3500,false
 Darigan Postal Weewoo Plushie,4000,false
@@ -6720,7 +6720,7 @@ Fairytale Skeith Hind,15000,false
 Void Crabby-bot Plushie,605000,false
 Blue Snorkle Pinata,,false
 Chicken Nugget Grarrl Body,2000069,false
-Chicken Nugget Grarrl Head,2000069,false
+Chicken Nugget Grarrl Head,40000,true
 Chicken Nugget Grarrl Tail,2000069,false
 Giant Grarrl Body,2000069,false
 Giant Grarrl Head,300000,true
