@@ -1079,7 +1079,7 @@ Altadorian Pastitsio,23200,false
 Negg,22000,false
 Spiced Melon,31000,false
 Molten Candy Apple,17900,false
-Scorched Kabob,30500,false
+Scorched Kabob,11000,true
 Tomato Baby Food,50500,false
 Chokato Sundae,58500,false
 CPMPB Salad,30400,false
@@ -1496,7 +1496,7 @@ Blumaroo Ice Cream Sundae,34800,false
 Coral Pizza Slice,17800,false
 Deep-Fried Galactic... Food Mass,14300,false
 Fizzy Apple Juice,21800,false
-Gourmet Fried Chicken and Waffles,34000,false
+Gourmet Fried Chicken and Waffles,8200,true
 Grey Negg,12500,false
 Strawberry Meerca Lolly,6150,false
 Jelly Wingafruit,11200,false
@@ -4018,7 +4018,7 @@ Altador Cup Chocolate Coins,2450,false
 Altador Style Bratwurst,2500,false
 Boingari Mince Pie,3150,false
 Bran Boulders,2000,false
-Chai Tea,790000,false
+Chai Tea,40000,true
 Chia Sticky New Year Cake,1800,false
 Chocolate Rose Petal Ice Cream,2175,false
 Coconut Ketchup Stew,500,false
