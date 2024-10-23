@@ -1167,7 +1167,7 @@ Ixi Gentleman Trousers and Shoes,41500,false
 Retro Poogle Shoes,41500,false
 Vintage Lost Desert Altador Cup Jersey,41500,false
 Admiral Yurble Shoes,41400,false
-Rattle Hissi Teeth,41200,false
+Rattle Hissi Teeth,10000,true
 Kacheek Mage Robes,27500,false
 Space Pirate Xweetok Hat,41000,false
 Tonu Knight Foot Armour,40800,false
@@ -8068,7 +8068,7 @@ Monarch Eyrie Wings,7800,false
 Rosy Eyrie Wings,9900,false
 Bori Bog Shell,2000069,false
 Bori Cloud Shell,2000069,false
-Bori Spiky Shell,2000069,false
+Bori Spiky Shell,100,true
 Hunter Jetsam Body,2000069,false
 Hunter Jetsam Head,2000069,false
 Jetsam Coral Reef Markings,2000069,false
