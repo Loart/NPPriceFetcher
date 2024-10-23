@@ -164,7 +164,7 @@ I Love Lyins T-Shirt,700000,false
 Pride Aisha Ears,990000,false
 Shenkuu Silhouette Background,990000,false
 Shenkuu-Inspired Paper Parasol,775000,false
-Swirling Void Background,750000,false
+Swirling Void Background,350000,false
 Uni Neon Horn,970000,false
 Cute Cup of Borovan,955000,false
 I love Usukicon Shirt,975000,false
@@ -188,7 +188,7 @@ On the Go Cybunny Dress,935000,false
 Pink Flosset T-Shirt,935000,false
 Deserted Fairground Silhouette Background,930000,false
 Team Flag Banner - Meridell,930000,false
-Usuki Beanie,925000,false
+Usuki Beanie,550000,false
 Bioluminescent Beach Background,635000,false
 Queen Amira Aisha Tail Wrap,920000,false
 Barista Tuskaninny Drink Tray,910000,false
@@ -324,7 +324,7 @@ Tropical Food Shopkeeper Necklace,530000,false
 Elegant Draik Hat,345000,false
 Milk Maid Kau Blouse,525000,false
 Tiara,525000,false
-Magical Book Background,193000,false
+Magical Book Background,133000,false
 Ixi Death Blue Aura,505000,false
 Krawk Wizard Staff,500000,false
 Team Moltara Gym Bag,500000,false
@@ -388,7 +388,7 @@ Team Maraqua Cap,395000,false
 Anime Valentines Bow,390000,false
 Hissi Pop Star Wig,390000,false
 Pink Krawk Hair,390000,false
-Shenkuu Mansion Background,390000,false
+Shenkuu Mansion Background,194000,false
 Yooyu Mask,390000,false
 Lutari Aviator Jacket,385000,false
 Team Flag Banner - Maraqua,385000,false
@@ -456,7 +456,7 @@ Mysterious Draik Gloves,290000,false
 Stylish Bruce Shoes,290000,false
 Working From Home Pants,290000,false
 Highland Gelert Boots,185000,false
-Lord Kass Eyrie Earrings,285000,false
+Lord Kass Eyrie Earrings,455000,false
 Punk Kiko Wig,42100,false
 Simple Zafara Trousers,285000,false
 Cobweb Shoes,280000,false
@@ -513,14 +513,14 @@ Pteri Adventurer Trousers,224000,false
 Spring Fields,224000,false
 Milkman Kau Coat,223000,false
 Cybunny Ancient Warrior Armour,221000,false
-Tarlas Underground Workshop Background,221000,false
+Tarlas Underground Workshop Background,330000,false
 Little Red Riding Hood Krawk Dress,220000,false
 Team Virtupets Space Station Cooler,220000,false
 Trendy Korbat Shirt,220000,false
 Space Station Background,218000,false
 Team Flag Banner - Lost desert,217000,false
-Female Wanderer Koi Crystal Ball,215000,false
-Iridescent Faerie Dress,215000,false
+Female Wanderer Koi Crystal Ball,167000,false
+Iridescent Faerie Dress,63000,false
 Uni Neon Harness,625000,false
 Uni Parade Harness,214000,false
 I Love Pie Background,213000,false
@@ -531,7 +531,7 @@ Baby Pet Winter Outfit,209000,false
 Trendy Aisha Shirt and Trousers,75000,false
 Neon Kougra Hat,208000,false
 Trendy Uni Shoes,208000,false
-Elegant Draik Necklace,112000,false
+Elegant Draik Necklace,82000,false
 Sophies Hut Background,207000,false
 Fancy Aisha Wig,206000,false
 Perilous Catacombs Sentient Door Background,206000,false
@@ -634,10 +634,10 @@ Singed Trousers,141000,false
 17th Birthday Party Hat,140000,false
 Cyberpunk Lupe Tail,140000,false
 Hacker Hoodie,750,false
-Negg Museum,140000,false
+Negg Museum,101000,false
 Blumaroo Jester Hat,139000,false
 Fancy Aisha Dress,139000,false
-Warf Nose,139000,false
+Warf Nose,295000,false
 Bubble Paper Background,75000,false
 Cybunny Ocean Warrior Dress,136000,false
 Space Pirate Xweetok Flannel,53000,false
@@ -676,7 +676,7 @@ Spring Topiary Garden Background,125000,false
 Crabby-bot Earrings,124000,false
 Faerie Painted Background,123000,false
 Spring Green Ruffle Skirt,123000,false
-Rainbow Braid,122000,false
+Rainbow Braid,45600,false
 Virtupets Team Sweat Headbands,122000,false
 Aisha Rain Slicker,175000,false
 Dark Buzz Cape,121000,false
@@ -783,7 +783,7 @@ Twisted Roses Zafara Choker,91000,false
 Chomby Punk Jacket,90500,false
 Lava Contacts,400069,false
 Neopian Times Zafara Shirt and Vest,48700,false
-Altador Cup Tailgate Party Background,90000,false
+Altador Cup Tailgate Party Background,30000,false
 Delightful Poogle Shoes,84500,false
 Futuristic Lutari Diving Shirt,71000,false
 Kiko Lake Team Sweat Headbands,90000,false
@@ -812,7 +812,7 @@ Poogle Witch Doctor Mask,86000,false
 Socialite Uni Makeup,86000,false
 Draik Sorceress Shoes,38000,false
 Baelias Backyard Background,85000,false
-Checkered Background,85000,false
+Checkered Background,84500,false
 Snow Roller Success Jumper,85000,false
 Altador Cup Pendant Necklace,84500,false
 Lupe Hunter Trousers,38700,false
@@ -870,9 +870,9 @@ Laid Back Xweetok Boots,73500,false
 Peophin Seadragon Fruit Hair,73500,false
 Brown Scorchio Dress,10400,false
 Alien Shoes,72500,false
-Ixi Death Wings,72500,false
+Ixi Death Wings,29300,false
 Koi Concert Violinist Violin,72500,false
-Prey Eyrie Head,72500,false
+Prey Eyrie Head,400069,false
 Trendy Korbat Gloves,72500,false
 Evening Draik Dress,72000,false
 Ice Cream Skirt,72000,false
@@ -881,7 +881,7 @@ Flying Pteri Tan,71500,false
 Hannahs Red Undershirt,71500,false
 Lovely Bruce Jacket,71500,false
 Gelert Smoke Body,71000,false
-Lutari Rollerskate Waitress Dress,71000,false
+Lutari Rollerskate Waitress Dress,30000,false
 Polka Dotted Pink Background,71000,false
 Chomby Gentleman Hat,50000,false
 Fancy Lenny Dress,70500,false
@@ -1057,7 +1057,7 @@ Altador Cup Skirt,40500,false
 Battle Star Trophy,62000,false
 Colourful Blumaroo Dancer Dress,40000,false
 Ednas Shadow Background,50000,false
-Moth Queen Aisha Gloves,50000,false
+Moth Queen Aisha Gloves,55500,false
 Shenkuu Altador Cup Armour,48200,false
 Super Tough Jetsam Gloves,50000,false
 Kau Sorceress Sandals,49900,false
@@ -1140,7 +1140,7 @@ Orchid Ruki Sword,24800,false
 Pteri Postman Shoes,43200,false
 Yurble Farmer Shirt,43100,false
 Draik Boxer Trousers,43000,false
-Blackhole Background,42900,false
+Blackhole Background,38400,false
 Kyrii Host Trousers,42900,false
 Shoyru Wizard Staff,42900,false
 Wocky Thief Trousers,42900,false
@@ -1257,9 +1257,9 @@ Morning Meerca Mug,36000,false
 Mortog Bucket Hat,32900,false
 Twisted Roses Zafara Makeup,35700,false
 Krawk Island Altador Cup Armour,35600,false
-Purple Hissi Turtleneck,35600,false
+Purple Hissi Turtleneck,27300,false
 Eyrie Pilot Scarf,35500,false
-Geb Necklace,35500,false
+Geb Necklace,32500,false
 Neopian Times Zafara Handkerchief,35500,false
 Flotsam Water Horn and Fin,8950,false
 Feathery Pteri Head,9000,false
@@ -1519,7 +1519,7 @@ Dumpling Pendant,400069,false
 Elephante Sushi Chef Sandals,16700,false
 Gelert Spy Trousers,25500,false
 Meerca Worker Hat,25500,false
-Shoyru Rain Hat,25500,false
+Shoyru Rain Hat,5700,false
 Acara Mermaid Pendant,25400,false
 Eyrie Swordsman Sword,25400,false
 Gothic Korbat Shirt,25400,false
@@ -1610,7 +1610,7 @@ Armoured Ruki Boots,16100,false
 Lab Assistant Ogrin Shirt,23900,false
 Casual Gelert Jacket,3975,false
 Chimney Sweep Techo Scarf,23800,false
-Flotsam Metal Horn and Fin,23800,false
+Flotsam Metal Horn and Fin,2400,false
 Gelert Ranger Jacket,15000,false
 Kauboy Vest,23800,false
 Money Tree Ghost Quiggle Arm Wraps,23800,false
@@ -1652,7 +1652,7 @@ Elephante Bard Wig,22700,false
 Pteri Washerwoman Wig,22700,false
 Tuskaninny Girl Beach Ball,22700,false
 Worn Leather Yurble Vest,7700,false
-JubJub Scientist Test Tube,22600,false
+JubJub Scientist Test Tube,14400,false
 Lupe Vagabond Sword,22600,false
 Glubgar Wig,22500,false
 Gnorbu Sheriff Hat,22500,false
@@ -1686,7 +1686,7 @@ Gelert Luxurious Eye Makeup,21900,false
 Brainy Uni Cardigan,21800,false
 Gnorbu Gentleman Trousers,21800,false
 Gnorbu Pyjama Slippers,7800,false
-Xandra Xweetok Cape,21800,false
+Xandra Xweetok Cape,186000,false
 Elephante Detective Magnifying Glass,21700,false
 Korbat Jockey Jacket,21600,false
 Trendy Uni Hat and Wig,21600,false
@@ -1850,7 +1850,7 @@ Dapper Cybunny Striped Pants,6500,false
 Desperado Chia Hat and Mask,19000,false
 Dolled Up Cybunny Dress,19000,false
 Fauna Acara Wig,19000,false
-Glam Rocker Tonu Trousers,19000,false
+Glam Rocker Tonu Trousers,7800,false
 Korbat Scientist Gown,9450,false
 Krawk Blue Bath Robe,19000,false
 Lovely Bruce Flower Basket,19000,false
@@ -1944,7 +1944,7 @@ Hissi Gentleman Shoes,9700,false
 Little Red Riding Hood Wocky Skirt,17800,false
 Lumberjack Chia Shoes,17800,false
 Lutari Sweet Little Sailor Lolly,17800,false
-Mysterious Blumaroo Stockings,17800,false
+Mysterious Blumaroo Stockings,8250,false
 Nature Kacheek Sprig,17800,false
 Peophin Spy Suit,14700,false
 Purple Moehog Top,17800,false
@@ -2169,7 +2169,7 @@ Devil Grarrl Dress,15000,false
 Distinguished Buzz Trousers,15000,false
 Fairytale Skeith Hind,5700,false
 Fancy Ruki Wig,3825,false
-Flotsam Fire Horn and Fin,2000069,false
+Flotsam Fire Horn and Fin,500000,false
 Flowing Peophin Armband,7400,false
 Gothic Wocky Trousers,8450,false
 Grey Neggery Background,15000,false
@@ -2177,7 +2177,7 @@ Ixi Fire Tail,935000,false
 Ixi Ranger Trousers,14500,false
 Ixi Space Helmet,15000,false
 Jetsam Aviator Gloves,15000,false
-Kacheek Tourist Shirt,15000,false
+Kacheek Tourist Shirt,10300,false
 Koi Fisherman Shirt,15000,false
 Lenny Librarian Skirt,15000,false
 Levitating Hubrid Nox Plushie,15000,false
@@ -2208,7 +2208,7 @@ Armoured Ruki Shield,14800,false
 Darkhand Grarrl Robes,14800,false
 Draik Survivalist Trousers,14800,false
 Dressy Eyrie Necklace,14800,false
-Fire Eyrie Ruff,999999,false
+Fire Eyrie Ruff,525000,false
 Grarrl Ocean Warrior Skirt,14800,false
 Hissi Swordsman Trousers,14800,false
 Kacheek Tourist Glasses,14800,false
@@ -2240,7 +2240,7 @@ Aisha Warrior Socks and Shoes,14500,false
 Armoured Ruki Armour,14000,false
 Berry Zafara Goggles,14500,false
 Bruce Buzzer Keeper Hat,14500,false
-Buzz Tennis Skirt,14500,false
+Buzz Tennis Skirt,9400,false
 Chia Ballerina Tutu,14500,false
 Cobrall Charming Hissi Flute,14500,false
 Cybunny Ancient Warrior Helmet,14500,false
@@ -2595,7 +2595,7 @@ Blue Skeith Overalls,11800,false
 Bori Wool Tights and Shoes,11800,false
 Bruce Tooth Faerie Shoes,11800,false
 Cybunny Miner Boots,11800,false
-Demure Ruki Necklace,11800,false
+Demure Ruki Necklace,10000,false
 Fairest of Feathers Mask,11800,false
 Fancy Flotsam Trousers,11800,false
 Lovely Nimmo Trousers,11800,false
@@ -2740,7 +2740,7 @@ Trendy Grarrl Jacket,11000,false
 Uni Checkered Native Shoes,11000,false
 Wanderer Chia Tunic,11000,false
 Warm Shoyru Coat,6500,false
-Yurble Hermit Sandals,11000,false
+Yurble Hermit Sandals,3000,false
 Bruce Wizard Robe,10900,false
 Buzz Tennis Shirt,10900,false
 Eyrie Swordsman Boots,10900,false
@@ -2801,7 +2801,7 @@ Aviator Scorchio Jacket,10500,false
 Blue Ogrin Trousers,10500,false
 Buzz Robber Trousers,10500,false
 Chomby Sleuth Magnifying Glass,10500,false
-Cool Poogle Trousers,10500,false
+Cool Poogle Trousers,7950,false
 Dapper Bori Jacket,10500,false
 Easygoing Xweetok Shoes,8300,false
 Embellished Tuskaninny Flowers,10500,false
@@ -2927,7 +2927,7 @@ Flying Pteri Helmet,10000,false
 Galaxy Kau Horns,10000,false
 Garden Harvest Wall,20000,false
 Geek Chomby Shirt,10000,false
-Gentleman Scorchio Shirt,10000,false
+Gentleman Scorchio Shirt,3550,false
 Glowing Algae Flotsam Cloak,4500,false
 Gnorbu Aristocrat Shirt and Waistcoat,10000,false
 Gnorbu Snow Ear Muffs,10000,false
@@ -3083,7 +3083,7 @@ Yurble Farmer Pitchfork,9650,false
 Bookworm Ixi Glasses,9600,false
 Bronze Kiko Helmet,9600,false
 Dare Devil Elephante Shoes,9600,false
-Daring Korbat Cape,9600,false
+Daring Korbat Cape,9250,false
 Flotsam Wand,9600,false
 Fyoras Balcony,9600,false
 Koi Captain Trousers and Shoes,6500,false
@@ -3207,7 +3207,7 @@ Jetsam Barbarian Shirt,9100,false
 Trendy Uni Jacket,9100,false
 Winter Poogle Wig,9100,false
 Yurble Librarian Book,9100,false
-Altador Cup Background - Virtupets,9050,false
+Altador Cup Background - Virtupets,9500,false
 Bionic Cybunny Hind Cover,9050,false
 Dainty Pteri Necklace,9050,false
 Debonair Ixi Trousers,9050,false
@@ -3299,7 +3299,7 @@ Safari Bruce Hat,8950,false
 Skeith Mountaineer Trousers,6950,false
 Yellow and Blue Krawk Slippers,8950,false
 Aisha Rock Idol Guitar,8900,false
-Altador Cup Background - Meridell,8900,false
+Altador Cup Background - Meridell,9850,false
 Altador Cup II Team Background - Altador,9600,false
 Blumaroo Farmer Pitchfork,6000,false
 Cloud Surrounding JubJub,9400,false
@@ -3402,7 +3402,7 @@ Evening Draik Wig,19300,false
 Fancy Green Quiggle Gown,8650,false
 Fashionable Acara Bracelets,8650,false
 Flowing Peophin Bracelet,8650,false
-Frozen Pendant,8650,false
+Frozen Pendant,2000,false
 Futuristic Lutari Diving Pack,4000,false
 Kougra Noil Tamer Moustache,8650,false
 Lutari Sweet Little Sailor Shoes,8650,false
@@ -3418,7 +3418,7 @@ Lenny Librarian Shoes,8600,false
 Nimmo Zen Warrior Wig,8600,false
 Peophin Blue Exercise Shirt,8600,false
 Scarblade Costume,8600,false
-Skeith Sweeper Trousers,8600,false
+Skeith Sweeper Trousers,8250,false
 Springtime Scorchio Shoes,8600,false
 Sundial Wristwatch,8600,false
 Winning Celebration Background,3900,false
@@ -3828,7 +3828,7 @@ Spider Grundo Fangs,7450,false
 Warm Winter Tonu Bag,7450,false
 Wocky Archer Bow and Arrows,7450,false
 Aisha Viking Top,7400,false
-Altador Cup Background - Tyrannia,7400,false
+Altador Cup Background - Tyrannia,9500,false
 Dolled Up Cybunny Wig,7400,false
 Draik Survivalist Wig,7400,false
 Fancy Green Quiggle Gloves,7400,false
@@ -3837,14 +3837,14 @@ Kiko Explorer Hat,7400,false
 Kitchen Skeith Top,7400,false
 Krawk Foreman Cane,7400,false
 Lenny Pop Star Shirt,7400,false
-Magical Fire Lenny Ground,2000069,false
+Magical Fire Lenny Ground,950000,false
 Mynci Dark Archer Shoes,7400,false
 Mysterious Lutari Hood,6000,false
 Sharp Exoskeleton Buzz Tail,7400,false
 Skeith Sweeper Shoes,7400,false
 Squire Bori Armoured Boots,7400,false
 Trekker Shoyru Shirt and Sweater,7400,false
-Void Umbrella,7400,false
+Void Umbrella,8950,false
 Altador Cup II Team Background - Maraqua,6450,false
 Apple Mitts,7350,false
 Blumaroo Fire Tail,999999,false
@@ -3892,7 +3892,7 @@ Red Hood Chia Basket,7200,false
 Road to the Deserted Tomb Background,7200,false
 Twin Noil Statues Foreground,7200,false
 Bruce Wizard Beard,7150,false
-Casual Lutari Scarf,7150,false
+Casual Lutari Scarf,4625,false
 Elephante Professor Wig,7150,false
 Gnorbu Spectacles,7150,false
 Shoyru Gladiator Tunic,7150,false
@@ -3942,7 +3942,7 @@ Lutari Islander Sandals,7000,false
 Mecha Ruki Antennae,5200,false
 Meerca Maid Wig,7000,false
 Metallic Hissi Fangs,12500,false
-Milkman Kau Milk,7000,false
+Milkman Kau Milk,730000,false
 Morguss Moehog Robe,4775,false
 Murky Grey Light,5400,false
 Orange Elephante Hat,6350,false
@@ -4327,7 +4327,7 @@ Chomby Punk Wig,5950,false
 Gelert Feather Necklace,5950,false
 Gormball Knee Guards,7000,false
 Handsome Prince Quiggle Sceptre,5950,false
-Kell Wocky Pants,5950,false
+Kell Wocky Pants,8100,false
 Lit Candles on a Stream Foreground,5300,false
 Maractite Lined Bori Trousers,5950,false
 Moehog Poet Trousers,4450,false
@@ -4379,7 +4379,7 @@ Flame Skater Beanie,710,false
 Grarrl Blacksmith Boots,5800,false
 Grundo Resistance Headset and Wig,5800,false
 Kyrii Pastry Chef Shoes,5800,false
-Long Silver Wig,5800,false
+Long Silver Wig,8950,false
 Lupe Grandma Slippers,5800,false
 Mipsy Acara Hat,5800,false
 Pteri Lunar Maiden Wig,5800,false
@@ -4583,7 +4583,7 @@ Grundo Space Shoes,9350,false
 Holiday Mystery Island Shirt,7000,false
 Jetsam Aviator Goggles,5200,false
 Korbat Aviator Shirt,5200,false
-Kung Fu Vandagyre Pants,5200,false
+Kung Fu Vandagyre Pants,7300,false
 Opal Uni Horn,5200,false
 Pile of Straw for a Skeith Farmer,5200,false
 Plaid Peophin Bow,3875,false
@@ -4932,7 +4932,7 @@ Scenic Fallen Tree,4475,false
 Techo Musician Pants,4475,false
 Velm Techo Boots,3800,false
 Ancient Archway Foreground,4450,false
-Aquarium Koi Body,4450,false
+Aquarium Koi Body,4425,false
 Beaded Peophin Earpiece,4450,false
 Blacksmith Elephante Boots,4450,false
 Duchess Lenny Dress,4450,false
@@ -4954,7 +4954,7 @@ Usul Sailor Hat,4450,false
 Classy Chic Gnorbu Bag,4425,false
 Cowhand Peophin Hat,4425,false
 Lost Souls Background,4425,false
-Aromantic Pride Heart Markings,4400,false
+Aromantic Pride Heart Markings,4200,false
 Corbin Ogrin Shoes,4400,false
 Dainty Wocky Dress,4400,false
 Decorative Holiday Hair Bow,4400,false
@@ -4970,7 +4970,7 @@ Monoceraptor Grarrl Feet,4375,false
 Squire Bori Armoured Leggings,4375,false
 Starry Night in Neopia,1000,false
 Tacky Krawk Shower Cap,3975,false
-Aquarium Koi Head,4350,false
+Aquarium Koi Head,4000,false
 Bruce Holiday Dress,4350,false
 Freshwater Lenny Body,4000,false
 Injured Pteri Clothes,450,false
@@ -5072,7 +5072,7 @@ Nimmo Artist Beret,4100,false
 Old Cobwebs Foreground,4100,false
 Ruki Construction Boots,4100,false
 Smarmy Monocle,4100,false
-Tyrannia Sunset Background,4100,false
+Tyrannia Sunset Background,1875,false
 Usul Blacksmith Hammer,4100,false
 Casual Kougra Wig,4075,false
 Chic Bruce Jacket,4075,false
@@ -5239,7 +5239,7 @@ Neovian Gentleman Korbat Shoes,3800,false
 Ogrin Jester Top,3800,false
 Pretty Blue Bruce Shoes,3800,false
 Ramtor Bruce Robe,3800,false
-Scordrax Scorchio Flames,2000069,false
+Scordrax Scorchio Flames,999999,false
 Skier Chia Boots,2200,false
 Special Event Foreground,3800,false
 Spotted Kau Nose,2975,false
@@ -5351,7 +5351,7 @@ Bramble Foreground,3500,false
 Branched Antlers,3150,false
 Crystal Ogrin Ruff,2650,false
 Elegant Buzz Gown,3500,false
-Faun Kyrii Cape,3500,false
+Faun Kyrii Cape,2450,false
 Gnorbu Aristocrat Wig,3500,false
 Golden Koi Bracelet,3375,false
 Grarrl Sleuth Spyglass,3500,false
@@ -5454,7 +5454,7 @@ Cowhand Peophin Shirt,3300,false
 Explorer Chomby Jorts,3300,false
 Explorer Kacheek Beard,3300,false
 Flotsam Spy Watch,3275,false
-Meerca Tail Teacup,2000069,false
+Meerca Tail Teacup,999999,false
 Scary Evil Pumpkin Scarecrow,3300,false
 Stunning Bruce Necklace,7250,false
 Tiny Umbrella,3300,false
@@ -5666,7 +5666,7 @@ Thogrin Ogrin Boots,2900,false
 Tonu Gardener Basket,2900,false
 Korbat Miner Shoes,2875,false
 Pretty Spring Uni Wig,49000,false
-Altador Cup Background - Roo Island,2850,false
+Altador Cup Background - Roo Island,4950,false
 Casual Gelert Wig,400069,false
 Fashionable Krawk Wig,2850,false
 Fashionable Poogle Wig,2850,false
@@ -5674,7 +5674,7 @@ Garden Shoe Trinket,2850,false
 Grundo Nobleman Handheld,2850,false
 Korbat Assembled Shoes,2850,false
 Korbat Ribbon Wings,2850,false
-Ski Goggles and Mask,2850,false
+Ski Goggles and Mask,3450,false
 Viking Chia Trinket,400069,false
 Wanderer Moehog Shoes,2850,false
 Peppy Moehog Headphones,2825,false
@@ -5794,7 +5794,7 @@ Ixi Metal Tail,2500,false
 Jungle Cliff,2000,false
 Kyrii Pirate Avenger Swords,2500,false
 Meridell Scout Hat,5850,false
-Moltaran Fashion Eyrie Wig and Goggles,2500,false
+Moltaran Fashion Eyrie Wig and Goggles,3500,false
 Mynci Postman Hat,2500,false
 Mythical Bori Tail,2500,false
 Pteri Cellist Jacket,5250,false
@@ -5858,7 +5858,7 @@ Sleek Maraquan Tuskaninny Dress,2400,false
 Sleepy Kiko Hat,2250,false
 Tyrannian Spear,2400,false
 Woolly JubJub Hat,2175,false
-Xweetok Repairman Hat,2400,false
+Xweetok Repairman Hat,6200,false
 Compass Bracelet,2375,false
 Handheld Maraquan Rainbow Pride Flag,2375,false
 Mynci Scaly Tail,2375,false
@@ -5905,10 +5905,10 @@ Devil Grarrl Cape,2275,false
 Grundo Nobleman Wig,2275,false
 Hugo Fairweather Tonu Shirt,2275,false
 Koi Snow Princess Wings,400069,false
-Lenny Sorcerer Wand,2275,false
+Lenny Sorcerer Wand,2150,false
 Yurble Chef Shoes,1800,false
 Acara Nurse Hat,2250,false
-Altador Cup Background - Maraqua,2250,false
+Altador Cup Background - Maraqua,7650,false
 Bruce Brucey B Shirt,2250,false
 Dentist Krawk Coat,2250,false
 Handheld 8-Bit Rainbow Pride Flag,2250,false
@@ -6017,7 +6017,7 @@ Evil Coconut Half Mask,2000,false
 Extravagant Yurble Dress,3800,false
 Faun Kyrii Pan Flute,2000,false
 Fire Painted Background,2000,false
-Fluffy Gruslen Rug Wearable,2000,false
+Fluffy Gruslen Rug Wearable,1400,false
 Gender Fluid Pride Flag Tapestry,2000,false
 Gentleman Mynci Jacket,2000,false
 Gingerbread Background,2000,false
@@ -6091,7 +6091,7 @@ Mynci Fashion Designer Jacket,1950,false
 Pansexual Pride Flag Tapestry,1950,false
 Proper Lady Scorchio Wig and Hat,1950,false
 Tundra Buzz Shirt,1950,false
-Xweetok Racer Helmet,1950,false
+Xweetok Racer Helmet,3150,false
 Zafara Plant Hair,1950,false
 Construction Poogle Tools,1800,false
 Cybunny Space Suit,1925,false
@@ -6121,13 +6121,13 @@ Sidney Nimmo Scratchcards,1900,false
 The Wraith Resurgence Participant Badge,1900,false
 Transgender Pride Flag Tapestry,1900,false
 Vandagyre Rock Star Pants,1900,false
-Virtupets Delivery Ship Foreground,1900,false
+Virtupets Delivery Ship Foreground,1150,false
 Wicked Wocky Wobble Helmet,1900,false
 Wocky Gadgeteer Air Balloon,1900,false
 Bisexual Pride Flag Tapestry,2350,false
 Gardener Chia Overalls,1875,false
 Handheld Mutant Transgender Pride Flag,3875,false
-Dr. Landelbrots Temporary Lab Background,1850,false
+Dr. Landelbrots Temporary Lab Background,990,false
 Electricity Ogrin Ear Tufts,1850,false
 Fire Chomby Spikes,850000,false
 Grassland Tonu Tail,1850,false
@@ -6341,7 +6341,7 @@ Ocean Koi Wig,1250,false
 Ocean Tonu Horn,1250,false
 Primitive Tuskaninny Outfit,1250,false
 Tar Creature Elephante Body,3900,false
-Altador Cup Background - Terror Mountain,1225,false
+Altador Cup Background - Terror Mountain,970,false
 Cave Ogrin Shoes,7950,false
 Cobrall Holiday Tree,1225,false
 Comic Bruce Bow Tie,1225,false
@@ -6376,11 +6376,11 @@ Musical Mynci Scarf,1850,false
 Poison Dart Nimmo Eyes,2000,false
 Tiffanys Moehog Necklace,1150,false
 Alabaster Chesterdrawers Techo Glasses,1125,false
-Altador Cup Background - Moltara,1125,false
+Altador Cup Background - Moltara,1975,false
 Brown Winter Scarf,1125,false
 Dark Neovian Eyrie Blouse,990,false
 Flotsam Hunter Horn,1125,false
-Kyrii Flower Mane,1125,false
+Kyrii Flower Mane,3000,false
 Master Vex Mynci Scar,1125,false
 Meerca Wizard Hat,1125,false
 Pink Knit Purse,1125,false
@@ -6481,7 +6481,7 @@ Illusens Nature Lanterns,6,false
 Jetsam Masquerader Mask,400069,false
 Jewelled Collar,1000,false
 Katya Kyrii Pants,1000,false
-Late Night Teacups Foreground,1000,false
+Late Night Teacups Foreground,240,false
 Lenny Ballerina Wig,1000,false
 Low Fade Afro Wig,1000,false
 Malicious Dark Faeries Background,30,false
@@ -6536,7 +6536,7 @@ Wheel of Misfortune Background,1000,false
 Wooden Wings,950,false
 Yurble Heart Belly Markings,1000,false
 Yurble Storm Cloud Belly Markings,1000,false
-Altador Cup Background - Mystery Island,990,false
+Altador Cup Background - Mystery Island,1000,false
 Lenny Ballerina Tutu,990,false
 Little Timmy Tuskaninny Tail Piercing,5900,false
 Meerca Ringed Tail,990,false
@@ -6547,7 +6547,7 @@ Split Painted Background,990,false
 Bullseye Fascinator,980,false
 Jhudoras Bluff Background,25,false
 Scientific Wig,980,false
-Altador Cup Background - Shenkuu,970,false
+Altador Cup Background - Shenkuu,990,false
 Frillkin Korbat Dress,970,false
 Fuzzy Creature Ruki Pincers,970,false
 Fuzzy Pink Ruki Slippers,970,false
@@ -6655,7 +6655,7 @@ Flowy Chia Necklace,33600,false
 Blumaroo Squire Shirt,730,false
 Dark Neovian Eyrie Wig,650,false
 Jetsam Wanderer Dress,610,false
-Kitchen Quest T-shirt,730,false
+Kitchen Quest T-shirt,760,false
 Neovian Lady Grarrl Hat and Wig,450,false
 Tonu Camouflage Head Scarf,730,false
 Blumaroo Squire Pants,5800,false
@@ -6731,7 +6731,7 @@ Geometric Meerca Shoes,500,false
 High-Ponytail Locs Wig,500,false
 Homemade Polarchuck Costume,500,false
 I *Heart* Lord Faerigan T-Shirt,500,false
-Illusen Faerie Shimmer,85,false
+Illusen Faerie Shimmer,140,false
 Kacheek Earmuffs,500,false
 Kacheek Fishing Shoes,500,false
 Lucky Fishing Trousers,500,false
@@ -6849,7 +6849,7 @@ Greedy Kadoatie Cap,210,false
 Headscarf,940,false
 Chia Stooge Shoes,200,false
 Colourful Zafara Sandals,200,false
-Jhudora Faerie Shimmer,13,false
+Jhudora Faerie Shimmer,4,false
 Meerca Wizard Wand,200,false
 Moon and Stars Background,130,false
 Plumed Pteri Top,200,false
@@ -6922,7 +6922,7 @@ Vandagyre Boy Folk Dancer Shoes,70,false
 Altador Sun Background,510,false
 Frillkin Korbat Shoes,50,false
 Green Beginners Bandana,40,false
-Medieval Shirt,50,false
+Medieval Shirt,210,false
 Vandagyre Rock Star Wig,50,false
 Yellow Beginners Bandana,25,false
 Blue Ice Skates,50,false
@@ -7202,7 +7202,7 @@ Trendy Aisha Shoes,400069,false
 Ritzy Aisha Jacket,400069,false
 Gelert Spy Jacket,400069,false
 Dolled Up Cybunny Makeup,400069,false
-Altador Cup Watch Party Snacks,400069,false
+Altador Cup Watch Party Snacks,285000,false
 Birthday Confetti Crown,400069,false
 Rebellious Ogrin Jacket,400069,false
 Elegant Kacheek Warrior Dress,400069,false
@@ -7550,7 +7550,7 @@ Ruki Adventurer Trousers,400069,false
 Rustic Female Usul Warrior Shirt,400069,false
 Shinobi Draik Dress,19000,false
 Skeith Hair Stylist Trousers,400069,false
-Peophin Defender Bracelet,400069,false
+Peophin Defender Bracelet,11100,false
 Eccentric Cybunny Trousers,12600,false
 Male Wanderer Koi Shirt,400069,false
 Newspaper Delivery Pants,10500,false
@@ -7603,7 +7603,7 @@ Hissi Trebble Reel Dancer Lens,400069,false
 Tonu Thug Trousers,400069,false
 Casual Techo Shoes and Tights,400069,false
 Fantastic Ixi Robe,400069,false
-Iced Aisha Wig,400069,false
+Iced Aisha Wig,3600,false
 Stylish Aisha Necklace,400069,false
 Super Tough Jetsam Boots,400069,false
 Aisha Warrior Sword,400069,false
@@ -7629,7 +7629,7 @@ Occultist Zafara Cloak,400069,false
 Vibgyor Flotsam Wig,400069,false
 Dripping Blood Boots,400069,false
 King Coltzan Lupe Eye Markings,400069,false
-Bone Clip Hairdo,400069,false
+Bone Clip Hairdo,17300,false
 Fancy Green Chomby Wig,400069,false
 Torpedo Lupe Shoes,400069,false
 Vibgyor Flotsam Sandal,400069,false
@@ -7722,7 +7722,7 @@ Daring Adventurer Lenny Wig and Cloak,400069,false
 Elite Guard Cybunny Shoes,400069,false
 Glowing Algae Flotsam Horn & Fin,2800,false
 Grundo Rustic Trousers,11500,false
-Hissi Ao Dai Top,400069,false
+Hissi Ao Dai Top,14100,false
 Nature Kacheek Wig,400069,false
 Pleasant Kacheek Jumper,18000,false
 Swanky Denim Jacket,17500,false
@@ -7764,7 +7764,7 @@ Ornate Leather Gelert Jacket,400069,false
 Explorer Aisha Shoes,400069,false
 Sweet Vandagyre Shoes,400069,false
 Lei and Bermudas Elephante Top,400069,false
-Snug Hissi Mittens,400069,false
+Snug Hissi Mittens,9500,false
 Kougra Wild Child Wig,20000,false
 Winged Warrior Hissi Dress,400069,false
 Shinobi Draik Shoes,400069,false
@@ -7794,7 +7794,7 @@ Trickster Kau Top,4150,false
 Kyrii Sea King Wig,400069,false
 Poogle Glit Sandals,20000,false
 Pretty Fish Hat,9100,false
-Acara Warrior Sword,400069,false
+Acara Warrior Sword,14900,false
 Arid Ruki Belt,400069,false
 Chef Lupe Trousers,400069,false
 Blumaroo Geek Pants,400069,false
@@ -7811,8 +7811,8 @@ Deadly Acara Wig,400069,false
 Hissi Ao Dai Necklace,400069,false
 Combatant Kougra Shoes,400069,false
 Punk Kyrii Wig,400069,false
-Curious Usul Hood and Wig,400069,false
-Hipster Grundo Pants,400069,false
+Curious Usul Hood and Wig,12300,false
+Hipster Grundo Pants,16900,false
 Sweet Poogle Wig,400069,false
 Acara Fur Cap,400069,false
 Purple Lipstick,400069,false
@@ -7839,7 +7839,7 @@ Baron Quiggle Robe,400069,false
 Brown Newsboy Hat,2950,false
 Scorchio Knight Sword,400069,false
 Victorian Xweetok Gloves,7450,false
-Dark Sylph Ixi Shoes,400069,false
+Dark Sylph Ixi Shoes,19500,false
 Fluffy Bruce Hair,10000,false
 Skeith Winter Warrior Robe,400069,false
 Cwin Eyrie Short,400069,false
@@ -7866,9 +7866,9 @@ Ogrin Jester Hat,400069,false
 Terrifying Korbat Chopsaw,9050,false
 Chic Ruki Shoes,11300,false
 Feline Krawk Shoes,400069,false
-Mysterious Kau Dress,400069,false
+Mysterious Kau Dress,18400,false
 Plant Eyrie Tail,5000,false
-Darkest Knight Skeith Tail Armour,400069,false
+Darkest Knight Skeith Tail Armour,18200,false
 Punk Kyrii Pants,400069,false
 Mysterious Kau Cape,14900,false
 Superwoman Draik Pants,12800,false
@@ -7898,8 +7898,8 @@ Kyrii Rogue Cloak,12600,false
 Meerca Spy Vest Shirt,10200,false
 Stormy JubJub Shoes,400069,false
 Tasseled Acara Boots,400069,false
-Wocky Gadgeteer Shirt and Waistcoat,20000,false
-Metahuman Uni Shirt,400069,false
+Wocky Gadgeteer Shirt and Waistcoat,2900,false
+Metahuman Uni Shirt,8350,false
 Nomadic Warrior Tonu Head Accessory,400069,false
 Scorchio Forest Archer Bow and Arrow,14500,false
 Street Punk Techo Shoes,400069,false
@@ -7965,7 +7965,7 @@ Golden Tux Aisha Shoes,5300,false
 Skeith Back to School Pant,400069,false
 Angelic Flotsam Golden Gloves,400069,false
 Elephante Marching Band Shirt,400069,false
-Cheerleader Poogle Dress,400069,false
+Cheerleader Poogle Dress,10600,false
 Jester Skeith Hat,400069,false
 Space Explorer Buzz Helmet,6550,false
 Casual Scorchio Trousers,9400,false
@@ -7973,12 +7973,12 @@ Kacheek Fishing Top,20000,false
 Masquerader Vandagyre Wig,4975,false
 Meerca Bellhop Shoes,7050,false
 Techo Warrior Body Armour,400069,false
-Wildly Chic Wocky Top,400069,false
+Wildly Chic Wocky Top,13500,false
 Ballet Kiko Gloves,400069,false
 Bright Red Grundo Glasses,9900,false
-Chomby Red Tuxedo Bowtie,400069,false
+Chomby Red Tuxedo Bowtie,10500,false
 Elite Guard Cybunny Trousers,400069,false
-Red Riding Lenny Pants,400069,false
+Red Riding Lenny Pants,14400,false
 Undead Hunter Wocky Hat and Wig,9600,false
 Usul Beach Shorts,5950,false
 Elite Guard Cybunny Top,400069,false
@@ -7986,7 +7986,7 @@ Acara Defender Belt,17900,false
 Cheerleader Poogle Pompoms,400069,false
 Chequered Hoodie Bruce Shirt,17200,false
 Cwin Eyrie Wig,21000,false
-Feline Krawk Eyegear,400069,false
+Feline Krawk Eyegear,14100,false
 Flamenco Peophin Shoes,400069,false
 Florist Jubjub Hat,10000,false
 Glowy Quiggle Hat,14900,false
@@ -7994,12 +7994,12 @@ Jute Vandagyre Necklace,400069,false
 Masquerader Xweetok Makeup,8000,false
 Metallic Kau Boots,400069,false
 Mynci Mime Artist Hat,4125,false
-Pteri Schoolgirl Skirt,400069,false
+Pteri Schoolgirl Skirt,19400,false
 Skeith Winter Warrior Sword,14700,false
 Summer Festival Kiko Hat,12200,false
 Uni Psychedelic Top,12100,false
 Yurble Native Lolo Jacket,18900,false
-Archie Kiko Shirt,400069,false
+Archie Kiko Shirt,9550,false
 Dark Warrior Usul Skirt,18800,false
 Hissi Trebble Reel Dancer Shoes,400069,false
 Lovely Bori Wig,20000,false
@@ -8028,7 +8028,7 @@ Yurble Native Lolo Wig,400069,false
 Matador Kau Hat,290,false
 Noir Mynci Banana,6000,false
 Kyrii Sea King Shoes,17300,false
-Nomadic Warrior Tonu Club,400069,false
+Nomadic Warrior Tonu Club,9800,false
 Kacheek Fishing Trousers,5800,false
 Hissi Trebble Reel Dancer Wig,18900,false
 Buzz Meshed Shoes,11200,false
@@ -8053,31 +8053,31 @@ Tonu Thug Shoes,13700,false
 Grarrl Mime Shoes,5500,false
 Mynci Mime Artist Bottom,11500,false
 Viking Chia Shoes,17700,false
-Elite Guard Cybunny Cap,400069,false
-Flotsam Neck Scarf,400069,false
+Elite Guard Cybunny Cap,20000,false
+Flotsam Neck Scarf,18200,false
 Grarrl Workout Shoes,6450,false
 Red Riding Lenny Shoes,4600,false
 Tartan Ogrin Cap,5850,false
 Bold Flotsam Neckpiece,17900,false
-Chequered Hoodie Bruce Shoes,400069,false
+Chequered Hoodie Bruce Shoes,16700,false
 Injured Pteri Foot Wrap,990,false
 Mythical Poogle Tail,5000,false
 Cosmic Space Faerie Top,13500,false
 Bat Eyrie Wings,9300,false
 Monarch Eyrie Wings,7800,false
 Rosy Eyrie Wings,9900,false
-Bori Bog Shell,2000069,false
-Bori Cloud Shell,2000069,false
+Bori Bog Shell,8650,false
+Bori Cloud Shell,980,false
 Bori Spiky Shell,100,true
 Hunter Jetsam Body,2000069,false
 Hunter Jetsam Head,2000069,false
 Jetsam Coral Reef Markings,2000069,false
 Jetsam Seaweed Markings,2000069,false
 Jetsam Underwater Treasure Markings,5000,true
-Keeper of Time Bori Crown,2000069,false
-Keeper of Time Bori Robes,2000069,false
+Keeper of Time Bori Crown,560000,false
+Keeper of Time Bori Robes,244000,false
 Keeper of Time Bori Staff,2000069,false
-Light Faerie Wig,2000069,false
+Light Faerie Wig,1325,false
 Scratchcard Kiosk Wocky Snow Suit,2000069,false
 Blumaroo Pet Of The Month Background,,false
 Jaunty Blue Hat,,false
