@@ -626,7 +626,7 @@ Dark Tea,83000,false
 Usuki Lollypop,21100,false
 Rock Negg,150000,false
 Swill Pudding,226000,false
-Acnefruit,170000,false
+Acnefruit,150000,true
 Swirly Negg #498,400069,false
 Welsh Rarebit,208000,false
 Pink Spooky Popcorn,115000,false
@@ -1180,7 +1180,7 @@ Turkey Curry,17300,false
 Turtum Shell Salad,33500,false
 Yellow Candy Buttons,8100,false
 Plain Crackers,14700,false
-Square Marshmallows,12000,false
+Square Marshmallows,10300,true
 Fizzy Quiggle Drink,46000,false
 Halloween Eyeball Rice,36900,false
 Lupe Waffles With Butter,3400,false
@@ -3178,7 +3178,7 @@ Red Nimmo Foot Lolly,2475,false
 Small Kalboo Smoothie,3700,false
 Vanilla Quiggle Cupcake,2425,false
 1/3 Colourful Negg Pizza,3900,false
-Aggleroot,14900,false
+Aggleroot,45000,true
 Ancient Sakhmetian Bread of Coltzan III,4200,false
 Chiazilla Quesadilla,2425,false
 Colourful Negg Pizza,3100,false
@@ -3648,7 +3648,7 @@ Faerie Baked Potato,2650,false
 Large Churro Smoothie,2800,false
 Lenny Cream of Onion Soup,2200,false
 Orangeberry Krawkade,12300,false
-Shenkuu Chocolate Milk Glass,8800,false
+Shenkuu Chocolate Milk Glass,2750,true
 Spiraberry,1750,false
 Whole Watermelon Pizza,3900,false
 Barbecued Meat,2600,false
@@ -3801,7 +3801,7 @@ Seaweed Lasagne,1775,false
 Space Cocoa,2300,false
 Strawberry Eyrie Cake,2375,false
 Super Spice Jalapeno Hot Dog,2675,false
-Tea Infuser,17000,false
+Tea Infuser,5000,true
 Techo Strudel,2000,false
 Tower Wafflecake,2000,false
 Turnla,1600,false
@@ -4552,7 +4552,7 @@ Chocolate Waffle Cone,1500,false
 Chocolate Wafflecake,3500,false
 Chocolatey Banana Draik Cake,1350,false
 Chokato Trifle,1050,false
-Chomby Juice,2200,false
+Chomby Juice,6610,true
 Cobrall Basket Cookie,2550,false
 Cococrazy Ice Lolly,3625,false
 Coconut Ice,1400,false
@@ -5164,7 +5164,7 @@ Glorious Fyora Sundae,1500,false
 Grey Doughnut,2775,false
 Haystack Potato Chips,2850,false
 Heart Crepe,1325,false
-Honeyplume,10300,false
+Honeyplume,41000,true
 Hot Dog Split,1550,false
 Ice Blended Coffee,1000,false
 Iced Croissant,1300,false
@@ -5456,7 +5456,7 @@ Cherry Wocky Lollypop,1100,false
 Chocolate Chip Kiko Gnome Cookie,1250,false
 Chocolate Parsnip,1100,false
 Chokato Jam,87000,false
-Cloudberry,7700,false
+Cloudberry,28000,true
 Cog Hot Dog,2050,false
 Custard Quiche,1000,false
 Dandelion Slushie,900,false
@@ -6302,7 +6302,7 @@ Cantaloupe Slushie,920,false
 Chocolate Hissi Cupcake,680000,false
 Chocolate Spread Croissant,1450,false
 Chokatosicle,9000,false
-Darttlefruit,43300,false
+Darttlefruit,150000,true
 Ectoplasm Nachos,990,false
 Ghost Pizza Slice,950,false
 Ghostkerchief Island Cake,1025,false
