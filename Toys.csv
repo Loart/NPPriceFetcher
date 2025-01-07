@@ -3036,7 +3036,7 @@ Quiggle Squeeze Toy,2400,false
 Space Usuki Bobblehead,2400,false
 Tinka Plushie,2400,false
 Usuki Music Set,2400,false
-Brussel Sprout Plushie,2375,false
+Brussel Sprout Plushie,2100,false
 Darigan Bruce Hand Puppet,2375,false
 Speckled Quiggle Plushie,2375,false
 Broken Green Mynci Puppet,2350,false
@@ -4952,7 +4952,7 @@ Yurble Bank,30,false
 3D Altador Puzzle,25,false
 Aboogala Pull Along Toy,25,false
 Acko Piggy Bank,25,false
-Baby Lupe Puzzle,25,false
+Baby Lupe Puzzle,18,false
 Banana Vehicle,25,false
 Blue Cybunny Balloon,25,false
 Blue Wocky Keyring,25,false
@@ -5869,7 +5869,6 @@ Blue JubJub Balloon,2000069,false
 Blue Kacheek Figurine,2000069,false
 Blue Kacheek Play Set,2000069,false
 Blue Scorchio Fire Breathing Pull Along Toy,2000069,false
-Blue Snorkle Pinata,,false
 Blue Tyrannian Sling Shot,2000069,false
 Blue Yurble Grooming Kit,2000069,false
 Blumaroo Booster Pack,2000069,false
@@ -5959,7 +5958,6 @@ Green Cybunny Charm,2000069,false
 Green Grundo Keychain,2000069,false
 Green Grundo Squeaky Toy,2000069,false
 Green Krawk Telescope,2000069,false
-Green Meerca Pinata,,false
 Green Mynci Spinning Top,2000069,false
 Green Shoyru Toy Figure,2000069,false
 Green Techo Plushie,2000069,false
@@ -6041,7 +6039,7 @@ Mutant Golf Club,2000069,false
 Mutant Yooyu Plushie,2000069,false
 Mystery Island Picnic Set,2000069,false
 Neopets 11th Birthday Goodie Bag,2000069,false
-Neopets 25th Birthday Goodie Bag,2000069,false
+Neopets 25th Birthday Goodie Bag,4000000,false
 Neopian Philharmonic CD,2000069,false
 Neopian Times White Weewoo Plushie,2000069,false
 NeoQuest Plushie,2000069,false
@@ -6108,7 +6106,6 @@ Scarab Print Kite,2000069,false
 Scordrax Plushie,2000069,false
 Seasonal CATFB Toy,2000069,false
 Shadow Shoyru Action Figure,2000069,false
-Shiny CD,,false
 Shiny Kreludan Moon Rock,2000069,false
 Ship in a Bottle Snowglobe,2000069,false
 Ship-In-A-Glass-Bottle,2000069,false
@@ -6132,12 +6129,10 @@ Slorg Balloon,2000069,false
 Smugglers Cove Pirate Plushie,2000069,false
 Snargan Plushie,2000069,false
 Snorkle Bouncy Ball,2000069,false
-Snorkle Pinata,,false
 Snowager Usuki,2000069,false
 Snowbeast Plushie,2000069,false
 Solarin Plushie,2000069,false
 Sophix II Plushie,2000069,false
-Sparkling Glass Rainbow Rock,,false
 Sparkly Pink Neopets 8th Birthday Hat,2000069,false
 Speckled Elephante Yoyo,2000069,false
 Speckled Kiko Balloon,2000069,false
@@ -6357,3 +6352,8 @@ Heart Stickers,400069,false
 Spooky Stickers,400069,false
 Chomby Sticker,400069,false
 Tangram Play Set,400069,false
+Blue Snorkle Pinata,,false
+Green Meerca Pinata,,false
+Shiny CD,,false
+Snorkle Pinata,,false
+Sparkling Glass Rainbow Rock,,false
