@@ -2548,7 +2548,7 @@ Portobello Platter,7100,false
 Pretzel,7100,false
 Shenkuu-Themed Neopets 7th Birthday Cake,7100,false
 Traditional Altadorian Gyro,7100,false
-Blue Berry Aisha Ice Cream,7050,false
+Blue Berry Aisha Ice Cream,9200,false
 Cream Covered Swiss Roll,7050,false
 1/2 Cherry Cheese Pizza,7000,false
 1/3 Pineapple Pizza,7000,false
@@ -3377,7 +3377,7 @@ Xweetok Burger,3400,false
 Apple Gummy Chia,3375,false
 Eyewich,3375,false
 Full Moon Cheese,3375,false
-Grey Negg,3375,false
+Grey Negg,3000,false
 Horn of Pastry,3375,false
 Pomegranate Cupcake,3375,false
 Screlon Pie,3375,false
@@ -3438,7 +3438,7 @@ Bananarific Ice Lolly,3200,false
 Borovan Cookies,3200,false
 Caramel Apple Bundt Cake,3200,false
 Cashew-Topped Brioche,3200,false
-Chocolate Faellie Cake,3200,false
+Chocolate Faellie Cake,3100,false
 Chocolate Moehog Tower Cake,3200,false
 Earl Grey Tea Ice Cream,3200,false
 Edible Rock Garland,3200,false
@@ -4030,7 +4030,7 @@ Ice Candy Buttons,2425,false
 Liver and Onions Ice Lolly,2425,false
 Mega Super Lemon Grape Smoothie,2425,false
 Petrified Apple,2425,false
-Stone Fruit,2425,false
+Stone Fruit,2400,false
 Vanilla Bean Scone,2425,false
 Apple Achyfi,2400,false
 Apple Jelly Flotsam,2400,false
@@ -5636,7 +5636,7 @@ Grape Jam Hot Dog,1475,false
 Koi Bread Creature,1475,false
 Koyle Snorkle Lollypop,1475,false
 Lemon Chia Treat,1475,false
-Maraquan Munch Cereal,1475,false
+Maraquan Munch Cereal,1500,false
 Milk Chocolate Wocky,1475,false
 Organic Green Apple,1475,false
 Organic Mushroom,1475,false
@@ -6717,7 +6717,7 @@ White Chocolate Elephante,1050,false
 Xweetok Bologna Sandwich,1050,false
 Yummy Muddy Pizza,1050,false
 Blumaroo Day Pizza,1025,false
-Candy Fyora Tiara,1025,false
+Candy Fyora Tiara,1200,false
 Chebu Chebu Grub,1025,false
 Cheese and Pickle Sandwich,1025,false
 Cheese Scone,1025,false
@@ -8563,7 +8563,7 @@ Water Pizza,90,false
 Blueberry Beetle Cracker,85,false
 Cheese and Salsa Pretzel,85,false
 Christmas Slushie,85,false
-Grey Cookies,85,false
+Grey Cookies,120,false
 Honey Tea (Vocal Soother),85,false
 Mummified Pepper,85,false
 Puntec Fruit,85,false
@@ -9520,7 +9520,6 @@ Orange Wocky Orange Juice,2000069,false
 Pate A La Kelp,2000069,false
 Peppermint Pancakes,2000069,false
 Phear Juice Tonic,2000069,false
-Pinata Candy,,false
 Pink Blumaroo Milk and Cookies,2000069,false
 Pink Chomby Fountain Cereal Bowl,2000069,false
 Pink Chomby Ice Cream,2000069,false
@@ -9577,7 +9576,6 @@ Ruler Biscuits,2000069,false
 Saucy Veggie Balls,2000069,false
 Scorchio Spring Salad,2000069,false
 Scorchio Summer Jelly Salad,2000069,false
-Scrambled Neggs,,false
 Seaweed Surprise,2000069,false
 Silver Aisha Apple,2000069,false
 Silver Aisha Fizzy Drink,2000069,false
@@ -9685,7 +9683,6 @@ White Kougra Chocolate,2000069,false
 White Kougra Cookie,2000069,false
 White Kougra Lolly,2000069,false
 Whomp Berries,2000069,false
-Yellow Birthday Cake,,false
 Yellow Cybunny Frosted Graham Cracker Cookie,2000069,false
 Yellow JubJub Wafer Cookies,2000069,false
 Yellow Kacheek Corn on the Cob,2000069,false
@@ -9834,3 +9831,6 @@ Cobrall drink,400069,false
 Korbat Wings and Fr-eyes,400069,false
 Impermeable Cheese Log,400069,false
 Strawberry JubJub Sundae,400069,false
+Pinata Candy,,false
+Scrambled Neggs,,false
+Yellow Birthday Cake,,false
