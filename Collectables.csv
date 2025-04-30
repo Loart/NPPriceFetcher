@@ -52,7 +52,7 @@ Double Printed Evil Fuzzle Stamp,15000000,false
 Draconus Maximus,(r99),false
 Enchanted Ixi,20000000,false
 Kalandra,20000000,false
-Kyrii Sorceror,Inflation Notice,false
+Kyrii Sorceror,1500069,false
 Maraquan Draik Maractite Coin,20000000,false
 PaintBrush Coin,20000000,false
 Silver Babaa Coin,20000000,false
@@ -210,7 +210,7 @@ Scowling Sloth Coin,1700000,false
 Spyder Stamp,1300000,false
 Tyrannian Victory Day Stamp,1300000,false
 Virtupets Space Station Stamp,1250000,false
-Arlhox VII,Inflation Notice,false
+Arlhox VII,1500069,false
 Mechachiazilla,1200000,false
 Orrin Stamp,1200000,false
 Shenkuu Helmet Stamp,1200000,false
@@ -236,7 +236,7 @@ Brilliant Negg Crown,915000,false
 Captain Scarblade Stamp,1400000,false
 The Krawken Stamp,525000,false
 Fyora Faerie Doll Stamp,830000,false
-The Tax Beast,Inflation Notice,false
+The Tax Beast,1500069,false
 Wheel of Monotony Stamp,900000,false
 Lupe Shopkeeper Stamp,880000,false
 Detective Kari Charm,999999,false
@@ -1087,7 +1087,7 @@ Kiko Carpenter Stamp,Inflation Notice,false
 Purple Twirly Shell,Inflation Notice,false
 Stone Stamp,Inflation Notice,false
 Altador Cup XII Commemorative Stamp,Inflation Notice,false
-Extreme Herder,Inflation Notice,false
+Extreme Herder,1500069,false
 Aurrick vs Claymaker Stamp,Inflation Notice,false
 Igneots Cavern Stamp,Inflation Notice,false
 Morris Stamp,Inflation Notice,false
@@ -1136,43 +1136,43 @@ Dark Qasala Stamp,Inflation Notice,false
 Golden Evil Coconut,Inflation Notice,false
 Goo Blaster Coin,Inflation Notice,false
 Luperus Left Head Stamp,Inflation Notice,false
-Meruth,Inflation Notice,false
+Meruth,1500069,false
 Purple Spiral Shell,Inflation Notice,false
 Scordrax Stamp,Inflation Notice,false
 Team Dacardia Stamp,Inflation Notice,false
 Tomos Stamp,Inflation Notice,false
 Gargarox Isafuhlarg Stamp,Inflation Notice,false
 Simple Maractite Coin,Inflation Notice,false
-Zeirn the Electric Kougra,Inflation Notice,false
+Zeirn the Electric Kougra,1500069,false
 Luperus Centre Head Stamp,Inflation Notice,false
-Gedda Happycheek,Inflation Notice,false
-Iskha Lightbringer,Inflation Notice,false
+Gedda Happycheek,1500069,false
+Iskha Lightbringer,1500069,false
 Golden Scarab Coin,Inflation Notice,false
 The Academy Stamp,Inflation Notice,false
-Mechanoid Warrior,Inflation Notice,false
+Mechanoid Warrior,1500069,false
 Altador Magic Stamp,Inflation Notice,false
 Mystery Island Aishas Stamp,2000000,false
 Negg-Gazer Charm,Inflation Notice,false
 Rebuilding Dacardia Stamp,Inflation Notice,false
-Scauderwelsch,Inflation Notice,false
+Scauderwelsch,1500069,false
 Singed Tyrannian Volcano Stamp,Inflation Notice,false
 Zoomik Coin,Inflation Notice,false
 Green Knight Stamp,Inflation Notice,false
 Mr. Krawley Stamp,Inflation Notice,false
 Razul Stamp,Inflation Notice,false
-Lunchtime,Inflation Notice,false
+Lunchtime,1500069,false
 Vacumatic 9000 Coin,Inflation Notice,false
 Jade Scorchstone Stamp,Inflation Notice,false
-Siona,Inflation Notice,false
+Siona,1500069,false
 Moltara Town Hall Stamp,Inflation Notice,false
 Battledome Coin,Inflation Notice,false
-Hagar Mountbane,Inflation Notice,false
+Hagar Mountbane,1500069,false
 Lost City of Phorofor Stamp,Inflation Notice,false
-Stan the Kyrii,Inflation Notice,false
+Stan the Kyrii,1500069,false
 Florin Stamp,445000,false
 Kentari Spyglass Stamp,Inflation Notice,false
-Fire Breathing Meerca,Inflation Notice,false
-Shyanna,Inflation Notice,false
+Fire Breathing Meerca,1500069,false
+Shyanna,1500069,false
 Cogs Togs Stamp,325000,false
 Evil Fuzzle Coin,Inflation Notice,false
 Edna the Zafara Stamp,320000,false
@@ -1180,17 +1180,21 @@ Devilpuss Stamp,156000,false
 Kou-Jong Tile Stamp,84000,false
 Deserted Fairground Card,88000,false
 Gatekeeper Stamp,Inflation Notice,false
-Sticks and Stones,Inflation Notice,false
-The Snowager,Inflation Notice,false
+Sticks and Stones,1500069,false
+The Snowager,1500069,false
 Bronze Mystery Island Coin,Inflation Notice,false
 Year 5 Stamp,Inflation Notice,false
 Yellow Knight Stamp,18000,false
 Captain of the Guard Stamp,16800,false
 Bank Manager Stamp,(r101),false
 Overstamped Stamp,280000,false
-"Cherlops, Protector of Garn",2000000,false
+"""Cherlops","Protector of Garn""",2000000
 Zaira Charm,180000,false
+"""Otona","Protector of the Seas""",2400
+"""Xenia","Master Prankster""",2225
+"""Brack","Cactus Farmer""",1575
+Negg Coin,(r101),false
+"Brack, Cactus Farmer",1575,false
+"Cherlops, Protector of Garn",2000000,false
 "Otona, Protector of the Seas",2400,false
 "Xenia, Master Prankster",2225,false
-"Brack, Cactus Farmer",1575,false
-Negg Coin,(r101),false
