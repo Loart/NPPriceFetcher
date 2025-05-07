@@ -1,5 +1,5 @@
 original,replacement,edited
-Neopian Times Coin,275000000,false
+Neopian Times Coin,250000000,false
 Wise Gnorbu Stamp,125000000,false
 Isca Stamp,100000000,false
 Rainbow Sticky Hand Stamp,100000000,false
@@ -20,7 +20,7 @@ Jahbal Stamp,60000000,false
 Queen Fyora Stamp,57000000,false
 Darigan Moehog Stamp,55000000,false
 Royal Orange Cowry Shell,55000000,false
-25th Anniversary Faellie Stamp,50000000,false
+25th Anniversary Faellie Stamp,42000000,false
 Court Dancer Stamp,50000000,false
 Defenders Of Neopia Coin,50000000,false
 Drackonack Stamp,50000000,false
@@ -45,9 +45,9 @@ Usuki Doll Stamp,25000000,false
 Von Roos Castle Stamp,25000000,false
 Choker of the Deep,24000000,false
 Biyako Stamp,20000000,false
-Enchanted Ixi,20000000,false
+Enchanted Ixi,25000000,false
 Foil Slorg Stamp,20000000,false
-Holographic Coltzans Shrine Stamp,20000000,false
+Holographic Coltzans Shrine Stamp,16000000,false
 Holographic Magax Stamp,20000000,false
 Kalandra,20000000,false
 Maraquan Draik Maractite Coin,20000000,false
@@ -81,8 +81,8 @@ Snowager Stamp,10000000,false
 Jeran,9500000,false
 Barf Boat Stamp,9000000,false
 Mystical Surroundings Stamp,9000000,false
-Silver Buzzer Coin,9000000,false
-The Monocerous,8500000,false
+Silver Buzzer Coin,1500069,false
+The Monocerous,8000000,false
 Chairman with Way Too Long a Title Stamp,8000000,false
 Chia Clown Collectible Charm,8000000,false
 Fiendish Formations Coin,8000000,false
@@ -114,7 +114,7 @@ Birthday Coin,4000000,false
 Darigan Spectre Stamp,4000000,false
 Dr Sloth Coin,4000000,false
 Illusen the Earth Faerie,4000000,false
-Quilin Stamp,4000000,false
+Quilin Stamp,3800000,false
 Golden Coco Stamp,3800000,false
 Count Von Roo Stamp,3500000,false
 Finneus Stamp,3500000,false
@@ -131,7 +131,7 @@ Burning Evil Coconut,2400000,false
 Hairy Evil Coconut,2400000,false
 Light Brown Evil Coconut,2400000,false
 Mini Evil Coconut,2400000,false
-Angry Evil Coconut,2300000,false
+Angry Evil Coconut,2000000,false
 Infernal Evil Coconut,2300000,false
 Monstrous Evil Coconut,2300000,false
 One Eyed Evil Coconut,2300000,false
@@ -144,7 +144,7 @@ Horned Evil Coconut,2200000,false
 Stitched Evil Coconut,2200000,false
 AC XIX Commemorative Stamp,2000000,false
 Champion,2000000,false
-"Cherlops, Protector of Garn",2000000,false
+"""Cherlops","Protector of Garn""",2000000
 Damaged Evil Coconut,2000000,false
 Gargon IV,2000000,false
 Garrox5 The Grundo Trooper,2000000,false
@@ -170,7 +170,7 @@ Wock Til You Drop,2000000,false
 Zafara Double Agent,2000000,false
 Large Black Collectable Scarab,1900000,false
 Misprint Meuka Stamp,1900000,false
-Treasure Seekers,1900000,false
+Treasure Seekers,2000000,false
 Chocolate Factory Coin,1800000,false
 Hubrid Nox,1800000,false
 King Jazan Stamp,1800000,false
@@ -192,29 +192,29 @@ Lab Ray Stamp,1400000,false
 Lutari Uni Stamp,1400000,false
 Punchbag Bob,1400000,false
 Shenkuu Stamp,1400000,false
-Smiling Space Faerie Coin,1400000,false
+Smiling Space Faerie Coin,1800000,false
 Jelly Chia Goalie Card,1300000,false
 Margoreth,1300000,false
-Spyder Stamp,1300000,false
+Spyder Stamp,1200000,false
 The Great Battle Stamp,1300000,false
 Tyrannian Victory Day Stamp,1300000,false
-Virtupets Space Station Stamp,1250000,false
+Virtupets Space Station Stamp,1500000,false
 Mechachiazilla,1200000,false
 Orrin Stamp,1200000,false
 Professor Kachevski,1200000,false
 Shenkuu Helmet Stamp,1200000,false
 Taelia The Snow Faerie,1200000,false
 Zombified Heroes Stamp,1200000,false
-Faerie Slorg Stamp,1100000,false
-Northern Watch Tower Stamp,1100000,false
+Faerie Slorg Stamp,999999,false
+Northern Watch Tower Stamp,985000,false
 King Altador Stamp,1000000,false
 Darkest Faerie Stamp,999999,false
 Detective Kari Charm,999999,false
 Neggnapper Stamp,999999,false
-Rainbow Collectable Scarab,999999,false
+Rainbow Collectable Scarab,1200000,false
 Tyrannian Elephante Stamp,999999,false
-Astral Blade Coin,995000,false
-Jhudora the Dark Faerie,975000,false
+Astral Blade Coin,999999,false
+Jhudora the Dark Faerie,999999,false
 Krawk card,975000,false
 The Ruins of Thanyros Stamp,965000,false
 N-4 Information Retrieval Bot Coin,945000,false
@@ -227,777 +227,777 @@ Wheel of Monotony Stamp,900000,false
 Zyrolon Stamp,885000,false
 Lupe Shopkeeper Stamp,880000,false
 Christmas Scene Stamp,875000,false
-Lever of Doom Coin,860000,false
-Meridell Castle Stamp,850000,false
+Lever of Doom Coin,310000,false
+Meridell Castle Stamp,77000,false
 Fyora Faerie Doll Stamp,830000,false
-Astronomy Club Stamp,825000,false
-Khan the Unstoppable,825000,false
-Desert Paintbrush Stamp,810000,false
+Astronomy Club Stamp,710000,false
+Khan the Unstoppable,895000,false
+Desert Paintbrush Stamp,880000,false
 Astronaut Kari Charm,800000,false
-Spotted Red Collectable Scarab,800000,false
+Spotted Red Collectable Scarab,795000,false
 Jhudoras Cloud Stamp,795000,false
-Chomby Stamp,790000,false
+Chomby Stamp,740000,false
 Zurroball Stamp,775000,false
 Ring of Sloth Stamp,745000,false
-RIP Lucy Stamp,725000,false
-Swamp Ghoul,725000,false
-Official Ghoul Catchers Stamp,700000,false
+RIP Lucy Stamp,790000,false
+Swamp Ghoul,815000,false
+Official Ghoul Catchers Stamp,600000,false
 The Great Blurendo,700000,false
-Blumaroo Court Jester Stamp,680000,false
-Nabile Stamp,680000,false
-Cliffhanger Stamp,650000,false
+Blumaroo Court Jester Stamp,675000,false
+Nabile Stamp,715000,false
+Cliffhanger Stamp,620000,false
 Princess Sankara,630000,false
-Neopia Central Scene Stamp,625000,false
+Neopia Central Scene Stamp,540000,false
 Garin To The Rescue Stamp,590000,false
 Tropical Wall Hangings,575000,false
-Caylis Stamp,570000,false
-Kauvara,530000,false
-Dubloon-O-Matic Stamp,525000,false
+Caylis Stamp,575000,false
+Kauvara,480000,false
+Dubloon-O-Matic Stamp,545000,false
 The Krawken Stamp,525000,false
 Coltzans Shrine Coin,515000,false
-Space Code Stamp,500000,false
+Space Code Stamp,510000,false
 Stamp of Spring Charm,500000,false
-Abandoned Water Tower Stamp,495000,false
+Abandoned Water Tower Stamp,500000,false
 Shenkuu Mask Stamp,480000,false
 Matching Pastel Shells,465000,false
-Florin Stamp,445000,false
+Florin Stamp,430000,false
 Super Bright Rainbow Pool Stamp,445000,false
-Plump Petpets Stamp,440000,false
+Plump Petpets Stamp,450000,false
 Sentient Headstones Stamp,440000,false
-Jelly World Stamp,420000,false
+Jelly World Stamp,600000,false
 Lisha vs Zombie Lisha Stamp,420000,false
-Lady Quintara,415000,false
+Lady Quintara,500000,false
 Altador Cup Collectable Card,400000,false
 Evil Fuzzles Stamp,400000,false
 Grey Tsunami Coin,400000,false
 Haunted Shenkuu Amulet,400000,false
 Baelia Stamp,390000,false
 Dorak Stamp,370000,false
-Swirling Void Stamp,350000,false
+Swirling Void Stamp,415000,false
 Shreegla VI,345000,false
 Cogs Togs Stamp,325000,false
 Edna the Zafara Stamp,320000,false
 Lady Blurg Stamp,305000,false
-Cheerleader Usuki Stamp,300000,false
-Eleus Stamp,300000,false
+Cheerleader Usuki Stamp,345000,false
+Eleus Stamp,260000,false
 Reina Collectable Card,295000,false
 Baby Aisha Stamp,290000,false
-Overstamped Stamp,280000,false
-Kreai Stamp,275000,false
+Overstamped Stamp,172000,false
+Kreai Stamp,270000,false
 Maraquan Skeith Maractite Coin,275000,false
-Candychan Stamp,265000,false
-Feldon Dinksy Collibridge Stamp,265000,false
+Candychan Stamp,300000,false
+Feldon Dinksy Collibridge Stamp,315000,false
 GX-4 Oscillabot Coin,260000,false
-Hubrid Nox Commemorative Stamp,260000,false
-Castle Defender Stamp,250000,false
+Hubrid Nox Commemorative Stamp,230000,false
+Castle Defender Stamp,270000,false
 Guardian of Ice Magic,249000,false
-Santa Skarl Stamp,240000,false
-Sunblade Stamp,240000,false
+Santa Skarl Stamp,295000,false
+Sunblade Stamp,237000,false
 Luxinia Stamp,239000,false
 The Lava Ghoul,232000,false
-Council of Leaders Stamp,231000,false
-Boris Stamp,220000,false
+Council of Leaders Stamp,243000,false
+Boris Stamp,207000,false
 Lava Monster Stamp,214000,false
-Altador Cup X Commemorative Stamp,210000,false
+Altador Cup X Commemorative Stamp,208000,false
 Inverted Space Faerie Stamp,206000,false
 Haunted Brightvale Amulet,205000,false
-Snowman Slushie Stamp,200000,false
-Roast Gargapple Coin,197000,false
-The Drenched Stamp,197000,false
+Snowman Slushie Stamp,220000,false
+Roast Gargapple Coin,195000,false
+The Drenched Stamp,196000,false
 Yooyu Trading Card,197000,false
-Usukiland Stamp,188000,false
+Usukiland Stamp,255000,false
 Cancelled Stamp,184000,false
 Destruction of Faerieland Stamp,180000,false
-Zaira Charm,180000,false
-Dark Faerie Stamp,178000,false
+Zaira Charm,169000,false
+Dark Faerie Stamp,175000,false
 Chocolate Factory Stamp,176000,false
 Spectre,175000,false
 Remnok the Nomad,173000,false
 Colouring Book Stamp,170000,false
-Scary Tree Stamp,170000,false
-Charms Stamp,167000,false
+Scary Tree Stamp,154000,false
+Charms Stamp,161000,false
 Faleinn,161000,false
-Devilpuss Stamp,156000,false
-Dr. Landelbrot Stamp,152000,false
+Devilpuss Stamp,204000,false
+Dr. Landelbrot Stamp,197000,false
 Hulking Wraith Stamp,150000,false
-Terrible Two Stamp,150000,false
+Terrible Two Stamp,250000,false
 Glowing Brain Tree Stamp,147000,false
 Teatime in Neovia Stamp,146000,false
-Buried Treasure Stamp,145000,false
-Kolvars Stamp,145000,false
+Buried Treasure Stamp,223000,false
+Kolvars Stamp,149000,false
 Stamp of Neopia,143000,false
-Tylix Stamp,141000,false
-Kreai,135000,false
-Charybdis Seashell,127000,false
+Tylix Stamp,125000,false
+Kreai,145000,false
+Charybdis Seashell,125000,false
 Meridell Shield Stamp,121000,false
 Void Coin,120000,false
 Desert Arms Stamp,117000,false
-Christmas Bruce Stamp,116000,false
-Draik Paladin,116000,false
-Ghi Pharun,116000,false
+Christmas Bruce Stamp,136000,false
+Draik Paladin,84500,false
+Ghi Pharun,107000,false
 Usul-in-waiting Stamp,110000,false
-Holiday King Altador Stamp,108000,false
-Silver Concert Hall Coin,104000,false
-Blue Spiral Seashell,100000,false
-Flying Korbats Stamp,100000,false
-Commander Garoo Card,97500,false
-Grey Faerie Card,97000,false
+Holiday King Altador Stamp,134000,false
+Silver Concert Hall Coin,83500,false
+Blue Spiral Seashell,79500,false
+Flying Korbats Stamp,75000,false
+Commander Garoo Card,105000,false
+Grey Faerie Card,115000,false
 Wand Of The Dark Faerie Stamp,95500,false
 Peaceful Coexistence Stamp,94000,false
-Maths Nightmare,93000,false
-Mokti and Rikti Stamp,88500,false
-Deserted Fairground Card,88000,false
-Kou-Jong Tile Stamp,84000,false
+Maths Nightmare,93500,false
+Mokti and Rikti Stamp,52000,false
+Deserted Fairground Card,190000,false
+Kou-Jong Tile Stamp,150000,false
 Princess Vyssa,84000,false
 Coronet of the Deep,81500,false
 Mystery Island Travel Stamp,80000,false
-Galem Darkhand,79000,false
+Galem Darkhand,108000,false
 Ixi Lancer,79000,false
 Armin the Small,78000,false
-Gargaroxs Recipe Book Coin,77500,false
-Benny the Blade Stamp,77000,false
-Eraser of the Dark Faerie Stamp,76000,false
+Gargaroxs Recipe Book Coin,58000,false
+Benny the Blade Stamp,58000,false
+Eraser of the Dark Faerie Stamp,52000,false
 Grey Kari Charm,76000,false
 Neovian Printing Press Shopkeeper Stamp,74000,false
-Lavender Cowry Shell,73000,false
-Chasm Beast Stamp,72500,false
-Cyodrakes Gaze Logo Stamp,72000,false
+Lavender Cowry Shell,69000,false
+Chasm Beast Stamp,100000,false
+Cyodrakes Gaze Logo Stamp,75000,false
 Eureka,72000,false
-Celestial Talisman Stamp,70000,false
+Celestial Talisman Stamp,65000,false
 Gingerbread House Coin,70000,false
-Kings Lens Stamp,70000,false
+Kings Lens Stamp,59000,false
 105 Castle Secrets Stamp,69000,false
-Jelly Pop Stamp,69000,false
-Meuka,68500,false
-Fred the Tuskaninny Sailor Stamp,66500,false
+Jelly Pop Stamp,28300,false
+Meuka,64000,false
+Fred the Tuskaninny Sailor Stamp,50500,false
 Green Patterned Collectable Scarab,66000,false
 Scorchio Mummy Stamp,65000,false
 Sparkly Green Scallop Shell,65000,false
-Mutant Grundo Stamp,62000,false
-Zombie Faleinn Stamp,62000,false
-Commemorative Defenders Stamp #3,61500,false
+Mutant Grundo Stamp,41500,false
+Zombie Faleinn Stamp,52500,false
+Commemorative Defenders Stamp #3,75000,false
 Nabile & Tomos Stamp,61500,false
-Splat A Sloth Coin,61000,false
-Hubrid Noxs Mountain Fortress Stamp,60500,false
-Tazzalor Stamp,60500,false
-Turmaculus Stamp,59500,false
+Splat A Sloth Coin,57000,false
+Hubrid Noxs Mountain Fortress Stamp,54500,false
+Tazzalor Stamp,47000,false
+Turmaculus Stamp,54000,false
 The Black Pawkeet Stamp,57500,false
-Powtry Stamp,57000,false
-Trestin Stamp,55000,false
+Powtry Stamp,53000,false
+Trestin Stamp,48700,false
 Pineapple Dessert Stamp,54000,false
-Tasu Stamp,53000,false
-Scurvy Island Stamp,52000,false
+Tasu Stamp,48000,false
+Scurvy Island Stamp,69500,false
 Snow Wars Collectable Card,51500,false
-Sticky Snowflake Stamp,51500,false
-King Roo,50000,false
+Sticky Snowflake Stamp,51000,false
+King Roo,48400,false
 Seasonal Stamp,50000,false
-Mysterious Obelisk Stamp,48100,false
-New Faerieland Stamp,47800,false
-Exploding Acorns Stamp,45800,false
-Champions of Meridell Stamp,44500,false
-Rohanes Mother Stamp,44000,false
-Super Happy Icy Fun Snow Shop Card,43600,false
-Maraquan Charger Stamp,42000,false
-Tuskaninny Day Stamp,42000,false
+Mysterious Obelisk Stamp,48000,false
+New Faerieland Stamp,92000,false
+Exploding Acorns Stamp,39900,false
+Champions of Meridell Stamp,41000,false
+Rohanes Mother Stamp,38000,false
+Super Happy Icy Fun Snow Shop Card,45000,false
+Maraquan Charger Stamp,43900,false
+Tuskaninny Day Stamp,41200,false
 Electro Shield Coin,41500,false
 25th Anniversary Celebration Stamp,41400,false
-Jhudoras Bewitched Ring Stamp,41000,false
-Goregas Stamp,40000,false
+Jhudoras Bewitched Ring Stamp,35000,false
+Goregas Stamp,38000,false
 Reginald Christmas Stamp,40000,false
-Purple Collectable Scarab,39300,false
-Nostalgic Grey Draik Stamp,38900,false
-Holographic Sakhmet City Stamp,37500,false
-Dark Graspberry Stamp,36000,false
-Smugglers Cove Stamp,36000,false
-Illusen Stamp,35000,false
+Purple Collectable Scarab,41200,false
+Nostalgic Grey Draik Stamp,36500,false
+Holographic Sakhmet City Stamp,107000,false
+Dark Graspberry Stamp,31000,false
+Smugglers Cove Stamp,77000,false
+Illusen Stamp,28000,false
 Darigan Shield Stamp,34000,false
-Fountain Faerie Stamp,34000,false
-The Spider Grundo,33800,false
-Scarab Stamp,33000,false
-A Light Faerie,31900,false
-Greater Green Collectable Scarab,31000,false
-Mayor of Moltara Stamp,31000,false
-Tyrannian Plateau Stamp,31000,false
-Maraquan Blade Specialist Stamp,30100,false
-Christmas Fir Stamp,30000,false
-Librarian Stamp,30000,false
-Qasalan Mummy Stamp,29800,false
-NeoQuest II Logo Stamp,29500,false
-Alien Aisha Myriad Stamp,29400,false
-Barely Legible Business Card,29000,false
-Guardian of Spectral Magic,29000,false
-Seasonal Evil Coconut,27800,false
+Fountain Faerie Stamp,37000,false
+The Spider Grundo,34100,false
+Scarab Stamp,31600,false
+A Light Faerie,31700,false
+Greater Green Collectable Scarab,37600,false
+Mayor of Moltara Stamp,29400,false
+Tyrannian Plateau Stamp,41000,false
+Maraquan Blade Specialist Stamp,28600,false
+Christmas Fir Stamp,10000,false
+Librarian Stamp,23500,false
+Qasalan Mummy Stamp,30000,false
+NeoQuest II Logo Stamp,34500,false
+Alien Aisha Myriad Stamp,26800,false
+Barely Legible Business Card,13800,false
+Guardian of Spectral Magic,27500,false
+Seasonal Evil Coconut,60000,false
 The Masked Intruder,26500,false
-Spirit of Slumber Stamp,25000,false
-Petpet Cannonball Stamp,24500,false
-Anshu Fishing Stamp,23900,false
+Spirit of Slumber Stamp,27600,false
+Petpet Cannonball Stamp,16800,false
+Anshu Fishing Stamp,44800,false
 Shell Clutch,23500,false
-Faerie Bubbles Stamp,22800,false
-LDPBSTSCC,22200,false
-Ruler of the Five Seas Stamp,22000,false
+Faerie Bubbles Stamp,44000,false
+LDPBSTSCC,22000,false
+Ruler of the Five Seas Stamp,21300,false
 Shell Comb,22000,false
-King Skarl Plushie Stamp,20500,false
-The Lupe Collector,20400,false
+King Skarl Plushie Stamp,21800,false
+The Lupe Collector,9000,false
 Pink Curly Shell,20000,false
-Plushie Slorg Stamp,19000,false
-The Cyodrakes Gaze Stamp,18800,false
-Uncommon Blue Collectable Scarab,18100,false
-Easter Treats Stamp,18000,false
-Yellow Knight Stamp,18000,false
-Rainbow Fountain Card,17000,false
-Captain of the Guard Stamp,16800,false
+Plushie Slorg Stamp,29000,false
+The Cyodrakes Gaze Stamp,15000,false
+Uncommon Blue Collectable Scarab,16000,false
+Easter Treats Stamp,1500069,false
+Yellow Knight Stamp,12000,false
+Rainbow Fountain Card,16100,false
+Captain of the Guard Stamp,38500,false
 Mellow Marauders Plushie Stamp,16500,false
-Soup Faerie Stamp,15000,false
-Hannah Stamp,14600,false
-Space Faerie Stamp,14500,false
-Star Fish Shell,14500,false
-Sliding Darblat Stamp,14000,false
-Buzz Avenger,13300,false
-Garon the Lupe,12700,false
-Brown Striped Murex Shell,12000,false
-Scratchcard Kiosk Stamp,12000,false
-Pirate Troops Stamp,11700,false
-Reina Stamp,11600,false
-Faerie Furniture Shopkeeper Stamp,11200,false
+Soup Faerie Stamp,14300,false
+Hannah Stamp,14800,false
+Space Faerie Stamp,46100,false
+Star Fish Shell,13900,false
+Sliding Darblat Stamp,12400,false
+Buzz Avenger,7300,false
+Garon the Lupe,12200,false
+Brown Striped Murex Shell,15600,false
+Scratchcard Kiosk Stamp,8800,false
+Pirate Troops Stamp,10700,false
+Reina Stamp,12000,false
+Faerie Furniture Shopkeeper Stamp,11300,false
 Horned Collectable Scarab,11200,false
-Berti the Creator,11000,false
-Jewelled Scarab Stamp,11000,false
-Chomby and the Fungus Balls,10800,false
-King Hagan of Brightvale,10300,false
-Alien Aisha Ray Gun Stamp,10000,false
-Magma Pool Guard Stamp,10000,false
-Squiggles Shell,9650,false
-Meridell Gardens Stamp,9600,false
-Bringer of Night Stamp,9450,false
-Armlet of the Deep,9000,false
-Hubrid Nox Stamp,9000,false
-Maractite Koi Maractite Coin,9000,false
-Rusty Sloth Clone Maractite Coin,9000,false
-Triangular Maractite Coin,9000,false
-Velm Stamp,9000,false
-Runed Maractite Coin,8900,false
-Judge Hog,8850,false
-Merouladen and Heermeedjet,8650,false
-Rink Runner Stamp,8550,false
-Tyrannian Usul Stamp,8500,false
-Docked Ship Stamp,8450,false
-Magax: Destroyer,8300,false
-Jeran Stamp,8200,false
-Tiny Golden Shell,8150,false
+Berti the Creator,9000,false
+Jewelled Scarab Stamp,49000,false
+Chomby and the Fungus Balls,11600,false
+King Hagan of Brightvale,10000,false
+Alien Aisha Ray Gun Stamp,9300,false
+Magma Pool Guard Stamp,9650,false
+Squiggles Shell,7700,false
+Meridell Gardens Stamp,8700,false
+Bringer of Night Stamp,9250,false
+Armlet of the Deep,8800,false
+Hubrid Nox Stamp,8500,false
+Maractite Koi Maractite Coin,8800,false
+Rusty Sloth Clone Maractite Coin,8350,false
+Triangular Maractite Coin,9100,false
+Velm Stamp,6000,false
+Runed Maractite Coin,7850,false
+Judge Hog,7500,false
+Merouladen and Heermeedjet,9800,false
+Rink Runner Stamp,8600,false
+Tyrannian Usul Stamp,7500,false
+Docked Ship Stamp,8800,false
+Magax: Destroyer,8350,false
+Jeran Stamp,6000,false
+Tiny Golden Shell,7650,false
 Bruno Stamp,8000,false
-Daedelon,7800,false
-Shop Wizard Stamp,7800,false
-Yellow and Black Collectable Scarab,7800,false
-Yes-Boy Ice Cream Stamp,7500,false
-Deluxe Money Tree Stamp,7450,false
-Splat-A-Sloth Stamp,7150,false
-Hanso Stamp,7050,false
-Pacha The Vet,7000,false
-Speckled Collectable Scarab,7000,false
-Faerie Wings Shell,6900,false
-Maitre D,6900,false
-Bonju Stamp,6850,false
-Luperus,6850,false
-Mutant Aisha Twins,6850,false
-Dr_Death,6700,false
-Lightning Lenny,6650,false
+Daedelon,7550,false
+Shop Wizard Stamp,7550,false
+Yellow and Black Collectable Scarab,7700,false
+Yes-Boy Ice Cream Stamp,7300,false
+Deluxe Money Tree Stamp,7000,false
+Splat-A-Sloth Stamp,7200,false
+Hanso Stamp,6800,false
+Pacha The Vet,6300,false
+Speckled Collectable Scarab,6000,false
+Faerie Wings Shell,5750,false
+Maitre D,7200,false
+Bonju Stamp,6400,false
+Luperus,5900,false
+Mutant Aisha Twins,6700,false
+Dr_Death,5450,false
+Lightning Lenny,5500,false
 Senator Palpus,6650,false
-Shiny Cocoa Collectable Scarab,6100,false
+Shiny Cocoa Collectable Scarab,5700,false
 Worn Maractite Coin,6100,false
-Bug Eye McGee Stamp,6050,false
-Hair Clip of the Deep,6050,false
-Long Headed Collectable Scarab,6050,false
-Trapped Tomos Stamp,6050,false
-00 Hog,6000,false
-Chen-Ra Son of the Sun,6000,false
-Giant Grackle Bug,6000,false
+Bug Eye McGee Stamp,6350,false
+Hair Clip of the Deep,5400,false
+Long Headed Collectable Scarab,5400,false
+Trapped Tomos Stamp,6000,false
+00 Hog,5800,false
+Chen-Ra Son of the Sun,5600,false
+Giant Grackle Bug,5800,false
 Krawk Island Governor Stamp,6000,false
-Neopet Version 2 Stamp,5950,false
-Cream Heart Sea Shell,5900,false
-Mysterious Aisha Sorceress,5800,false
-Exploding Space Bugs Stamp,5750,false
-Altador Food Stamp,5600,false
+Neopet Version 2 Stamp,6250,false
+Cream Heart Sea Shell,6000,false
+Mysterious Aisha Sorceress,5300,false
+Exploding Space Bugs Stamp,4450,false
+Altador Food Stamp,490,false
 Faerieland Justice Stamp,5600,false
-Hasee Bounce Card,5500,false
-Princess Sankara Stamp,5500,false
-Sir Fufon Lui,5500,false
-Underwater Chef Stamp,5400,false
+Hasee Bounce Card,5100,false
+Princess Sankara Stamp,4575,false
+Sir Fufon Lui,4900,false
+Underwater Chef Stamp,4700,false
 Molten Morsels Stamp,5300,false
-Niten Hiroru,5300,false
-The Fontaine Sisters,5300,false
-Bruce Avenger,5250,false
-Count Von Roo,5250,false
-Family Portrait Stamp,5250,false
-Capara,5200,false
-Crimson Spotted Shell,5200,false
-Crumpetmonger Stamp,5100,false
-Imperius Flare,5100,false
-Qasalan Tablet Stamp,5100,false
-Carnival of Terror Stamp,5000,false
+Niten Hiroru,4825,false
+The Fontaine Sisters,4225,false
+Bruce Avenger,4875,false
+Count Von Roo,5450,false
+Family Portrait Stamp,4950,false
+Capara,5100,false
+Crimson Spotted Shell,4900,false
+Crumpetmonger Stamp,5050,false
+Imperius Flare,4350,false
+Qasalan Tablet Stamp,5000,false
+Carnival of Terror Stamp,4975,false
 Draik Guard Stamp,5000,false
 Ruins of Faerieland Stamp,5000,false
-Scratch Card Kiosk Wocky,5000,false
-Snowglobe Faerie Stamp,5000,false
-Zafara Princess Stamp,5000,false
-Kyruggi,4975,false
-Tyrannian Blumaroo Stamp,4975,false
-Geb Stamp,4950,false
-Keergo,4850,false
-Gragarex the Grarrl Trooper,4800,false
-King Skarl Stamp,4800,false
-Maelstra The Dark Faerie,4800,false
-Rainbow Coloured Shell,4750,false
-The Navigator,4725,false
+Scratch Card Kiosk Wocky,5100,false
+Snowglobe Faerie Stamp,4650,false
+Zafara Princess Stamp,4800,false
+Kyruggi,4200,false
+Tyrannian Blumaroo Stamp,4900,false
+Geb Stamp,4750,false
+Keergo,3100,false
+Gragarex the Grarrl Trooper,4650,false
+King Skarl Stamp,4000,false
+Maelstra The Dark Faerie,4975,false
+Rainbow Coloured Shell,4225,false
+The Navigator,4550,false
 Frozen Snowflake Coin,4600,false
-Kasuki Lu,4600,false
-Korbats Lab Card,4600,false
-Pile of Dung Stamp,4600,false
-Red Lined Shell,4575,false
-Orange Patterned Collectable Scarab,4525,false
-Angry Janitor Stamp,4500,false
-Deep Seashell,4500,false
-Senator Barca Stamp,4500,false
-Arcade Stamp,4475,false
-Camouflage Scallop Shell,4450,false
-Tea Time Stamp,4450,false
-Umma Bunga,4300,false
-Sword of Skardsen Stamp,4250,false
-Plains Aisha,4200,false
-Rhan Tyr,4200,false
-Shenkuu Bridge Stamp,4150,false
-Grargadon,4100,false
-Guardian of Shock Magic,4050,false
-Blarthrox Stamp,4000,false
-Delina Stamp,4000,false
+Kasuki Lu,4300,false
+Korbats Lab Card,3500,false
+Pile of Dung Stamp,4300,false
+Red Lined Shell,4600,false
+Orange Patterned Collectable Scarab,4375,false
+Angry Janitor Stamp,4350,false
+Deep Seashell,3000,false
+Senator Barca Stamp,4275,false
+Arcade Stamp,3500,false
+Camouflage Scallop Shell,6000,false
+Tea Time Stamp,2425,false
+Umma Bunga,4225,false
+Sword of Skardsen Stamp,4000,false
+Plains Aisha,3175,false
+Rhan Tyr,3775,false
+Shenkuu Bridge Stamp,4500,false
+Grargadon,3750,false
+Guardian of Shock Magic,4200,false
+Blarthrox Stamp,2950,false
+Delina Stamp,3950,false
 Faerieland Petpet Shopkeeper Stamp,4000,false
-Mutant Techo Plushie Stamp,4000,false
-Nova Storm Stamp,4000,false
+Mutant Techo Plushie Stamp,5100,false
+Nova Storm Stamp,3925,false
 Plesio Stamp,4000,false
-Princess Fernypoo,4000,false
-Ruins of Qasala Stamp,4000,false
+Princess Fernypoo,3900,false
+Ruins of Qasala Stamp,2675,false
 Spiky Orange Murex Shell,4000,false
-Qasalan Coffee Set Stamp,3975,false
-Christmas Zafara Stamp,3950,false
-2 Gallon Hatz,3925,false
-Coco Stamp,3900,false
-Mutant Usul Stamp,3900,false
-N4 Bot Stamp,3900,false
-Bone Chair Stamp,3875,false
-Faerie Foods Stamp,3800,false
-Gadgadsbogen Festival,3800,false
-Guard Zomutt Stamp,3750,false
-Peopatra Stamp,3750,false
-Beerlap III,3700,false
-Psellia Stamp,3700,false
-Kauvara Stamp,3650,false
+Qasalan Coffee Set Stamp,3850,false
+Christmas Zafara Stamp,3400,false
+2 Gallon Hatz,3425,false
+Coco Stamp,4300,false
+Mutant Usul Stamp,3850,false
+N4 Bot Stamp,3850,false
+Bone Chair Stamp,4000,false
+Faerie Foods Stamp,3750,false
+Gadgadsbogen Festival,3500,false
+Guard Zomutt Stamp,3900,false
+Peopatra Stamp,3925,false
+Beerlap III,3450,false
+Psellia Stamp,3000,false
+Kauvara Stamp,3000,false
 Rock Stamp,3625,false
-Kelland Stamp,3600,false
-Slime Titan Stamp,3600,false
-Zafara Hero,3600,false
-Zafara Rogue,3600,false
-Brain Tree Stamp,3575,false
-The Lighthouse Stamp,3550,false
-Gordos Stamp,3525,false
-Aurora the Healer,3500,false
-Brista Lightfeet,3500,false
-Electro-Boy,3500,false
-Igloo Garage Sale Stamp,3500,false
-Quiggle Warlord,3500,false
-Tyrannian Grarrl Stamp,3500,false
-Marak Stamp,3450,false
-Darigan Elemental Stamp,3425,false
-Grand Theft Ummagine Stamp,3425,false
-Attack of the Slorgs Stamp,3400,false
-Kharlos,3400,false
-Lady Osiri,3400,false
-Evil Sloth Clone #32,3375,false
-The Negg Faerie,3375,false
-King Coltzan III,3325,false
-The Wall,3300,false
-Tonunishiki,3300,false
-Zyrolon,3300,false
+Kelland Stamp,3375,false
+Slime Titan Stamp,2500,false
+Zafara Hero,2525,false
+Zafara Rogue,2525,false
+Brain Tree Stamp,2950,false
+The Lighthouse Stamp,3000,false
+Gordos Stamp,3225,false
+Aurora the Healer,3350,false
+Brista Lightfeet,3350,false
+Electro-Boy,3650,false
+Igloo Garage Sale Stamp,3400,false
+Quiggle Warlord,2300,false
+Tyrannian Grarrl Stamp,2800,false
+Marak Stamp,3400,false
+Darigan Elemental Stamp,3000,false
+Grand Theft Ummagine Stamp,3450,false
+Attack of the Slorgs Stamp,3225,false
+Kharlos,2275,false
+Lady Osiri,3050,false
+Evil Sloth Clone #32,3250,false
+The Negg Faerie,2900,false
+King Coltzan III,3200,false
+The Wall,3100,false
+Tonunishiki,3275,false
+Zyrolon,3150,false
 Grarrl Battlemaster,3250,false
-Enchanted Pudao Stamp,3200,false
-Lord Darigan Stamp,3200,false
-Moonlit Werelupe Stamp,3200,false
-Neoquest Hero,3200,false
-New Maraqua Stamp,3200,false
-Seaweed Necklace Stamp,3200,false
-Sword of the Air Faerie Stamp,3200,false
-Sakhmet Palace Stamp,3175,false
-Guardian of Fire Magic,3150,false
-Valkyrie,3150,false
-Wintery Bruce Stamp,3150,false
-Neopian Tank Patrol 45,3125,false
-Battle Eyrie Stamp,3100,false
-Captain Astounding,3100,false
-Feemix the Korbat Scout,3100,false
-Pomanna Stamp,3075,false
-Magma Pool Stamp,3050,false
-Quiggle Scout Stamp,3050,false
-Grarrg,3025,false
+Enchanted Pudao Stamp,4500,false
+Lord Darigan Stamp,2500,false
+Moonlit Werelupe Stamp,3800,false
+Neoquest Hero,2700,false
+New Maraqua Stamp,3600,false
+Seaweed Necklace Stamp,2850,false
+Sword of the Air Faerie Stamp,3300,false
+Sakhmet Palace Stamp,2850,false
+Guardian of Fire Magic,2500,false
+Valkyrie,3000,false
+Wintery Bruce Stamp,3500,false
+Neopian Tank Patrol 45,3100,false
+Battle Eyrie Stamp,2900,false
+Captain Astounding,3000,false
+Feemix the Korbat Scout,2750,false
+Pomanna Stamp,2850,false
+Magma Pool Stamp,3125,false
+Quiggle Scout Stamp,2550,false
+Grarrg,3200,false
 Alhazad the Trader,3000,false
-Bacheek,3000,false
-Choras Tillie,3000,false
-Giant Leaf Curtains Stamp,3000,false
-Grackle the Chia Bomber,3000,false
-Gutan Kai,3000,false
-Iyana the Earth Faerie,3000,false
+Bacheek,2500,false
+Choras Tillie,2575,false
+Giant Leaf Curtains Stamp,2600,false
+Grackle the Chia Bomber,2900,false
+Gutan Kai,2400,false
+Iyana the Earth Faerie,2825,false
 Kiko Explorer,3000,false
-Lady Frostbite Stamp,3000,false
-Lavender,3000,false
-Midnight Desert Lupe Stamp,3000,false
-Monoceraptor Claw Stamp,3000,false
-Temple Of The Sky Stamp,3000,false
+Lady Frostbite Stamp,3100,false
+Lavender,2950,false
+Midnight Desert Lupe Stamp,2900,false
+Monoceraptor Claw Stamp,2700,false
+Temple Of The Sky Stamp,3200,false
 Two Rings Archmagus,3000,false
-Yiko Stamp,3000,false
-Zephiea Boltheart,3000,false
-Grundo Snow Throw Stamp,2975,false
-Tyran Far,2950,false
-Advert Attack Stamp,2900,false
-Captain Threelegs,2900,false
-Darigan Eyrie Stamp,2900,false
-Faerie City Stamp,2900,false
-Jake the Explorer,2900,false
-Lustra the Golden Peophin,2900,false
-Rock Beast,2900,false
-Solar Fyre,2900,false
-Stocking Stamp,2900,false
-Tehuti,2900,false
-Bottled Faerie Stamp,2875,false
-Mr Irgo,2875,false
-Osiris Pottery Stamp,2875,false
-Illusens Staff Stamp,2850,false
-Alabaster,2800,false
-Christmas Meerca Stamp,2800,false
+Yiko Stamp,2950,false
+Zephiea Boltheart,2800,false
+Grundo Snow Throw Stamp,4175,false
+Tyran Far,2975,false
+Advert Attack Stamp,2525,false
+Captain Threelegs,2875,false
+Darigan Eyrie Stamp,2600,false
+Faerie City Stamp,2650,false
+Jake the Explorer,2600,false
+Lustra the Golden Peophin,3050,false
+Rock Beast,2850,false
+Solar Fyre,1800,false
+Stocking Stamp,3000,false
+Tehuti,2950,false
+Bottled Faerie Stamp,2900,false
+Mr Irgo,2550,false
+Osiris Pottery Stamp,2900,false
+Illusens Staff Stamp,2675,false
+Alabaster,2900,false
+Christmas Meerca Stamp,4000,false
 Fire Paw,2800,false
-Hubert the Hot Dog Salesman,2800,false
-Kyrii Native,2800,false
-Professor Agatha,2800,false
+Hubert the Hot Dog Salesman,2900,false
+Kyrii Native,2100,false
+Professor Agatha,2125,false
 Rusty Door Stamp,2800,false
-Ryshu,2800,false
-The Archmagus of Roo,2800,false
-Myncha,2775,false
-Venuquin,2750,false
-Ghartun The Grundo Commander,2725,false
-Eleus Batrin,2700,false
-Faerie Slingshot Stamp,2700,false
-Frostburn the Chia,2700,false
-Kraag the Korbat Leader,2700,false
-Money Tree,2700,false
+Ryshu,2500,false
+The Archmagus of Roo,2250,false
+Myncha,2000,false
+Venuquin,2475,false
+Ghartun The Grundo Commander,1750,false
+Eleus Batrin,2625,false
+Faerie Slingshot Stamp,2050,false
+Frostburn the Chia,2825,false
+Kraag the Korbat Leader,2200,false
+Money Tree,2675,false
 Nadia the Peophin of Love,2700,false
-Suteks Tomb Stamp,2700,false
-Two Rings Wizard,2675,false
-Lenny Curator,2650,false
-Mrs. Prenderghast,2650,false
-Rhiannon,2650,false
-SHFISS Stamp,2650,false
-The Gate Keeper,2650,false
-The Space Faerie,2650,false
-Uncle Tharg,2625,false
-Gog,2600,false
-Gors the Mighty,2600,false
+Suteks Tomb Stamp,2475,false
+Two Rings Wizard,2600,false
+Lenny Curator,2425,false
+Mrs. Prenderghast,2400,false
+Rhiannon,2400,false
+SHFISS Stamp,3300,false
+The Gate Keeper,2800,false
+The Space Faerie,2450,false
+Uncle Tharg,2400,false
+Gog,2250,false
+Gors the Mighty,2500,false
 Jeuru Stripedmane,2600,false
-Lord Luparn,2600,false
-Polkadot Collectable Scarab,2600,false
-Quiggle Strongman,2600,false
-Rayn Trueshot,2600,false
-Scorchio Mummy,2600,false
-Tazzalor,2600,false
-Magnus the Torch,2550,false
-Snow Faerie Stamp,2550,false
-Tangerine Trumpet Shell,2550,false
-Ukkrah the Fire Grarrl,2550,false
-Jannen,2525,false
+Lord Luparn,2525,false
+Polkadot Collectable Scarab,2100,false
+Quiggle Strongman,2500,false
+Rayn Trueshot,1975,false
+Scorchio Mummy,1475,false
+Tazzalor,2200,false
+Magnus the Torch,2400,false
+Snow Faerie Stamp,2750,false
+Tangerine Trumpet Shell,2000,false
+Ukkrah the Fire Grarrl,2425,false
+Jannen,2150,false
 Uggsul,2525,false
-Doirn,2500,false
-Erick,2500,false
-Fruit Machine Stamp,2500,false
-Gelert Pack,2500,false
-Golden Orb Stamp,2500,false
+Doirn,2000,false
+Erick,2625,false
+Fruit Machine Stamp,1500,false
+Gelert Pack,2475,false
+Golden Orb Stamp,2150,false
 Kargrax the Defender,2500,false
-Leirobas Stamp,2500,false
-Morax Dorangis,2500,false
-Neolodge Stamp,2500,false
-Orange Skeith Stamp,2500,false
-Perfectly Flat Rock Stamp,2500,false
-Shield Of Pion Troect Stamp,2500,false
-Simple Red Collectable Scarab,2500,false
-Skeith Bank Manager Stamp,2500,false
-The Tooth Faerie,2500,false
-Large Black and White Collectable Scarab,2475,false
-Mr Irgo Stamp,2475,false
-Zygorax Stamp,2475,false
-Guardian of Life Magic,2450,false
-Uugbah Sharp Spear,2450,false
-Annual Gormball Championship,2400,false
-Arnie Hulltusk,2400,false
-Breadoch Big Foot,2400,false
-Captain Telhan,2400,false
-Chuffer Bob,2400,false
-Desert Flower,2400,false
-Gargoyle Troop,2400,false
-"Otona, Protector of the Seas",2400,false
-Pomanna,2400,false
-Professor Chesterpot,2400,false
-Qasalan Delights Stamp,2400,false
-Riyella,2400,false
+Leirobas Stamp,1775,false
+Morax Dorangis,2600,false
+Neolodge Stamp,1700,false
+Orange Skeith Stamp,2150,false
+Perfectly Flat Rock Stamp,2475,false
+Shield Of Pion Troect Stamp,1825,false
+Simple Red Collectable Scarab,2000,false
+Skeith Bank Manager Stamp,2000,false
+The Tooth Faerie,2350,false
+Large Black and White Collectable Scarab,2000,false
+Mr Irgo Stamp,1950,false
+Zygorax Stamp,2500,false
+Guardian of Life Magic,2500,false
+Uugbah Sharp Spear,2200,false
+Annual Gormball Championship,1300,false
+Arnie Hulltusk,2000,false
+Breadoch Big Foot,2150,false
+Captain Telhan,1800,false
+Chuffer Bob,2300,false
+Desert Flower,2300,false
+Gargoyle Troop,2350,false
+"""Otona","Protector of the Seas""",2400
+Pomanna,1850,false
+Professor Chesterpot,2225,false
+Qasalan Delights Stamp,1700,false
+Riyella,1825,false
 Shoonee,2400,false
 Spiky Shell,2400,false
-Tyrela Softpaw,2400,false
-Undead Grundo Shopkeeper,2400,false
-So Blue Shell,2375,false
-A Two Rings Crusader,2350,false
-Advisor Wessle,2350,false
-Bushy Antennae Collectable Scarab,2350,false
-Kalora the Kau,2350,false
-Wesley Clearheart,2350,false
-Trapped,2325,false
-Black Bearog Stamp,2300,false
-Gali Yoj,2300,false
+Tyrela Softpaw,1875,false
+Undead Grundo Shopkeeper,2300,false
+So Blue Shell,1950,false
+A Two Rings Crusader,2400,false
+Advisor Wessle,2225,false
+Bushy Antennae Collectable Scarab,2150,false
+Kalora the Kau,2100,false
+Wesley Clearheart,2075,false
+Trapped,2300,false
+Black Bearog Stamp,2100,false
+Gali Yoj,2075,false
 Hagalugg,2300,false
-Nereid the Water Faerie,2300,false
-Rohane Stamp,2300,false
+Nereid the Water Faerie,2325,false
+Rohane Stamp,2000,false
 Ryshiki,2300,false
-Two Rings Crusader Stamp,2300,false
-Morax Dorangis Stamp,2275,false
-Ruali,2275,false
-Senator Barca,2275,false
-Wrawk the Merciless,2275,false
-Fruit Bomb Stamp,2250,false
-Haiki-Lu,2250,false
-Library Faerie Stamp,2250,false
-Rollay Scaleback,2250,false
-Thyoras Tear Stamp,2250,false
-Tug-O-War Card,2250,false
-Geirrod Sternhoof,2225,false
+Two Rings Crusader Stamp,2175,false
+Morax Dorangis Stamp,2300,false
+Ruali,2050,false
+Senator Barca,1875,false
+Wrawk the Merciless,2000,false
+Fruit Bomb Stamp,1675,false
+Haiki-Lu,2225,false
+Library Faerie Stamp,2225,false
+Rollay Scaleback,1575,false
+Thyoras Tear Stamp,1500,false
+Tug-O-War Card,2875,false
+Geirrod Sternhoof,2300,false
 Neovia Stamp,2225,false
-The Auction Genie,2225,false
+The Auction Genie,2125,false
 Undead Cybunny,2225,false
-"Xenia, Master Prankster",2225,false
+"""Xenia","Master Prankster""",2225
 Buzz Alchemist,2200,false
-Flaming Wuzzle,2200,false
-M*ynci,2200,false
-Two Rings Warlock,2200,false
+Flaming Wuzzle,2150,false
+M*ynci,2300,false
+Two Rings Warlock,2225,false
 Tyrannian Kyrii Stamp,2200,false
 Xantan the Foul,2200,false
-Yes Boy Ice Cream,2200,false
-Boraxis the Healer,2150,false
-Grundo Chef,2150,false
-Rikti,2150,false
-The Esophagor,2150,false
-Korabric,2100,false
-Liandra,2100,false
-Moehawk,2100,false
-Piraket Stamp,2100,false
-Pteri Knight,2100,false
-Ursula Usul,2100,false
+Yes Boy Ice Cream,2300,false
+Boraxis the Healer,1775,false
+Grundo Chef,1700,false
+Rikti,2300,false
+The Esophagor,2100,false
+Korabric,2500,false
+Liandra,1675,false
+Moehawk,2175,false
+Piraket Stamp,4000,false
+Pteri Knight,1875,false
+Ursula Usul,2050,false
 Negg Noodles Stamp,2075,false
-Petty Crewmate Stamp,2075,false
-Darien,2050,false
-Sir Wockilan the Brave,2050,false
-Tug Of War Stamp,2050,false
-Altadorian Farmer Stamp,2025,false
-Brown Spotted Shell,2025,false
+Petty Crewmate Stamp,2000,false
+Darien,2025,false
+Sir Wockilan the Brave,1700,false
+Tug Of War Stamp,1900,false
+Altadorian Farmer Stamp,2350,false
+Brown Spotted Shell,1800,false
 Basic Fringed Collectable Scarab,2000,false
-Christmas Kougra Stamp,2000,false
-Commemorative Defenders Stamp #1,2000,false
-Flashy Winged Collectable Scarab,2000,false
-Glug Glug Jones,2000,false
-Goldwing,2000,false
-Jerdana Stamp,2000,false
-Psellia the Air Faerie,2000,false
-Shahuaga The Red,2000,false
-Velvet Pimpernel,2000,false
-Lupe Warrior,1975,false
-Riches of Krawk Island Stamp,1975,false
-Terror Mountain Scene Stamp,1975,false
-Uzarro,1975,false
-Farlax V,1950,false
-Florg the Devourer,1950,false
-Mokti,1950,false
-Rampaging Grundonoil Stamp,1950,false
-Siyana Stamp,1950,false
-Words of Antiquity Stamp,1950,false
-Alien Aisha Vending Stamp,1925,false
-Scorchio Mage,1925,false
-Captain of Fyoras Guards Stamp,1900,false
-Frosty Snowman Stamp,1900,false
-Golden Khamette Stamp,1900,false
-Grimilix,1900,false
-Grimilix Stamp,1900,false
-Hubrids Puzzle Box Stamp,1900,false
-Li-sha,1900,false
+Christmas Kougra Stamp,1800,false
+Commemorative Defenders Stamp #1,1800,false
+Flashy Winged Collectable Scarab,1475,false
+Glug Glug Jones,1975,false
+Goldwing,1650,false
+Jerdana Stamp,1900,false
+Psellia the Air Faerie,1800,false
+Shahuaga The Red,1725,false
+Velvet Pimpernel,1900,false
+Lupe Warrior,1700,false
+Riches of Krawk Island Stamp,2150,false
+Terror Mountain Scene Stamp,1600,false
+Uzarro,2100,false
+Farlax V,1875,false
+Florg the Devourer,2000,false
+Mokti,1400,false
+Rampaging Grundonoil Stamp,1800,false
+Siyana Stamp,1550,false
+Words of Antiquity Stamp,2175,false
+Alien Aisha Vending Stamp,2350,false
+Scorchio Mage,1825,false
+Captain of Fyoras Guards Stamp,1750,false
+Frosty Snowman Stamp,1750,false
+Golden Khamette Stamp,1850,false
+Grimilix,1700,false
+Grimilix Stamp,960,false
+Hubrids Puzzle Box Stamp,1400,false
+Li-sha,2000,false
 Tyrannian JubJub Stamp,1900,false
-Sharpeye,1875,false
-Chimi Magi,1850,false
-Grarrl Keno Card,1850,false
-Sir Cheekalot,1850,false
-Fuhnah The Fire Faerie,1825,false
-Blarthrox,1800,false
-Edna the Witch,1800,false
+Sharpeye,1100,false
+Chimi Magi,1825,false
+Grarrl Keno Card,1775,false
+Sir Cheekalot,1925,false
+Fuhnah The Fire Faerie,1900,false
+Blarthrox,1525,false
+Edna the Witch,1900,false
 Gormball Stamp,1800,false
-Highland Chia,1800,false
-Rotting Skeleton Stamp,1800,false
-Senator Palpus Stamp,1800,false
-Slychi the Skeith Invader,1800,false
-Spectral Elemental,1800,false
+Highland Chia,1900,false
+Rotting Skeleton Stamp,1575,false
+Senator Palpus Stamp,2200,false
+Slychi the Skeith Invader,1700,false
+Spectral Elemental,2200,false
 The Phantom,1800,false
-Tyrannian Korbat Stamp,1800,false
-Undead Farmer,1800,false
-Plesio,1775,false
-Bazri The Grundo,1750,false
-Green Smooth Shell,1750,false
-The Battle Faerie,1750,false
-Uggaroo,1750,false
+Tyrannian Korbat Stamp,1900,false
+Undead Farmer,1375,false
+Plesio,1600,false
+Bazri The Grundo,1675,false
+Green Smooth Shell,1650,false
+The Battle Faerie,1700,false
+Uggaroo,1600,false
 Underwater Chef,1750,false
-Advisor Wessle Stamp,1700,false
-Attack Pea Stamp,1700,false
-Boraxis the Healer Stamp,1700,false
-Chunk of Meat Stamp,1700,false
-Godfried the Good,1700,false
-Green Scale,1700,false
-Lummock Sendent,1700,false
+Advisor Wessle Stamp,1325,false
+Attack Pea Stamp,1750,false
+Boraxis the Healer Stamp,1450,false
+Chunk of Meat Stamp,1750,false
+Godfried the Good,1675,false
+Green Scale,1500,false
+Lummock Sendent,2200,false
 Maractite Dagger Stamp,1700,false
-Midas,1700,false
-Money Tree Stamp,1700,false
-Captain Dread,1675,false
-Grackle Bug Stamp,1675,false
-Mystical Hissi Knight,1675,false
-Antikia Lighten,1650,false
-Leirobas,1650,false
-Commemorative Defenders Stamp #2,1625,false
-Shadow Usul,1625,false
-Umbus Alta,1625,false
-Berserker,1600,false
-Desert Petpet Stamp,1600,false
-Hegred Aishann,1600,false
+Midas,1500,false
+Money Tree Stamp,1600,false
+Captain Dread,1900,false
+Grackle Bug Stamp,1300,false
+Mystical Hissi Knight,1700,false
+Antikia Lighten,1700,false
+Leirobas,1800,false
+Commemorative Defenders Stamp #2,1775,false
+Shadow Usul,1375,false
+Umbus Alta,1400,false
+Berserker,1725,false
+Desert Petpet Stamp,1500,false
+Hegred Aishann,1500,false
 Island Mystic,1600,false
-Moogi,1600,false
+Moogi,2000,false
 Sarkif,1600,false
 Snow Wars Catapult Stamp,1600,false
-Stone Armchair Stamp,1600,false
-Striped Blue Collectable Scarab,1600,false
-The Stuff Collectable Card,1600,false
-"Brack, Cactus Farmer",1575,false
-Esophagor Stamp,1525,false
-Gallion Stamp,1525,false
-Malkus Vile,1500,false
-Rainbow Slushie Stamp,1500,false
-Robot Skeith Stamp,1500,false
-The Arcanium Stamp,1500,false
+Stone Armchair Stamp,1275,false
+Striped Blue Collectable Scarab,1200,false
+The Stuff Collectable Card,2650,false
+"""Brack","Cactus Farmer""",1575
+Esophagor Stamp,1325,false
+Gallion Stamp,2000,false
+Malkus Vile,1450,false
+Rainbow Slushie Stamp,1900,false
+Robot Skeith Stamp,1400,false
+The Arcanium Stamp,1300,false
 The Wave Stamp,1500,false
-Two Rings Archmagus Stamp,1500,false
-Young Sophie Stamp,1500,false
-Flying Shoyru,1450,false
-Lost Desert Sphinx Stamp,1425,false
-Dreaming,1400,false
-Usinda,1400,false
-Healing Springs Stamp,1375,false
-Admiral Arvakis,1350,false
-Mystery Island Kougra Stamp,1350,false
-Chiazilla,1300,false
-Denethrir,1300,false
-Drooling Quadrapus Stamp,1300,false
-Kazeriu Stamp,1300,false
-King Roos Nemesis,1300,false
-Wheel of Extravagance Stamp,1300,false
-Purple Grundo Stamp,1275,false
-Shenkuu Draik Stamp,1250,false
-First Edition Altador Petpet Stamp,1200,false
-Petpet Growth Syrup Stamp,1200,false
-Second Edition Altador Petpet Stamp,1200,false
+Two Rings Archmagus Stamp,1000,false
+Young Sophie Stamp,1600,false
+Flying Shoyru,1500,false
+Lost Desert Sphinx Stamp,1450,false
+Dreaming,2000,false
+Usinda,1450,false
+Healing Springs Stamp,1400,false
+Admiral Arvakis,1600,false
+Mystery Island Kougra Stamp,1300,false
+Chiazilla,1525,false
+Denethrir,1450,false
+Drooling Quadrapus Stamp,1050,false
+Kazeriu Stamp,1200,false
+King Roos Nemesis,1100,false
+Wheel of Extravagance Stamp,1500,false
+Purple Grundo Stamp,1100,false
+Shenkuu Draik Stamp,1200,false
+First Edition Altador Petpet Stamp,1400,false
+Petpet Growth Syrup Stamp,1100,false
+Second Edition Altador Petpet Stamp,1000,false
 Veggie Pizza Stamp,1200,false
-Christmas Uni Stamp,1175,false
+Christmas Uni Stamp,1000,false
 Dice-A-Roo Stamp,1175,false
-Jelly Chia,1175,false
-Glossy Blue Shell,1150,false
-Tylix,1150,false
-Destruct-O-Match Stamp,1125,false
-Temple Watchman,1125,false
-Common Desert Collectable Scarab,1100,false
-Faerie Techo Plushie Stamp,1100,false
-Meerca Menace,1100,false
-Pyramid Sun Rise Stamp,1100,false
-Roast Gargapple Stamp,1100,false
-Archmagus of Roo Stamp,1000,false
-Basic Yellow Collectable Scarab,1000,false
-Fetch! Stamp,1000,false
-Grinning Sloth Stamp,1000,false
-Huberts Hot Dogs Stamp,1000,false
-Lhika Burrtail,1000,false
-Master Vex Stamp,1000,false
+Jelly Chia,1450,false
+Glossy Blue Shell,1125,false
+Tylix,1100,false
+Destruct-O-Match Stamp,1100,false
+Temple Watchman,1500,false
+Common Desert Collectable Scarab,900,false
+Faerie Techo Plushie Stamp,940,false
+Meerca Menace,1200,false
+Pyramid Sun Rise Stamp,1200,false
+Roast Gargapple Stamp,1750,false
+Archmagus of Roo Stamp,840,false
+Basic Yellow Collectable Scarab,600,false
+Fetch! Stamp,800,false
+Grinning Sloth Stamp,1375,false
+Huberts Hot Dogs Stamp,900,false
+Lhika Burrtail,690,false
+Master Vex Stamp,950,false
 Slorg Flakes Stamp,1000,false
-Snowball Fight Stamp,1000,false
-Wintery Petpet Shop Stamp,1000,false
-Book Shop Nimmo Stamp,990,false
+Snowball Fight Stamp,880,false
+Wintery Petpet Shop Stamp,950,false
+Book Shop Nimmo Stamp,850,false
 Halloween Aisha Stamp,990,false
 Mist Kougra Stamp,990,false
-Wishing Well Stamp,990,false
-Entrance to Moltara Stamp,980,false
-Lost Desert Grarrl Stamp,980,false
-Plains Aisha Stamp,980,false
-Everlasting Crystal Apple Stamp,960,false
-Gelert Prince Stamp,950,false
-Orange Spotted Collectable Scarab,950,false
-Ghoul Catchers,940,false
-King Coltzan Coin,910,false
-Ancient Contract Stamp,900,false
-Anshu Stamp,900,false
-Mystery Island Heads Stamp,700,false
-Snowickle Coin,660,false
-Zeenana Stamp,500,false
-Island Native Stamp,490,false
-Orange Draik Stamp,480,false
-Dual Tone Maractite Coin,460,false
-Assorted Fruits Stamp,350,false
-Captain Tuan Stamp,350,false
-Mystery Island Hut Stamp,340,false
-H4000 Helmet Coin,330,false
+Wishing Well Stamp,890,false
+Entrance to Moltara Stamp,850,false
+Lost Desert Grarrl Stamp,1000,false
+Plains Aisha Stamp,990,false
+Everlasting Crystal Apple Stamp,500,false
+Gelert Prince Stamp,740,false
+Orange Spotted Collectable Scarab,30,false
+Ghoul Catchers,1400,false
+King Coltzan Coin,300,false
+Ancient Contract Stamp,1000,false
+Anshu Stamp,890,false
+Mystery Island Heads Stamp,900,false
+Snowickle Coin,5500,false
+Zeenana Stamp,540,false
+Island Native Stamp,480,false
+Orange Draik Stamp,400,false
+Dual Tone Maractite Coin,190,false
+Assorted Fruits Stamp,20,false
+Captain Tuan Stamp,250,false
+Mystery Island Hut Stamp,250,false
+H4000 Helmet Coin,190,false
 Haiku Stamp,300,false
-Gormball Coin,250,false
+Gormball Coin,200,false
 Maraquan Kau Maractite Coin,250,false
-Triangular Flotsam Stamp,220,false
-Island Mystic Stamp,210,false
-Grundo Veggieballs Coin,200,false
-Hairpin of the Deep,200,false
-Jhuidah Stamp,200,false
-Shenkuu Lunar Temple Stamp,200,false
-Spooky Gravestone Stamp,180,false
-Halloween Ona Stamp,150,false
-Pirate Attack Stamp,150,false
-Sophie the Swamp Witch,140,false
-Adopt A Grundo Coin,120,false
-Half Maractite Coin,100,false
-Purple Scallop Shell,100,false
-Ryshu Stamp,100,false
+Triangular Flotsam Stamp,140,false
+Island Mystic Stamp,65,false
+Grundo Veggieballs Coin,330,false
+Hairpin of the Deep,110,false
+Jhuidah Stamp,250,false
+Shenkuu Lunar Temple Stamp,300,false
+Spooky Gravestone Stamp,100,false
+Halloween Ona Stamp,380,false
+Pirate Attack Stamp,25,false
+Sophie the Swamp Witch,50,false
+Adopt A Grundo Coin,95,false
+Half Maractite Coin,70,false
+Purple Scallop Shell,4,false
+Ryshu Stamp,50,false
 Shiny Purple Cowry Shell,100,false
-Grundo Warehouse Coin,95,false
-Seaweed Design Maractite Coin,65,false
-General Crustygums,45,false
+Grundo Warehouse Coin,90,false
+Seaweed Design Maractite Coin,75,false
+General Crustygums,2,false
 Grobleen Salad Coin,25,false
-Squared Maractite Coin,25,false
-Neopian Hospital Stamp,19,false
-Korbats Lab Stamp,15,false
-Cosmic Cheese Stars Coin,10,false
-Moonlit Esophagor Stamp,10,false
-Bug Eye McGee,9,false
-Trrygdorr,9,false
-Maraquan Defenders Stamp,7,false
-Deformed Maractite Coin,6,false
-Shenkuu City Stamp,5,false
-Tiara of the Deep,5,false
-Maractite Waves Coin,4,false
-Tyragh the Tyrannian Buzz,4,false
-Kentari Stamp,3,false
+Squared Maractite Coin,13,false
+Neopian Hospital Stamp,8,false
+Korbats Lab Stamp,6,false
+Cosmic Cheese Stars Coin,8,false
+Moonlit Esophagor Stamp,12,false
+Bug Eye McGee,6,false
+Trrygdorr,1,false
+Maraquan Defenders Stamp,4,false
+Deformed Maractite Coin,3,false
+Shenkuu City Stamp,6,false
+Tiara of the Deep,4,false
+Maractite Waves Coin,1,false
+Tyragh the Tyrannian Buzz,1,false
+Kentari Stamp,1,false
 Maraquan Troops Stamp,3,false
 Ancient Peophin Maractite Coin,2,false
-Circlet of the Deep,2,false
-Doctor,2,false
+Circlet of the Deep,1,false
+Doctor,1,false
 Earrings of the Deep,2,false
 Necklace of the Deep,2,false
 Round Maractite Coin,2,false
-Bangles of the Deep,1,false
+Bangles of the Deep,2,false
 Fauna Stamp,1,false
 Flutter,1,false
 Gorunda the Wise,1,false
@@ -1036,7 +1036,7 @@ Monocerous Stamp,3000069,false
 Mystery Island Chef Stamp,3000069,false
 Mystery Island Grarrl Stamp,3000069,false
 Mystery Island Kiko Stamp,3000069,false
-Negg Coin,3000069,false
+Negg Coin,3500000,false
 Neopian Times 200th Anniversary Card,3000069,false
 Orig the Great,3000069,false
 Petpets Stamp,3000069,false
@@ -1130,7 +1130,7 @@ Garin Stamp,1500069,false
 Haunted Faerieland Amulet,1500069,false
 Tyrannia Stamp,1500069,false
 Lord Kass Stamp,1500069,false
-Neopets 24th Cake Charm,1500069,false
+Neopets 24th Cake Charm,8000000,false
 Lampwyck Stamp,1500069,false
 Shumi Telescope Stamp,1500069,false
 Blue and Gold Tube Shell,1500069,false
@@ -1183,7 +1183,7 @@ Hagar Mountbane,1500069,false
 Lost City of Phorofor Stamp,1500069,false
 Stan the Kyrii,1500069,false
 Valentine Stamp,1500069,false
-Rod Of Dark Nova Stamp,1500069,false
+Rod Of Dark Nova Stamp,490000,false
 Fire Breathing Meerca,1500069,false
 Shyanna,1500069,false
 Evil Fuzzle Coin,1500069,false
@@ -1191,6 +1191,10 @@ Kentari Spyglass Stamp,1500069,false
 Gatekeeper Stamp,1500069,false
 Sticks and Stones,1500069,false
 The Snowager,1500069,false
-Enameled Peophin Brooch of the Deep,1500069,false
-Bronze Mystery Island Coin,1500069,false
-Year 5 Stamp,1500069,false
+Enameled Peophin Brooch of the Deep,39300,false
+Bronze Mystery Island Coin,8650,false
+Year 5 Stamp,27000,false
+"Cherlops, Protector of Garn",2000000,false
+"Otona, Protector of the Seas",2300,false
+"Xenia, Master Prankster",2300,false
+"Brack, Cactus Farmer",1200,false
